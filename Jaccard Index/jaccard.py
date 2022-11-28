@@ -20,7 +20,7 @@ for i, row in df.iterrows():
 
 
 # Create dictionary of topics for each subreddit
-df2 = pd.read_csv("top_words_entire_subreddit.csv", header=None)
+df2 = pd.read_csv("top_words_entire_subreddit_hatred.csv", header=None)
 subreddit_topics = {}
 # print(df2)
 
@@ -40,7 +40,7 @@ jaccard_indices = {}
 for k, v in subreddit_topics.items():
     jaccard_indices[k] = jaccard(list(v), list(hate_keywords))
 
-with open("jaccard_indices.csv", "w+", newline="") as f:
+with open("jaccard_indices_hatred.csv", "w+", newline="") as f:
     writer = csv.writer(f)
     for row in jaccard_indices.items():
         writer.writerow(row)
