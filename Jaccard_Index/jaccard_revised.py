@@ -9,7 +9,7 @@ def jaccard(list1, list2):
 
 
 # Create set of hate keywords
-df = pd.read_csv("Enlarged_hate_keywords.csv", header=None)
+df = pd.read_csv("shorter_hate_keyword.csv", header=None)
 hate_keywords = set()
 # print(df)
 
@@ -53,16 +53,17 @@ for k, v in subreddit_topics.items():
     # jaccard_indices[k] = jaccard(list(v[0]), list(hate_keywords))
     jaccard_score = jaccard(list(v[0]), list(hate_keywords))
     weight = 0
+
     for key, value in Counter(v[1]).items():
         # print(key, value)
         if key in hate_keywords:
             weight += value
 
-    jaccard_indices[k] = weight * jaccard_score
+    jaccard_indices[k] = (weight * jaccard_score)/len(v[1]) * 100
 
 # print(jaccard_indices)
 
-with open("jaccard_indices_weighted_hatred.csv", "w+", newline="") as f:
+with open("shorter_weighted_JI_hatred.csv", "w+", newline="") as f:
     writer = csv.writer(f)
     for row in jaccard_indices.items():
         writer.writerow(row)
