@@ -1,0 +1,27 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+6837568,0,t1_d0rbv28,Yeah. Dont know what it could be. ,borderlessinternet,d0rcahw,1,t5_3cvzf
+6871750,0,t3_49vjtn,Hey guys I fixed it. For some reason this would not work over wireless but will over a wired connection for me. Edit And now it also works on wireless... odd huh? ,borderlessinternet,d0v83fj,1,t5_3cvzf
+6876212,0,t1_d0vq8a2,gt I agree the light version should be the default once it is createdHonestly thats all I wanted to hear. That puts me totally at ease. Theres absolutely no problem in my mind anyway with blocking advertisers that are already known to be bad.,borderlessinternet,d0vqdbm,5,t5_3cvzf
+6974425,0,t3_4avx00,You had me at For those that prefer to bitch and moan about a free service not having  uptime feel free to set up your own.,borderlessinternet,d16vzy7,2,t5_3cvzf
+6990106,0,t3_4b88et,Are you running an old version of the Netflix app?  All the recent versions for Android have Google DNS hardcoded in the App which stops SmartDNS working on Android phones and tablets.,borderlessinternet,d18o58w,2,t5_3cvzf
+7004877,0,t3_4bhr0u,Same here. Im in Germany trying to access Netflix from both Canada and the US but a proxy has finally been detected. Using Windows  and Chome. ,borderlessinternet,d1acigi,1,t5_3cvzf
+7027973,0,t3_4amxkc,Down again.,borderlessinternet,d1cz2ny,1,t5_3cvzf
+7034036,0,t1_d1dndmy,OK yeah my bad on that. I thought the DNS update had been pushed. Be a little while yet but should work here soonish,borderlessinternet,d1dnw0u,1,t5_3cvzf
+7066007,0,t3_4cd150,The host was unreliable OVH so we took it offline until we could find a better provider.,borderlessinternet,d1halr7,1,t5_3cvzf
+7123405,0,t3_4d57v4,You have to reboot to clear the dns cache. Otherwise it wont lookup the netflix servers again through the new dns it will just reuse the previous Australian Netflix servers. ,borderlessinternet,d1nujmx,3,t5_3cvzf
+7222002,0,t3_4byq7t,My Roku TV still goes into a state of stupid right after power up when using BI DNS and will lock up for  minutes. Ive setup my own BIND server with forwarding rules and a forwarders table that is stable right now and my TV seems snappy again.I have all the standard static routes in place so who knows where it is calling back to that was causing a problem...Ill keep fiddling with SNORT or another wifi sniffer to try and capture the data more accurately and find out who the TV is trying to contact on boot.,borderlessinternet,d1z350r,1,t5_3cvzf
+7375470,0,t3_4gccwz,It appears randomly for me too. The weird thing is if I try to play the same movie again usually it works...,borderlessinternet,d2gjfns,5,t5_3cvzf
+7514925,0,t1_d2w1nc2,I find USA from Netherlands to be the best as SEACOM has huge bandwidth that runs all the way up the east coast of SA through Amsterdam and Frankfurt. Other ones appear a bit slower. ,borderlessinternet,d2wer49,1,t5_3cvzf
+7521607,0,t1_d2x4y2i,love that attitude.,borderlessinternet,d2x64k1,2,t5_3cvzf
+7603610,0,t3_4jg6yh,I would bet its another provider.......,borderlessinternet,d36hovq,2,t5_3cvzf
+7658529,0,t3_4k7fui,Down here as well. Hope its not another DDOS attack. Had to configure router back to normal DNS addresses otherwise no internet Perhaps maintenance?,borderlessinternet,d3cqcbe,1,t5_3cvzf
+7678925,0,t3_4jaja0,Is there an alt dns for Asia pacificAustralia? Having issues with packet loss for gaming. Netflix in different countries working but not sure if my ISP is being silly or its leftover from doss. ,borderlessinternet,d3f1qkl,1,t5_3cvzf
+7742975,0,t3_4lcqmb,Netflix detected proxy when set to USEast Coast Im in Canada. Changed to USPacific and it was solved. No need to reset DNS.,borderlessinternet,d3mbj57,1,t5_3cvzf
+7824892,0,t1_d3vl1ri,gtJacobs Ladder gtgtA veteran struggles to bury his past in this terrifying psychological thriller.gt The Paramount Vault in Moviesgt views since Jun bot info,borderlessinternet,d3vl1uv,1,t5_3cvzf
+8022023,0,t3_4ozfl8,heywhat device or browser are you using?,borderlessinternet,d4hr1cx,1,t5_3cvzf
+8309518,0,t3_4spq59,Which recipe did you try ?,borderlessinternet,d5g8vn4,2,t5_3cvzf
+8563810,0,t3_4u55gp,No success with BBC Olympic recipe. Have main BIs default BBC set to Local of course. No luck in multiple browsers or Apple TV. Thoughts?,borderlessinternet,d6c1yvy,1,t5_3cvzf
+8751448,0,t3_4wfbw1,Should you perhaps pull down this sticky post now?,borderlessinternet,d6zl61t,3,t5_3cvzf
+8958340,0,t3_4lhjs2,Any tips here from folks who have this working? Only public recipe Im seeing right now is MLB and it doesnt work. Nor does any recipe I try to set up on my own.In NYC trying to watch local.,borderlessinternet,d7onpkf,2,t5_3cvzf
+9509576,0,t1_d9ke0is,Can you tell me how to do that? Im not very good with this.,borderlessinternet,d9l99pg,1,t5_3cvzf
+9697894,0,t3_5dshrh,I disagree. The main reason I subscribed is Netflix I feel like it is still a good investment of money since I can occasionally use the foreign Netflix and always benefit from the securityadblocking features.Yes it sucks Netflix doesnt always work but this is due to Netflix it is takes effort to keep Nutflix working.Edit BI doesnt seem interestedinvested anymore in keeping Nutflix working so its game over from an unblocking perspective.,borderlessinternet,da8gzwc,1,t5_3cvzf

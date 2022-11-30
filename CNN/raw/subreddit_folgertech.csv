@@ -1,0 +1,4 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+5666915,0,t1_cwyx5ys,I have it connected to the v rails on the power supply so that Ill know I am always getting v. I am thinking of wiring it up the to heated bed. Theres times it wont get up to temp so the voltmeter should be able to tell me why.,folgertech,cwzjbdj,1,t5_39m5c
+6123678,0,t3_3zar2j,I had this issue with mine as well even after tuning the voltage. What worked for me was lowering the max z acceleration in firmware.,folgertech,cylp5me,2,t5_39m5c
+8332712,0,t1_d5ifm0l,Ah good to know! Where did you or can you go for spares?,folgertech,d5j57hh,1,t5_39m5c

@@ -1,0 +1,2 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+10368017,0,t3_5mt4xr,xfwm dependency is paired with virtual xwindowmanager  which can be satisfied by installing openbox manually. Another question is why xfwm dependency ever exists maybe just a mistake that appears recently.,LXQt,dcj9z89,2,t5_320bb

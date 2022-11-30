@@ -1,0 +1,4 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+7286034,0,t1_d26cs6i,They do... try the Arch wiki. Its kept very up to date. Are you using a dedicated GPU or are you using the built in intel graphics drivers? If youre using the built in graphics have you looked at any of the nomodeset settings?,linux_on_mac,d26dg2g,1,t5_39arb
+8664390,0,t1_d6om1sg,Started out with a virtual machine. Did a lot of processor heavy calculations at the time.  hour calculations Was concerned about performance losses due to virtualization.Then I got a hocked on being able to customize everything and open source in general. ,linux_on_mac,d6oo0y1,2,t5_39arb
+11407259,0,t3_5zpqwa,PowerPC or Intel?,linux_on_mac,dfozz6k,1,t5_39arb

@@ -1,0 +1,5 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+2223606,0,t1_clm2y4m,we wont catch up if you wont disclose it  couldnt find something similar to what you suggested.. care to elaborate?,vindinium,clmh23q,1,t5_33hmv
+2259339,0,t3_2l2tfj,Great share! I think this is the right amount of detail to keep the game competitive while allowing others to learn and collaborate. ,vindinium,clqz4hi,3,t5_33hmv
+4380166,0,t3_38uz6g,Hi.Im about  days late to the thread but I have a vacation day today and decided to try my hand at writing a teambot Its pretty simple at the moment just a bunch of rules of where not to move and to not hurt the teammates if possible. Pathfinding is done using multisource Fringe search although each bot is independant and does not coordinate its paths with the others.Ill keep it fighting for a few days so people can try to come up with countermeasures. ,vindinium,csjdost,1,t5_33hmv
+6661886,0,t1_d08co3r,No worries! Im planning on hosting something similar to this at my university and seeing how you all implemented your API calls would be helpful is all.,vindinium,d08e9vj,1,t5_33hmv

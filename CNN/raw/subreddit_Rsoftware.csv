@@ -1,0 +1,3 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+3914937,0,t3_3578sc,I assume with table you mean a data frame? Just use cumsum to calculate the cumulative sum. Then add the new column to your existing data frame. Here is an example    dat lt data.framex          daty lt cumsumdatx,Rsoftware,cr2jdup,1,t5_2u3ys
+6163973,0,t3_3zxiac,Either they used a norm function from some other package LMGenenorm looks promising or its a typo. Maybe they used basescale.,Rsoftware,cyqa411,1,t5_2u3ys

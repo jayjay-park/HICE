@@ -1,0 +1,8 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+1347700,0,t1_cik3mff,Looks like Karen responded here   ,chef_opscode,cil8d38,1,t5_2wmf1
+3437995,0,t1_cpjq27l,deleted,chef_opscode,cpk5nzb,1,t5_2wmf1
+4989971,0,t1_cum8ga3,The notes from each session generally get saved to a github wiki.I wrote a fair number of those. ,chef_opscode,cunh6fr,1,t5_2wmf1
+5459155,0,t3_3pu1eo,Interesting question if you dont get an answer you might try here ,chef_opscode,cw9gj2a,1,t5_2wmf1
+5579909,0,t1_cwnmvne,Berkshelf is actually pretty simple once you put some effort and read the documentation. Glad you found your light somewhere. Getting forced to learn stuff you dont like sounds like a pretty bad deal. ,chef_opscode,cwoqmwe,2,t5_2wmf1
+5656246,0,t3_3sjkua,If you really want to you could probably have the attributes.rb contain one line that parses an attributes.json into a ruby structure. Havent tried it though,chef_opscode,cwy7nnw,3,t5_2wmf1
+6076682,0,t1_cyg4ie5,This is where the real magic happens   Enjoy,chef_opscode,cyg4z0u,2,t5_2wmf1

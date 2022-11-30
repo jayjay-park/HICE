@@ -1,0 +1,3 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+5953047,0,t1_cxzplbn,OK  I tried running as root but now the dbconnect msf thats what I named the dbase isnt working.  I assume I need to use credentials somehow but Ive never used MSFConsole this way before and Im unsure of the syntax.,metasploit,cxzz3p7,1,t5_2qt1o
+9283769,0,t1_d7ec7xx,Hi i am using reverse  payload when i run it on victim pc mine only  it runs for about  minutes if by that time i didnt start the handler and get the meterpreter session the powershell on Victims pc dies after  mins. Is their anyway to increase the timeout of the payload.,metasploit,d8ss9y7,1,t5_2qt1o

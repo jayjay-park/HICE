@@ -1,0 +1,3 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+7076463,0,t3_43dl9c,maybe with the help of cygwin,winehq,d1ihbwm,1,t5_2qq7x
+8765706,0,t3_504ar9,First take care you use an  bit prefix. Then install .NET to get rid of the crash.How I did itWINEPREFIX.wine winetricks dotnetWINEPREFIX.wine winetricks dotnetWINEPREFIX.wine wine Flowgorithm.exeThe other error the missing lines is probably that the graphics object has no HDC in GdipDrawPath. This is a GDIPlus issue but I dont know enough about GDI so I cant fix it.,winehq,d71dj6s,1,t5_2qq7x

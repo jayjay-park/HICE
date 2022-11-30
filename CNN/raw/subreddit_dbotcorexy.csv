@@ -1,0 +1,7 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+9350512,0,t3_58hyg3,Some holes are slightly too small when printed and need to be opened up those Z wheel parts were like that on the original Cbot files and I think its tight so the bolts thread in instead of sliding straight through but if the hole is too small you cant even thread them in,dbotcorexy,d918u4i,2,t5_3fpv6
+9468389,0,t3_5acim0,Check the remixes on the original DBot Thingiverse page people have uploaded eccentric spacer versions of all  axis plates.Word of caution be careful with the print carriage one as I just created it and am only now testprinting it so I can then testfit it so its probably gonna go through a few renditions.,dbotcorexy,d9g6n6h,1,t5_3fpv6
+10051904,0,t1_dbhr3s3,I just broke another bed screw mount. Gonna have to play with that tomorrow after I print a few more of them.,dbotcorexy,dbhsecj,1,t5_3fpv6
+10094517,0,t1_dbi9snu,Did you connect both inputs on the RAMPS? The heat bed MOSFET on the RAMPS is powered through the A input.The Arduino controls the heatbed MOSFET which were using to control the SSR which switches the heatbed. ,dbotcorexy,dbnbx4u,1,t5_3fpv6
+11222791,0,t1_df42j1x,,dbotcorexy,df438e4,3,t5_3fpv6
+11541368,0,t3_5ztplz,I have the x Folgertech PCB on my build. But I also have dual leadscrew single motor setup and mounted the leadscrews directly to the cross beam on the bottom so that i could expand the bed frame enough. My Zendstop still worked though.,dbotcorexy,dg47s26,1,t5_3fpv6

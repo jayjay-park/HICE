@@ -1,0 +1,4 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+7566684,0,t3_4f1lar,I used snap on Ubuntu Mate .,mate,d32an74,1,t5_2r98m
+10187920,0,t1_dbykn8h,Great ,mate,dbyuv6h,1,t5_2r98m
+10295013,0,t1_dcauf4h,using an Intel integrated GPU with Kernel . and an Xorg config explicitly set to enable DRI seems to have done the job.Create this file etcXxorg.conf.dintel.conf and add this to its content    Section Device      Identifier  Intel Graphics      Driver      intel      Option      AccelMethod  sna      Option      TearFree     true      Option      DRI                EndSection,mate,dcazuqt,1,t5_2r98m

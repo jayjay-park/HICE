@@ -1,0 +1,11 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+1094305,0,t1_chsdxcr,Dart as a language should work fine on IESafariFirefox so Id say something must be up with your implementation  What exactly happens?,dartlang,chsod4x,1,t5_2sut9
+3322328,0,t1_cojm6ds,Since both firefox and Dart are open source cant we implement a version for firefox with Dart?,dartlang,cp6z2as,1,t5_2sut9
+3500606,1,t3_30amka,This kills the dart,dartlang,cpraldt,-1,t5_2sut9
+4514406,0,t3_3cwtp8,deleted,dartlang,cszoqcz,1,t5_2sut9
+4521401,0,t3_3d04d3,deleted,dartlang,ct0kars,1,t5_2sut9
+7691660,0,t1_d3dvrn3,Flutter is used inside of Google by Google teams but theres still a lot left to do.We dont know when well hit .. There is no secret here. Its an open source project anyone can track how we are doing.,dartlang,d3ghqgz,3,t5_2sut9
+8828938,0,t1_d78v4tf,As of now some of Polymers more advanced styling options only work within the context of Polymer components so if youre using those components in an Angular app you can occasionally have a problem with styling. Also as noted in some of the Dart Academy articles you often have to create Angular directives to bridge the two worlds. With a suite of Angular components you obviously wouldnt have any of those problems. Whether you should migrate any particular project depends upon that projects needs.,dartlang,d7945ot,1,t5_2sut9
+8966433,0,t3_532ely,You can use them together sure Dart Angular  and Polymer Together,dartlang,d7pmp04,3,t5_2sut9
+10040870,0,t1_dbgblqo,Ive been recently reading about firebase vs google app engine variable runtime for a side project of mine. I was wondering if your company also deliberated on these two options for hostingcomputing and if so could you give some insight to what your company discovered regarding this decision?,dartlang,dbgcnzb,1,t5_2sut9
+11015536,0,t1_degk4jy,Im a little behind! I think it was about a fortnight ago but I was away and on the verge of calling it v. k seemed like a better title than .k ,dartlang,degkw5z,1,t5_2sut9

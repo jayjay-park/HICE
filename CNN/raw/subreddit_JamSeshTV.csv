@@ -1,0 +1,2 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+5429702,0,t3_3pcuzn,To clarify the issue  basically the service Wowza which JamSesh runs off was taking up too much data for our server to handle. So were moving Wowza to a separate server and optimizing Wowza itself to handle users better. Hoping this will resolve the issues.,JamSeshTV,cw5p7r9,1,t5_35rgf

@@ -1,0 +1,36 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+11424,0,t3_1u94bv,Here is Sector Z,customsmash,cefqh9l,1,t5_2zh6s
+15494,0,t3_1tggop,This is awesome. It would be cool if there was this for Theytahs build.  I am posting something similar to the other thread.,customsmash,ceg7571,1,t5_2zh6s
+159439,0,t3_1vo37h,Castle Siege is an interesting stage. The PMBR got rid of the middle transition from Brawl but I dont know how they did it.There are actually four parts to Castle Siege.    Castle Siege Transition STGEMBLEM.PAC    Castle Siege Outside STGEMBLEM.PAC    Castle Siege Inside STGEMBLEM.PAC    Castle Siege Lava Cave STGEMBLEM.PACMy best guess for Castle Siege is that in the Transition folder there is code to skip the STGEMBLEM. What does this mean for you? Well you can try and delete the PMBR PAC file and place the same stage three times over like this    YOUR STAGE STGEMBLEM.PAC    YOUR STAGE STGEMBLEM.PAC    YOUR STAGE STGEMBLEM.PACThe original Brawl transitions would still play but Im not too sure how to stop that on the flip side you can get artsy and put PM styled stages. So you can have Castle Sky and then transition to the Lava or the Inside portion of the original Brawl file OR you can actually keep the PMBR PAC file and instead change just the STGEMBLEM.PAC and the STGEMBLEM.PAC files one of them being Castle Sky. ,customsmash,cewld77,2,t5_2zh6s
+224361,0,t1_cf3zd60,Oh dont get me wrong I love project M. Im playing it right now. I just miss that one thing. If there was a code to bring that back that would be great.,customsmash,cf400i3,1,t5_2zh6s
+248742,0,t1_cf6ihy9,I see. If any problems were to arise message me.,customsmash,cf6jb0x,2,t5_2zh6s
+267853,0,t1_cf8845s,Are you formatting it or simply deleting the files?,customsmash,cf8iu84,2,t5_2zh6s
+1932511,0,t3_2gplce,PM rearranged the order for Wario. If you put it on  then itll go over the default Biker Wario.Make sure classic skins go on Classic Wario and biker skins go on Biker Wario or else youll get crashes.,customsmash,ckm1y2x,1,t5_2zh6s
+3277275,0,t1_cp1qjah,Thanks. I grabbed both but Im probably gonna need to watch some YouTube videos to understand it completely,customsmash,cp1u3dz,1,t5_2zh6s
+3403757,0,t1_cpg60qm,deleted,customsmash,cpg959q,1,t5_2zh6s
+4042702,0,t1_crh3jvh,good because if my computer was making those sounds id be scared,customsmash,crh3kpd,2,t5_2zh6s
+4097080,0,t3_37i8jg,commonscselmapenmiscdatatexturesbigicon for the SSS bans,customsmash,crnajnx,2,t5_2zh6s
+4317535,0,t3_3afqmi,What do you need help on?,customsmash,cscbb8a,1,t5_2zh6s
+4672015,0,t1_ctjg7vl,Hmm I dont think so. Id personally use debug mode in PM to check hitboxes PSA to edit them and Brawlbox to make sure youre using the right bone IDs and such. If you have dolphin you can set it to run PM off a virtual SD card which makes making changes much easier.,customsmash,ctjgj27,1,t5_2zh6s
+4721284,0,t3_3fkn5b,I know sometimes audio issues can be fixed by rebuilding the ISO and reformatting your SD card I would try that if you havent already.,customsmash,ctpno5u,1,t5_2zh6s
+4759842,0,t1_ctuif5k,Yeah my CSS is ugly. Before that I tooka screenshot of the modeltexture from Brawlbox then removed the background.It would help if I had Photoshop for sure it would make everything easier!,customsmash,ctuiul3,1,t5_2zh6s
+4828846,0,t3_3gx5oh,Put the files in your SFX folder,customsmash,cu37saj,0,t5_2zh6s
+4946200,0,t1_cuhzs5p,Yep lol figured that out the hard way after a series of freezes and not knowing why. Thanks though!,customsmash,cui0bbv,1,t5_2zh6s
+5065738,0,t1_cuwhizf,Good luck!,customsmash,cuwm2sy,0,t5_2zh6s
+5947060,0,t1_cxz5qo5,deleted,customsmash,cxz6ub6,1,t5_2zh6s
+6084451,0,t1_cyh3io9,its emulation software does.,customsmash,cyh5h97,12,t5_2zh6s
+6465231,0,t1_czo0p1z,And you are one of them! ,customsmash,czo1sy1,2,t5_2zh6s
+6650257,0,t1_d076vov,I cant find ICBASIC,customsmash,d076zy9,1,t5_2zh6s
+7271223,0,t1_d24omph,Are you here to help or to be sarcastic? ,customsmash,d24ot8d,3,t5_2zh6s
+7272020,0,t1_d24rugn,Which characters I think I have a few friends that i know that can help.,customsmash,d24s2t0,0,t5_2zh6s
+7335592,0,t3_4fqxg2,there is currently no release of . for PAL. Only NTSC. If you have homebrew with usb loader gx however you can still play a PM ISO. Theres a tutorial for it somewhere around here... maybe rssbpm,customsmash,d2c08m7,1,t5_2zh6s
+7519113,0,t3_4etmk0,You should be able to fix this with any image editor besides paint by checking if the black is transparent and then saving as .png,customsmash,d2wvwt4,1,t5_2zh6s
+7677463,0,t1_d3evoux,oh were using that smash  modders mods? cause idk how many of the gameplay patch mods still function. Ive only been hanging around the texture and music stuff.,customsmash,d3evrmm,0,t5_2zh6s
+7716079,0,t3_4kvhzt,I posted this comment on the rsmashbros sub but it got buried and I dont think anybody will see it. Somebody want to help me out?gtMegas saying Temporary error retrying when Im trying to download curious file.zip from the tutorial. Ive googled it and people are saying get a better internet connection or free up some memory. but it cant be those things because I can download  GB files just fine through mega. Ive tried rebooting my computer waiting for a while using a different profile and using a different computer altogether. Any ideas?,customsmash,d3j9kb6,1,t5_2zh6s
+7761796,0,t1_d3m1ddl,Is there a mirror for it anywhere? The original download link is dead and the dropbox account that uploaded it has been disabled.,customsmash,d3ogf23,1,t5_2zh6s
+7939832,0,t1_d484y88,I installed all of them but the game crashed on the character select screen. That likely means a CSP in one of the downloads was not formatted correctly. Ill figure out which one it is tomorrow and youll have to go without it.Besides that its not too much dont worry. Sorry for not finishing it up sooner I was busy with work most of the day.,customsmash,d48ifdh,1,t5_2zh6s
+8159897,0,t1_d4xga1y,Yes I edit multiple packs at any different time and it works for me.,customsmash,d4xja0m,1,t5_2zh6s
+8228311,0,t1_d55vc7e,Ive looked at the sawd file in Super Sawndz and its definitely not present within the sawnd file itself... I guess when I import it it begins to read it incorrectly. Initially when I put in on the SD card as .sawnd I deleted the original and replaced it so there was no possible corruption in place during the file placement... I dont have an idea as to whats going on.,customsmash,d563fox,1,t5_2zh6s
+8231140,0,t1_d56b5ab,ok thanks,customsmash,d56g65m,1,t5_2zh6s
+8448511,0,t1_d5xizsn,Here.,customsmash,d5xln48,3,t5_2zh6s
+8644110,0,t1_d6ia7xo,I just dont know what code effects the stage select,customsmash,d6m4ht1,1,t5_2zh6s

@@ -1,0 +1,8 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+189241,0,t3_1w7zc1,Has it even been proven that it is more capable of solving any sort of problem that a traditional computer?   ,QuantumComputing,cezzswx,2,t5_2r7m8
+189505,0,t3_1w7zc1,Relevant article,QuantumComputing,cf00vus,2,t5_2r7m8
+2595624,0,t1_cmx9111,There are encryption techniques which are quite literally unhackable. Look into one time pads. From the way this system works its saying the card itself isnt vulnerable. No one could make an absolutely identical card because to do so you would need infinite machine precision which would be violating mathematical and physical laws.,QuantumComputing,cmxdvjq,5,t5_2r7m8
+4573295,0,t1_ct6idtw,Thank you ,QuantumComputing,ct72n9w,1,t5_2r7m8
+8921204,0,t3_52gcow,I love this video.  It is actually what turned me on to quantum computers in the first place.  ,QuantumComputing,d7k752z,2,t5_2r7m8
+10923076,0,t3_5w10hx,When you decrypt a hash function you dont get the original input. You get a very tiny gibberish input that has the same hash output.Whether or not well ever be able to quickly find SHA preimages depends entirely on whether or not anyone ever finds serious cryptographic weaknesses in the function. Quantum computing isnt a magic bullet here. The obvious algorithm still requires  work which is a lot better than classicals  but still completely intractable.,QuantumComputing,de6n0u7,3,t5_2r7m8
+11079680,0,t3_5y67ir,So could quantum computers ever be a component in a regular computer the way a GPU is?  The machine can recognize the problem type and offload it to the QPU and then wait for the response?  ,QuantumComputing,denve4b,3,t5_2r7m8

@@ -1,0 +1,2 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+10251213,0,t3_5mpreq,Ive only started looking at this subreddit never used the program as of yet. Does the application show that the element is being powered  or is it adjusting properly in software but not actually controlling the element. If the latter check your relay. Assuming you are using a SSR they tend to fail on so power continues to flow constantly. This is pretty commonly a result of overheating and it will often work fine until overheated.,craftbeerpi,dc6151y,1,t5_3hzyx

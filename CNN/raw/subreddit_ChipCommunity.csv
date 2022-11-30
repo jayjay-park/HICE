@@ -1,0 +1,20 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+4012106,0,t3_36envz,If you are planning to use an acid chamber battery I should hope you dont plan to try using it as a portable. And if you dont why not just have a full size TV?As for me The best pocket retro game system ever. Already using a Pi for an awesome retro home system built into an NES with all the USB controllers I could want for the authentic feelStill need to obtain all the atari and other pre NES controllers. Now I want a portable that plays all the retro portable games but has the right controls for each. going to involve much d printing and some awesome brush based connector design i think.I also want to build an old fashioned portable radio that can both be used on spotify and with the rOTR stream.I have a few ideas but these are the most developed ones so far.,ChipCommunity,crdm0b2,1,t5_388xb
+6903316,0,t1_d0ysxok,Regarding this vagrant image.. Vagrant is a really cool tool that you can use to run up virtual machines.   It will use your vm software to actually launch and manage the VM I use virtualbox fyi  Then you can launchssh into that vm that youre downloading and once youre connected to that environment youll be able to flash the CHIP and build your own kernel and such.  Im currently trying to sort out how to flash a kernel I compiled with some extra bells and whistles added.  I havent had success quite yet.  I will post a guide after I get is sorted out.,ChipCommunity,d0yt60g,1,t5_388xb
+7783140,0,t1_d3qruba,Hm funny enough that you mentioned the x. I have one got it from my school and I have messed around with it quite a lot when it comes to trying out linux distros thing is I dislike how it feels. I kind of want something more modern looking and thats portable. Again I am trying to slowly replace windows with linux and I need a cheap portable device to mess on.Could you recommend me a couple of devices since you seem to be quite knowledgeable about it.Iv heard most chromebooks have a good linux support. Also one more thing I fucking hate UEFI. ,ChipCommunity,d3qvmgw,1,t5_388xb
+7963694,0,t1_d4b6hhb,Unfortunately we have to wait for the graphics driver ,ChipCommunity,d4b71ec,2,t5_388xb
+8338683,0,t1_d5jvfzz,facepalm.gif,ChipCommunity,d5jw1g7,1,t5_388xb
+8408197,0,t1_d5saak8,wow im not sure whether I want to buy one or not now..,ChipCommunity,d5skj2t,1,t5_388xb
+8439162,0,t1_d5w7isg,Did you change the video driver in the config file?,ChipCommunity,d5wfn73,2,t5_388xb
+8648775,0,t3_4y3je7,Does Livecode run on a Chip?,ChipCommunity,d6mpj7g,1,t5_388xb
+8652316,0,t3_4ybnfl,The keyboard will for sure work. The trackpad I dont know for sure but I really dont see why it wouldnt. I would go for it.,ChipCommunity,d6n5isj,2,t5_388xb
+8654260,0,t1_d6mqrk3,Well great minds think alike cause thats the first thing I intend to do with mine D,ChipCommunity,d6neat6,1,t5_388xb
+8726935,0,t1_d6wenqv,I will try it again when I get home to make sure however... Thank you.,ChipCommunity,d6wicpu,2,t5_388xb
+8947916,0,t1_d7ne2zy,Same deal.    unable to locate package xinputcalibrator,ChipCommunity,d7neo6q,1,t5_388xb
+8951169,0,t3_52uc7c,Are you connected to a network that has internet access?,ChipCommunity,d7nspls,1,t5_388xb
+8969944,0,t1_d7o7dbh,deleted,ChipCommunity,d7q1urv,2,t5_388xb
+8994295,0,t1_d7rtip2,deleted,ChipCommunity,d7sz3td,1,t5_388xb
+9921795,0,t1_db0tt6d,If by the one mean the Console version one the dont worry about it. All the CHIPs are identical in hardware and software.Console Kit just means that it comes with a controller and DIP.,ChipCommunity,db0u25w,2,t5_388xb
+9963096,0,t1_db5z9xm,Depends what you like  theres a delicious Indian Pizza place in central Oakland then theres Zacharys. Also some people like Roundtable to each their own.,ChipCommunity,db67u85,1,t5_388xb
+10160789,0,t3_5lhj91,Not sure how up to date this is but Jacob wrote a blog piece on getting pihole working on the C.H.I.PTo my shame my own C.H.I.P is still in the box... S,ChipCommunity,dbvs5s5,1,t5_388xb
+10199700,0,t1_dc01wo1,Hmm! Ill have to try that.,ChipCommunity,dc06yeg,1,t5_388xb

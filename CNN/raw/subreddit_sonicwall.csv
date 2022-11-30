@@ -1,0 +1,7 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+6871376,0,t3_46g0a2,Is that a typo on their page....mail.html should be main.html right?,sonicwall,d0v6kdh,1,t5_2tkfy
+9172201,0,t3_55xggt,Try recreating the firewall access rules and Nat policies for this hosted website. ,sonicwall,d8en7m1,2,t5_2tkfy
+9655376,0,t3_5db65e,Heres a link containing most of the articles listed.Contacting support would be your next best option.,sonicwall,da385it,1,t5_2tkfy
+10665678,0,t3_5sgxao,Can you take an after hours outage? Thats a lot of work when the solution is so simple. When the time comes change your X subnet activate your DHCP scope reboot your switches. That will take care of all the dynamic hosts. ReIP your servers and printers. Call it a day. ,sonicwall,ddg30oi,2,t5_2tkfy
+10883865,0,t3_5vjfjx,You are not alone. One of my favorite things to do is rip out sonicpoints and throw them in the garbage.  ,sonicwall,de2lda7,2,t5_2tkfy
+11580472,0,t1_dg7q6gd,Tz is tight. Almost as good as the nsa. Only real difference is not rack mount. And it has  less dpissl sessions ,sonicwall,dg8nivd,1,t5_2tkfy

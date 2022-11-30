@@ -1,0 +1,2 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+10249908,0,t1_dc5qv47,Thanks I have had a deep read on grpc I see this as an synchronous alternative to REST. Great for an API if you are not planning on supporting web clients just yet.Perhaps this is my misinterpretation but folks are recommending grpc for interprocess communication between micro services. Is that how you see it being used?,microservices,dc5vtd1,2,t5_3361s

@@ -1,0 +1,7 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+1087546,0,t1_chrjsvp,You absolute legend you nailed it... DThanks for that keep up the good work...  ,rwallpaperchanger,chrwng2,1,t5_2zfys
+5858276,0,t1_cxmeqy6,Yeah its a consistent reproducible thing on that machine. My win laptop has no problems as far as Im aware. How does the application make requests? I suppose its possible that some kind of network config change has broken it. I suppose it could also have corrupt somehow...? Where does RWC store data? AppData? ,rwallpaperchanger,cxnjrn4,1,t5_2zfys
+8777811,0,t1_d72w3jo,Do you mind opening an issue on the project page? Ill implement it sometime.,rwallpaperchanger,d72w8fp,2,t5_2zfys
+8778650,0,t1_d72zw3y,Sweet your doing a public service my man! Thanks!,rwallpaperchanger,d730189,1,t5_2zfys
+9200614,0,t3_56cmqc,How many subs are you searching for wallpaper? ,rwallpaperchanger,d8i8uqr,1,t5_2zfys
+11179843,0,t1_dez2epq,Thanks for the log and screen grab! Dang thats a lot of the same wallpaper! Ill have a trawl through tomorrow and see if I can work out whats going on! I dont think the hung bar is an issue. That simply shows the progress of pulling the thumbnails for each wallpaper when populating the blacklist panel. I wonder if one has been removed so it cant grab the thumb so hangs. Either way Ill get back to you.,rwallpaperchanger,dez80x5,2,t5_2zfys

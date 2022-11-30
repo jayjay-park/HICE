@@ -1,0 +1,3 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+1515452,0,t1_cj68d39,Yeah there arent any newer official windows binaries. You could build them yourself using the kicadwinbuilder but it isnt straight forward and it takes hours the first time. The new interactive router is awesome though.,KiCad,cj68lmh,1,t5_2uzc5
+9114418,0,t1_d86lzs3,Id like to get into helping but im not sure how.  Im a good embedded developer and interfacing test equipment but ive never done applications like kicad. I dont know where to start. As far as design rules i do that. Id just like a shortcut to select them. But i have to reenter design rules for every project..,KiCad,d87emeu,1,t5_2uzc5

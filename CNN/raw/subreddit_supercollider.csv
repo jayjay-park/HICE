@@ -1,0 +1,2 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+6159875,0,t1_cypml5o,I would say you do get a feel for it but that doesnt mean it doesnt bite you in the arse sometime too!To be honest in SC the methods which dont return a new array are fairly few  things like .put .swap which only operate on one or two elements. Maybe you should just remember those?,supercollider,cyptbrq,1,t5_2snz3

@@ -1,0 +1,85 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+357814,0,t1_cfhtx5g,deleted,SteamBot,cfhuqm4,1,t5_2xalm
+422359,0,t3_1ywveu,Thank you for your kind reply. I have actually used that tool and a couple others. There is a problem I keep running into. It tells me to change the commas into a colon. I then change it into a colon and it tells me to change it into a comma or another character. It keeps running in circles ,SteamBot,cfojjrk,1,t5_2xalm
+639426,0,t3_21epwf,Didnt I answer this for you a month ago?,SteamBot,cgcyc1b,1,t5_2xalm
+939817,0,t3_24rym1,try thisint nonref  ltvariable that holds buy pricegt  int ref  ltvariable that holds buy pricegt  nonref  int scrap  nonref  int rec  nonref  scrap  ,SteamBot,chb42pb,1,t5_2xalm
+1041812,0,t1_chm2u04,Would you be able to show us those functions that you wrote or just the rest of the KeyUserHandler? Might give us a better idea of whats going on.,SteamBot,chmpimg,1,t5_2xalm
+1263614,0,t3_28kg9u,you need mono . or greater.,SteamBot,cibrtip,1,t5_2xalm
+1561112,0,t1_cjbyeu5,Yep thats the correct behaviour.,SteamBot,cjbyicq,1,t5_2xalm
+1576134,0,t3_2cbjgu,I see... so I need to write something like a CraftHandler that calls AutoCraftAllWeps in Bot.cs and change the BotControlClass in settings.json to CraftHandler.Ill report here whether I succeed or not.,SteamBot,cjduedv,1,t5_2xalm
+1627144,0,t1_cjk0ou0,This is the proper way to deal with the timer. ,SteamBot,cjk9lsw,1,t5_2xalm
+1653271,0,t1_cjmjmxd,At least you got some learning experience from it. ,SteamBot,cjnk3wa,1,t5_2xalm
+1669865,0,t1_cjpktly,Does joining the normal TF group chat works?,SteamBot,cjpncmz,1,t5_2xalm
+1787540,0,t1_ck4bcun,I almost did all what i need  Now i have problem only with webcombine with bot. ,SteamBot,ck4gzuj,1,t5_2xalm
+1828409,0,t1_ck94fom,I dont do Steam Trade much and just stumbled on it.Can you explain the differences between the two you mentioned above?,SteamBot,ck9ike0,1,t5_2xalm
+1944602,0,t3_2gxw0p,Regular chat messages are handled entirely by SteamKits SteamFriends.SendChatMessage method so you should start there. P.S. Prepare for some low level stuff and playing with protobuf library.,SteamBot,cknixth,3,t5_2xalm
+1949444,0,t3_2h050x,Can you post your error message? Makes it rather a lot easier and faster to findfix problems with it,SteamBot,cko40ts,1,t5_2xalm
+2143567,0,t1_clca2tc,No.its trade request Bot.OpenTrade  need check bot sent trade request and bot cant send trade request because other user dont answer request. ,SteamBot,clcandc,1,t5_2xalm
+2146712,0,t1_clcb151,i know.if so pending?.its work only accepted or closed.,SteamBot,clcp2gk,1,t5_2xalm
+2154206,0,t1_cldmy5c,Actually I was using my testing bot so this could be the issue. Later on Ill try with my main bot and see what happens. Thanks!,SteamBot,cldncgt,1,t5_2xalm
+2214585,0,t1_cllbkrw,The best overloaded method for match for SteamTrade.GenericInventory.getDescriptionulong has some invalid arguments,SteamBot,cllbs6q,1,t5_2xalm
+2247966,0,t3_2ksha1,Not to be a dick but Rule  If you are asking for help show us that you have attempted to figure it out first. I.E. show us your code and what you think the problem might be and tell us what you have tried already.Im only posting this because this ISNT a personal helpdesk. Pasting code saying help doesnt show anybody you tried. Stop giving out complete fixes to people who cant code. Jeez people.,SteamBot,clpki6s,1,t5_2xalm
+2275324,0,t1_clsxkjj,Nevermind i found the problem ,SteamBot,clsy660,1,t5_2xalm
+2593179,0,t3_2piezp,You are definitely NOT running the latest SteamBot from the GitHub repo. You are using some modified version obviously.,SteamBot,cmx2dhe,2,t5_2xalm
+2671524,0,t1_cn79j8n,Ive had some progress and now I am getting this error in my debug console every time it goes to send the trade offer.A first chance exception of type System.Net.WebException occurred in System.dllSystem.Net.WebException The remote server returned an error  Internal Server Error.   at System.Net.HttpWebRequest.GetResponse   at SteamTrade.SteamWeb.RequestString url String method NameValueCollection data CookieContainer cookies Boolean ajax String referer in cUsersBradenDesktopSteamBOTExchangeBOTSteamTradeSteamWeb.csline    at SteamTrade.TradeOffer.OfferSession.FetchString url String method NameValueCollection data Boolean ajax String referer in cUsersBradenDesktopSteamBOTExchangeBOTSteamTradeTradeOfferOfferSession.csline There was an error sending your trade offer.  Please try again later. Any idea?,SteamBot,cn7ahhk,1,t5_2xalm
+2828668,0,t1_cnpllia,I just tried installing it and holy crap I suck at this stuff my tiny mind got fried.,SteamBot,cnpm4vc,1,t5_2xalm
+2848077,0,t1_cnrtpdg,,SteamBot,cnrtqa6,2,t5_2xalm
+3054141,0,t1_coejeib,When I use assetid it works but when it comes to calling it I get this ,SteamBot,coek5vf,1,t5_2xalm
+3240512,0,t1_coxvbzi,I dont know why the SendMessage would fail. It retries  times and the timeout is set to  seconds I believe. Worst case scenario the bot wastes  seconds per each SendMessage call in the OnTradeInit. Shouldnt really kill the bot completely.,SteamBot,coxvwuf,1,t5_2xalm
+3326477,0,t1_cp7evmc,Okay I added you. Im Choops.,SteamBot,cp7g2e3,1,t5_2xalm
+3475643,0,t3_30291h,Well its this linevar offerWithToken  Bot.NewTradeOfferTradeUserThis class FileWatcher has no reference to Bot so it tries to call it as static method which fails of course.You need to pass the reference to existing Bot instance. Dependency injection is your friend here.,SteamBot,cpog63s,2,t5_2xalm
+3662363,0,t3_32bt1a,This is definitely the most unusual request I have seen here.,SteamBot,cq9qg6h,5,t5_2xalm
+3673097,0,t3_31vp9n,Guys  its . Use sockets. Have the website send messages that the bots socket connection is waiting for. The websitebackend sends orders while the bot listens. If you dont know what sockets are youre either in over your head or youre gonna learn some fun stuff ,SteamBot,cqaygtr,1,t5_2xalm
+3673685,0,t1_cqb0ekc,Heregt    public virtual void OnNewTradeOfferTradeOffer offer          ,SteamBot,cqb0vob,1,t5_2xalm
+3702168,0,t1_cqe9np6,You cant be banned it is just a file that is saved locally that is used to prove that you have previously done the email verification Steam Guard on that computer. But you can just transfer the file to different pcs.,SteamBot,cqe9skq,1,t5_2xalm
+3955748,0,t3_35rfvm, this is the error in the apache error log.,SteamBot,cr76t8z,1,t5_2xalm
+3974198,0,t1_cr7193x,I am unable to find this,SteamBot,cr9aiq1,1,t5_2xalm
+4015305,0,t1_crdurqe,Why would that be a bad plan?And because accounts can only get access to the API by spending at least .,SteamBot,crdz44u,1,t5_2xalm
+4315684,0,t1_csbyruh,I dont need to invite him a trade invite... when i just say Hi to the bot he just spams  Internal Server Error ,SteamBot,csc3s6f,1,t5_2xalm
+4414666,0,t1_csn0tqp,Just ask here. ,SteamBot,csn9n4u,1,t5_2xalm
+4464225,0,t1_cst2oy3,Could you show me a better approach then? ,SteamBot,cste6fa,1,t5_2xalm
+4592570,0,t1_ct9h644,    Very unreliable though. Its dead most of the time.,SteamBot,ct9hjy4,1,t5_2xalm
+4617209,0,t1_ctckhbf,XD,SteamBot,ctcksnq,1,t5_2xalm
+4640745,0,t3_3ejhxx,gt when it comes to multiple same classid just send multiple items of that classidWhy dont you check if the item was already added by its assetId and if it was just skip to the next one with the same classId?,SteamBot,ctfj6yo,1,t5_2xalm
+4666925,0,t3_3eudxh,Rule ,SteamBot,ctitj4r,1,t5_2xalm
+4724629,0,t3_3fmad9,do you got steam if so whats your profile,SteamBot,ctq2v4v,1,t5_2xalm
+4838790,0,t3_3h59gt,rSteamBotMarket  this subreddit isnt for buying or selling bots. ,SteamBot,cu4gufp,1,t5_2xalm
+4927202,0,t3_3i8evk,someone?,SteamBot,cufm2nk,1,t5_2xalm
+5026529,0,t3_3jbt12,Open the URL with logged bot and check if it returns error,SteamBot,curvz5b,1,t5_2xalm
+5056549,0,t1_cuva4xh,Oh yeah its probably that. I remember getting that for trade offers when I had  active offers but I didnt know it applied to regular trades too. Thanks. ,SteamBot,cuvi731,1,t5_2xalm
+5237707,0,t3_3mqylv,,SteamBot,cvhc0wj,1,t5_2xalm
+5338656,0,t3_3o51xm,Here is the full code Here is the  linemysqlConnection.querySELECT value FROM info WHERE namemaxitems functionerr row fields ifoffer.itemstoreceive.length gt row.value offers.declineOffertradeOfferId offer.tradeofferidoffer.itemstoreceive  mysqlConnection.queryINSERT INTO messages useridmsgfrom VALUES offer.steamidothertoomuchSystem functionerr row fields return,SteamBot,cvu2m0o,1,t5_2xalm
+5703034,0,t1_cx3tq7n,i checked it and its working this code. but sometimes only can handle  of the treads  for each make  tread for each offers.pls tell me what im doing worng i dont understand,SteamBot,cx40mct,1,t5_2xalm
+5746457,0,t3_3tuxmy,It means exactly what it says  the settings file is either missing or not a valid JSON,SteamBot,cx9ek1c,1,t5_2xalm
+5788559,0,t1_cxemas3,Ouch  Is there an error list somewhere? Code based or something ?,SteamBot,cxemilh,1,t5_2xalm
+5874270,0,t3_3vp1x9,how did you login before this? nodesteam and its classes  weblogon? If so you dont have to rewrite your login. After calling steamweblogons webLogOn you need to pass the cookie to communitys setCookies After that you can go on as usual well except for the mobile confirms PEdit or in case you now your cookie you could just set it manually ofc,SteamBot,cxpncut,1,t5_2xalm
+5895360,0,t1_cxrzgzy,,SteamBot,cxsez8n,1,t5_2xalm
+5902524,0,t1_cxt97zu,Oh so its only depends on Mobile auth. Good to know.  Anyways i hope the best on your project. If there is any changes let us know!,SteamBot,cxtcs4d,1,t5_2xalm
+5909166,0,t1_cxu7rgp,Other jackpot work how they do it?,SteamBot,cxu83ai,1,t5_2xalm
+5918990,0,t1_cxvg9mf,Thats surprising to read. Does this mean that the api can be used without logging in?,SteamBot,cxvieqi,1,t5_2xalm
+5986786,0,t1_cy4528b,do you use this?,SteamBot,cy4eda9,1,t5_2xalm
+6003235,0,t3_3xp2dr,Sorry cant help you. But i know the problem.   Steam does not provide the right assetId when a trade is done. I think it this has something to do whit trades being delayed.   So you get a offer accepts it steam sets the new assetIds of the items. Steam is slow and cant process the items. So they come into your inventory between  sec   hours and once they come into your inventory they get a new Asset Id. its all just bad coding from steams part... So I reconfigured my system to work whit markethashname instead of Id.  Hope you understand and that this helps.,SteamBot,cy6jyj9,1,t5_2xalm
+6003513,0,t3_3xp2dr,Use markethashname not classid,SteamBot,cy6l9sy,2,t5_2xalm
+6098855,0,t3_3yzl6y,Would be interested. What programming language are you using? I would like to suggest node.js if you havent yet decided as it is excellent for JSON APIs.Where would you get the prices from? If youre getting the prices from the market would you use the min median or max price?,SteamBot,cyivlr7,1,t5_2xalm
+6178602,0,t1_cyrm119,No Im not. Is that a problem? Do I have to be running automatic to be allowed to send them? I included in the documentation that you probably shouldnt be using the heartbeat method unless you have something to accept trade offers. ,SteamBot,cyrxy8m,1,t5_2xalm
+6249078,0,t3_4167rd,Yes its possible. Just use the Steam Market API to get the item prices and if the value is enough then accept the trade.,SteamBot,cyzyb4h,1,t5_2xalm
+6310241,0,t1_cz6w1lb,ok i will pick js there is any programs i need to have,SteamBot,cz6wjos,1,t5_2xalm
+6342240,0,t1_cza02yv,I think that line may be a placeholder. I never really took an in depth look at the CSGOFast code.I say its exploitable because there are some known issues with it  I dont know the specifics though I just recommend against using the bot without heavy modification.,SteamBot,czajj6u,1,t5_2xalm
+6483866,0,t1_czpw4jn,Ah we figured as much. We synced the server with Steams time and its all been working fine the last few days. Thanks for your reply!,SteamBot,czpza7x,1,t5_2xalm
+6642693,0,t1_d06d4lo,Thats right.. gt,SteamBot,d06eu7z,1,t5_2xalm
+6872245,0,t1_d0v9663,Thank you for your reply! However it doesnt seem to work since it throws a Server Internal Error  I dont know if its because my BOT is on a Steam Guard cooldown or because Steam is busy. I can send him trade offers but I cant invite him to trade..,SteamBot,d0va4e2,1,t5_2xalm
+6897685,0,t1_d0y4mgb,Yeah that would be awful. ,SteamBot,d0y65z0,1,t5_2xalm
+6991151,0,t3_4bg0m8,Your post has been automatically removed because you have not followed Rule  If you are asking for help show us that you have attempted to figure it out first. I.E. show us your code and what you think the problem might be and tell us what you have tried already. Please resubmit your post with the relevant code either formatted as a code block ? or as a link to PastebinI am a bot and this action was performed automatically. Please contact the moderators of this subredditmessagecompose?torSteamBot if you have any questions or concerns.,SteamBot,d18sffm,1,t5_2xalm
+7055511,0,t1_d1g1ei8,I know the basic of c  but no Node.JS..There is any tutorial for that ?,SteamBot,d1g3nv8,1,t5_2xalm
+7296908,0,t1_d27ardd,Handling confirmations both on a phone and in a bot is asking for trouble and headache. ,SteamBot,d27lxep,2,t5_2xalm
+7609303,0,t3_4jjli2,Your post has been automatically removed because you have not followed Rule  If you are asking for help show us that you have attempted to figure it out first. I.E. show us your code and what you think the problem might be and tell us what you have tried already. Please resubmit your post with the relevant code either formatted as a code block ? or as a link to PastebinI am a bot and this action was performed automatically. Please contact the moderators of this subredditmessagecompose?torSteamBot if you have any questions or concerns.,SteamBot,d374zvr,1,t5_2xalm
+7746423,0,t1_d3mp983,Thanks a lot,SteamBot,d3mpn6e,1,t5_2xalm
+7841872,0,t3_3xa7yj,Thank you for this code!It works pretty flawless on regular items  but when an item has stickers on it  it seems to fail. Any suggestions  thoughts as to why?,SteamBot,d3xhtg3,1,t5_2xalm
+7853327,0,t3_4mw5ws,Removereadd the nuget packages and recompile it. Make sure you readd the same versions.,SteamBot,d3ys8tl,2,t5_2xalm
+8003651,0,t3_4out0s,Check out PHPSteamCommunity    user  new UsersteamId    groups  usergtgetGroups    foreach groups as group         if groupgtgetGroupId  YOURGROUPID  user is in group    ,SteamBot,d4fopld,1,t5_2xalm
+9875109,0,t3_5gsr5o,You can get prices also without a mysql server with APIs like steamlytics. To start with socket.io you can just go to  and there are a few examples there there are also many other examples online.,SteamBot,daur07n,2,t5_2xalm
+10392340,0,t3_5otxh5,Your submission has been automatically removed because the title does not include one of the required tags Help Question PSA Meta Discussion Release. Please check the sidebar or click here for information about tagging your submission properly.I am a bot and this action was performed automatically. Please contact the moderators of this subredditmessagecompose?torSteamBot if you have any questions or concerns.,SteamBot,dcm1d6r,1,t5_2xalm
+10882124,0,t1_de2e5u3,Nice list. Good luck with your project! ,SteamBot,de2ewks,1,t5_2xalm
+11159188,0,t1_dewnr4q,Yes that works but its not really the best way to do it. ,SteamBot,dewvrcu,1,t5_2xalm
+11481975,0,t3_63wal4,Your post has been automatically removed because you have not followed Rule  If you are asking for help show us that you have attempted to figure it out first. I.E. show us your code and what you think the problem might be and tell us what you have tried already. Please resubmit your post with the relevant code either formatted as a code block ? or as a link to PastebinI am a bot and this action was performed automatically. Please contact the moderators of this subredditmessagecompose?torSteamBot if you have any questions or concerns.,SteamBot,dfxh9un,1,t5_2xalm
+11761967,0,t1_dgsxzii,If its vaugely related to gambling they will ban it,SteamBot,dgt8ydu,1,t5_2xalm

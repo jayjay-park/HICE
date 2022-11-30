@@ -1,0 +1,5 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+1791774,0,t1_ck4zx33,That was my assumption two weeks ago when I started doing a Haskell tutorial for kicks but then I discovered in this order Gloss Helm HGamerD and yesterday Yampa not to mention the Carmack speech linked in the sidebar.,haskellgamedev,ck5057w,2,t5_33b07
+1827131,0,t1_ck974j4,Thanks! Yeah I guess from that the wiki article says it will do a GC when the nursery gets full so as long as it doesnt fill it in a frame there should be no mid frame pauses if it is forced at the end of every frame. Its probably worth waiting to see if it becomes a problem before doing this I guess.,haskellgamedev,ck9czqh,1,t5_33b07
+1833500,0,t1_ck9n3s4,Could you keep us posted? It sounds extremely exciting!,haskellgamedev,cka4qi4,2,t5_33b07
+2531130,0,t3_2od4q2,I started I achieved I faltered and I ultimately failed  but I learned a ton and I got a lot of good work done. Heres my post mortem And heres a list of all the blogs I wrote during the two daysNext time gadget!,haskellgamedev,cmoye6i,4,t5_33b07

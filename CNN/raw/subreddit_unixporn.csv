@@ -1,0 +1,937 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+8813,0,t3_1t96hl,What icon theme is that?,unixporn,cefftkp,1,t5_2sx2i
+15696,0,t3_1uaih2,I would very appreciate it if you could share that Madotsuki wallpaper.,unixporn,ceg7ywv,5,t5_2sx2i
+36353,0,t1_ceijnaw,What ibar?I think you can get a font that you can then use icons as characters.,unixporn,ceikjl0,1,t5_2sx2i
+59475,0,t1_ceku0w1,Thanks!,unixporn,cel7a03,1,t5_2sx2i
+80683,0,t3_1v0tqz,its all about getting the work done.,unixporn,cenm51k,9,t5_2sx2i
+92858,0,t1_ceoy87r,Looks like Lua. And since the rest looks like AwesomeWM which has a Lua config file I think thats a safe assumption.,unixporn,cep02f0,11,t5_2sx2i
+131116,0,t3_1vkp1w,Archey has a screenshot option aswell really nice desktop though.,unixporn,cetd2ve,2,t5_2sx2i
+135010,0,t3_1u9adx,congrats uearsplit!,unixporn,cett2qh,1,t5_2sx2i
+142212,0,t1_ceulx9s,Its called ranger but its using wm to display the full picture.In order to enable this install them both and run ranger copyconfig all and then add the line set previewimages true in your .configrangerrc.conf.Pretty sure it isnt framebuffer based everything runs smooth enough.,unixporn,ceummjr,3,t5_2sx2i
+210186,0,t1_cf25phf,FWIW bspwm is much more straightforward than xmonad and it is functional enough to learn as you go.,unixporn,cf2dukl,1,t5_2sx2i
+244651,0,t1_cf60p7a,People pinging out arent really related to the server. In large channels thats not an uncommon sight.,unixporn,cf63zg3,3,t5_2sx2i
+246987,0,t1_cf65jm8,Awesome!,unixporn,cf6cq87,1,t5_2sx2i
+249131,0,t1_cf6hbh2,Yeah Im a Tor exit imgur is not happening. ,unixporn,cf6krf6,3,t5_2sx2i
+253203,0,t3_1wzglx,Emacs master race.,unixporn,cf6zyzn,0,t5_2sx2i
+260154,0,t3_1x1lfs,Red Star OS Best OS!,unixporn,cf7q2kv,4,t5_2sx2i
+272198,0,t1_cf8ujhw,I was going to say something similar to this just not quite as detailed. Theres also been several years getting close to a decade worth of development between the two. Drawing direct comparisons between the two is rather hard to do on a number of levels.,unixporn,cf8z2lm,1,t5_2sx2i
+286935,0,t1_cfah764,Just conky.  In my .conkyrc I have the following linesexeci  mpdcover.pyimage tmpmpd.jpg p  s xThe python script creates a symlink tmpmpd.jpg to folder.jpg in the directory of the currently playing song.  Luckily I already have a folder.jpg for each album in my collection so I dont have to download the artwork from amazon etc.Here are the contents of the script It uses the MPD client library pythonmpd in Arch to connect and pull out the relevant info.,unixporn,cfai6rl,2,t5_2sx2i
+319599,0,t1_cfdw5vh,is vm but no vm acceleration on my CPU,unixporn,cfdw9fg,3,t5_2sx2i
+322559,0,t1_cfdm7pn,My firefox doesnt change. Do I have to enable something somewhere?,unixporn,cfe7c98,2,t5_2sx2i
+327068,0,t3_1xsw7d,Is the lack of a box around your workstations in dash due to the shell theme?,unixporn,cfeo6cc,2,t5_2sx2i
+332689,0,t1_cff8v2b,Anki looks great but way too many features than I need.  Thanks for the suggestion though!,unixporn,cff95az,2,t5_2sx2i
+345768,0,t1_cfgju2o,Its lemon .,unixporn,cfglw26,1,t5_2sx2i
+347554,0,t1_cfgsghz,Thank you D Im currently looking up some books for me to learn from,unixporn,cfgsj22,2,t5_2sx2i
+374811,0,t3_1ydva7,I suck at titles sorry. Also if anyone has anything resembling molokai for weechat Im buying you a beer.,unixporn,cfjm4h9,3,t5_2sx2i
+387955,0,t3_1yiukr,Havent heard of Manjaro. Downloading it now ,unixporn,cfkz6u8,4,t5_2sx2i
+391124,0,t3_1ykggl,ISoS those were the days...,unixporn,cflb0pe,2,t5_2sx2i
+394456,0,t3_1yks3c,Youre my hero.,unixporn,cflnghk,2,t5_2sx2i
+417776,0,t1_cfo1nlv,Yes! GTK  the theme is Flat Studio Dark. The window frame is openbox Turquoise Nights. ,unixporn,cfo2gyx,2,t5_2sx2i
+423012,0,t1_cfolryy,And I thank you for that thanks for sharing it.,unixporn,cfolz8l,3,t5_2sx2i
+436389,0,t1_cfpzu4p,my statusbar at the top tells me which window currently has focus pcmanfm is the only window with a file edit etc menu bar because all the other windows dont have one,unixporn,cfpzw5y,1,t5_2sx2i
+442079,0,t1_cfqf69b,Link to scripts used for the top bar?,unixporn,cfql45w,4,t5_2sx2i
+446325,0,t1_cfqo7n7,I installed ubuntu on my air amp could never quite get my touchpad working to my satisfaction even after extensive troubleshooting with synaptics.  The pointer would move when I clicked amp I had sensitivity issues.  Are you having any problems like this?,unixporn,cfr0ywf,1,t5_2sx2i
+450844,0,t3_1z8l1f,GNOME? Oh the days ,unixporn,cfricdo,2,t5_2sx2i
+461828,0,t1_cfsq34d,deleted,unixporn,cfsrds5,0,t5_2sx2i
+491782,0,t3_1zl9ba,If Im getting you right youre using the VM to host the X server and the OSX machine act as the client ?,unixporn,cfw63dv,2,t5_2sx2i
+498467,0,t1_cfwqs5u,Dont feed the troll.,unixporn,cfwxgl1,0,t5_2sx2i
+529998,0,t1_cfzpa15,,unixporn,cg0inh3,1,t5_2sx2i
+535169,0,t1_cg0yiv9,Thanks.,unixporn,cg13szs,3,t5_2sx2i
+547199,0,t3_200j1a,how interesting..im currently on crunchbang as well and im thinking of going the other way around to ubuntui dislike gnome enough to where i would install openbox on ubuntu but ive ran into a lot of dependency problems in crunchbang when trying to update programs. it simply doesnt get the updates ubuntu does which is unfortunate since theyre so close in nature,unixporn,cg2h1c6,2,t5_2sx2i
+556349,0,t3_20hoh5,nice setup! does your window manager automatically add the margins between the windows or did you just set them up for beautiful screenshots? ,unixporn,cg3ihnc,3,t5_2sx2i
+557057,0,t1_cg3bcet,ltdelgtIs it possible to make all apps borderless? Or is it just possible for the iTerm?ltdelgtForget it how did you hide the title bars? ,unixporn,cg3le2a,5,t5_2sx2i
+573762,0,t1_cg3qfdj,oh hai.  Notificationsyou can install dunst. Read its man for a nice config file.  Shutdown  reboot  suspendyou can assign key combos in you i conf file for sudo shutdown h now sudo reboot sudo pmsuspend,unixporn,cg5hpee,1,t5_2sx2i
+576329,0,t3_20q901,wallpaper? esp sauce if possible.EDIT Found it ,unixporn,cg5s78j,3,t5_2sx2i
+586449,0,t1_cg6wa4i,I assume its either because libmpdclient is Linux only unlikely or because it seems like vanilla istatus only has really generic functions. That would only work for one specific music player so they may not want it.,unixporn,cg6xm05,2,t5_2sx2i
+605523,0,t3_211kkg,Nice ,unixporn,cg93nkm,1,t5_2sx2i
+611409,0,t3_2151y4,Mine is quite Numix inspired too pHold on Ill fetch the links. This is what my Chromebook uses the desktop is just that with different stats on the ibar and the Numix wallpapers.,unixporn,cg9rpl2,1,t5_2sx2i
+614452,0,t1_cg9riyy,D Well pez is my nickname breastgasm is a cool computername too! P ,unixporn,cga44yf,1,t5_2sx2i
+650215,0,t1_cge6d8f,Thanks!,unixporn,cge6gzq,1,t5_2sx2i
+662620,0,t1_cgf4ic1,I use roxterm as a terminal and I very much like it.,unixporn,cgfl8fq,1,t5_2sx2i
+665778,0,t3_21r6mh,deleted,unixporn,cgfy59o,1,t5_2sx2i
+669623,0,t3_21rx3y,how did you manage to display the dropboxapplet in the tray? i tried it on my cinnamon as well and it was such a pain and did not work out in the end....,unixporn,cggdvm4,1,t5_2sx2i
+681206,0,t1_cghonvx,DeviantArt just google elegancecolors,unixporn,cghpceu,1,t5_2sx2i
+693111,0,t1_cgj1dgt,For almost  months. I really like it. Just try it manual tiling is quite different. If you like herbstluftwm this will probably suit you!The only real config you need to do is changing binds if you have a tenkeyless keyboard by default tiling is done with the numpad and set the different size of each gravity to your pleasing see their wiki,unixporn,cgj24jo,2,t5_2sx2i
+694301,0,t1_cgj6r89,Ranger!,unixporn,cgj6zuk,3,t5_2sx2i
+716411,0,t3_22cdg8,What dock are you using good sir?,unixporn,cglpjqk,1,t5_2sx2i
+752396,0,t1_cgp584h,.xinitrc    exec HOMEpathtotinywmtinywmIn tinywm.c I sModMaskModMaskg to use the CmdKey. tinywm then compiles with a simple make.To compile st I had to install pkgconfig and freetype with homebrew. st is currently the thing that works worst it crashes when launching ncurses applications.,unixporn,cgpsy6x,1,t5_2sx2i
+756063,0,t1_cgq6d39,Thaaaank you .,unixporn,cgq7yw6,1,t5_2sx2i
+759470,0,t3_22o0qy,Nice job keeping RAM and HD space minimal too.,unixporn,cgqlwoq,1,t5_2sx2i
+764945,0,t3_22so9d,deleted,unixporn,cgr8a76,1,t5_2sx2i
+774559,0,t3_230zj5,Dotfiles here,unixporn,cgsblbq,3,t5_2sx2i
+780597,0,t1_cgszkyx,Thanks! This will be myotivation to learn it .,unixporn,cgt0acy,0,t5_2sx2i
+783309,0,t1_cgtb34y,yeah friends of mine are game developers. they are constantly doing rendering magic and texture tricks to get lower poly counts and still make their models look good. i find it really funny they still use the same format MDMD from the doomquake days. i guess if it isnt broke dont fix it!,unixporn,cgtbe1o,1,t5_2sx2i
+792082,0,t1_cgu9wn0,Please do delicious setup,unixporn,cgubaq3,3,t5_2sx2i
+795692,0,t3_230zj5,What shell is that? Is it standard for the prompt to be on the next line? I keep seeing it around here.,unixporn,cguq1ug,1,t5_2sx2i
+807267,0,t1_cgvzhg5,I dont really like the launcher on the side so I installed Plank. I guess Im gonna change my distro to elementary OS when Isis drops in I like its esthetics way more then Ubuntu.,unixporn,cgw1guj,2,t5_2sx2i
+808921,0,t1_cgw5v4z,uqsys is going super hard on arch users lol,unixporn,cgw88wz,2,t5_2sx2i
+820359,0,t1_cgx63vv,Lol that would work then. Very Nice.,unixporn,cgxizhb,1,t5_2sx2i
+821280,0,t1_cgxktxu,I didnt downvote you but uh isnt there a button to save posts?,unixporn,cgxmqw8,1,t5_2sx2i
+842491,0,t3_23qnjc,oh nice. I use that same wall on my desktop and crunchbang laptop. The colors of it go so well with grey themes and terminals which go well with having a nice color palette for your terminal colors. ,unixporn,ch01ldi,1,t5_2sx2i
+847966,0,t1_ch0dkxz,I was a notorious Distrohopper too until i tried Fedora.     Its just the perfect amount of new packages with nearly Debian like stability from my expierience    And yum is a really nice package manager.,unixporn,ch0o202,2,t5_2sx2i
+851923,0,t1_cgzz99e,Scroll down a bit enjoy. ,unixporn,ch149vy,1,t5_2sx2i
+864275,0,t3_240a8u,Is that an sl?,unixporn,ch2iupd,1,t5_2sx2i
+870531,0,t1_ch38c1a,Thanks its Tint. I guess the Blue on white is a little hard to read. I didnt really change my colorscheme from my darker theme. I think making it a darker blue is a good idea.,unixporn,ch38fd7,1,t5_2sx2i
+887951,0,t1_ch51z8x,Not at all here it is.Also I edited tile.py layout a bit.,unixporn,ch57oyi,1,t5_2sx2i
+926229,0,t3_24pj0l,Can I ask why you prefer this blocky pardon my wording I am not native font over smooth shapes that are things like Inconsolata or Source Code Pro? Frankly I find above almost unreadable.,unixporn,ch9kfg3,1,t5_2sx2i
+972975,0,t1_chepqgw,deleted,unixporn,chevx8u,1,t5_2sx2i
+977322,0,t1_chfaioa,I like the color in your conky setup. Nice touch.,unixporn,chfdox5,3,t5_2sx2i
+977877,0,t1_chff5tf,Ive had some trouble with configuring bitmapfonts as well. I installed termsyn and the bugger wouldnt show up in urxvt. At first I thought I had somehow screwed up my .Xresources but it wouldnt show the traditional pink screen of AWW SHIT! so I figured that the problem must lie elsewhere.I had to do some extra research on Arch Wiki before I realized that I had to add usrsharefontslocal FontPath to my xorg.conf.And then I was happy with my awesome new font for a while until I ran to some problems with zsh or something...Thats how you learn best. Doing something wrong figuring out the problem and fixing it.,unixporn,chffyny,1,t5_2sx2i
+986321,0,t3_25dxbh,All that nice dark terminal styling then boom eye burning chan CSS. D,unixporn,chgehzr,3,t5_2sx2i
+997892,0,t3_25i8nx,Whats your Xfce theme? ,unixporn,chhpuix,2,t5_2sx2i
+1006318,0,t1_chhykpu,What is the battery life like?,unixporn,chiocnb,1,t5_2sx2i
+1049552,0,t1_chnkubh,This may sounds rather ignorant but do these third party programs bring any daytoday casual use to the platform or is it mostly programs that get in the guts of the OS and stuff? Basically If Im not a dev and I install this will I notice its usefulness in my every day computing? Or will I have to go looking for it to be useful?,unixporn,chnl7fn,1,t5_2sx2i
+1052596,0,t1_chnuokn,ncmpc,unixporn,chnxo1o,1,t5_2sx2i
+1056358,0,t1_chod0k6,Thats impossible surely! LOL,unixporn,chod286,1,t5_2sx2i
+1063156,0,t1_cholzt4,thx ... looks great btw. I will probably steal some ideas! ,unixporn,chp4vtr,1,t5_2sx2i
+1063417,0,t1_chox7t1,XQuartz,unixporn,chp5y92,4,t5_2sx2i
+1063480,0,t3_2695e7,Browser?,unixporn,chp67iw,1,t5_2sx2i
+1064232,0,t1_chp8sqd,Mine is trying to be an exact copy of the API. Other than that not so much.,unixporn,chp9abv,1,t5_2sx2i
+1078682,0,t1_chqw9pp,Look at the title. ,unixporn,chqwdut,12,t5_2sx2i
+1092279,0,t1_chsca8k,Oh sorry completely missed your comment. Its docky.,unixporn,chsg24i,1,t5_2sx2i
+1097307,0,t1_chszx3n,This please. I genuinely enjoyed every bit of your setup. Been trying to find some good OSX flat examples for a while!,unixporn,cht0nz9,6,t5_2sx2i
+1099987,0,t1_chta3aw,For music control I use  a great little app that I just found today!Icons I changed by hand.,unixporn,chtbnx9,2,t5_2sx2i
+1123393,0,t1_chvzboi,Ohhh got it thanks,unixporn,chvznzv,2,t5_2sx2i
+1126360,0,t1_chwbl4o,Oh sorry I thought you were talking about Isis..,unixporn,chwbp06,4,t5_2sx2i
+1127346,0,t3_271150,This is beautiful but for a second I thought your GNULinux logo was the Starbucks logo which really threw me.,unixporn,chwfowd,2,t5_2sx2i
+1131363,0,t1_chwvyml,Ah okay cool. Glad it worked out!,unixporn,chwvzad,2,t5_2sx2i
+1154200,0,t1_chze5w4,troll..,unixporn,chzgon4,5,t5_2sx2i
+1195238,0,t3_27ssnn,Theres probably a reason it doesnt... ,unixporn,ci42zss,-3,t5_2sx2i
+1213947,0,t1_ci2mc7d,Careful with that edge bro,unixporn,ci66r8s,1,t5_2sx2i
+1222230,0,t1_ci73r9q,Is it your favorite? Im starting to really want one because its tiny and Im too used to laptop keyboards to feel comfortable on a huge desktop keyboard like the das ones. Id have to use das full time for a while to get used to it,unixporn,ci74b1x,3,t5_2sx2i
+1222257,0,t1_ci7454m,Awesome I will make sure go with a radeon eyefinity card in my new build.,unixporn,ci74ezb,8,t5_2sx2i
+1224740,0,t1_ci5veza,Also not to mention you censored the window title but your CLI shows your user name right below it...,unixporn,ci7egrk,2,t5_2sx2i
+1229596,0,t1_ci7y1vj,Thanks i was looking for a decent white setup and then posted yours very nice thanks for the configs. I will stalk you on github ,unixporn,ci7y41m,1,t5_2sx2i
+1277759,0,t1_cid7hmc,Well I knew Cinnamon was but I guess thats why I assumed MATE was as well. ,unixporn,cidd5tp,1,t5_2sx2i
+1333339,0,t3_297kj8,Whoa! What browser is this?,unixporn,cijm7y4,1,t5_2sx2i
+1346234,0,t3_29hogo,which new rules?,unixporn,cil2fie,9,t5_2sx2i
+1349267,0,t3_29iuwp,Its beautiful D What dock is that?,unixporn,cilf7qs,6,t5_2sx2i
+1362686,0,t1_cimx2gj,Can you send me your perdomainsettings I cant get mine to work,unixporn,cin3orb,1,t5_2sx2i
+1375083,0,t1_cionf1v,What font would you suggest? Heres the script for the rain.,unixporn,cionjh0,4,t5_2sx2i
+1397946,0,t1_ciri0b6,Some dubious taste in music going on over there,unixporn,cirihlk,4,t5_2sx2i
+1401156,0,t3_2a35j5,Pardon me but what is the program that shows the system info and ascii art of the distro? I see it everywhere but I dont  know what its called. ,unixporn,cirwylx,1,t5_2sx2i
+1407947,0,t3_2a9ezf,Sorry for potato quality...Links to the distros homepages Alpine  Small distro based on busybox and musl libc Crux  Lightweight distro which focuses on the KISS principle Void  A modern distro based on a revolutionnary package managerKeep tweaking !,unixporn,cisrkrq,10,t5_2sx2i
+1413425,0,t1_citc7rx,You can checkout my dotfiles here See .Xresources ,unixporn,citga1o,1,t5_2sx2i
+1416009,0,t1_citmp0t,Switching focus left for me is alth how are you using more than two keys to switch focus?,unixporn,citrx6z,1,t5_2sx2i
+1420840,0,t1_cilxx2a,I want to know that tooEDIT nevermind found it here,unixporn,ciudows,1,t5_2sx2i
+1434824,0,t1_ciw4bj5,deleted,unixporn,ciw4r7y,3,t5_2sx2i
+1443664,0,t3_2aolv1,Could you clarify what you meant by  years of updates? Have you been using the same OS ongoing for  years? If so wow ,unixporn,cix8mow,8,t5_2sx2i
+1458192,0,t1_ciz1xox,Hah thanks!,unixporn,ciz25nt,2,t5_2sx2i
+1496652,0,t3_2bcakz,Slowly sliding into dwm trap so this might be the last openbox scrot from me.,unixporn,cj3vp0u,1,t5_2sx2i
+1496813,0,t1_cj3um6y,I meant to remove it but I was on mobile and forgot.,unixporn,cj3wf7d,1,t5_2sx2i
+1510251,0,t3_2bgm7d,I love the overall color scheme. Very nice job!,unixporn,cj5l3cz,3,t5_2sx2i
+1549055,0,t3_2bzm31,Your post title appears to be missing a tag. See section  for more details but briefly Screenshots requires WMDE Workflow requires WMDE Hardware requires DEVICEI am a botrAutoModeratorcommentsqpuwhatisautomoderator and this action was performed automatically. Please contact the moderators of this subredditmessagecompose?toFrFunixporn if you have any questions or concerns.,unixporn,cjag4eu,1,t5_2sx2i
+1550426,0,t1_cjai8v5,The Philips IPS  monitor that I have is fantastic.  The only downside is that there are a few games that dont support the extra wide screen function and it will put black bars on the left and right side.  But other than that it is fantastic.  But this doesnt come without a hefty price tag.,unixporn,cjamb4w,1,t5_2sx2i
+1552377,0,t1_cjajbzz,Attach the details comment youve given here and the dirty screenshot to this postEDIT never mind  I fixed for you,unixporn,cjav3w9,1,t5_2sx2i
+1566545,0,t1_cjcaaxu,rnumixOnly because Ive been told the same.,unixporn,cjcn1om,0,t5_2sx2i
+1583945,0,t1_cjetrif,Thankyou man! I guess I could have done a reverse img search but Im too lazy. Thanks again though!,unixporn,cjetui4,1,t5_2sx2i
+1586642,0,t1_cjf0q2h,Is it really a DE? By what definition? Btw I use it and like it to a reasonable degree but I dont think its a fullfledged desktop environment. It uses Gnome apps and Compiz with Unity as a plugin. ,unixporn,cjf61v7,1,t5_2sx2i
+1632830,0,t1_cjkrbkq,no it works with the ascii better.,unixporn,cjkzej3,1,t5_2sx2i
+1636309,0,t1_cjlc7x0,mpdviz,unixporn,cjlf6tz,5,t5_2sx2i
+1647016,0,t1_cjmrdrk,Wait howd you get icons in bar? ,unixporn,cjmrqar,1,t5_2sx2i
+1679628,0,t1_cjqvkzn,I think its implemented in the development branch but there are some issues with inconsistency with different fonts and ram usage. I will wait patiently!,unixporn,cjqvob6,1,t5_2sx2i
+1690643,0,t3_2drb8j,Wallpaper please ?,unixporn,cjs9pra,2,t5_2sx2i
+1691768,0,t3_2drtyg,uses conky for the bar i really like the stacked windows for hangouts bar turns red to notify of new messages.,unixporn,cjsetb2,3,t5_2sx2i
+1693417,0,t3_2drb8j,How are you finding MATE? Also what version of MATE are you using?,unixporn,cjsma7x,2,t5_2sx2i
+1706435,0,t1_cju8v0e,Thanks! Ill check it out tomorrow!,unixporn,cju9b0b,1,t5_2sx2i
+1708988,0,t1_cju2f3h,Oh god yes. I played around with Arch in VM first before doing a system wide installation. After you get past the setup it all flows smoothly together.,unixporn,cjukvoa,3,t5_2sx2i
+1736046,0,t3_2ebvme,deleted,unixporn,cjxzraj,0,t5_2sx2i
+1739943,0,t1_cjyafup,You should use firefox,unixporn,cjyhevj,1,t5_2sx2i
+1751776,0,t1_cjxy7yp,What font is that in the console windows? edit nvm silly question I see that it is ohsnap from the first link.,unixporn,cjzywvt,1,t5_2sx2i
+1755919,0,t3_2el195,panel xfcepanelcompositor compton,unixporn,ck0hp53,2,t5_2sx2i
+1756277,0,t1_ck09l4p,Im using ncmpcpp from the official repos and visualizations work just fine for me.,unixporn,ck0jbi1,2,t5_2sx2i
+1790341,0,t1_ck4iadr,Bspwm is the best! I think shadows would make you setup pop out more though which is what I meant and I wouldnt worry about performance impact since my school laptopGB of RAM and GHz proccesor runs bspwm and compton with shadows and keeps a nice idle load of about MB on RAM. I would reccomend maybe using urxvt but thats a very personal choice.,unixporn,ck4to00,1,t5_2sx2i
+1792447,0,t3_2f0hm6,AFAIK to remove the borders youd have to use a tiling WM like i or bspwm,unixporn,ck536v0,1,t5_2sx2i
+1823821,0,t1_ck8qsgo,Fluxbox. I think that I went through a stage with just about every window manager out there. I was a huge Afterstep user for a long time too.,unixporn,ck8yku3,2,t5_2sx2i
+1835366,0,t1_cjy4x6b,its call Ncmpcpp you can customize the way it looks the progress bar of the song and the way the visualizer looks if you search Man pages it will explain to you in more detail and thanks for the comment D,unixporn,ckacv85,1,t5_2sx2i
+1845988,0,t3_2foljr,Well done I really like it  ,unixporn,ckbmybs,1,t5_2sx2i
+1855875,0,t1_ckc8os8,Any word on posting your .conkyrc?,unixporn,ckcttfv,1,t5_2sx2i
+1879775,0,t1_ckfoh70,Script located hereAdjust things according to taste.,unixporn,ckfpfcg,1,t5_2sx2i
+1895207,0,t3_2g9ylv,Well here goes nothing eOSCurrently have an Arch VM in very early progress too hereEverything available upon request.,unixporn,ckhk9tk,3,t5_2sx2i
+1932819,0,t3_2gsiag,one time you got into i you never go back,unixporn,ckm3a82,1,t5_2sx2i
+1989466,0,t3_2hgy1c,And Saved for later!. I run LM  Cinnamon. This looks fantastic!,unixporn,cksxj37,1,t5_2sx2i
+1990777,0,t1_cksy4vx,insert shameless self promotion for my darkhub github theme.,unixporn,ckt37cx,2,t5_2sx2i
+1999530,0,t1_ckn6iaa,Im in the same boat  especially if youre trying to fuck with a weird color scheme.,unixporn,cku55qb,1,t5_2sx2i
+2005996,0,t3_2hpqip,I love LXDEon it right now,unixporn,ckux5hh,3,t5_2sx2i
+2048423,0,t1_ckzs1up,terminal font? ,unixporn,cl076wi,2,t5_2sx2i
+2048494,0,t3_2i8bk6,,unixporn,cl07iki,3,t5_2sx2i
+2081948,0,t1_cl4elb7,I have no idea but it sure is pretty.,unixporn,cl4gm2j,3,t5_2sx2i
+2111611,0,t1_cl87d7k,You ended up uploading two images anyway so why not upload a high quality one?,unixporn,cl88bb3,1,t5_2sx2i
+2124639,0,t3_2j9qom,I love it. I feel like the internet browser and file browser title bar should be themed with the rest. Good stuff though!,unixporn,cl9vzhs,2,t5_2sx2i
+2140851,0,t3_2jgpvh,Be wary of breaking rules . and .. in future ,unixporn,clby6sn,1,t5_2sx2i
+2162099,0,t1_clem5fl,How do you recommend I get used to reading it before completely redoing my UI? How long did it take you to be able to read it relatively well?,unixporn,clenhp2,1,t5_2sx2i
+2188447,0,t1_cli03ku,Yeah  we had a similar problem with pomf.se when a server crash caused a large portion of the images to go missing. I have been talking with them though and this seems to be fixed so theyre back in consideration along with Picassa. Unfortunately sort of going full fascist and switching to approved submitters filtering unreliable users isnt possible so its much easier to deal with the tools.,unixporn,cli06qh,2,t5_2sx2i
+2189594,0,t1_clhpc2m,Imagine how much power that beast must pull when under load. Hell I can probably buy it instead of a space heater and have it make enough heat to warm up my entire house. ,unixporn,cli5fyo,1,t5_2sx2i
+2229752,0,t1_cln61ht,default!,unixporn,cln96ah,1,t5_2sx2i
+2234196,0,t1_clntgwd,Thank you very much!!,unixporn,clntj6o,2,t5_2sx2i
+2245697,0,t1_clp8uqv,GNU Parallel doesnt really apply to our domain were interested in taking the core numerical computations of a scientific application e.g. matrix multiplication matrix inversion FFT etc. and compiling them to run on multicore CPUs and GPUs.  GNU Parallel seems more appropriate when you have a small command that you need to run many times e.g. running a text filter on a large number of text files.,unixporn,clpa4ij,8,t5_2sx2i
+2250408,0,t1_clp6uyi,He has  times as much RAM as I have SSD space.,unixporn,clpvf1m,6,t5_2sx2i
+2258867,0,t1_clqtn5v,Very reliable when you need a really long song title. D,unixporn,clqx0xz,1,t5_2sx2i
+2316132,0,t3_2lrhuu,Brings me back to the bad ole Solaris days,unixporn,clxzmae,0,t5_2sx2i
+2319291,0,t1_clyd52w,meh. i just grabbed it from your git. ,unixporn,clydmwl,0,t5_2sx2i
+2359261,0,t1_cm2wsrc,I was thinking... elegant ,unixporn,cm3bcyx,2,t5_2sx2i
+2361911,0,t1_cm3n1q2,Its the last version of GNOME and the transparency is ,unixporn,cm3n59k,2,t5_2sx2i
+2370893,0,t3_2mj2vp,I like your color scheme a lot,unixporn,cm4r1ev,2,t5_2sx2i
+2376800,0,t1_cm5e3a9,mpd  ncmpcpp,unixporn,cm5hc10,3,t5_2sx2i
+2379790,0,t1_cm5lwjf,It depends. Manjaro is basically just Arch with some preinstalled software but I do recommend trying it before you install Arch. The reason I switched was because I had changed my setup so much and was pretty familiar with everything. I was initially just going to use the Manjaro minimal install but theres really no point if youre willing to read a wiki for like  minutes. Id say the main benefit is that it comes completely empty and you only put what you need on it. I also thought it was pretty fun installingsetting up and I learned a lot from doing it.,unixporn,cm5umh5,2,t5_2sx2i
+2380512,0,t1_cm5dfd3,Honestly? Its too big for my desk. Its a  and my desk is only . It literally takes up more than half my desk.Also I only bought it for movies and games. Since the switch to arch I dont play many games anymore and having it just for movies seemed pointless.,unixporn,cm5xtzj,1,t5_2sx2i
+2386365,0,t1_cm6nk1b,Fantasque possibly one of the best things Ive discovered on the internet.,unixporn,cm6nvh4,4,t5_2sx2i
+2423295,0,t1_cmb67qu,deleted,unixporn,cmb8789,1,t5_2sx2i
+2425005,0,t1_cmbeqt6,Its not held in the best light by the reddit Linux community.,unixporn,cmbfs8f,6,t5_2sx2i
+2457852,0,t3_2noono,I really enjoyed Qtile when I used it. Definitely worth a look.,unixporn,cmfhqr5,1,t5_2sx2i
+2458056,0,t1_cmfh0vx,Ah  thanks alot for the links ! I know what Ill do in my spare time this week end ,unixporn,cmfindd,1,t5_2sx2i
+2473825,0,t3_2nw7w6,OS FreeBSDWallpaper Colors ,unixporn,cmhgssf,4,t5_2sx2i
+2482012,0,t1_cmiidq0,Is that urxvt your using? Iv been using it for a couple months and i cant seem to get that flat sort of color you and everyone else has here. Is it the Twighlight color scheme that does that or is it something else?,unixporn,cmijcoo,2,t5_2sx2i
+2517758,0,t3_2og4hv,I really use i default keybindings D it so easy,unixporn,cmn7jng,1,t5_2sx2i
+2518847,0,t1_cmn3h6p,Id really like to get a couple extra screens myself but Im a laptop guy and move around a lot so Ive always thought that it just wouldnt be worth the inconvenience. Just found out USB . Full HD touch monitors are a thing though. Maybe Im gonna get one of those.,unixporn,cmnco9i,2,t5_2sx2i
+2540982,0,t1_cmq0tut,thanks for the explanation and yea I can see what you mean with elementaryOS amp numix,unixporn,cmq8r3l,2,t5_2sx2i
+2570722,0,t1_cmu4m8d,Ok I stand corrected. Its a div.,unixporn,cmu4r1p,1,t5_2sx2i
+2614615,0,t3_2psw9h,As you mention urxvt and inconsolata i have an issue with Inconsolatag  Start as param works urxvt fn xftInconsolatagstylegpixelsize  This doesnt URxvt.font xftInconsolatagstylegpixelsize  I tryied also xftInconsolatagstyleg and xftInconsolata gstyleg and many other escape space variations    Inconsolata without g works as param and config very strange.,unixporn,cmzv9kg,1,t5_2sx2i
+2624461,0,t1_cn0o4ba,I run it headless most of the time connected to a basic set of speakers  sub via aux cable. I sometimes will ssh into it to remotely start youtube videos with mpsyoutubeomxplayer and an external monitor connected but Im mostly using it for internet radio and as a vpn server.,unixporn,cn15jo6,1,t5_2sx2i
+2636821,0,t1_cn2am5o,haha I like that!,unixporn,cn2rkjp,1,t5_2sx2i
+2644361,0,t1_cn3qq98,The better Yes. ,unixporn,cn3r11z,1,t5_2sx2i
+2692152,0,t1_cn9wphy,I was about to ask the same question. Are you both Unixloving physics students as well?,unixporn,cn9zfdz,2,t5_2sx2i
+2695622,0,t1_cna7dq0,Systems engineer?,unixporn,cnafqfr,1,t5_2sx2i
+2701178,0,t1_cnalxz6,Oh thats true. Hopefully tilingwm users will be enough savvy to see that and modify it. Thanks for the hint though.,unixporn,cnb43ko,1,t5_2sx2i
+2724324,0,t1_cnd6xnn,blurred wallpaper link dead ,unixporn,cndqt17,1,t5_2sx2i
+2728106,0,t1_cne2tjl,I see it more as just moving the configuration youd do in xinitrc to a separate file to make it less cluttered.,unixporn,cne6a5l,5,t5_2sx2i
+2735879,0,t1_cnevo9g,Thanks,unixporn,cnf22jj,1,t5_2sx2i
+2740144,0,t1_cnfjgum,I usually download RAM and disk space every morning from the Google but screenfetch updates them correctly...,unixporn,cnfjjul,1,t5_2sx2i
+2767237,0,t3_2rq3ui,Nice to see an unorthodox WM!Whats it like? Can you compare it with i or awesome?Edit Did you write this WM? Just noticed that your screenshot is identical to the one on Github.,unixporn,cnimhju,3,t5_2sx2i
+2773058,0,t1_cnj7l6t,rm f override i,unixporn,cnjabo8,2,t5_2sx2i
+2802807,0,t3_2s5imh,Wallpaper eFont gohufont ptRunning OpenBSD . on an iBook G Late . mksh as the shell swm as the window manager with a simple tiler script that Ive been writing.,unixporn,cnmo3mk,3,t5_2sx2i
+2805301,0,t1_cnmw8au,Do it! Its kinda liberating to not worry about moving placing or resizing windows anymore.,unixporn,cnmybzg,3,t5_2sx2i
+2806772,0,t1_cnmsz9g,thats the one thank you. I have updated the details comment,unixporn,cnn4dgd,1,t5_2sx2i
+2818617,0,t1_cnnmmef,Thanks for providing the source! The sloth in me was about ready to bail when I thought Id have to retype some of these. Minor glitch possibly just me the image host your screenshot is trying to load from isnt resolving.,unixporn,cnogxdp,1,t5_2sx2i
+2847541,0,t1_cnrkm07,Tmux new s session name,unixporn,cnrrjiq,1,t5_2sx2i
+2864583,0,t3_2sx7k8,Similar to  this is also Debian sid unstable running on an Atari but not on real hardware but a virtual machine  MiB more RAM and a couple of MHz more about  emulated MHz IIRC. Back then X was not working with the Atari hardware any more it used to but X.org threw it out Geert Uytterhoeven patched it back in which is why we could take the Falcon photos this weekend so this was inside a VNC server. Surprisingly enough the full kdeplasmadesktop was smoothly usable until I started KDEPIM but that was slow even on my x desktop back then. For lulz I even added the company Kolab account to Kontact although I disabled syncing private stuff in order to make a publishable screenshot. And the ApachePHP on localhost was also just for fun and testing whether things do work.,unixporn,cntpcoz,1,t5_2sx2i
+2886146,0,t1_cnvydmk,Will google it!!Thanks antinull!!,unixporn,cnw5ol5,1,t5_2sx2i
+2894276,0,t3_2sz5xo,God damn probably the best shot Ive seen on this sub period.,unixporn,cnx2zt0,1,t5_2sx2i
+2903027,0,t3_2sojoa,Holy shit. Its so pretty. I want to do something like this but Im so busy with classes interviews etc.,unixporn,cny2w90,2,t5_2sx2i
+2905377,0,t1_cny7exx,Yours is pretty nice already I think theres a checkbox in your Imgur profile which you can tick so Imgur doesnt do that to your screenshots ,unixporn,cnycig7,1,t5_2sx2i
+2907598,0,t1_cnylgmu,screenfetch,unixporn,cnyln6q,1,t5_2sx2i
+2909250,0,t1_cnyrwbu,Which thinkpad did you get? Id like to buy a thinkpad to run linux on but I dont know which one has got the best support as far as drivers concern.,unixporn,cnyseyc,3,t5_2sx2i
+2943464,0,t3_2tuckx,Computer Science student. ,unixporn,co2oo9t,1,t5_2sx2i
+2954897,0,t3_2tzz3j,Deja Vu Sans mono. Its a relative of Menlo for OSX,unixporn,co3zib1,6,t5_2sx2i
+2956654,0,t1_co468rd,Hmmmm. Ok. Thanks for all the info.,unixporn,co46prc,1,t5_2sx2i
+2967160,0,t3_2u51ay,The colors are varied enough so it is not boring but still not overwhelming. Looks great!,unixporn,co5dqmh,1,t5_2sx2i
+2968560,0,t1_co59k5j,gtProfont?Tewi and thank you.,unixporn,co5jgh5,2,t5_2sx2i
+3011548,0,t3_2uoa69,Waiting for wallpaper  colorscheme requests ...,unixporn,coa58i3,1,t5_2sx2i
+3028046,0,t3_2ur1o5,I wish iwm developers would simply accept the padding patches. Their reasoning is that iwm is supposed to be space efficient and use all the space available.Let me do that decision for myself right?,unixporn,cobus6y,1,t5_2sx2i
+3051952,0,t1_coe07ze,Why did you switch from Arch? Did it take a lot of time to install Gentoo? Also your meter next to the track name looks really nice! ,unixporn,coebzww,1,t5_2sx2i
+3067703,0,t1_cofx9m5,Woosh,unixporn,cofypds,6,t5_2sx2i
+3077278,0,t3_2verf8,You dont appear to be using an approved host Please resubmit using one of them but feel free to leave mirrors to host in your details comment.Contact us if our bot has messed up,unixporn,cogyh6p,1,t5_2sx2i
+3084191,0,t1_cogj2yf,Oh no.. so Crunchbang isnt around anymore? Thats sad news  I was about to try it... well Ive been about to try it for a year or so now.. ,unixporn,cohob4f,1,t5_2sx2i
+3091602,0,t3_2vjnit,Double commander  file managerDeadbeef  music playermpv  video playerrofi  launcher,unixporn,coifyq1,7,t5_2sx2i
+3103080,0,t1_cojknkh,. in bar. in IRC client bottom left of top tmux window. tmux clock bottom right. ncmpcpp clock not hard to find. htop clock,unixporn,cojmsu3,2,t5_2sx2i
+3104503,0,t1_cojqgcy,What do you mean with cant avoid? You need to sendreply in HTML? Incoming HTML can be rendered there are plugins for thatone based on webkit the other I dont currently know.For sending you could probably script that at the server level filter for XMailer Claws and if found wrap the contents and then send it.,unixporn,cojs3xw,1,t5_2sx2i
+3107934,0,t1_co6mi4h,Checked out the aui scripts on your recommendation and installed Arch on a VM. Worked like a charm! Seriously considering going over to Arch on my devmachine full time now.Thanks a lot for the pointer!,unixporn,cok4wxg,2,t5_2sx2i
+3108886,0,t3_2vreq6, gtk Numixflatstudio  icons Numix Square wallpaper Flat another screenshot  ,unixporn,cok8ghc,3,t5_2sx2i
+3117081,0,t3_2vstl0,Nice to see someone else who uses Python to make using a mainframe suck less.,unixporn,col32jn,1,t5_2sx2i
+3120697,0,t1_colfe2g,Yeah I feel you definitely not ready to put Gentoo on my laptop either I guess it only really shine when used on a powerfull desktop where you can compile without worring for the heat or battery.Just curious why do you say last experience did you settle or moved away ?   I currently only use eix to sync my portage try and seek packages it maintains a binary database for the package index making search for package or  keywords instantaneous which is really nice.so I dont really know all of its features still discovering  I dont have a .Xresources actually all the shiny coloring is made out of the box by eix or the lolcat program piped to the screenfetch or the fish shell which does quite at lot of coloring as well.      ,unixporn,colgjoy,2,t5_2sx2i
+3135953,0,t3_2w1xyi,which browser is that ? Looks super nice! ,unixporn,con1dxw,1,t5_2sx2i
+3136732,0,t1_con32yl,Wallpaper,unixporn,con4aj0,2,t5_2sx2i
+3156974,0,t3_2wbb26, wallpaper Academy City gtk Paper openbox Siva Flat Icons NumixSquare dock DockBarX for xfce panel  music player is Noise or Music from Elementary OS vid player is bakamplayer from aur probably,unixporn,cop7uxk,2,t5_2sx2i
+3165919,0,t1_coq0e8g,Openbox is a window manager which controls window decorations placement removal etc. Desktop environments like XFCE give you a window manager as well as usually a nice suite of common applications music player image viewer text editor etc. and a settings gui for everything. LXDE uses openbox by default IIRC.XFCE uses xfwm but you can easily stop it from starting and autostart another wm like Openbox or Bspwm which I used with XFCE before switching to standalone Bspwm in its place.,unixporn,coq5a22,1,t5_2sx2i
+3180054,0,t3_2wkbcg,Wallpaper Black Hole from interstellar render from rspacepornDock CairodockGot a new Dell Venue  for work with windows . it was absolutely disgusting.Put Fedora Latest on it and got all my administrative and office apps running under wine made a few hacks to make them all respond to touch input now I can use a tablet to do real work.,unixporn,corm0uz,4,t5_2sx2i
+3182067,0,t1_coq7ev2,That would be Terminator,unixporn,cortjts,1,t5_2sx2i
+3182129,0,t1_cortjp2,Having Eclipse Skype and Chromium running at the same time eats up . gb. If I launch GIMP or Blender thats going to eat up even more. Have to cut corners where you can to dedicate RAM to software you actually need ,unixporn,corts7f,1,t5_2sx2i
+3192954,0,t1_costpr0,deleted,unixporn,cosy6yz,1,t5_2sx2i
+3194403,0,t1_coswmu7,That resolution and aspect ratio  were very common for early flatscreen monitors. ,unixporn,cot3lrb,4,t5_2sx2i
+3204547,0,t1_cotjqna,I am interested in dual booting with my laptop that has windows  on it with UEFI any recommendations for not messing that up?,unixporn,cou5fkf,1,t5_2sx2i
+3225351,0,t1_cowac5s,I am running Linux Mint ..,unixporn,cowb88h,3,t5_2sx2i
+3234510,0,t1_cowl4wy,Thank you! I hope youll be part of the next ones ,unixporn,cox9hdt,1,t5_2sx2i
+3282012,0,t1_cp2bvg9,great thanks a bunch! ,unixporn,cp2dk2s,1,t5_2sx2i
+3295472,0,t1_cp3vjld,I removed BG color from the list of accepted colors because OSC doesnt support transparency or does it? Thatd be awesome.No idea why it doesnt work in st if you uncommen though... Dumb question but are you sure your xrdb script included one?,unixporn,cp3wsb9,1,t5_2sx2i
+3300423,0,t1_cp4gvm2,Aha okay sorry Im pretty knew to this. But I want a simple layout like this one I dont know what wmde Im using yet because I dont know what distro to pick. As I said Im knew to this.,unixporn,cp4h3hw,2,t5_2sx2i
+3304175,0,t1_cp4qevl,Same here! Im a hobbyist musician and Linux enthusiast and that caught my attention immediately!,unixporn,cp4wi1o,3,t5_2sx2i
+3313593,0,t3_2y38tj,What music visualizer is that?,unixporn,cp5z7ey,2,t5_2sx2i
+3328578,0,t3_2y6h8y,Nice one Im working on my awesomeWM setup too.,unixporn,cp7oo7s,2,t5_2sx2i
+3388528,0,t3_2yy20a,Have you tried Liberation Mono ?,unixporn,cpeip74,2,t5_2sx2i
+3389945,0,t1_cpeobpt,deleted,unixporn,cpeoieq,1,t5_2sx2i
+3397918,0,t1_cpf5j9l,deleted,unixporn,cpfl7he,1,t5_2sx2i
+3400067,0,t1_cpfqabn,Im kind of using the second panel like a dock Ive considered a few others but the only thing really missing from xfcepanel is intelligent autohide i.e. dont hide dock when theres no windows over it. Currently I just have it set to auto hide and then show it for screenshots. Xfce . I think brings that feature in. Once Jessie is released and I upgrade Ill probably backport . in. ,unixporn,cpfu0m9,2,t5_2sx2i
+3408548,0,t1_cpfup2b,gt type startx  gt GUI is no moreYeah about that... o.O,unixporn,cpgsst4,3,t5_2sx2i
+3408625,0,t1_cpgkffq,Added them to the list!,unixporn,cpgt46k,2,t5_2sx2i
+3410189,0,t1_cpgs2ht,talk about pretension you made an account for this rant? u jelly much? if you dont like a scrot down vote it. youre not gonna make us  termfags go GASP! look at those buttons and that subtle gradient! i need to install GTK right away! this is the UX ive been missing in my life!op i upvoted you for a cool scrot even though i guess im a hipster now,unixporn,cpgzj5l,3,t5_2sx2i
+3410735,0,t3_2z9ise,Here is a little addition  ,unixporn,cph1ruc,28,t5_2sx2i
+3415134,0,t3_2sz5xo,O,unixporn,cphjsnu,1,t5_2sx2i
+3415392,0,t1_cphhuss,Pour quoi je sais quoi vous parlez. Jai apprendre francais  ans avant devant.,unixporn,cphkuqp,2,t5_2sx2i
+3459597,0,t1_cpmjdmz,He is using Bartender Its a paid app but its worth it. I also got it on my mac.,unixporn,cpmmbje,2,t5_2sx2i
+3461326,0,t1_cpmsjrq,Pro tip when you post a question on an online forum and then get it to work yourself you should post a comment explaining how you got it to work so that people who have the same question as you did can find the answer easily. ,unixporn,cpmtego,26,t5_2sx2i
+3480157,0,t3_301gha,Whats your ls alias and bashrc?,unixporn,cpoyoig,1,t5_2sx2i
+3480345,0,t3_2zx45d,Hey that looks really good actually.Screams HEY SOMEONE TURN ON MY COMPUTER SO I CAN SSH IN AND INSTALL TRINITY!,unixporn,cpozg6o,2,t5_2sx2i
+3488196,0,t1_cpp47dr,What config did you use to style the shell prompt?,unixporn,cppvo88,1,t5_2sx2i
+3494804,0,t1_cpqfn7b,Power management is fine but my battery is broke on this laptop.,unixporn,cpqms9l,2,t5_2sx2i
+3495199,0,t1_cpq094b,or arandr if youre into graphical interfaces,unixporn,cpqoemx,2,t5_2sx2i
+3526997,0,t1_cpu7a3b,Is this hatetalk against lua? P,unixporn,cpuawa4,29,t5_2sx2i
+3613314,0,t1_cq44ik3,Its complex as fuck and breaks if you run a port scan on your device from localhost or if you look at it wrong. is it on GH if you wanted to see how I do stuff,unixporn,cq456ql,1,t5_2sx2i
+3631736,0,t1_cq68scf,I was wondering why people thought this was up for debate. The automod marked it automatically. Ill change it.,unixporn,cq68vau,7,t5_2sx2i
+3643964,0,t1_cq7mtql,Thanks gt,unixporn,cq7n08p,2,t5_2sx2i
+3668460,0,t3_32d2e3,Did you pay for Sublime yet? If not I highly suggest atom a more customizable free text editor with native integration with git. It has a lot of plugins to make it even better than sublime. Plus you can write your own.,unixporn,cqafgno,1,t5_2sx2i
+3701240,0,t1_cqe5smx,I like him better as the lead singer of Slayer,unixporn,cqe5zij,2,t5_2sx2i
+3725879,0,t1_cqgz0nx,deleted,unixporn,cqgz4ti,1,t5_2sx2i
+3751256,0,t3_337rji,I just login via commandline then autostart an X session via bashprofile with  z DISPLAY ampamp XDGVTNR eq   ampamp exec startx. This starts an X session without root privileges for you securityminded individuals out there and its blazing fast.You do have to edit your xinitrc to start your DEWM instead of the default twm if you do that. Also you dont get the fancy graphical stuff a displaymanager offers.,unixporn,cqjvav0,1,t5_2sx2i
+3780581,0,t1_cqn7jf1,i also made this silly ninja prompt,unixporn,cqn7pe1,6,t5_2sx2i
+3796988,0,t1_cq075ve,Nice one !How did you configure i and plasma  to work well together ?,unixporn,cqp34ur,1,t5_2sx2i
+3838121,0,t1_cqtrsmy,Oh  Could you then please share your panel config ? Thanks ,unixporn,cqts1us,1,t5_2sx2i
+3843127,0,t1_cqtxoto,Yup!Here is the backgroundAnd here is the source,unixporn,cqucmbz,3,t5_2sx2i
+3845091,0,t3_34gywn,I used... Icons Emerald apparently screen fetch disagrees probably displaying icon theme for gtk KDE Aurorea Windows EvolaureMight of missed something... Let me know if I did!,unixporn,cqukov5,1,t5_2sx2i
+3858286,0,t3_34m9kk,Whelp just had my first seizure.,unixporn,cqw2vta,3,t5_2sx2i
+3866468,0,t1_cqwzunm,Dwms default,unixporn,cqx0eya,2,t5_2sx2i
+3867695,0,t1_cqwft3x,Thanks!,unixporn,cqx5fxr,1,t5_2sx2i
+3885247,0,t1_cqywds8,Ah youre right,unixporn,cqz5h0p,2,t5_2sx2i
+3902332,0,t1_cr106bu,Archs documentation is amazing and Im usually referring to it even though I run a different distro.,unixporn,cr13mcr,5,t5_2sx2i
+3906507,0,t1_cqzrc2c,How do you handle beets not tagging your stuff correctly? It didnt recognize a bunch of my music and it bothered me enough to stop using the program.,unixporn,cr1kr64,1,t5_2sx2i
+3915209,0,t1_cqyiq67,Flux was my WM of choice for  years or so until I moved over to i. Loved Fluxs simplicity but love is keyboardcentric control far more.,unixporn,cr2khzt,1,t5_2sx2i
+3917460,0,t3_34gywn,What do you type to get the all in one system specs?,unixporn,cr2tr9u,1,t5_2sx2i
+3923386,0,t3_35dyaj,icons monomitecolorsscheme basechalkeditors vim and atomwallpaper here,unixporn,cr3i2xh,6,t5_2sx2i
+3942313,0,t1_cr5mumo,Thats awesome great idea.,unixporn,cr5nocy,11,t5_2sx2i
+3943980,0,t3_35mft8,Looks good amp consistent !What dock is it ? Plank ? It has a nice clear theme.,unixporn,cr5uily,3,t5_2sx2i
+3978011,0,t1_cr9bubx,This is the secret recipe.,unixporn,cr9q6aw,2,t5_2sx2i
+3996566,0,t1_crbu83s,I see Im using Xfceterminal and I dont think theres an option for padding. Ill look into rxvtunicode and Ill give it a shot. ,unixporn,crbuaob,1,t5_2sx2i
+3998779,0,t3_367a7i,Converge  gnome shell?! Want to be best friends?,unixporn,crc3ch5,2,t5_2sx2i
+4009617,0,t1_crcocbu,its just fake busy... and Im just learning C and emacs but I love how the font looks!! look close at the terminals and at the editor its all CamingoCode and for me its the first mono font that I have no issues at all with!,unixporn,crdbs1p,1,t5_2sx2i
+4031694,0,t1_crfn27l,What color scheme are you using in your terminal?,unixporn,crfuegg,1,t5_2sx2i
+4050449,0,t1_crhy0iv,Thanks. ,unixporn,crhzdt7,1,t5_2sx2i
+4055776,0,t1_cri36dr,Well technically itd be   ,unixporn,cril7l9,1,t5_2sx2i
+4057556,0,t1_crgv6c2,Shots fired it is though,unixporn,crisid6,1,t5_2sx2i
+4061038,0,t1_crgxi18,Can you elaborate on why you expect a ban on certain setups to increase the number of other setups? I dont see the connection and for that very reason I strongly disagree with the suggestion of banning content for periods of time. ,unixporn,crj6s5y,2,t5_2sx2i
+4073684,0,t3_377k09,Im gonna see if I can theme LightDM now...If its successful Ill post the results.,unixporn,crkmkgv,1,t5_2sx2i
+4087293,0,t1_crm3sw8,Yeah mate it is quite the coolest isnt it? ,unixporn,crm6de0,2,t5_2sx2i
+4089278,0,t3_37g5ik,Pretty sure the Unix in Unixporn means unix systems that being linux BSD OSX and probably some other stuff too. Windows is not unix based or like.,unixporn,crmehyb,4,t5_2sx2i
+4099508,0,t1_crnjhag,You should also post this on rvintagecomputing,unixporn,crnkhub,12,t5_2sx2i
+4135411,0,t1_crrmuh1,Thanks any recommendations on a tiling wm?,unixporn,crrnnpg,3,t5_2sx2i
+4142330,0,t3_383vq5,Love Budgie! Thats a great look... Ill be stealing some of this.,unixporn,crsfyin,2,t5_2sx2i
+4156305,0,t1_cru0zmj,I do not. the best i can tell you is I found it on wallhaven,unixporn,cru14al,2,t5_2sx2i
+4156455,0,t1_cru1116,Interesting I havent seen that one before. It doesnt work for me under ArchGnome . even after cloning the GitHub repo and udpating the metadata.json  are you on lt.?,unixporn,cru1qcs,4,t5_2sx2i
+4168520,0,t1_crvej1o,Yeah. Quite a few shell themes change that button. The faenza one makes it an infinity sign. Or did last time I used it at least. ,unixporn,crvf41i,1,t5_2sx2i
+4203951,0,t1_crzfjgo,Nice writeup thanks!,unixporn,crzfvhz,1,t5_2sx2i
+4247596,0,t1_cs3m5n7,Missed the survey but count me in. ,unixporn,cs4f049,1,t5_2sx2i
+4267770,0,t3_39v1mf,You dont appear to be using an approved host Please resubmit using one of them but feel free to leave mirrors to host in your details comment.Contact us if our bot has messed up,unixporn,cs6p1xp,1,t5_2sx2i
+4273813,0,t3_39v3fm,Ive had the same experience. Ive tried what seems like every DEWM known to man but I always end up back in Cinnamon.,unixporn,cs7dkhh,2,t5_2sx2i
+4285141,0,t3_3a2irv,You dont appear to be using an approved host so your post has been removed. Please resubmit using one of them but feel free to leave mirrors to host in your details comment.Contact us if our bot has messed up,unixporn,cs8nm5f,1,t5_2sx2i
+4299947,0,t1_csabgd8,Good enough reason for any interface. ,unixporn,csabtqy,5,t5_2sx2i
+4307928,0,t3_3abzw5,That icon theme is lovely.Also you could use the Dash to Dock shell extension rather than Plank.,unixporn,csb89dt,3,t5_2sx2i
+4318888,0,t3_39qo7e,Just wondering why screenfetch says that youre using numix.,unixporn,cscgtqz,1,t5_2sx2i
+4337721,0,t1_cseazku,Glad you agree ,unixporn,csela57,1,t5_2sx2i
+4338200,0,t1_csejaiz,OP HerePackage InfoaurxfcetopmenuplugingitCreate this file in HOME mousepad .gtkrc.Then add this in itgtkmodules  canberragtkmoduletopmenugtkmoduleLog out then log back in and add the top panel as an applet as so in panel  and move it to the top by unlocking dragging to the top then locking.Oh also for bonus stuffs you now dont have a way of seeing active windows unless you keep the window stuff there too but it looks super ugly so i switched to plank!yaourt plankenjoy! D,unixporn,csen81l,3,t5_2sx2i
+4369062,0,t1_csi4lxd,You have mentioned the AUR package igapsnextgit igapsnextgit  ....gcffgt A fork of iwm tiling window manager next branch with more features including gapsv   Upstream  MakePKG  BSDThis is an Arch Linux link bot v... More info ,unixporn,csi4mc6,2,t5_2sx2i
+4397771,0,t1_csla9hw,always get questions bout this glad i do! Daurxfcetopmenuplugingita bot should come around soon and link us to the direct package!,unixporn,csld3ks,1,t5_2sx2i
+4410288,0,t1_csmc184,deleted,unixporn,csmrvut,1,t5_2sx2i
+4416145,0,t3_3bmeqi,Your post appears to be missing a title tag so has been removed. See section  for more details but briefly Screenshots requires WMDE Workflow requires WMDE Hardware requires DEVICE Material requires OCContact us if our bot has messed up,unixporn,csnfml1,1,t5_2sx2i
+4419793,0,t3_3bmfhy,this is super cute. you should upload your themes somewhere,unixporn,csnug5j,2,t5_2sx2i
+4426960,0,t1_csopixo,Ill take the light one ,unixporn,csopjw3,1,t5_2sx2i
+4437642,0,t3_3bv3rv,Hey everyone as ubstamour pointed out I fell into the trap of nottestingwellenough. I used Hello World when I tested my codez which allowed my strupper function to DECEIVE me. In retrospect this should have been quite obvious given the nature of postfix incrementing. Anyway its fixed now sadly no longer  or  lines which makes it like at least x as uncool.Hey OP nice cdez you got going on there school assignment?. Im bored at work so I decided to change some of it to make it more compact. I think with these simple functions it makes it more readable but you do need to know a bit about pointers and such.. Some people will disagree with my suggestions which is fine Im not saying this is the best way to write this stuff its just a different way.  Your str upper function can be written as such     void strupperchar str            while str             str  str gt a ampamp str lt z ? str     str            str            A couple of choices were made here...  You were using a variable to index the string this isnt really needed. stri is the same thing as str  i since the while loop will terminate on  we can use str to loop through a whole string incrementing the pointer as the last thing in the block. Keep in mind you must have  at the end..isnt C crazy?  I compacted your if stuff down to a ternary statement basically if the condition is true it will return the left side of  otherwise the right side. In this case Im comparing with a and z instead of decimal or hex values because its a bit easier to read. I used str    because the space character is dec  or hex  you were using dec . If the value is not a lower case letter uppercase or other just keep it the same.  Your strcpy function. Mine is     void mstrcpychar dest const char src            do             dest  src         while dest src     I marked the source string as const because we arent modifying it.  The dowhile loop might not behave nicely with bad pointers havent tried it but for this it shouldnt matter too much. You could add a simple check at the top to avoid null stuff..just be aware that it might be a problem.  The dowhile loop itself is super simple..assign the value at dest to the value at src the while part will keep going and increment dest and src until src is . This part is a bit weird because were exploiting the infrequently used comma operator..the dest part will be executed and have its result discarded then src will be executed and have its result returned this acts as the test for the while loop. The comma operator will execute a series of things but only return the result of the last one.  Your delete newline function. Mine is     void delnlchar str            while str             str  str  n ?    str            str             Youre loop only goes to . Pretty restrictive much easier to do the test for  on str.  I chose to replace the newline character with a space if we replace it with  this will mess up probably every single other string function down the line. Replacing with  is a pretty terrible idea. If I have HellonThere!n and call delnl replacing with  on it and then try to print the string it will only print Hello. If you really want to pull your hair out replace newlines with  write the raw bytes to a file and then try getting back your full text..P Thats all Im gonna talk about for now..thanks for distracting me for a bit lol. Hopefully this isnt very unreadable honestly for C this is far from ugly IMO.,unixporn,csq1t1c,14,t5_2sx2i
+4466134,0,t1_cstkrg8,I dont like the name and Im still here.,unixporn,cstmsus,5,t5_2sx2i
+4489253,0,t3_3ckw7s,Last week I saw a Go tutorial that used the Reddit API as a part of the example code and it made me think about making a Reddit terminal client. Now I guess I dont need to.Rtvs comment view looks really good for a terminal application.,unixporn,cswj5sz,1,t5_2sx2i
+4503730,0,t1_cswrd3o,I clicked on this post wondering if clireddit would be there. P,unixporn,csyci8n,3,t5_2sx2i
+4527149,0,t1_ct1972p,Yup. For those who dont have homebrew its a pretty decent package manager. Personal gave on OS X havent tried MacPorts before.,unixporn,ct1a9c0,1,t5_2sx2i
+4530802,0,t3_3d4i3s,Maybe itd be nice to add blur with compton. ,unixporn,ct1qrcy,3,t5_2sx2i
+4576887,0,t1_ct7hmn3,NixOS is an OS that uses configuration files that specify your whole OS with a lot of fancy features like atomic upgrades and other cool stuff.Practically what this implies is that instead of manually installing a hundred little pieces of software and configuring them all over the place you can simply adjust your centralized OS configuration files and it will automatically downloadinstallapply the new programs with your given configuration.This opens up a lot of opportuninities for ricing as you can very easily share the lines of configuration you use to get the UI youre showing of and other people can very easily try out your configuration for themselves.,unixporn,ct7iuxy,1,t5_2sx2i
+4584727,0,t1_ct6y9p7,No its just you,unixporn,ct8i7d4,2,t5_2sx2i
+4616694,0,t1_ctci8wf,Ive had other reports of this happening Ill look into it. In the meantime try compiling with     gcc stdc o steamcurses steamcurses.c parser.c lncurses lmenu,unixporn,ctcigzy,1,t5_2sx2i
+4637234,0,t3_3egtdn,You cant start moving away from DEs without knowledge of the terminal. Stop using GUIs ,unixporn,ctf3b3a,1,t5_2sx2i
+4648890,0,t3_3en9j9,Cron job like utsahyt said then use feh to set background image from  image folders one day one night. Then you can have random images change is you like. ,unixporn,ctgk08f,6,t5_2sx2i
+4649995,0,t1_ctgoucj,I done it as soon as you told the command. Thank you though!,unixporn,ctgozsl,1,t5_2sx2i
+4665166,0,t1_ctg59zx,gt iTermNBI assume the NB is no barborder? You can do that in standard iTerm now at least in the nightly builds.But I have no great luck in moving those windows without the title bars.,unixporn,ctilkt9,1,t5_2sx2i
+4666362,0,t1_ctilkt9,Use afloat WM it maps a few standard keys  your mouse click together to drag windows around.,unixporn,ctiqznz,1,t5_2sx2i
+4667109,0,t3_3ev0b4,Why not have a look at Calm Window Manager ? Stacking but entirely usable with keyboard no title bars groups instead of virtual desktops simple plaintext config file Can also do some basic tiling when needed light on resourcesedit and I forgot the best part as uzbrah pointed out it works WONDERFULLY with wmutils D,unixporn,ctiud2a,3,t5_2sx2i
+4672669,0,t3_3evv2h,Fantastic !,unixporn,ctjjhmr,2,t5_2sx2i
+4686760,0,t3_3f4o7t,personal just keep it away from meotherwise good job if you like it  ,unixporn,ctlb6zg,-5,t5_2sx2i
+4687490,0,t1_ctl09aa,Thanks!,unixporn,ctlehgr,0,t5_2sx2i
+4691754,0,t3_3f76xg,deleted,unixporn,ctlxrp8,3,t5_2sx2i
+4722077,0,t1_ctppbf6,slimlockIll put the config files later.,unixporn,ctpr9js,3,t5_2sx2i
+4746057,0,t1_cts82eu,WellArrrrrrrrrrrrrr,unixporn,ctssa5x,1,t5_2sx2i
+4766209,0,t1_ctv91hz,I am using rtv and was thinking the same about images opening in feh would be great  might have to take a look at the source,unixporn,ctvborn,5,t5_2sx2i
+4772028,0,t1_ctvxtrx,P,unixporn,ctw21yt,1,t5_2sx2i
+4773867,0,t1_ctujxt2,ah. Good effort. I hope the wiki become the arch wiki of ricing.,unixporn,ctwaeac,1,t5_2sx2i
+4781078,0,t1_ctx6mnz,well I have lxde installed and lxdm is my dm but a lot of things dont work like they should for example I dont have a session manager running and most of the lxconfiguration doesnt get applied because of that.,unixporn,ctx71lu,1,t5_2sx2i
+4816828,0,t3_3gsiye,Wait I thought that would mean that you would instruct us to install the very first version of GNOME and then take a screen shot of it.,unixporn,cu1p8a5,4,t5_2sx2i
+4822794,0,t1_cu2e5uf,Ah whoops here are some details Wallpaper Welcome to the Woods SlaveTheWhales Edit GTK Arc Darker Icons Firefox Icon File Manager Icon Default Fedora AppStoreBin Icons Dock Docky Other Running Fedora  minor gnometweaks No desktop icons no fedora logo.,unixporn,cu2gb90,3,t5_2sx2i
+4823707,0,t1_cu2jowf,I think he means more that there were no s dates.,unixporn,cu2kg56,6,t5_2sx2i
+4832811,0,t1_cu3boij,Wait...what? Visual Studio on Linux? ltrant about depending on proprietary compilersgt,unixporn,cu3prcz,1,t5_2sx2i
+4834340,0,t3_3ggpsj,How did you change the Icon in Synapse to Arch?,unixporn,cu3woia,2,t5_2sx2i
+4843853,0,t1_cu5147p,Looks like gnomemusic. I really like it but its EXTREMELY laggy if you have a lot of music. I have gb of music and it makes it unusable unfortunately. ,unixporn,cu53rh3,9,t5_2sx2i
+4846133,0,t1_cu58y6j,I am glad that I can now have a Linux only setup with games too! Valve is doing a lot to help make Linux just as great for gaming!Edit And let tux help you pile more bodies than everthat sounds grim as fck xD,unixporn,cu5e3ib,1,t5_2sx2i
+4868553,0,t1_cu8775d,,unixporn,cu87uzx,2,t5_2sx2i
+4870340,0,t1_cu8aqgk,What do you use for volume control? My pauvcontrol doesnt play well with vibrancy icons  it picks a shitty default icon,unixporn,cu8fz9b,1,t5_2sx2i
+4873483,0,t1_cu8twla,Youre a hero. Thanks! Maybe I should head to bed now I dont seem to be functioning properly.Edit Wait I should have seen it. I searched with the wildcards arc and theme in the AUR. Apparently they cant be reversed. Bullshit.,unixporn,cu8u9s6,2,t5_2sx2i
+4875994,0,t3_3hohom,You dont appear to be using an approved host so your post has been removed. Please resubmit using one of them but feel free to leave mirrors to host in your details comment.Contact us if our bot has messed up,unixporn,cu95olj,1,t5_2sx2i
+4894472,0,t3_3hvwp3,xprop ,unixporn,cubhk4j,1,t5_2sx2i
+4896871,0,t1_cubotf3,Not really I like running it In a GUI better than running it in terminal. I guess that would be the only reason. ,unixporn,cubsfjg,1,t5_2sx2i
+4912077,0,t3_3hyt62,Papirus light looks good too! Suits me better than default breeze. Thanks op.,unixporn,cudpcse,1,t5_2sx2i
+4914385,0,t1_cudqg48,To move windows between monitors. Otherwise your windows are stuck on each monitor and you cant open multiple instances of the program so it move it from one monitor to the other you have to close it and reopen it. This also means you cant have terminal on the left and right monitor at the same time  ,unixporn,cudzue3,1,t5_2sx2i
+4941508,0,t3_3idmon,i stole your bar ,unixporn,cuhezvi,2,t5_2sx2i
+4969139,0,t1_cukvh7x,Frankenwm!,unixporn,cukwb2k,2,t5_2sx2i
+4971107,0,t3_3iym4u,kek just saw your desktop on g m,unixporn,cul58dt,0,t5_2sx2i
+4976046,0,t3_3j2soi,randroidthemes,unixporn,culrn7n,8,t5_2sx2i
+4996515,0,t3_3j9c6j,Looks gorgeous ! How did you remove the shadow behind the top bar ?,unixporn,cuo9lng,2,t5_2sx2i
+5005608,0,t1_cupc26g,I prefer Arc Firefox its cleaner and simpler.,unixporn,cupd45s,1,t5_2sx2i
+5006889,0,t1_cupiddy,See updated description comment,unixporn,cupioqn,2,t5_2sx2i
+5007740,0,t1_cupkhm9,deleted,unixporn,cupme12,-1,t5_2sx2i
+5022389,0,t3_3jpfw9,I wonder how well this will go.,unixporn,cure0z3,7,t5_2sx2i
+5025452,0,t1_curqm1x,Also any of exposing the window shadows script?,unixporn,currb5u,1,t5_2sx2i
+5049115,0,t1_cuuk88s,Thanks.And yeah the follow up will hopefully be clearer.,unixporn,cuulydn,1,t5_2sx2i
+5050002,0,t3_3k3k8b,That wallpaper made my day.,unixporn,cuupsze,2,t5_2sx2i
+5055487,0,t1_cuvc99r,I learnt british english so I though learned was an error.,unixporn,cuvdlr4,2,t5_2sx2i
+5055871,0,t1_cuvf606,Np happy to help. For the terminal font I am using Inconsolata and it looks good enough for me.,unixporn,cuvf9e8,1,t5_2sx2i
+5057836,0,t1_cuvjqv6,Yeah I know. I couldnt get it to show up on the screenshot. I think its Compizrelated.,unixporn,cuvnrwd,1,t5_2sx2i
+5059451,0,t1_cuvubzw,Where do you see tiling?,unixporn,cuvusb6,5,t5_2sx2i
+5090280,0,t1_cuy5taf,Oddly enough my netbook is performing better kde than it did with mate how is xfce working for you?,unixporn,cuzkkis,1,t5_2sx2i
+5096875,0,t1_cv0bs5h,haha what should it be like? P,unixporn,cv0d3zt,1,t5_2sx2i
+5097816,0,t3_3ktgby, for your hostname! xD,unixporn,cv0h6qd,1,t5_2sx2i
+5103276,0,t1_cv0g0zc,I dont use gaps would I still need to get igapsnextgit? or is there an alternative? other than just waiting of course.,unixporn,cv14v23,1,t5_2sx2i
+5117323,0,t3_3l2cv5,Awesome job!  Ive been using gnome lately and its fantastic.  ,unixporn,cv2tuos,2,t5_2sx2i
+5144571,0,t1_cv4pcm9,You are opinionated AF,unixporn,cv643kc,1,t5_2sx2i
+5150699,0,t1_cv6l59p,Thank you!,unixporn,cv6up7w,2,t5_2sx2i
+5157614,0,t3_3lm13i,estas haciendo tu tarea en netbeans O,unixporn,cv7onyw,1,t5_2sx2i
+5162157,0,t1_cv87j22,Thank you god sirmadam.,unixporn,cv88ct2,1,t5_2sx2i
+5169860,0,t3_3lrqp3,Its cool that youre on linux and all but im gonna be real with you that looks pretty ugly mostly because of the giant desktop icons and that conkys colours maybe give the conky a dark background and make it all white or two colours.,unixporn,cv95pqp,3,t5_2sx2i
+5176138,0,t3_3lwidv,You dont appear to be using an approved host so your post has been removed. Please resubmit using one of them but feel free to leave mirrors to host in your details comment.Contact us if our bot has messed up,unixporn,cv9wy0l,1,t5_2sx2i
+5185245,0,t1_cvatcra,May be if you ask nicely. ,unixporn,cvb0gmi,13,t5_2sx2i
+5221412,0,t1_cvfdd6y,Thats a good point. I for one wouldnt mind those.,unixporn,cvfdei4,6,t5_2sx2i
+5231360,0,t1_cvgkdek,How come it didnt work? Does something like this work?     while  do echo test sleep . done | lemonbar,unixporn,cvgkj3x,1,t5_2sx2i
+5234508,0,t1_cvgx04t,After I customized gnome I was looking at  GB which was too high for me.  MB is a lot more manageable ,unixporn,cvgy5p8,1,t5_2sx2i
+5309967,0,t1_cvkni23,deleted,unixporn,cvqerg5,1,t5_2sx2i
+5310173,0,t1_cvkni23,deleted,unixporn,cvqfplv,1,t5_2sx2i
+5329308,0,t1_cvsmzvo,Requesting wallpaper I like it. ,unixporn,cvsvoup,1,t5_2sx2i
+5376692,0,t1_cvytunj,Thanks. I changed the colour scheme to be fully monokai colour scheme. Ill post it in a bit.,unixporn,cvyxlxl,1,t5_2sx2i
+5380075,0,t1_cvzbiym,Ive got mine here there is a lot of cool daft punk and others walls Otherwise direct link,unixporn,cvzd5jb,1,t5_2sx2i
+5387517,0,t3_3otf5q,Details in the album dotfiles are hereLong time lurker first time posting this is the first setup Ive had for more than a couple days in a while so I figured Id share.,unixporn,cw0bdpk,3,t5_2sx2i
+5402228,0,t1_cw25yjm,Yes  the only upgrade I did was changing gb SSD to GB,unixporn,cw270d1,1,t5_2sx2i
+5408212,0,t1_cw2xf8v,The location of the gnome config file is on my system     .gconfappsgnometerminalprofilesDefaultgconf.xmlCopy the contents of the first pastebin link into this file. The font I use x isnt enabled by default and it took some time to get it to work. I used this tutorial to get it to work. You could also use Terminus at a size of about pts since it looks a lot like x.If you already use xmonad you can copy the contents of the second pastebin link into     .xmonadxmonad.hsThis will take care of the gaps inbetween windows and the color of the borders.The bar at the top is xmobar and this is my config file for that.,unixporn,cw2yjx5,2,t5_2sx2i
+5418161,0,t3_3p976k,Got a wild hair up my ass to mess with openbox a bit. Details  WM Openbox  Dock Plank  Bar custom script piped to Lemonbar .binbar.sh  Launcher Dmenu  Show all windows provided by Skippyxd  Compositor compton  mpd  Wallpaper switching script .binwallpaperd  GTK Arc  Icons Super Flat Remix  Dotfiles   Wallpapers Lemonbar script is kind of ugly so Im looking to improve that. Provides minimization of current window as well as workspace switching via mouse scroll. ,unixporn,cw487z1,1,t5_2sx2i
+5421910,0,t3_3p8clf,I thought this was hilarious that the title says that OP is doing what he can with Windows  so I click on the link to see what has been done and the link has nothing in it. Lol.,unixporn,cw4pf8y,1,t5_2sx2i
+5432417,0,t1_cvzqx57,why not just post them?,unixporn,cw61o6m,1,t5_2sx2i
+5438921,0,t1_cw6vean,KDE is Krazy and doesnt count.,unixporn,cw6vj7c,18,t5_2sx2i
+5442283,0,t1_cw757gq,Havent tried ceni yet but ill look into it sometime when I get the chance! thank you for the d option.. should have read that in the manual  starting to get the hang of this now though. maybe ill go back to arch one day with this setup..  thank you very much dkeg!,unixporn,cw7ayvc,1,t5_2sx2i
+5443141,0,t1_cw6p9w1,yeah ive noticed that on the screenshots...i might change this tomorrow ,unixporn,cw7ewjj,1,t5_2sx2i
+5443751,0,t1_cw7cr6w,That driver has been included with the mainline kernel since . in staging. Doesnt look like the git repo has been updated since then. ,unixporn,cw7hphg,1,t5_2sx2i
+5453056,0,t1_cw8i3ru,Its cmus. ,unixporn,cw8ohoe,3,t5_2sx2i
+5455109,0,t1_cw8q2ce,I was like wow VNC i forgot about it  i use to use that for windows  on Linux i use SSH only,unixporn,cw8xx4z,1,t5_2sx2i
+5463296,0,t3_3pvkrx,Havent looked at yours too closely yet but this was the write up I used to get a basic script working.  It might be easier to follow than the ones youve been looking at already.  And in my .xinitrc        .scriptsbarStatus.sh | lemonbar b f windowsmontecarlomediumrnormal        | while read line do eval line done ampEDIT  My first thought is that panel should hold the loop not testish.  Switch that and what happens?,unixporn,cw9zk7e,1,t5_2sx2i
+5464111,0,t1_cw8yn0h,Pretty sure it is. Just weirdly spaced.,unixporn,cwa3b1m,1,t5_2sx2i
+5480001,0,t1_cw9gxqr,here you go Wall,unixporn,cwc4dta,1,t5_2sx2i
+5480397,0,t1_cwc605t,Thank you so much! Ive already pushed the change to my dotfiles repo. I just had to add a clear below the new mpc line otherwise youll have the text mpc idle player on top of the album art.,unixporn,cwc67dx,5,t5_2sx2i
+5492200,0,t1_cwdmq3a,Gotcha. Found it through reverse image search. Dropping the link here in case other people want the OPs wallpaper toolt,unixporn,cwdohix,1,t5_2sx2i
+5513264,0,t1_cwgc9dw,I think I like it ,unixporn,cwgdbg3,1,t5_2sx2i
+5529651,0,t1_cwifxyz,Meh. Backups. You can even automate it if you want to.I lost my RES settings twice but since Ive been doing backups it hasnt reset yet ironically.Other than that its true that Firefox has become quite heavy. Im looking into switching to Qutebrowser but the change from Pentadactyl might be challenging.,unixporn,cwigmt2,1,t5_2sx2i
+5536872,0,t3_3qv2iq,It is nice and chill I like.,unixporn,cwjdubj,1,t5_2sx2i
+5538485,0,t3_3qze8t,Lets make the halloween even more Spky by doing it vice versa,unixporn,cwjl8z9,1,t5_2sx2i
+5551221,0,t3_3r5xoi,wm dwmfontawesome iconsconfigs ,unixporn,cwl6hsz,1,t5_2sx2i
+5573336,0,t1_cwnvdkj,eOS?Do you mean elementary OS?,unixporn,cwnx9ou,3,t5_2sx2i
+5602939,0,t3_3rv489, Config wmiirc in ruby Colors Gruvbox baseeighties Greybird Fonts Tamzen Ubuntu DejaVu OS Void Linux,unixporn,cwrlk3b,1,t5_2sx2i
+5630425,0,t1_cwuu4ha,check my dotfiles,unixporn,cwv0adi,1,t5_2sx2i
+5641523,0,t1_cwwax4e,Maybe it just works?,unixporn,cwwdvi0,2,t5_2sx2i
+5654860,0,t3_3cdhz0,Damn sexy is what this is. ,unixporn,cwy1h0s,1,t5_2sx2i
+5654952,0,t3_3r4npt,Screenshots like this make me want to switch to cinnamon. ,unixporn,cwy1vtb,1,t5_2sx2i
+5670408,0,t3_3sedxr,Just as a note for future weve dropped using OS in the title in favour of user flair.,unixporn,cwzyxia,1,t5_2sx2i
+5688592,0,t1_cx27vzg,Thank you. Tiling WMs are surprisingly fun. I used to hate them a while back but theres just some appeal about the way they all fit onto a screen.,unixporn,cx2845u,3,t5_2sx2i
+5689131,0,t1_cx29zb0,I just realized I need to update my flair Ive moved to Xubuntu got tired of KDE s stability issues.On that note there is a Lubuntu flair option but not a Xubuntu one? XD,unixporn,cx2aira,1,t5_2sx2i
+5693564,0,t1_cx2u2oq,The Mountain Crystallised... Brilliant stuff. And thank you. I think the end product was worth all the work though I only had time to do this because of silly undergraduate stuff.,unixporn,cx2ubn0,2,t5_2sx2i
+5696085,0,t1_cx35bel,Well it certainly does its job well. Lovely work by the way. Miiiiight steal..,unixporn,cx35jvg,2,t5_2sx2i
+5717243,0,t3_3tfb5u,This was a triumph.,unixporn,cx5s39s,3,t5_2sx2i
+5742859,0,t1_cx8sj2t,Not sure actually.,unixporn,cx8yh0f,1,t5_2sx2i
+5759834,0,t1_cxb1fat,Sure. Basically I looked for a color scheme for iTerm that would match the color scheme that I found for Sublime. El Capitan hides the menu bar for me which is pretty nice and pretty much every version of OS X has the option to hide the dock. Is there anything else you were curious about?,unixporn,cxb281k,3,t5_2sx2i
+5790047,0,t1_cxdyr1i,I know what it is! Ok so certain themes use the background contrast and blur plasma effect even though they are more or less opaque. Papirus is one of those its because the base the theme creator used has that effect tied in somewhere probably  Plasma Dark USED to have that then we updated the theme to avoid it.So what you do is go and into systemsettings and desktop effects and toggle those to see if that changes it. Its what did it for me.Hope that helps,unixporn,cxet6a3,1,t5_2sx2i
+5812940,0,t1_cxhn4hr,OMG its bindsym modShiftspace floating toggle Im just gonna stay with i thank you soooo much dude lt,unixporn,cxhnedv,3,t5_2sx2i
+5818804,0,t3_3uv9cx,Can you set that chat with fb?,unixporn,cxidl5y,2,t5_2sx2i
+5858812,0,t1_cxnm7ud,i suppose ill use di instead inferring the to link when i click discussions right?,unixporn,cxnmavl,1,t5_2sx2i
+5867008,0,t1_cxndj7f,If youre experienced with build kernels and compiling stuff not really.,unixporn,cxop22o,1,t5_2sx2i
+5877238,0,t1_cxpsezc,Does disabling SIP screw up apple careother warranties? I havent researched that at all yet,unixporn,cxq1dex,1,t5_2sx2i
+5882070,0,t1_cxqda29,Layouts. Tags. You get shit done really quickly.,unixporn,cxqo7lk,1,t5_2sx2i
+5893018,0,t1_cxrtezd,as ufayesafe said its lightweight fast and doesnt introduce all the bloat bash has,unixporn,cxs3x9p,1,t5_2sx2i
+5895935,0,t1_cxs57tv,It is stock.,unixporn,cxshoyh,1,t5_2sx2i
+5926014,0,t3_3wijfe,Your post appears to be missing a title tag so has been removed. See section  for more details but briefly Screenshots requires WMDE Workflow requires WMDE Hardware requires DEVICE Material requires OCContact us if our bot has messed up,unixporn,cxwfjm8,1,t5_2sx2i
+5949127,0,t3_3max6k,Which panel are you using?,unixporn,cxzgllr,1,t5_2sx2i
+5964285,0,t1_cy1c1t3,Ive yet to try emerging the same package twice simultaneously... Im scared to see what would happen ,unixporn,cy1g5vj,1,t5_2sx2i
+5968903,0,t3_3x6yl2, Background  GTK Numix Daily numixgtktheme from ppanumixppa Icons Ultra Flat ultraflaticons from ppanoobslabicons Conky  Dotfiles Soon,unixporn,cy21yo0,2,t5_2sx2i
+5978674,0,t3_3xbg81,gtEntertainmentgt xHamster   ,unixporn,cy3c2ng,8,t5_2sx2i
+5979295,0,t3_3xacvj,The sweatshirt and hat look so comfy,unixporn,cy3f086,4,t5_2sx2i
+5993563,0,t1_cy4k568,No hes using lighthouse ,unixporn,cy5absk,1,t5_2sx2i
+5994040,0,t3_3xihvu,i works fine on the Rpi. From there you can pretty much do anything! ,unixporn,cy5cksg,4,t5_2sx2i
+6008711,0,t1_cy1tym1,You can dualboot into Arch too. Though everyone wont work perfectly like the trackpad. But with i who needs a mouse anyway?,unixporn,cy79uid,1,t5_2sx2i
+6009454,0,t3_3xqfmu,Nice you might like mine from the other month ,unixporn,cy7dcke,1,t5_2sx2i
+6017437,0,t3_3xw5uz,Wow it feels like its been forever since Ive seen xmonad.I like the color consistency you have going on between terminals and emacs though the font is difficult for me to read due to its tallnessskinniness.,unixporn,cy8eubt,7,t5_2sx2i
+6020134,0,t1_cy8qe2k,Ahah this is quite confusing on linux but the theme is for win and osx too,unixporn,cy8rini,0,t5_2sx2i
+6022562,0,t1_cy92qa0,deleted,unixporn,cy92x85,1,t5_2sx2i
+6036082,0,t3_3y5fel,Sorry for asking but exactly does ricing mean? ,unixporn,cyaueo1,2,t5_2sx2i
+6037012,0,t3_3xs5aw,holy shit this looks great!,unixporn,cyayrma,1,t5_2sx2i
+6047035,0,t1_cyc2mtd,Is running in the deep end to say to give it a try? ,unixporn,cyc9smo,1,t5_2sx2i
+6070027,0,t1_cy5fp1u,With their fingers ,unixporn,cyf9pfw,1,t5_2sx2i
+6086990,0,t3_3yxl46,removed,unixporn,cyhhehf,1,t5_2sx2i
+6104024,0,t1_cyj3ck7,Everything OP is using is in his dotfiles which he linked.,unixporn,cyjgrf0,1,t5_2sx2i
+6107675,0,t3_3z5ywr,Good stuff.  There is a serious lack of XFCE content here...,unixporn,cyjvp5j,2,t5_2sx2i
+6113967,0,t1_cykdh8r,Thank you it worked.,unixporn,cyklfju,1,t5_2sx2i
+6126927,0,t1_cym0woe,I have a very last question Im mostly a typer play only  to  of the time and I saw that blues browns and clears are recommend. Which one do you preferthink will be the best for me ?,unixporn,cym2gcv,1,t5_2sx2i
+6129011,0,t1_cyl9ygn,Have you played any source engine games? They dont have any fancy drop down stuff.,unixporn,cymazkq,2,t5_2sx2i
+6135447,0,t3_3zlfbe,What is your term font?,unixporn,cyn1arl,1,t5_2sx2i
+6148548,0,t3_3zqyp0,gt Android Studio really really hates bspwm so Im stuck on Openbox.Was it the blank window thing? Did you try the reparenting variable in your .xinitrc? also the wm thing. export JAVAAWTWMNONREPARENTING wmname LGD,unixporn,cyoixg4,3,t5_2sx2i
+6177434,0,t1_cyqsc9o,deleted,unixporn,cyrt69d,1,t5_2sx2i
+6180635,0,t1_cys2dw1,Yes sure. I installed Conky Manager and it came default with the Gotham theme which I modified. Heres the config file for my modified version if youre interested ,unixporn,cys69n8,3,t5_2sx2i
+6183837,0,t1_cys1jbb,Tx. Thats why the conky panel and status bar are both toggleable  to hide attention grabbing stats so I can work in distraction free mode Been watching yours and others forays into wmutils.. have lots of ideas but will need to work out multihead support first.,unixporn,cysjdt4,1,t5_2sx2i
+6185730,0,t3_40784t,That is a real nice UI right there,unixporn,cysr4fe,1,t5_2sx2i
+6201454,0,t1_cyu3nb6,Thank you !,unixporn,cyujewv,1,t5_2sx2i
+6204422,0,t3_40kkrd,deleted,unixporn,cyuvks6,1,t5_2sx2i
+6210039,0,t3_40mbpv,I both love it and hate it,unixporn,cyvij4a,10,t5_2sx2i
+6221982,0,t1_cywb8dh,Ok cool just letting you know in case you hadnt seen it.,unixporn,cywvei3,1,t5_2sx2i
+6224142,0,t3_40u4s0, Wallpaper from unsplash.com Terminal iTerm borderless Music Player iTunes Mini Player Dock OS X standard dock Window Manager Spectacle Terminal Font Source Code Pro for Powerline,unixporn,cyx48fo,4,t5_2sx2i
+6230851,0,t1_cyxupjj,Im german and nein means no while Doch! means the opposite like Yes! or Still!.This is more of a joke and alludes to the movie Jo.Its like your terminal contradicts you.,unixporn,cyxvog4,2,t5_2sx2i
+6242810,0,t3_40u0oe,It is always so nice to see someone from Czech Republic on Reddit. And personally this is one of the fanciest unix ive seen there! Good work my friend ,unixporn,cyz8moy,2,t5_2sx2i
+6261989,0,t3_41clwx,Started using vim because it was pre installed on all the machines.   Stayed because I didnt knew how to exit the darn thing.   Learned about q and still stayed because its so versatile and I really like the modal concept.,unixporn,cz1f33b,14,t5_2sx2i
+6262782,0,t1_cz1ev15,deleted,unixporn,cz1ibp3,1,t5_2sx2i
+6286156,0,t1_cz41bod,Pretty interesting look I think!,unixporn,cz45ycm,2,t5_2sx2i
+6305551,0,t1_cz5ujve,deleted,unixporn,cz6dc9c,1,t5_2sx2i
+6307968,0,t1_cz6n2p8,Id be open to suggestions but things like good netflix support keep me on Chrome on linux.pretty much the only time Im in Windows is for gaming and my browser usage there is very light so pretty much anything will do.,unixporn,cz6n8bv,1,t5_2sx2i
+6313183,0,t3_4232wf,First there are no default keybinds in bspwm. There are recommended ones and you can use them but really theyre just examples of what you can do not how you should set it up yourself. That being said in your sxhkd config you can just swap all instances super with alt and it should get you where you want. If not you can try remapping the keys on your keyboard. Just make sure if you go that route to listen to rebindings or else it wont respect it. As with your vim colorscheme your telling gruvbox to use your terminal colors with the first line you posted. Unless you have your terminal colors set to the soft variant it wont work.Hope that helps. Happy hacking!,unixporn,cz78lt2,1,t5_2sx2i
+6347702,0,t1_czb52m1,Oh I dont know the difference between TUI and CLI? I posted this  months agoYou gave me a list of shell programs. I am asking for programs that provide a rudimentary GUI over VT or some similar protocol although there arent many specifically programs that would help people replace their ordinary GUI workflow with a console only.Sure your list would be useful for a BashZsh genius but not for most people who come from a GUI world so they would probably prefer to use something like Midnight Commander.Most people who post questions about how to use TUI only on UNIX meaning VT only would find your list overwhelming not helpful.Also your list isnt on the Wiki of this sub which is what I was suggesting.And by the way I use MPlayer to play all my music and it does use the VT protocol to display play time and to read play commands from the user.,unixporn,czb5vi5,0,t5_2sx2i
+6356127,0,t1_czb6awq,thanks! heres a link to a x version for anyone else that wants it. ,unixporn,czc4e7k,1,t5_2sx2i
+6363395,0,t1_czcxmm9,gt Does i also suport dynamic window placementI dont know. I have only used i a little bit and that was a couple of years ago.,unixporn,czcy4h8,1,t5_2sx2i
+6386561,0,t1_czeg5ch,Mmm?,unixporn,czfl2wy,1,t5_2sx2i
+6387635,0,t1_czffulx,Dont forget to finger the user you want to know more about.,unixporn,czfphid,2,t5_2sx2i
+6389262,0,t3_434epq,I dont know how you did it but you made LXDM look somewhat paletable PNice setup!,unixporn,czfw5g7,1,t5_2sx2i
+6396888,0,t3_43ai8j,I made this wallpaper based on this image using GIMP.Conky works both as panel as conky itself. Was design by myself using GIMP. U can download conky config files here the conkyarchboxpanel.tar.gz file.The panel is Tint.,unixporn,czgrdsj,10,t5_2sx2i
+6406590,0,t1_czhqm6v,No problem man Im a bit of a noob myself just started using Arch. Its a program called conky and I customized the config file. I cheated and used a preconfigured one but changed the color and added a bar for the HDRAMCPU resources You can use it on any desktop just do a pacman S conky if youre on Arch or aptget install conky if youre on UbuntuMintDebian.,unixporn,czhv4hv,2,t5_2sx2i
+6407274,0,t3_43e9ch,This is very nice. Have you made a pull request for iTerm to get this into the official build?Also it seems that once the window is filled and the prompt is at the bottom running any more commands puts the prompt below the view of the window so I would have to scroll down in order to see the prompt. ,unixporn,czhxxan,2,t5_2sx2i
+6407801,0,t1_czhwsus,Sure thing! Just this under TEXTgt voffset color EAEAEAfont GE Inspirapixelsizetime IMfontvoffset offset color Dfont GE Inspirapixelsizetime d voffset color EAEAEAfont GE Inspirapixelsizetime  B time Yfontvoffset font GE Inspirapixelsizeoffset time Afontgt voffset offset font Ubuntupixelsizecolor DHD offset colorfsused   fssize voffset offset fsbar offset voffset color DRAM offset colormem  memmaxvoffset offset membar offset color Dvoffset CPU offset colorcpu cpuvoffset offset cpubar Edit Oh yeah and if you want to change the color you can type a simple color like red or darkblue or look up a hex color.,unixporn,czi02ye,2,t5_2sx2i
+6411841,0,t3_43fg0x,For future reference please dont tag OS in the title. We dropped it in favour of user flair.,unixporn,czigmt1,1,t5_2sx2i
+6413053,0,t1_czilf2n,Do you mean htop,unixporn,czill2a,1,t5_2sx2i
+6428787,0,t3_43qel5,looks awesome! whats the name of game on last third screenshot? ,unixporn,czk9w6e,5,t5_2sx2i
+6447689,0,t1_czm6u8a,do you have all the dependencies installed? I installed it a long time ago so I cant fully remember the process but it wasnt confusingedit I just checked the install instructions. What I did was download and extract the stable.tar.gz file. Then cd into the directory and run .configure then make then make install. You might need to be root when running the make commands.and thats it it should work ,unixporn,czm8bwa,2,t5_2sx2i
+6453028,0,t1_czim8ny,lol good catch.,unixporn,czms9kc,1,t5_2sx2i
+6458962,0,t1_czndm3z,Alright big thanks man! ,unixporn,czneelc,1,t5_2sx2i
+6474358,0,t3_44bqd2,Literally any distro runs i exactly the same.,unixporn,czoztjr,18,t5_2sx2i
+6475774,0,t1_czo2nlx,Hey youre that guy! I just wanna take a moment to be that guy and thanking you for making my final fulltime switch Im lying still have a small Windows partition for gaming to Linux easier. igapsiblocksgaps are both beneficial to my general workflow and your dotfiles were shamelessly partially ripped off then tweaked to my own liking for my own setupNow that this asslicking part is done here is what I was originally going to say. Im still sticking to xterm for now havent really found a reason to switch to something else yet... Any reason I might consider switching to something else? Still pretty new to this all things considered.,unixporn,czp53xp,1,t5_2sx2i
+6479062,0,t1_czpbntx,it is,unixporn,czphdpn,3,t5_2sx2i
+6483313,0,t1_czong01,Thats a pretty bad measure of quality and stability. An earlier date can also mean more cruft accumulated during the years. IMO thats the kind of bloatsigh we should just ban this buzzword from this sub to be worried about not a couple extra MB in ram.,unixporn,czpx896,2,t5_2sx2i
+6485683,0,t1_czpzemw,Can you tell us a bit more about your thinkfan configuration? My xs fan is constantly spinning with an ssd. I also need to replace the thermal paste I guess  didnt think of that before  ,unixporn,czq61t1,1,t5_2sx2i
+6493134,0,t1_czq76we,its the xubuntu default that op shared above ,unixporn,czqxslb,1,t5_2sx2i
+6493956,0,t3_44k8q6,Awesome! Ive never thought of doing  bars even though I dont have enough space for the stuff I want on just the one...A few questions How did you do the volume bar? I know Lemonbar can detect clicking but does it actually support dragging? And do you tell mpc to turn the volume up or down or do you use a different tool? How did you do the RAM? Does it show it as a percentage of your total RAM? The power off button. What do you use to turn off your pc without it requiring you to put in your sudo password?,unixporn,czr0uhm,2,t5_2sx2i
+6501825,0,t1_czrpoeg,Hah sorry guy  I tried. I did not use a bitmap font though I used the one you requested. But since its not monospaced its displaying super bizarre. Heres a screen shot of it looking worse in English.Anyways. Seems odd to me that the author would work so hard to be able to use Japanese characters in the terminal emulator if they never displayed right.  Except I think he was a huge fan of bitmap fonts.,unixporn,czru62t,1,t5_2sx2i
+6507976,0,t3_44sa5a,Your post appears to be missing a title tag so has been removed. See section  for more details but briefly Screenshots requires WMDE Workflow requires WMDE Hardware requires DEVICE Material requires OCContact us if our bot has messed up,unixporn,czsh2td,1,t5_2sx2i
+6524848,0,t1_cztl88g,Ooops sorry forgot to change it... I know its Dmenu have russian lable.. Anything else?updI just made support ln for dmenu script please update form here .                                                                        upd Return english in obmenugenerator please update from here .                                   P.S. Try Twilys compton config looks nice I think ,unixporn,czu7z5z,2,t5_2sx2i
+6541192,0,t1_czt0s1m,I would change the wallpaper and maybe switch the toolbars positions,unixporn,czvwun0,1,t5_2sx2i
+6568717,0,t1_czynqir,In that case theyre a backronym,unixporn,czyrcux,1,t5_2sx2i
+6595277,0,t1_d018kga,Could you possibly upload the edited image?,unixporn,d01i7x9,2,t5_2sx2i
+6597773,0,t1_d01pk6n,Oh hey look at that there are actually a bunch of posts on this already...Learning a new OS at am makes me a little unobservant. ,unixporn,d01ri1u,2,t5_2sx2i
+6610642,0,t3_45yv9r,gtPPPS Also thebase colorschemes. Instead of following the above specification like virtually everybody else designing schemes they use colors  for a blacktowhite gradient and implement  actual colors in colors . Wut?The base colorschemes implement the actual colors in   and  and use the remaining colors for gradient. I wrote this fork to specifically address this issue. It takes care of applications like ncmpcpp using bold colors.,unixporn,d033gyc,1,t5_2sx2i
+6626385,0,t3_46fxhn,The wallpaper is of unknown origin It came from some chan board  But heres a link to it in fullres i am linkI cant think of anything else that isnt visible in screenfetch.EDIT Imgur crushed the wallpaper to a JPEG so I replaced the link,unixporn,d04q4h5,2,t5_2sx2i
+6660924,0,t1_d08ae7m,Its called erusfont.,unixporn,d08aoye,1,t5_2sx2i
+6674104,0,t1_d09cxyc,Thanks xero! But I have a question because Im not an English native what does to dig something mean in the context of your comment?,unixporn,d09nrxu,2,t5_2sx2i
+6697385,0,t1_d0bu09j,In Chrome or Chromium if you open your apps menu on the bookmark bar you can see all your installed apps. Right click on any one of them select create shortcut and make sure add to application menu is selected. You also want to right click again and make sure open as window is ticked otherwise it will open as a regular tabThis will install a .desktop for in .localshareapplications,unixporn,d0c2ftm,2,t5_2sx2i
+6724511,0,t1_d0eegkn,Speaking of getting free Yoga s I actually just won one in a Thinkscopes giveaway.Do you have any other suggestions for getting Linux running on it? Do you actually use the touchscreen?,unixporn,d0evfmn,2,t5_2sx2i
+6757173,0,t3_48aapo,The title tags are for the WM or DE in your case i not the themes that youre using. This is so people can more easily search through archived posts for specifics setups. Please repost with the correct title tag.,unixporn,d0i8y79,1,t5_2sx2i
+6769895,0,t1_d0jl5ow,The bar is ibar. iblocks is like istatus just a tool that spits out data. Data that you can feed into ibar to have ibar display that data as the statusline. ,unixporn,d0jnctq,4,t5_2sx2i
+6786842,0,t1_d0lb98x,Steelhacks eh?,unixporn,d0lkqy6,3,t5_2sx2i
+6806213,0,t3_48o7gh,Sweet! Like the light colors  good work!,unixporn,d0ns2dd,1,t5_2sx2i
+6807713,0,t3_48zvz1,deleted,unixporn,d0ny83o,2,t5_2sx2i
+6808795,0,t1_d0o2bgf,No problem! Hopefully someone finds it helpful....Ive been maintaining it as I run into problems and find solutions.Ive added an additional photo of my full setup     If you look at the center monitor you can get an idea of how things look on nonHiDPI monitors.,unixporn,d0o2nmh,3,t5_2sx2i
+6822086,0,t1_d0phaxc,deleted,unixporn,d0pkyvg,0,t5_2sx2i
+6824381,0,t1_d0ptzab,Yes ,unixporn,d0puc6m,1,t5_2sx2i
+6830328,0,t1_d0qf7tf,Theo I trusted you... ,unixporn,d0qinus,4,t5_2sx2i
+6844676,0,t1_d0s4r5z,Thank you ,unixporn,d0s5f07,1,t5_2sx2i
+6861138,0,t1_d0tzzq2,done!,unixporn,d0u0pjx,1,t5_2sx2i
+6925433,0,t1_d0zexb1,deleted,unixporn,d11bmhh,1,t5_2sx2i
+6949434,0,t3_4avy3w,You can use dunst,unixporn,d141tcw,8,t5_2sx2i
+6956203,0,t3_4auuzt,you can have mapping for scrot so that it doesnt interfere with your screenshot.,unixporn,d14ti8r,2,t5_2sx2i
+6957518,0,t1_d14s4tv,actually Clean,unixporn,d14yvrb,2,t5_2sx2i
+6960059,0,t1_d158e6n,I would like to at least get some keybinds and edit the top menu. Its kind of difficult to find guides as well ,unixporn,d159agm,1,t5_2sx2i
+6977607,0,t3_4b9j2r,badass scrot bro,unixporn,d17908b,4,t5_2sx2i
+6988380,0,t1_d18gten,Its one of the patches on suckless.org iirc ,unixporn,d18h2v5,1,t5_2sx2i
+6994254,0,t3_4bgfqn,Your mother was a murloc.,unixporn,d1953ra,3,t5_2sx2i
+6994479,0,t1_d190mfp,I thought sentences are meant to be more coherent than they come with.,unixporn,d1960tu,8,t5_2sx2i
+7000699,0,t3_4bjb5v,not enough lt hAxng,unixporn,d19vg8s,9,t5_2sx2i
+7016509,1,t3_4bra0d,No offense but how is this unixporn?,unixporn,d1bo3ye,-7,t5_2sx2i
+7019058,0,t3_4bra0d,gtiTunes,unixporn,d1bykdq,3,t5_2sx2i
+7023153,0,t1_d1c13rj,not really have you considered how much more C code would be needed to support not hacking the acme.c ?,unixporn,d1cfch2,1,t5_2sx2i
+7030930,0,t3_4bn84t,I have this problem when cava is launched after mpd starts playing. If I start cava before that its fine.,unixporn,d1db6i6,2,t5_2sx2i
+7040307,0,t1_d1e055t,I do have that installed my custom theme works on top of it. Heres the differences ,unixporn,d1edj4u,2,t5_2sx2i
+7044746,0,t1_d1el06d,What software do you use?,unixporn,d1evoez,2,t5_2sx2i
+7045239,0,t3_4c4bg3, WM igaps GTK Numix Compositor compton Font Fira Mono  Office Code Pro Launch Menu Rofi,unixporn,d1exp4g,3,t5_2sx2i
+7060506,0,t3_4c9p7k,I have an idea how about we have a throwback Thursday on this subreddit where every Thursday we can show our s pride and show our desktops that look like Windows  Mac OS  and so on?EDIT Sorry I dont just mean s desktops but can be any retro or nostalgic desktop.,unixporn,d1go3e7,15,t5_2sx2i
+7068695,0,t1_d1hlama,Thanks. Infinality on arch gives the best fonts I have ever seen on a screen. ,unixporn,d1hlktc,1,t5_2sx2i
+7144390,0,t3_4deknh,Wallpapers can be found hereXFCE  Kwin FlatSquare Kwin window theme gtk Adawaita gtk ArcDarker font Trebuchet MSTerminal specific things gnometerminal with gruvbox theme .vimrc using vimairline vimpromptline tmux tmuxline font terminus,unixporn,d1q8pnz,5,t5_2sx2i
+7163069,0,t3_4cyvrn,from man amixer        M     Use the mapped volume for evaluating the percentage representation like alsamixer to be more natural for human ear.You have to use amixer M get Master,unixporn,d1sder4,2,t5_2sx2i
+7185725,0,t3_4dwms0,deleted,unixporn,d1uydix,1,t5_2sx2i
+7212297,0,t1_d1xuohs,Care to share your X config and version?The cursor works in herbstluftwm and Cinnamon so I dont really know whats up. EDIT Commented out the line in the example xinitrc that started up the gnomesettingsdaemon and now it works. I guess the gnome settings were fucking it up. ,unixporn,d1xzd30,1,t5_2sx2i
+7228419,0,t3_4eg5ow,Telegram CLI,unixporn,d1ztflw,3,t5_2sx2i
+7234035,0,t1_d201lqb,Ooh I dont know.. Probably around reddit somewhere  Ill see if I can upload the wall once Im on my comp. ,unixporn,d20ggpf,1,t5_2sx2i
+7243838,0,t1_d20z1tb,How did you go to use Yabar with i? Curious of your approach... Ive fumbled a bit with the idea but havent figured out how to do it yet so Im still running iblocks for now. Yabar seems nice and Id really like to make it work. Do you have dotfiles handy?,unixporn,d21klkw,1,t5_2sx2i
+7255327,0,t1_d22sham,There are desktop threads on g and a whole board wg dedicated to wallpapers which also has desktop threads. ,unixporn,d22vngw,2,t5_2sx2i
+7256713,0,t1_d22xlx5,Thank you for the compliment  ,unixporn,d231bry,1,t5_2sx2i
+7264145,0,t1_d23r3gz,If you think its mediocre in Windows youll be pleasantly surprised by it in Linux. Mine works great  of the time. It only wigs out once in a while but I think its due to my very warm and clammy hands which seem to bother all touchpads.,unixporn,d23vrbr,2,t5_2sx2i
+7278302,0,t1_d25hdlm,Do you happen to know how to change the color of the preselection area? Ive been having trouble figuring that out. ,unixporn,d25ht2b,1,t5_2sx2i
+7294646,0,t1_d27bapr,gt Vala PanelIf there is no commit message with lyrics Im in the army now on that repo I am hugely disappointed.,unixporn,d27cobr,2,t5_2sx2i
+7296168,0,t3_4f8fbq,Looks like a regular desktop to mHOLY SHIT,unixporn,d27iweg,2,t5_2sx2i
+7297424,0,t3_4fa3yy,I really want those icons...,unixporn,d27o1iq,1,t5_2sx2i
+7299821,0,t3_4fdqmu,No wm or X working in the ttyIrssi ncmpcpp custom tmux theme,unixporn,d27xun2,10,t5_2sx2i
+7307139,0,t3_4f8fbq,      Jabber?,unixporn,d28rsvv,1,t5_2sx2i
+7310010,0,t1_d28rgk4, MBuntu Docky Theme installed using debtap Yosemite Window Decoration ElementalOSX Color Scheme window background changed to ddd selection background  focus decoration  hover decoration changed to ddd Top panel is just the default KDE panel with the following modifications     Moved to top and made smaller     Removed window list     Replaced app launcher with app dashboard full screen     Changed app launcher icon to this  installed through KDE Settings go to appropriate setting  Get New ltthinggts  search,unixporn,d293jwn,3,t5_2sx2i
+7315684,0,t3_4fkyve,The Infos   Wallpaper Blue Mountains by source unknown. Top post on rEarthPorn as of time of screenshot   GTK elementaryOS gtk egtk   Icons Vivacious Colors   Conky Will post later no time now   Dock Planky   WM Theme Elementary OS   Term URxvt   Font Hack   zsh theme powerlevelk   Editor Geany    Compositor Compton,unixporn,d29qs9g,19,t5_2sx2i
+7319065,0,t3_4fkyve,Thats pretty cocky. Are you sure youve seen my desktop from when I was  p,unixporn,d2a4lot,47,t5_2sx2i
+7321716,0,t1_d2a7eoy,HOW DOES SOMEONE STAY ON ONE DISTRO FOR SO LONG,unixporn,d2afg31,10,t5_2sx2i
+7323818,0,t1_d2ae0wk,No you overheard it somewhere.,unixporn,d2ao1v3,3,t5_2sx2i
+7342036,0,t3_4fx3kc,Full album rcfiles Background Gtk theme is Arc. I cant find out the icon theme... lxappearance doesnt show it.,unixporn,d2cqmki,2,t5_2sx2i
+7359528,0,t1_d2eivl9,if you dont want to install the whole xfce system you can download the binary or source packages from the mirror.  this is the link to nethack  bit binary    you will just need to untar it with the flag for xz compression tar xvJf nethack...tar.xz  have fun.  you will need to have the cygwin ncurses library installed.if you have my full system installed you can install with the package manager  spm i nethack,unixporn,d2eq7sp,1,t5_2sx2i
+7361578,0,t3_4g2kqr,Can I borrow your battery block config?,unixporn,d2eylx6,1,t5_2sx2i
+7368415,0,t1_d2fi92e,I still managed to mess up following that. A tutorial on setting up basic xorg would be nice tho,unixporn,d2fqkji,1,t5_2sx2i
+7374258,0,t3_4gctzy,OK guys me again. Decided to give a second try on my desktop and Im far more satisfied by the results!Adapta for the overall theme including the Window Manager and the Controls.Numix Circle for the icons. I dont think Ill ever change that Hahaha... The panelsdocks are made with XFCE Panels they all get hidden when Im not with the cursor over them except for the top one. The panels size are  top one and  bottom and left on the left I have Launchers with my most used applications on the bottom I have the ones Im using right now and the top has the usual clock and widget friends.Hope this is pornographic enough for this sub! P,unixporn,d2geh4o,3,t5_2sx2i
+7380944,0,t1_d2h2gsi,Thank you!,unixporn,d2h5vi2,3,t5_2sx2i
+7396154,0,t1_d2iw2fj,HexChat. Its probably the icon pack throwing you off.,unixporn,d2iw77m,3,t5_2sx2i
+7412639,0,t3_4g46ml,Dots,unixporn,d2kro3j,1,t5_2sx2i
+7419855,0,t3_4gxg1f,Ive always preferred white text on a dark background it just feels easier on the eyes. Ive had a lot of trouble finding a theme that provided a dark background all throughout the GUI most of the time its dark in some areas but light in others. I think I finally found what I was looking for here and I also found a nice icon theme and I finally found an OSXesque metacity theme for the buttons!OS AntergosGTK Theme OSX Arc ShadowIcon Theme MasallaFont Ubuntu Mono EDIT Forgot a couple details. I have a top panel with just the clock which I think looks nice and clean and is always displayed. I have  other XFCE panels on the left is a dock panel with Whiskermenu and a few launcher icons that hides when it gets overlapped but shows if I move my mouse over it. The bottom middle panel displays my open windows and also hides intelligently on the left of that is a panel with my notifications and to the right of the middle panel is some miscellaneous buttons like show desktop screenshot my virtual workspaces and a couple others. Its not the most elegant compared to some others around here but Im getting much closer to my desired result! I still need to find a nice wallpaper to tie everything together!,unixporn,d2ll84w,9,t5_2sx2i
+7429889,0,t1_d2mnrjp,tangerine barely a mod of lemon,unixporn,d2mqbzr,1,t5_2sx2i
+7430943,0,t3_4h0n3z,Not necessarily I dont think anyone said that. But what has it got to do with your post?,unixporn,d2munb8,1,t5_2sx2i
+7436415,0,t1_d2n6wsi,scaling is pretty difficult its probably what i miss most about windows haha. anyway heres a list of stuff ive done to make life less frustrating fonts i use apples SFNS display font because it reads well at all sizes especially small sizes. my gtk settings use fonts around size  or a bit bigger. gnome this desktop environment scales up pretty well automatically. but i only really use it when someone wants to borrow my laptop firefox under aboutconfig i set layout.css.devPixelsPerPx to .   in preferences my default font size is  its a bit big but my vision is sort of bad!   also for pages that still appear small you can use no squint its not under active development but works pretty well and saves both sitespecific and global zooming levels! chromium i launch it with the option forcedevicescalefactor.. i only really use chromium for school tho gimp this theme makes gimp just a little more bearable to use qt programs i dont really use qt programs other than kdenlive and octave so i havent looked much into how qt scales stuff. the quickest solution i found is to useqtconfigqtto use my gtk theme gotta get that unified look and set the font size to . pcmanfm i tend to use icon mode and i always use the biggest setting x. thumbnail view is pretty great for browsing pictures bc its so huge! nautilus is also a good file manager bc its a gnome program so scaling is a bit better but i dont use it as much.with all of that my experience is pretty okay. what sucks is that i cant use those popular bitmap fonts like lemon that all the cool kids here use lol. and as an artist krita is pretty hard to use because there are no scaling options whatsoever.i wish devs would try and make programs more accessible to users with big resolutions especially because theyre becoming more and more popular. honestly i just hope to learn more programming so i can contribute to projects and make them more hidpifriendly.if you find any other solutions or have any more ideas please tell me! the hidpi life is lonely lol.,unixporn,d2nh0wk,1,t5_2sx2i
+7453748,0,t3_4hajh4,Jesus I like this!,unixporn,d2pfzjv,1,t5_2sx2i
+7518883,0,t1_d2wu02w,Ive always been slightly disappointed with Elementary beautifully consistent but seems a bit sluggish. Hope you can get that new PC soon and enjoy Solus Ive used it and its great prefer XFCE though.,unixporn,d2wuyus,2,t5_2sx2i
+7526722,0,t3_4ig0tj,sudo aptget install xubuntudesktopsimple as that.then you have to log out  chose xubuntu desktop instead of unity in gdm and log back in.,unixporn,d2xr1tl,6,t5_2sx2i
+7532705,0,t1_d2ydqdf,Cinnamon is a DE and Muffin is a WM. There is no OS in the title tag.,unixporn,d2yfjlx,3,t5_2sx2i
+7544797,0,t1_d2x5rk8,Good ol Terminus! Keep us updated on your theme!,unixporn,d2zt1qy,2,t5_2sx2i
+7552983,0,t3_4inmkn,This is gorgeous! Im gonna be doing something similar thanks!,unixporn,d30ql4c,2,t5_2sx2i
+7556719,0,t1_d30x4u2,No thats osx look at the titlebars,unixporn,d315uzz,5,t5_2sx2i
+7569955,0,t1_d32i4oo,Thank you  I do not put exec,unixporn,d32o0tw,1,t5_2sx2i
+7611416,0,t1_d36tz1j,Thank you so much for everything you do. Paper is my favorite icon pack by far and the work you do on it is superb.,unixporn,d37dmpf,3,t5_2sx2i
+7614937,0,t3_4jmdyn,removed,unixporn,d37s1fm,1,t5_2sx2i
+7617021,0,t1_d38092m,Are you talking about the OP? Because thats OS X.,unixporn,d380kr8,1,t5_2sx2i
+7630418,0,t1_d38zeh1,emacs is pid  now,unixporn,d39jcue,6,t5_2sx2i
+7631840,0,t1_d39oiy2,Try doing the vimtutor. I only did half of it and that was enough to stop using nano. But then again Im split using vim and atom .,unixporn,d39p636,5,t5_2sx2i
+7632976,0,t3_4jusmb,What editor is that? Looks great.,unixporn,d39tt8p,3,t5_2sx2i
+7638530,0,t3_4jqvqt,Looks like this is perfect for  Bit Day.,unixporn,d3agi5i,4,t5_2sx2i
+7706964,1,t1_d3i06m7,Yeah I think OP should just kill himself.,unixporn,d3i8avw,-2,t5_2sx2i
+7723611,0,t3_4l2390,Wow looks great. I recently switched from linux to OSX hackintosh and imac. My linux experience is mostly limited to UbuntuDebbian though I have occasionally used other distros. I feel like trying this out on a virtual machine.I have two questions for you. Can I use bwm on Ubuntu? Can I do something similar on OSX meaning floating chromeless terminal?,unixporn,d3k4dqm,1,t5_2sx2i
+7776402,0,t1_d3q3kwa,Youre also missing the items in your .configiblocks directory ,unixporn,d3q43ne,1,t5_2sx2i
+7823843,0,t1_d3vbgej,At work Ive got whatever NIX Im in the mood to work from at the moment with Herbstluftwm urxvtd and some custom shell and editor configs alongside a shitty Win PC. The Windows PC is infinitely more frustrating especially because the Windows PC doesnt recognize my keyboard and mouse being switched back and forth sometimes. Seriously before I wouldve written it off as being a fanboy but if Win is still the golden standard of Windows its simply the worst steaming pile of BS how people are comfortable working that way how I used to be comfortable working that way Ill never know.,unixporn,d3vgt9j,3,t5_2sx2i
+7824907,0,t1_d3vbd8q,.,unixporn,d3vl416,3,t5_2sx2i
+7841284,0,t3_4mq6jr,GTK and Shell Theme UranusWallpaper,unixporn,d3xffsf,1,t5_2sx2i
+7856767,0,t3_4mxrzq,Your post appears to be using one of the deprecated tags so has been removed. The bot will automatically apply the relevant link flair to posts.Contact us if our bot has messed up,unixporn,d3z66wx,1,t5_2sx2i
+7864714,0,t1_d40134b,What dock is that ?,unixporn,d402ds0,1,t5_2sx2i
+7875763,0,t1_d41args,Aquasnap    Yeah features built into the OS are always better and always less buggy.What i love about i is the workflow i get when i use separate workspaces with a well defined workspacemap. Too bad i dont get the applications i need to do any actual work,unixporn,d41b40l,2,t5_2sx2i
+7884188,0,t1_d424r4c,Season to taste.,unixporn,d4297kz,3,t5_2sx2i
+7886590,0,t1_d42iebq,It is. I periodically watch the compilation of all cutscenes on YT haha. Go ahead. Im really pleased with how well Ram fits it. ,unixporn,d42ixmd,1,t5_2sx2i
+7889189,0,t3_4mc69u,What is your terminal font?,unixporn,d42tg9w,1,t5_2sx2i
+7907419,0,t1_d449psr,In fact i didnt try any BSD based distro. Maybe ill try. But the thing is you can get smooth experience with your Cpu but i cant. And in paper my CPU looks better and should give better performance. Im trying to find that reason. Btw which kernel do you use?,unixporn,d44vafd,1,t5_2sx2i
+7907890,0,t1_d44vafd,Honestly? No idea Im a noobuntu I dont mess with the kernel and stuff causd like Linux just as it is. Most of the changes I make are cosmetic,unixporn,d44x704,1,t5_2sx2i
+7919702,0,t1_d46783a,Thanks!,unixporn,d468zhm,1,t5_2sx2i
+7939230,0,t3_4noq2q,if foo while foo  ... can be reduced to while foo ...,unixporn,d48g03i,2,t5_2sx2i
+8003224,0,t1_d4flqhd,Ive been using FreeSans recently and I think it looks pretty good.FreeSans in action ,unixporn,d4fmzg8,2,t5_2sx2i
+8007339,0,t3_4oue6z,deleted,unixporn,d4g3mi0,1,t5_2sx2i
+8012919,0,t1_d4gpk7z,Yes xwait script holds the session open and sxhkd grabs key combos and executes small utilities and shell scripts to wrangle windows and behaviour.,unixporn,d4gq6cb,1,t5_2sx2i
+8014558,0,t1_d4gtpij,Thanks I didnt have the link for them anymore  ,unixporn,d4gwt0o,1,t5_2sx2i
+8074307,0,t1_d4nmhfh,im not sure what you mean but im using itunes as my music player and ableton live as my music production software.,unixporn,d4nmmfp,1,t5_2sx2i
+8086536,0,t1_d4ozsay,Ok Thanks for your fast reply,unixporn,d4p00u5,1,t5_2sx2i
+8090468,0,t3_4pq96d,Does your terminal support images? If so youll have plenty of Ghost in the Bash Shell puns at your disposal.,unixporn,d4pfxsm,1,t5_2sx2i
+8099868,0,t3_4q66ca,dots,unixporn,d4qhxwn,1,t5_2sx2i
+8102988,0,t3_4q6wo7,Good but personally I cant read the terminal text. Maybe lessen the opacity? And Gnome Shell haha D,unixporn,d4qukkh,1,t5_2sx2i
+8112606,0,t1_d4rxej1,gt Sorry about that.You dont need to be! I enjoyed it motivated me enough to give Gnome another look myself. Might even install Arch along with it I stay on Xubuntu because the default configs of XFCE are nice on this.,unixporn,d4rxhtd,1,t5_2sx2i
+8163952,0,t3_4qu9a8,y u do dis,unixporn,d4y1j3i,6,t5_2sx2i
+8185246,0,t1_d50p4ws,Its not screenfetch its neofetch. ,unixporn,d50pfv1,1,t5_2sx2i
+8190035,0,t1_d517h7b,Probably its worth mentioning that theres a nearly permanent datadrain from your smartphone if you use the whatsapp web application.I would suggest to use this only if you are connected to a wireless network. It doesnt drain much afaik but it builds up over time. ,unixporn,d51b0ri,1,t5_2sx2i
+8193713,0,t3_4rk6g1,First Linux installation after more than one year  It was a Gnome . when I last used it...   Wallpaper Apple    GTK Arc   Icons Arc  Paper   Conky Elegance   Other Honukai zsh theme  | Base terminal colors ,unixporn,d51rkyy,3,t5_2sx2i
+8200302,0,t3_4rnj0j,A simple setup with  monitors x and an old x OS xubuntu . Wm igaps Wallpapers Monitor  monitor  GTKtheme Arcdark Icons Papirusiconthemegtk Firefox Arcdark also ibar iblocks on monitor  and conky on the nd.My dotfiles related to i.EDITI didnt record it in the gif but I can control cmus with the mouse from its blocklet And the icon change depending of the state.,unixporn,d52laz4,6,t5_2sx2i
+8219528,0,t1_d53vlg4,Tried Neon. Felt a little buggy to me. Gonna play with OpenSUSE next.,unixporn,d54zwg5,2,t5_2sx2i
+8241422,0,t3_4sa98g,Nice. I guess the X on the status bar is xkill but what is the cursor for?,unixporn,d57qeyi,1,t5_2sx2i
+8250665,0,t1_d58sqw0,Shit sorry that function is not used I just forgot to delete it. I was trying to make the window title truncate itself if its too long and realized that xtitle already had that function. ,unixporn,d58w10u,2,t5_2sx2i
+8250916,0,t1_d57spyw,Yeah that colour bar is due to using neofetch at that time. I shouldve used screenfetch anyways D,unixporn,d58x5ma,1,t5_2sx2i
+8271717,0,t3_4sr6kg,deleted,unixporn,d5biv5j,1,t5_2sx2i
+8305776,0,t1_d5figb7,The picture is just the album art. I use ncmpcpp with mpd.,unixporn,d5fs1rb,2,t5_2sx2i
+8314179,0,t1_d5gt4c2,lol unffIt really is  with these new age typed out sex noises,unixporn,d5gtuiu,2,t5_2sx2i
+8318322,0,t1_d5h8lyz,I meant i on dual monitors my mistake. Got it now.,unixporn,d5hchds,2,t5_2sx2i
+8338286,0,t3_4tr0ra,wallpaper?,unixporn,d5ju94t,2,t5_2sx2i
+8339029,0,t1_d5jww70,Seems like I might be out of luck the panel keeps fullsized even with autoresizing off . Im not sure how i and xfce work together so Im pretty far from a solution I guess. ,unixporn,d5jxley,3,t5_2sx2i
+8346273,0,t3_4twlqr,deleted,unixporn,d5ku5ih,1,t5_2sx2i
+8350419,0,t3_4tyoj6,deleted,unixporn,d5lct7k,1,t5_2sx2i
+8373790,0,t1_d5o7pwb,Conversely you can use echo foo gtamp  ,unixporn,d5o9uz6,1,t5_2sx2i
+8382691,0,t1_d5pa9ol,I dont think theres any advantage for you the end user but applying the setting directly when its loaded seems more intuitive to me. Plus its easier to lump more options together in one place.,unixporn,d5pdusx,1,t5_2sx2i
+8389415,0,t3_4uj6u0,A bit too busy for my tastes but overall very nice.,unixporn,d5q83br,2,t5_2sx2i
+8404511,0,t1_d5s3alb,Mind telling us what font that is? I couldnt find it in your dotfiles.,unixporn,d5s3yc5,1,t5_2sx2i
+8407295,0,t3_4uralx,dotshare.it is pretty good for sharing complete configurations with screenshots dotfiles etc..A sort of theme packager would be neat though. I guess one could repurpose pacmanOr maybe just PKGBUILD from Arch.,unixporn,d5sgh0o,3,t5_2sx2i
+8407514,0,t1_d5sea8n,I wanted to blank them off only way to do that was to desolder them since they are cherry switches.I remember when they first appeared on keyboards the frustration when you accidentally hit one while gaming was intense! So Ive been popping them off since the s and filling them in. My hatred of that damned button goes waaaay back.,unixporn,d5shgf6,1,t5_2sx2i
+8409653,0,t1_d5rc8nl,problem solved. I used  to convert the above raw file .Xdefaults file in the above URL to an iTerm itermcolors file.,unixporn,d5sr29v,1,t5_2sx2i
+8414210,0,t1_d5tb94c,You need to deleterename i config in your home directory.  It is either in .configi or .i,unixporn,d5tbiy7,1,t5_2sx2i
+8416554,0,t1_d5tjzgj,Im referring to the one thats like a notfify OSD bubble it doesnt have any text but has a crosshairs icon in its top left corner. Its grey and white.,unixporn,d5tm278,1,t5_2sx2i
+8438095,0,t3_4v8174, WM xfwm  GTK Numix Icons Numix Circle,unixporn,d5waup0,2,t5_2sx2i
+8440151,0,t1_d5wjdxr,No problem! Let me know if you have any questions.,unixporn,d5wk372,2,t5_2sx2i
+8455802,0,t1_d5yi9l7,The best themes I know are Arc and Adapta. Do you know other nice themes? ,unixporn,d5yidnz,3,t5_2sx2i
+8482458,0,t1_d61bl7y,The previous laptop I had had a x resolution and I used smaller gaps then.  p has never felt so spacious,unixporn,d61uody,1,t5_2sx2i
+8486637,0,t1_d627dls,I like how duckdyckgo looks.,unixporn,d62djhh,3,t5_2sx2i
+8487074,0,t1_d623ils,rdjent,unixporn,d62fikh,2,t5_2sx2i
+8495520,0,t1_d6341s7,I use this one ,unixporn,d63holc,1,t5_2sx2i
+8520185,0,t1_d66h6rn,What do you mean no support? I know Linux doesnt play well with the webcam and sometimes track pad can act funny but keyboard works fine? Backlight etc all works perfect,unixporn,d66l122,2,t5_2sx2i
+8530376,0,t1_d66z8y7,And thanks for using my colors ... for those interested ... depth,unixporn,d67v066,2,t5_2sx2i
+8539055,0,t3_4wq1tj,Details links and downloads here ,unixporn,d68y6gc,1,t5_2sx2i
+8542359,0,t3_4wrjan,Try putting DISPLAY ahead of the script in your cron...For example make your cron say         DISPLAY bash pathtoyourscript,unixporn,d69d49n,2,t5_2sx2i
+8547676,0,t1_d69kt20,You ever looked into paper brother you might like it. ,unixporn,d6a14yf,1,t5_2sx2i
+8547778,0,t1_d69zt7x,So where is that configured?.Xresources? iconfig? Your terminals config? Somewhere else? Or do you mean that each individual app needs that in its own config? ,unixporn,d6a1lhj,1,t5_2sx2i
+8548191,0,t1_d69yd2o,There should be some icon in the GDM login screen that lets you select which wmde to start.,unixporn,d6a3gfl,1,t5_2sx2i
+8564376,0,t1_d6b7qm2,See if anyone local is selling a win or higher laptop for . You might get lucky. Install to you main machine with the key provided and upgrade to w with the digital accessibility upgrade. ,unixporn,d6c4j00,1,t5_2sx2i
+8566931,0,t3_4x1qs8,Nice theme !PS  Hello fellow poitevin ,unixporn,d6cg2hx,2,t5_2sx2i
+8567626,0,t1_d6ciy6t,Yep. I dont want those distro wallpapers Im currently using that with Manjaros logo because was one for the least worsts I could find. I tried looking on Google but found nothing minimally usable. I would love something like Elementary OS wallpapers but Elementary ones doesnt combine with my color scheme.,unixporn,d6cj7nw,1,t5_2sx2i
+8573327,0,t1_d6caobv,Im sure you could get Vivaldi to look solarized.,unixporn,d6d8y1r,1,t5_2sx2i
+8582091,0,t1_d6ea0u3,deleted,unixporn,d6eci0f,1,t5_2sx2i
+8582431,0,t3_4xcw45,You have not provided a details comment so the post has been removed. Please add one and message the mod team so we can approve your post.Contact us if our bot has messed up,unixporn,d6ee14s,1,t5_2sx2i
+8615956,0,t3_4xuuw2,deleted,unixporn,d6ilclr,1,t5_2sx2i
+8621348,0,t1_d6j9mxi,Thinkpad X Its the best laptop I have ever used and the price is absurd I payed  for the i and gb of ram model. I have never used a nicer laptop and all the upgrades possible are insane like a p ips upgade cpu upgrade BIOS upgrade etc. Msg me if you have any questions about it!,unixporn,d6j9pry,2,t5_2sx2i
+8627519,0,t1_d6jvtnn,haha thank you,unixporn,d6k1l1b,1,t5_2sx2i
+8632603,0,t1_d6kofsz,deleted,unixporn,d6kokmc,1,t5_2sx2i
+8637162,0,t1_d6kycws,deleted,unixporn,d6l94o2,5,t5_2sx2i
+8643147,0,t1_d6ldbuu,Copying text from stdout. ,unixporn,d6m0578,1,t5_2sx2i
+8648952,0,t1_d6mlgag,I use easytag for tag editing and you can go into the preferences in Lollypop and change a setting for playback after closing. However Rhythmbox is great too. ,unixporn,d6mqbzz,1,t5_2sx2i
+8654981,0,t1_d6nhgi2,Very true ,unixporn,d6nhjyu,3,t5_2sx2i
+8657972,0,t3_4ye1gq,It seems fine to use a corporate thing that cares of user control for jailing software that cares users freedom. Finally doing it is freedom too.,unixporn,d6nv15y,-1,t5_2sx2i
+8660815,0,t1_d6o6eif,op pls!,unixporn,d6o7w19,1,t5_2sx2i
+8661168,0,t1_d6ndx27,deleted,unixporn,d6o9hgc,1,t5_2sx2i
+8666754,0,t1_d6ov5zp,Wow. Ill see about that. Thank you!,unixporn,d6oypfy,1,t5_2sx2i
+8671347,0,t3_4ypy11,GTK theme ArcIcons OrancheloDesktop Background Chromebook DefaultIm using this desktop in a chroot on a Chromebook and I wanted a desktop setup that didnt clash with Chrome OS. This is what I came up with.,unixporn,d6pjfeo,1,t5_2sx2i
+8679376,0,t3_4yuslx,Apps lemonbar on top hsetroot just to set wallpaper tilda  cava audio bars on bottom font Termsynu music Hermr  VinterJust an experiment not sure it survive next few hours ,unixporn,d6qjnr3,4,t5_2sx2i
+8689966,0,t1_d6rs3ke,I never have no reddit access.  Yahoo bing duckduckgo etc arent rehosted versions of google tho they have their own site indexeswhatever theyre called but Im just nitpicking at this point though.,unixporn,d6rvgrt,3,t5_2sx2i
+8690927,0,t1_d6rq26q,And a high five for finding solutions on your own. Good job!uLimdel Id say play with the settings then cobble together the rest of your needs in the variety of bar options. Or just stuck with xfce... as for tint I could have sworn I saw a pager like that there but it was vague on every option it had. I havent tried everything I suggested.,unixporn,d6rzszk,2,t5_2sx2i
+8700545,0,t3_4z3sls,This is pretty cool. I didnt know you could do this with a mac. How did you do this on Mac OS X? I want to try some tinkering as well. Any pointers?,unixporn,d6t77z2,1,t5_2sx2i
+8738305,0,t3_4zq8q3,Its quite straightforward to manually patch in powerline support for TTF fonts.Theres a version of bitmap terminus patched for powerline here But im not sure if thats quite the aesthetic youre going for. This is the only screenshot I could find EDIT I almost forgot about the excellent Tamzen font another bitmap font with powerline support that looks lovely,unixporn,d6xxrl6,3,t5_2sx2i
+8741565,0,t3_4rgcdq,If I was a hacker I would definitely use it. Makes me want to buy a raspberry pi zero exclusively to download your custom P,unixporn,d6yciqq,1,t5_2sx2i
+8751213,0,t1_d6zjzu2,Its been a while but IIRC it came with Running Linux the OReilly book.,unixporn,d6zk3si,1,t5_2sx2i
+8756152,0,t1_d6zi2p3,Yes!Im dual booting with osx and with file vault on. It just a matter of creating an empty partition using disk utility and then using something like gparted to create a small fat boot partition and a large root. Im using grub as bootloader. ,unixporn,d706e7a,1,t5_2sx2i
+8761882,0,t1_d70lx6u,Running Fedora with Gnome terminal and it doesnt seem to be as robust as iTerm. ,unixporn,d70wa73,1,t5_2sx2i
+8807907,0,t3_50ruz2,I would love to see the awesome config D,unixporn,d76l9nx,2,t5_2sx2i
+8809922,0,t1_d76tx5u,Oh I did not know that. Thanks !,unixporn,d76tzix,4,t5_2sx2i
+8823684,0,t3_50o9lt,Done. One thing though can you change the CSS to show links to comments on the compressed UI view?,unixporn,d78hh48,2,t5_2sx2i
+8826875,0,t3_5110ih,KDE and you try to it to make it look like Unity? Get out.,unixporn,d78v9e5,7,t5_2sx2i
+8830078,0,t3_514ry0,GTK  ArcDarkIcons NumixCircleAdded a picture of my firefox and accidentally moved it to the top and cant move it back. Sorry,unixporn,d7992x3,1,t5_2sx2i
+8846127,0,t3_51dfbw,    forwindow class. border pixel Save yourself some more space. Then use that space for sexy gaps. ,unixporn,d7b6gjx,83,t5_2sx2i
+8848109,0,t3_51ew8n,Looks like monaco but I could be wrong,unixporn,d7bf0qz,3,t5_2sx2i
+8861116,0,t1_d7cekwy,Looks pretty bitchin.  I wonder if they changed the syntax in new versions. I use an ARM based device so I likely got an old version of Conky and thats why theyre able to work.,unixporn,d7czc32,2,t5_2sx2i
+8889515,0,t1_d7864t4,deleted,unixporn,d7ge6s2,1,t5_2sx2i
+8895233,0,t1_d7gxx78,Praise the lord.I cant wait until Gentoo does the same...getting systemd set up was a pain in the ass.,unixporn,d7h2w1a,1,t5_2sx2i
+8907096,1,t1_d7igdrx,The problem is that I do not need DE software . All I need is WM and browser.,unixporn,d7ii5db,0,t5_2sx2i
+8927358,0,t3_52im5s,As requested my conky scripts.  Im using conkyclementine to import the track info. .conkyrc   .conkyrc I just started them with these lines at the end of my rc.lua        awful.util.spawnwithshellconky        awful.util.spawnwithshellconky c homecanthus.conkyrc  conkyclementine is fairly straightforward if you know even a tiny bit of coding.   ,unixporn,d7kxqo3,2,t5_2sx2i
+8928610,0,t1_d7l2s4e,Officially?I have a Macbook I have to use to compile a clients app for iOS with. Piece of crap would only install the latest version of Xcode from the app store so I ended up following a tutorial to install an old version that involved creating a new account and abusing some recovery tool.Worse every couple weeks it updates Xcode without notifying me so the toolchain breaks and I have to go through the process all over again.Youd think Apple would be a bit more open to people developing software for their products. Xcode wouldnt even compile the app until I had a  developer certificate let alone run it.,unixporn,d7l35ke,4,t5_2sx2i
+8928774,0,t1_d7kemf5,yup its exactly what I am running here,unixporn,d7l3v33,1,t5_2sx2i
+8943061,0,t1_d7mt87i,Thanks! Both look a lot nicer than on my computer even with Infinality.,unixporn,d7mtork,1,t5_2sx2i
+8951069,0,t1_d7nfmfd,Its great. You studying it at uni? Or on your own? ,unixporn,d7nsa1i,1,t5_2sx2i
+8978605,0,t3_53994o, Wallpaper Flat landscape by wallhaven.cc Icons MintY,unixporn,d7r3b44,1,t5_2sx2i
+8978948,0,t1_d7r2t3f,gt you can modify itYou can modify anything. Unfortunately using MacOS involves agreeing not to.gt the kind of people who go to runixporn are the people who rip up and reassemble the internals of their systemToo bad Apple makes you agree not to.gtWindows is in fact more restrictiveNever saw Microsoft charge me year just to compile my own code so I disagree.gtThe only way to modify the internals of Windows is via unsupported registry hacksAnd the only way to modify the internals of MacOS is to violate a legally binding contract.,unixporn,d7r4shk,0,t5_2sx2i
+8979180,0,t3_539veu,Your post appears to be missing a title tag so has been removed. See section  for more details but briefly Screenshots requires WMDE Workflow requires WMDE Hardware requires DEVICE Material requires OCContact us if our bot has messed up,unixporn,d7r5sk4,1,t5_2sx2i
+8982866,0,t1_d7rk7sb,I use mopidyspotify  ncmpcpp.  ,unixporn,d7rlpk6,2,t5_2sx2i
+8987886,0,t1_d7s784p,The Bars are XFCE and there is a script that lets you swap out the rootfs for an Arch Linux rootfs.,unixporn,d7s7eye,4,t5_2sx2i
+8993782,0,t1_d7scykk,My computer name is Glados.,unixporn,d7swvyd,1,t5_2sx2i
+8994418,0,t1_d6193lf,Ive been wondering about this lately and Ive found that GNOME has an extension that blurs inactive windows but that requires using GNOME.Compiz can dim inactive windows and so can compton so comptons dim effect is probably the closest youll get without going full DE.,unixporn,d7szn04,1,t5_2sx2i
+9043679,0,t3_53tm6h,i have the problem that the desktop is floating in the foreground when i change to i with your script. how did you get rid of it?regards,unixporn,d7ywlt0,1,t5_2sx2i
+9073114,0,t1_d82bwo9,thanks bro,unixporn,d82fw5s,1,t5_2sx2i
+9078308,0,t3_54k03e,Looks very nice! Love the GNOME Desktop,unixporn,d832d0t,1,t5_2sx2i
+9085286,0,t3_54mw2n,This looks really great! Its super clean I love it.Could you share your dots when you have a chance please?,unixporn,d83wjhk,3,t5_2sx2i
+9120551,0,t3_555prg,This colorscheme is so beautiful and so useless for coding... ,unixporn,d8853xd,1,t5_2sx2i
+9131020,0,t3_55cjtr,You have not provided a details comment so the post has been removed. Please add one and message the mod team so we can approve your post.Contact us if our bot has messed up,unixporn,d89f7wb,1,t5_2sx2i
+9134331,0,t1_d89jch7,Am currently running Debian but will try this when Im back on Arch! Thanks mane,unixporn,d89uc99,1,t5_2sx2i
+9140407,0,t1_d8am1am,Its pretty obvious with the post title.  I was more impressed with your  second response time.,unixporn,d8am28b,6,t5_2sx2i
+9142675,0,t3_555p9c,You also have  ,unixporn,d8aweag,2,t5_2sx2i
+9143694,0,t1_d8aadgp,TIL... ,unixporn,d8b11hx,4,t5_2sx2i
+9156044,0,t1_d8ck6pg,Yes they are clickable. There is an A token in the configuration lemonbar supports it since... Dunno maybe this,unixporn,d8clf7a,1,t5_2sx2i
+9157613,0,t1_d8cctg7,I dont want ohmyzsh.,unixporn,d8cslxl,1,t5_2sx2i
+9163313,0,t1_d8de3y7,leggie for term tewi for sublime iirc,unixporn,d8dim7z,1,t5_2sx2i
+9167565,0,t1_d8e1i1r,Top one imo ,unixporn,d8e20w0,1,t5_2sx2i
+9175536,0,t1_d8et87w,Yeah it does. I always feel like Im in the matrix. D,unixporn,d8f2epi,3,t5_2sx2i
+9185423,0,t3_55wuw6,Make your own here,unixporn,d8gbifg,1,t5_2sx2i
+9212301,0,t1_d8jphum,Hello!Thank you! The title reads not depressing are we on the same page??,unixporn,d8jq7bb,1,t5_2sx2i
+9220093,0,t3_56k5m0,I want to see coding on that setup good god.,unixporn,d8kpq1c,1,t5_2sx2i
+9226026,0,t3_56q5h8,Please add a details commentContact us if our bot has messed up,unixporn,d8lgt3w,1,t5_2sx2i
+9244123,0,t1_d8nr4a8,Perfect  thanks.Does ruby e curl fsSL  automatically load the font into the system no work has to be done after the command?How would I go about installing thisAlso do you know any tricks to get the terminal to appear like on Mac OS?,unixporn,d8nrd67,1,t5_2sx2i
+9259723,0,t1_d8oqjx5,The pointer at  is not the only way to check that. EFI variables can be located in sysfirmwareefivars or sysfirmwareefiefivars aswell.,unixporn,d8pqje8,2,t5_2sx2i
+9266080,0,t1_d8qatou,Ill bet you anything its ilockcolor or maybe just ilock with the wheel disabled and a custom icon.,unixporn,d8qji8d,1,t5_2sx2i
+9266809,0,t3_57bh00,gt You look at the moving bushes ahead of yougt You sense a trap,unixporn,d8qmu1m,-1,t5_2sx2i
+9280357,0,t3_57iwls,Please add a details commentContact us if our bot has messed up,unixporn,d8scooz,1,t5_2sx2i
+9296443,0,t1_d8ub2zs,its funny how you put it in front of comic sans D ,unixporn,d8ue2s9,3,t5_2sx2i
+9305313,0,t3_57uuvb,gt Screenfetch since neofetch has been acting real fuckWhat issues did you run into? ,unixporn,d8vikt4,1,t5_2sx2i
+9316392,0,t3_57y1ev,wolves in the throne room ! m,unixporn,d8wx6d4,0,t5_2sx2i
+9319254,0,t3_57wx6y,I use this  with igaps its technically a selection application but it has a zoom mode and it works very well shows the zoomed region in a window you can customize zoom level and window size.,unixporn,d8xa7pl,2,t5_2sx2i
+9321905,0,t3_57y1ev,deleted,unixporn,d8xmbwg,1,t5_2sx2i
+9326210,0,t1_d8y4pht,gt Unixporn is about workflow.I think you may be missing  of the screenshots posted here. Having a good workflow doesnt contradict aesthetics it compliments them. The challenge is combining the two concepts to create a setup that is both functional and looks cool.In reality a lot of the screenshots posted here show setups that are anything but practical.,unixporn,d8y5zav,7,t5_2sx2i
+9358534,0,t3_58phq9,Video So this has been my project for the last few months. I took a look at the existing Win transformation packs and was pretty underwhelmed. Ive finally gotten comfortable enough with Plasmas Widget API to attempt it.Ive kinda disliked how the few default menus organise the apps in categories since I often dont know which category a new app gets installed into so I really wanted an AZ menu. I also like having room for more than  favourite apps without having a super tall menu. Wallpaper  Theme Breeze AlphaBlack The rest of the setup hasnt really changed since my last post,unixporn,d929flj,5,t5_2sx2i
+9363925,0,t3_58rfi2, better resource usage Mozilla foundations ideals customizability better dev tools Firefox sync saner defaults  nicer design not just aesthetics but menu layouts etc,unixporn,d92y0cg,9,t5_2sx2i
+9364277,0,t3_58rfi2,I swapped to using Firefox more heavily once my Gmail tab in chrome started taking GB of ram after a couple hours once hit It was a leak likely related to the hangouts tile.now its frequently a combo of the two. ,unixporn,d92zm5g,5,t5_2sx2i
+9368017,0,t1_d93ebwu,lt,unixporn,d93gohy,15,t5_2sx2i
+9375945,0,t1_d94eif2,Xresources would be nice.,unixporn,d94gua2,1,t5_2sx2i
+9384897,0,t1_d95ajjo,Gotcha thanks!,unixporn,d95lnyh,2,t5_2sx2i
+9385781,0,t3_590vj4,Very good. Like the conky set up.The bar is also good.,unixporn,d95ppb5,1,t5_2sx2i
+9394615,0,t1_d96s0uk,But do you see how the options gdebi are so close?,unixporn,d96u0nv,3,t5_2sx2i
+9399468,0,t1_d97fqyw,gt i used i as an example of how things get popular as more and more people start to see it being posted and posting it.Im not sure cause and effect are in the right order here. Perhaps i is posted more and more because it got more popular? Perhaps i gaining popularity within the ricing community in particular had to do with my direct involvement in i development for the past two years. Who knows. Personally I think thats a big factor but its not like I can prove it.gt because its an android theme and most people in randroidthemes are looking for android themesYeah thats true. But somebody at randroidthemes likely already is interested in Android no? So somebody seeing it on unixporn may go man never really thought about it  I should check it out Also to be fair I generally agree with the notion that if a specific sub exists perhaps it should be preferred. To be honest I couldnt write down a generic rule that describes my personal view of when it is or isnt okay to post in the more general sub. But in the specific instance of this submission my feeling says yeah its totally fine here.But that also has much to do with the fact that initially this submission was down and the complaint comments upvoted which absolutely amazed me not the good kind of amazement considering the frequent outbreaks of this sub is becoming boring and generic.,unixporn,d97g5km,1,t5_2sx2i
+9405257,0,t1_d976cmg,Are you a spook?,unixporn,d986l0o,1,t5_2sx2i
+9442411,0,t1_d9cnv87,So from what I understand people who like openboxfluxbox like the minimalism that the aforementioned WMs and i dwm awesome bspwm etc have but dislike tiling or find it to be more of a nonfeature because tiling breaks most of the programs they useSince I think I like both tiling and stacking but for different purposes I like using a keyboarddriven tiling WM when I code or tinker with my pc or read stuff but sometimes I wanna just lay back and browse the netwatch youtube without having to be close to my desk,unixporn,d9cw56u,3,t5_2sx2i
+9460156,0,t1_d9f2zis,I got it from unsplash Im on mobile so I dont have the link right now,unixporn,d9f54a8,2,t5_2sx2i
+9477232,0,t1_d9h8ys8,When I googled it I got nothing!Thats why I picked it. ,unixporn,d9h9ue1,1,t5_2sx2i
+9487391,0,t1_d9i6x85,Heres a man who understands the trauma of github issues.,unixporn,d9iivf3,6,t5_2sx2i
+9510339,0,t3_5b0uzl,Awesome.,unixporn,d9lcnjc,5,t5_2sx2i
+9518485,0,t1_d9mcb6q,Fuck yeah seeing them on Wednesday. The concert is only  minutes away from me,unixporn,d9mctpy,2,t5_2sx2i
+9544979,0,t1_d9phave,this is what Id use feh bgscale pathtowallpaper.jpgcheck man page for feh under background settings normally I just match the wallpaper with the screen resolution tho...,unixporn,d9pm6qh,2,t5_2sx2i
+9570133,0,t3_5c0p8c,Link to the theme and other details on my configuration,unixporn,d9sppnc,13,t5_2sx2i
+9582492,0,t3_5c7gab,I used ilock on Ubuntu with no problems. I install it and call ilock from the terminal or use a shortcut. What doesnt work for you?,unixporn,d9u8kh3,1,t5_2sx2i
+9589408,0,t3_5bxaug,I just update the battery text once every  sec sobit doesnt really matter,unixporn,d9v39jn,1,t5_2sx2i
+9596442,0,t1_d9v5bvs,You should make a scrot fork and call it scrotum.  ,unixporn,d9vyhbn,2,t5_2sx2i
+9619435,0,t3_5cp9mm,Hi and thanks for your kind recommendation. Theres a reason you found my post in the cant be arsed to customize section thread but Ill definitely try that one. Anyways I probably should rather have written that the todays web is much too demanding. I never declared my browser to be a movie player or script language interpreter to execute arbitrary code if you know what I mean. Im happy having the option to do so but a good percebtage of all websites today dont even display anything if you turn JS off in your browser. I use many different browsers including even dillo and Midori but I really think whats broken is the todays web not my choice of tools.,unixporn,d9yskf9,1,t5_2sx2i
+9621274,0,t3_5crbql,Given the current versions have the binary named as cava it conflicts with the TUI version unlike earlier ones you had called cavagui. Any chance of going back to that so I can keep the terminal and your SDL versions installed?  Maybe change the AUR one at least if only that ones affected?,unixporn,d9z0qbw,1,t5_2sx2i
+9627731,0,t3_5crgng,You will pass away very quicklyWhat the shit?,unixporn,d9ztdl0,1,t5_2sx2i
+9655408,0,t1_da34cxh,Thanks!,unixporn,da38anh,1,t5_2sx2i
+9663068,0,t1_da327ro,Oh now I got your question right. The major reason is that unity seems to be the only distribution which runs fine with my graphics card. Every other DE Ive tried KDE Pantheon Gnome has some issues. Even when I installed the proprietary NVIDIA driver the fonts arent smoothed KDE the window movement where completely stutterish Gnome or the whole DE feels very slow an laggy KDE and Patheon. I use KDE on my old Laptop with an intel HD  GPU and KDE runs way smoother then on my computer NVidia GTX GPU. Unity instead runs fine if I install the NVIDIA drivers.  There are also some nice features such the menu buttons which are hidden behind the window title and appears when you hover the title bar or the fusion between the window and the status bar at the top of the screen.,unixporn,da46brd,2,t5_2sx2i
+9673122,0,t3_5diit2,If you ever do something like this for firefox please let me know. ,unixporn,da5eygm,5,t5_2sx2i
+9683543,0,t3_5dr4gq,You have not provided a details comment so the post has been removed. Please add one and message the mod team so we can approve your post.Contact us if our bot has messed up,unixporn,da6p92n,1,t5_2sx2i
+9718529,0,t1_daaplyi,Just saw this give me a screenshot of what you mean,unixporn,dab0pu6,1,t5_2sx2i
+9720827,0,t3_5e9z8o,MWM if you want your WM to be a bit Spartan and by a bit I mean you need debian menus or the terminal to open anything. If you want more features besides a mouse pointer and a menu FVWM is your guy.,unixporn,dabaxut,1,t5_2sx2i
+9748412,0,t1_dadgc93,Any chance of a link to the wallpaper that wont require registration?,unixporn,daepcu4,1,t5_2sx2i
+9754023,0,t1_dafe8hk,Im not angry and sorry for confusing you with OP it just seemed that way.         What shadowing thing? Your linking to projects so ask the people that  created them. My guess is that you need a compositing manager to draw shadows around windows.     ,unixporn,dafeglw,-1,t5_2sx2i
+9764285,0,t3_5f18kr,Please add a details commentContact us if our bot has messed up,unixporn,dagnyjx,1,t5_2sx2i
+9766501,0,t1_dagwnuk,Done,unixporn,dagxs7g,2,t5_2sx2i
+9789516,0,t1_dai9xcs,This post over on rVaporwaveAesthetics helps solve the mystery Basically noirlac didnt source the content. But there is a tumblr  that is there to solve that.,unixporn,dajrr2j,1,t5_2sx2i
+9804126,0,t3_5fndrc,IconsGTKXFWM and Plank theme MacbuntuMenu TopmenuDock Plank,unixporn,dalkiev,4,t5_2sx2i
+9808788,0,t1_dakg40w,Add Stand Up and Benefit to that list of great Tull LPs,unixporn,dam5620,1,t5_2sx2i
+9819447,0,t3_5fw5l2,These are my opinions dont be offended.      Remove terminal scrollbar.      Remove ugly show desktop icon      Get a better icon theme gnome icons are terrible        get a better font than sans  From the fromtpage of unixporn      Other than that it looks alright. The colors doesnt work that well together but thats more an issue of taste. And based on the question and look of your screenshot it seems your new at this. Thats no worry as it will improve over time. I look back at my early stuff today and wonder what I was thinking ,unixporn,danhqky,35,t5_2sx2i
+9838095,0,t3_5g67f4,I like what you did with cava. And I think the icon packs great wallpaper also.One thing The tab view in tilda looks out of space to me but that might not bother you. Nice setup!,unixporn,dapxd7o,1,t5_2sx2i
+9841351,0,t1_daq0lpb,Im a little confused. Why are you bringing up replace? I was talking about supporting windows of type NETWMTYPEDESKTOP in a more meaningful way.,unixporn,daqcn9g,1,t5_2sx2i
+9846028,0,t1_daqve4o,Did you replace MacOS altogether or dual boot?,unixporn,daqyky6,3,t5_2sx2i
+9866377,0,t1_dat9zby,Of course! Im using kwm as my window manager. It automatically tiles windows and adds padding as you can see when firefox opens and on the calendariMessage page.  I used iTerm for the dropdown terminal. You can add this by going to preferences gt keys gt showhide iTerm with a system wide hotkey.  Multiple desktops are nothing fancy  Im just using Mission Control built in with macOS to switch between desktops using a shortcut.  I switch between windows using khd with kwm. I will post my dotfiles soon so you can see what that looks like. ,unixporn,datm146,3,t5_2sx2i
+9880071,0,t1_dav170e,I keep xfce along side i because I found xfce includes a lot of the general user repo software for general use and not ricing. Most convenient solution for me anyway.,unixporn,davea7g,1,t5_2sx2i
+9882837,0,t1_davbyom,Maybe Linux From Scratch if looking to learn why and how.,unixporn,davr9qv,5,t5_2sx2i
+9905425,0,t3_5gza68,Slick! Nice bar up top. Also  for Zootopia.,unixporn,dayp7rp,1,t5_2sx2i
+9917997,0,t3_5gq78g,    ! usrbinbash        while  ls l homeUSERPictureswallpapers | wc l lt   do    wget q O homeUSERPictureswallpapersRANDOM.jpeg     done        fdupes dN homeUSERPictureswallpapersThis is based off another users comment quickly wrote it to fill up a directory of your choosing with N number of HD pictures from unsplash.com. N is obviously a runtime argument. fdupes is something youre gonna have to install it just helps to find and remove duplicate files in a diretcory.,unixporn,db0c914,2,t5_2sx2i
+9924786,0,t1_daz7lzg,That doesnt make sense. It does matter which wm youre using. Otherwise people wouldnt bother to write new ones.,unixporn,db1837q,0,t5_2sx2i
+9930570,0,t1_db1oovu,Thanks. That among a couple other small things are some of the tweaks I want to make.,unixporn,db1z8il,1,t5_2sx2i
+9933887,0,t3_5hq7mn,I want to thank you for including you shout out for Texmacs. Ive been looking for something like that for a while now to keep some of my CS notes organized. ,unixporn,db2est2,2,t5_2sx2i
+9940916,0,t3_5hq7mn,I saw your challenge at guessing the language and then realised I have done those questions may or may not be on your course haha,unixporn,db3br3h,1,t5_2sx2i
+9941813,0,t1_db3f8fi,Sayyy whaaaat D gonna try it later today!,unixporn,db3fy1y,1,t5_2sx2i
+9965330,0,t1_db558r3,Thanks!,unixporn,db6ibfm,2,t5_2sx2i
+10014037,0,t3_5j21ro,deleted,unixporn,dbcuw1e,1,t5_2sx2i
+10020787,0,t3_5j5dsp,check out .gitignore,unixporn,dbdqiqx,1,t5_2sx2i
+10032727,0,t3_5jcgp0,How did you get the colorized man pages?,unixporn,dbfahgp,2,t5_2sx2i
+10034941,0,t3_5jdlo0,Noice!    In addition to the great rice the Photoshot icon caught my eye. I assume you use PlayOnLinux or just Wine for it? How does it run like that overall?    Edit and that status bar! DIY? Thats awsum!,unixporn,dbfkv8f,2,t5_2sx2i
+10043916,0,t1_dbgpwts,Haha great idea! There is a way to make it work like that. not my cheat originally  Cheaters just suck. There is only one thins that takes my fancy in cheating and its the feeling you get when you realize that you can affect the game with your code. And cuz I want to keep the game clean I dont target legits! D,unixporn,dbgqxts,1,t5_2sx2i
+10058572,0,t1_dbiltup,since these are used in conjunction it should be both together. the system would be named Tubular and the the github could be a gmail plugin,unixporn,dbinmw5,1,t5_2sx2i
+10108983,0,t3_5kn2lp,apparently everyone on unixporn does,unixporn,dbp7mar,2,t5_2sx2i
+10109459,0,t1_dbp7xzl,You can with the AUR and pretty much any git repository you can get your hands on. However Archs way of installing packages is like Ubuntus  you get precompiled versions and just install it.,unixporn,dbp9uex,2,t5_2sx2i
+10133941,0,t1_dbsgasg,Id bet it depends on the chipset one with an antique one will likely work right from the getgo but manufacturers wont use it because the crappy newer ones are cheaper or something. Still nothing like good old reliable physical cables. Until you step over them with the chair wheels somehow.,unixporn,dbsgh8m,2,t5_2sx2i
+10144351,0,t3_5l6b6y,Wow!! I had never seen such a good looking window maker.,unixporn,dbtt9qj,1,t5_2sx2i
+10150296,0,t1_dbuhre5,Do you have CCSM installed? That should let you enable it.,unixporn,dbul3ns,2,t5_2sx2i
+10156566,0,t1_dbvatpn,X carbon  it had been idle for a while the battery life is usually  hours. ,unixporn,dbvax9w,7,t5_2sx2i
+10166637,0,t3_5ljugg,Looks good what laptop is it?,unixporn,dbwg080,2,t5_2sx2i
+10207369,0,t3_5lz7cv,Newbie here. How to set floating windows with iwm?,unixporn,dc128yn,2,t5_2sx2i
+10207582,0,t3_5m0dk0,Lovely could never find the effort to do all that So I just run it like it comes out of the box. PS Nevermore nice.,unixporn,dc1348k,1,t5_2sx2i
+10218628,0,t1_dc2by3g,I dont know if that is how the heshe do it. But you can set the border of window with new window pixel number. Then you can set the color of the border to match the color of the background of the theme. The guide is on i user guide page.,unixporn,dc2c7wt,1,t5_2sx2i
+10223204,0,t3_5mdsfu,It looks great a little like my desktop lt except the uneven spacing between tray icons. ,unixporn,dc2uva7,1,t5_2sx2i
+10229618,0,t1_dc3l0e4,The first loaded and active as part of my efforts ,unixporn,dc3l1q1,1,t5_2sx2i
+10230081,0,t1_dc3m19g,Yeah I think we can chalk that up to mopidy starting too fast then. I imagine that token request instantly fails because of no connection and then once startup is complete it fails to get online because of aforementioned token. Im going to be honest Im stumped at this point  sorry!,unixporn,dc3mxu9,1,t5_2sx2i
+10237155,0,t3_5mkkct,Could you share your dotfiles please,unixporn,dc4fsr1,2,t5_2sx2i
+10242016,0,t1_dc4yaj8,You have to comment out this section of the CSS to enable it ,unixporn,dc4zmsw,1,t5_2sx2i
+10254653,0,t3_5mtuax,I will report mine power usage tomorrow. How is this possible? ,unixporn,dc6f5zu,1,t5_2sx2i
+10259617,0,t3_5mwj3m,I use ranger but when I upload a file Firefox has its own file viewer I think. I do have pcmanfm installed in case I need it but I think has its own.,unixporn,dc6zfbx,2,t5_2sx2i
+10287945,0,t1_dca6k4y,Thanks!,unixporn,dca70lg,1,t5_2sx2i
+10321289,0,t3_5nrzmy,deleted,unixporn,dcdz3tm,1,t5_2sx2i
+10321440,0,t1_dcdz4n5,size ,unixporn,dcdzq0l,1,t5_2sx2i
+10328696,0,t1_dc3v0rq,deleted,unixporn,dcetdbg,1,t5_2sx2i
+10334007,0,t3_5njp5g,deleted,unixporn,dcff19a,1,t5_2sx2i
+10341424,0,t1_dcfpnmg,Same here I feel old,unixporn,dcg9ck5,2,t5_2sx2i
+10373889,0,t3_5ofiln,Why do you use arch beside Mac OS? Only a question  no hate,unixporn,dcjxy6s,3,t5_2sx2i
+10382333,0,t3_5oona8,What a coincidence! I was listening to Give it away on my Bspwm set up when I was looking at your rice.,unixporn,dckwgvn,7,t5_2sx2i
+10382905,0,t3_5oifuy, Ability to choose mouseaction depending on where the mouse pointer is hovering including places on bars and panels   A wm utilising both stacking and tiling..     Windows remembering the last workspace geometry titlebar state for programs.     Profiles for layouts in the last point that can be chosen from a menu.       A lemonbar that can be configured trough an gui and use images for backgrounds. ,unixporn,dckysym,3,t5_2sx2i
+10395140,0,t1_dclxejm,Thanks! That did indeed work just needed to change  to . Some pretty nice bashfu here you got me to learn more about it and Im learning as we speak!,unixporn,dcmct9d,1,t5_2sx2i
+10396775,0,t1_dcmedh3,Ok I will,unixporn,dcmjh8k,1,t5_2sx2i
+10412511,0,t3_5oy7fd,Sexy and minimal. The way i like it!,unixporn,dcobqm0,2,t5_2sx2i
+10423025,0,t3_5p4lm9,I cant not upvote animals as leaders,unixporn,dcpip1a,1,t5_2sx2i
+10433468,0,t1_dcqgvqr,Yeah its a silly default and no problem ,unixporn,dcqpbhq,1,t5_2sx2i
+10449503,0,t1_dcsejd9,It is definitely not more tiring and I find reading text on bright screen easier for me especially since some color in dark theme for comments and text selection are too dim for me.,unixporn,dcsjp1z,1,t5_2sx2i
+10468359,0,t3_5pvmdw,Fantasque Mono,unixporn,dcup1rp,1,t5_2sx2i
+10471020,0,t3_5pnbfw,What editor is that Atom? I use ST but quite like the theme you have. Mind sharing the name?,unixporn,dcuzxer,1,t5_2sx2i
+10473888,0,t3_5q0lei, Wallpaper  GTK Adapta GTKamp Icons Numix Circle Dock Plank  shade Theme DE XFCE WM xfwm  compton,unixporn,dcvbnm7,8,t5_2sx2i
+10479042,0,t3_5q0u1n,Well the website wttr.in isnt served over HTTPS. What if someone MITMs me sends me a false weather report and I get killed by a tornado or a flood?,unixporn,dcvwot7,99,t5_2sx2i
+10485671,0,t1_dcwa6ub,For me xbacklight stopped working for some reason. I just tried light and it does its job perfectly! ,unixporn,dcwnrmg,1,t5_2sx2i
+10506131,0,t1_dctnolm,Linux is just fine for gaming. Windows is a plague.,unixporn,dcyzcaa,1,t5_2sx2i
+10528021,0,t3_5qrd8y,Your post appears to be using the OS tag so has been removed. This is now deprecated in favour of userflair.Contact us if our bot has messed up,unixporn,dd1gs0b,1,t5_2sx2i
+10532746,0,t3_5qtng9,Please add a details commentContact us if our bot has messed up,unixporn,dd204dm,1,t5_2sx2i
+10555514,0,t3_5r0in7,Idk about anyone else but Im having a hard time seeing your images they seem quite low res.,unixporn,dd4l4ha,1,t5_2sx2i
+10556004,0,t1_dd4l4ha,They look fine to me. You on mobile?,unixporn,dd4n4lm,3,t5_2sx2i
+10574009,0,t3_5r8x3u,Beastly linux config. ,unixporn,dd6mjzy,1,t5_2sx2i
+10576858,0,t3_5rev1m,My current desktop setup is very similar. But Im using GNOME . instead of Mate.Looks pretty good ,unixporn,dd6x54y,2,t5_2sx2i
+10582151,0,t1_dd7837y,Maybe could just take a screenshot of his desktop so and crop out the UI.,unixporn,dd7gtxp,3,t5_2sx2i
+10596901,0,t3_5rop3d,Wallpaper hereGTK ArcIcons ElementaryDotfiles here,unixporn,dd8zlw2,1,t5_2sx2i
+10603778,0,t3_5rkksi,Nice. How did you change the theme? I didnt know this was possible. ,unixporn,dd9p69e,1,t5_2sx2i
+10605696,0,t1_dd7gyc4,yeah I repeatedly try and fail to use wpgtk which is more or less the same thing and Ive yet to generate a theme that isnt the colors of the wallpaper I used randomly assigned in the most random and unusable manner possible. I was pretty sure choosing the right wall wasnt even a thing because there was no such thing as a right wall but OP has proved me wrong because this looks dope AF,unixporn,dd9wa7r,2,t5_2sx2i
+10618064,0,t1_ddb1zhf,Its in the album,unixporn,ddb68mr,1,t5_2sx2i
+10624222,0,t3_5s0x72,Me and your mama. My fav.,unixporn,ddbt2zc,1,t5_2sx2i
+10625176,0,t1_ddadosj,I logged in to reddit only to upvote this glorious comment.,unixporn,ddbwmc3,1,t5_2sx2i
+10628779,0,t3_5rzmit,Risk of Rain is the best ,unixporn,ddca0ci,1,t5_2sx2i
+10642694,0,t1_dddpcar,Weird I dont see it on the ubuntu package search ,unixporn,dddpnme,2,t5_2sx2i
+10655244,0,t1_ddeytnf,Its a Dell XPS  with Broadcom WiFi card if you get it get the one with Intel card. Seems more people have success with that one not that I have any issues. It works great everything works battery life is good I havent fiddled with touch screen but it worked freshly out of the box on install but since modifying that install I mightve broken it and I dont really care enough to fix it.Id say you should use something other than XFCE if you get the HiDPI screen Ive been looking to go with KDE when they get the global menu working properly on . and it matures a bit.Im sure using Compizreloaded instead of standard compiz would make it better and making my own GTK themes would be better since its hard to find one that makes the global menu look good. Ive tried atleast  mac themes and I will probably end up changing it just wanted to see what I could do.Arc looks great too I have it in another post of mine.,unixporn,ddf08ti,11,t5_2sx2i
+10661394,0,t3_5sjxlk,deleted,unixporn,ddfn3z0,1,t5_2sx2i
+10670793,0,t1_ddglpgx, Awesome so now I wont have to manually move it each time. Thanks a lot D,unixporn,ddgm0u0,2,t5_2sx2i
+10673043,0,t3_5smmnj,,unixporn,ddgudnj,1,t5_2sx2i
+10703916,0,t1_ddjtzr5,I love your setup! Im in the process od switching to linux and i really wanna rice the holymoly out of my desktop  Can you recommend some tutorialsguides hos and where to install dotfilesconfigs?! Thanks,unixporn,ddk12fj,2,t5_2sx2i
+10708517,0,t3_5t2xq6,I would love your .Xresources or whatever it is called now great choice of colors ! ,unixporn,ddki4nv,1,t5_2sx2i
+10720453,0,t1_ddlnq4t,Nevermind I was able to find it on tumblr.,unixporn,ddlqhip,1,t5_2sx2i
+10723982,0,t1_ddm1n5i,Incoming!,unixporn,ddm3ksv,1,t5_2sx2i
+10758101,0,t1_ddpdpl8,Looks great.  I got married right there off Navy pier. ,unixporn,ddpm9fq,5,t5_2sx2i
+10764175,0,t1_ddpz7wk,You did,unixporn,ddq8tmf,8,t5_2sx2i
+10783204,0,t1_dds7ima,o,unixporn,dds7j6d,1,t5_2sx2i
+10839715,0,t1_ddxw3yb,Very nice it looks similar to my awesome wm setup  would you mind posting your config files?,unixporn,ddy1fxk,1,t5_2sx2i
+10854693,0,t1_ddz5h3g, Yeah I know what it means but you cant say I cant even... and then follow it up with a halfdozen different ideas. Its not clear what baffled you. The Suckless projects encompass a window manager terminal emulator vilike editor screen locker IRC client and a portable staticallylinked Linux distribution featuring a complete rewrite of the core Unix utilities from scratch among other things. I havent been on the mailing lists for some time but last I checked in there were about ten or twelve people who wrote in regularly. Anybody who had a patch to contribute to a project or wanted to discuss how to accomplish certain things by hacking the code was always welcome to write in. The elitist thing is tongueincheek they want to spend their time doing things that interest them and  they just dont have the energy to or interest in answering the same nb questions every other day. They really embody this mentality Although yes some of them definitely can be offputtingly friggin fanatical about what they consider good software and competent users.,unixporn,ddzl274,3,t5_2sx2i
+10864823,0,t1_de0mf2u,Of course it is your colors are controlled from .Xresources file and you can always switch to URxvt its my personal favorite. Xfce doesnt limit you to use only the preinstalled terminal  You can always browse the Wiki and the Forums to find more information its easy to do it.,unixporn,de0mo8h,1,t5_2sx2i
+10904326,0,t1_de3c05e,Whoa. This is exactly what I want. Replacing dashtodock with it ,unixporn,de4pc8u,2,t5_2sx2i
+10926442,0,t3_5w3e30,Your post appears to be missing a title tag so has been removed. See section  for more details but briefly Screenshots requires WMDE Workflow requires WMDE Hardware requires DEVICE Material requires OCContact us if our bot has messed up,unixporn,de6zia3,1,t5_2sx2i
+10940238,0,t3_5w8uiv,mmmmm unzips,unixporn,de8epyp,9,t5_2sx2i
+10966633,0,t3_5wly4o,icons flatremixmono font monacogtk macosarcterminal gnometerminal with background ffshell zshsomeofmyshellextensions activities configurator autohide battery dynamic panel transparency frippery move clock hide top bar pixel saver remove dropdown arrows top panel workspace scrollwall  dropped some noise on it in gimpfor the paddings and a bit smaller headerbar in gnome terminal i was made a file.configgtk.gtk.css with the content    headerbar.defaultdecoration      paddingtop px     paddingbottom px     paddingright px     minheight px     fontsize .em            headerbar.defaultdecoration button.titlebutton      padding px     paddingtop px     minheight px             vteterminal         padding px px px px    for the titlelessness i was put in the following lines into .zshrc    DISABLEAUTOTITLEtrue    printf s  to achive the same with other gtk apps i use adobe blank font,unixporn,deb4pzx,7,t5_2sx2i
+11001822,0,t3_5x41ea,why the switch to emacs  if I may ask ?and looks good  what terminal font is that ? Terminus ?,unixporn,def0vwd,1,t5_2sx2i
+11014173,0,t3_5x79g5,Taking overthetop prompts to the next level I see?,unixporn,degfbu5,11,t5_2sx2i
+11021020,0,t1_deh3634,Just compile the latest cairo from source.,unixporn,deh7ajl,4,t5_2sx2i
+11029079,0,t1_dei45xi,What package manager does that os use?,unixporn,dei4da0,1,t5_2sx2i
+11045949,0,t3_5xjl2m,hey what is the iterm color scheme?,unixporn,dek1f7m,2,t5_2sx2i
+11058899,0,t3_5xvevh,Any distro is fine the only significant different I have seen after hoping distros for a while is mainly the package manager. I prefer Archbased distro for the AUR but apt in Debianbased distro is good too.In term of ricing if you want an easy start go with XFCE or KDE desktop manager the easiest way is installing Xubuntu or Linux Mint Xubuntu. They are fairly easy to config with all the GUI tool.If you want what most of this sub use  tiling manager  i is really easy to config. After that just find what you like here and copy them then tweak it to your liking.,unixporn,deliayf,1,t5_2sx2i
+11065289,0,t1_dem0qu4,Effectively at the beginning I install ManjaroXFCE and Manjaro is a distro based on arch. But i remove a lot of manjaros part. I install manjaro cause I have a MSI computer with hardware who need proprietary drivers...,unixporn,dem8ngk,1,t5_2sx2i
+11069199,0,t1_demni12,A super cool script that uses zsh and fzf made by a friend ,unixporn,demolzz,1,t5_2sx2i
+11077798,0,t3_5y1119,Mad props for rust,unixporn,dennpj8,2,t5_2sx2i
+11104214,0,t3_5yhe1h,This is so intoxicating.,unixporn,deqniw7,1,t5_2sx2i
+11108822,0,t1_deqv5ks,KEKL,unixporn,der6bk0,1,t5_2sx2i
+11112047,0,t1_derd0an,Or FM  Atlas which is where the wallpaper comes from.,unixporn,derjhph,1,t5_2sx2i
+11131310,0,t3_5yxou9,removed,unixporn,detq2qg,1,t5_2sx2i
+11171335,0,t1_dey9ajo,Thank you!At the moment its just the default ranger setup with preview images enabled. Absolutely nothing special.,unixporn,dey9bs8,1,t5_2sx2i
+11172771,0,t1_deybdph,are you talking about rofis drun mode ? It is near instant.,unixporn,deyf6dv,1,t5_2sx2i
+11173809,0,t1_deycqhk,Sorry you answered it though. Thanks! I was just wondering what you kept the scroll bar for. Im usually content on spamming the mouse wheel but its cycling through the command history now and not the buffer. Its weird I dunno. Not your problem.,unixporn,deyjerw,1,t5_2sx2i
+11189908,0,t3_5zkolz, points on imgur is a new highlow?score,unixporn,df0d2o7,-1,t5_2sx2i
+11200062,0,t1_db84u9r,I couldnt help but respond to this. You do know that one of the most used bitmap fonts lemon is by a dude named phallus right?Anyways I quite enjoy this screenshot. And upvoted a while back.,unixporn,df1ihkn,1,t5_2sx2i
+11203663,0,t1_df1hv1k,thx,unixporn,df1x5p6,2,t5_2sx2i
+11205325,0,t1_df23rgm,I must have forgotten about arandr or assumed it was part of something like GNOME or XFCE. Thanks.,unixporn,df23y6d,1,t5_2sx2i
+11208818,0,t3_5zx86y,That bar is sexy. might have to try and replicate it.,unixporn,df2i987,2,t5_2sx2i
+11222239,0,t1_df40sko,havent tried c but I do C using clang or gcc in the terminal.,unixporn,df40z8x,3,t5_2sx2i
+11222647,0,t1_df3u3x1,Ok please display it again.,unixporn,df42n7i,1,t5_2sx2i
+11245771,0,t3_60ipcz,OS  Manjaroi CommunityWM  igapsStatus Bar  PolybarTerminal  URxvtDotfiles  Note GTK Theme  Icons created using oomox GUIEDIT Added dotfiles.,unixporn,df6oway,2,t5_2sx2i
+11253844,0,t1_df6p8vf,I can do about  hours of proper use on a full charge. So not too bad. And the performance is not too bad. I dont game on it or do anything too intensive though it might struggle a bit with that.,unixporn,df7lu66,1,t5_2sx2i
+11262437,0,t3_60mc8n,What are you working on in Go in this picture?,unixporn,df8kwx5,1,t5_2sx2i
+11307651,0,t3_617bj8,Foxit Reader also allows you to change the background and font colors of PDF files. You can choose from preset colors or pick your own         ,unixporn,dfdpedj,1,t5_2sx2i
+11326586,1,t1_dfftbkr,its unix xd,unixporn,dffull2,7,t5_2sx2i
+11333159,0,t3_61qr8h,solid rice!Have you found a way to permenantly hide the dock on mac os?,unixporn,dfgle7q,2,t5_2sx2i
+11333527,0,t1_dffqg3r,My launcher is here Nova and lines is the same. Bakcground is animated with KLWP,unixporn,dfgmw7w,2,t5_2sx2i
+11336779,0,t1_dfgzp2c,Oooh yea win haha. No problem.,unixporn,dfh05va,3,t5_2sx2i
+11339998,0,t1_dfhcz47,Thank you ! ,unixporn,dfhdaoz,1,t5_2sx2i
+11355803,0,t1_dfipq5y,true was going to do similar to my work laptop. ,unixporn,dfj5qw2,2,t5_2sx2i
+11360289,0,t1_df8kv90,Woah I hadnt heard of that font. It looks great on my nonbig screen too.,unixporn,dfjo1y5,1,t5_2sx2i
+11362925,0,t3_623h7f,I am a nature wallpaper junkie  so if something has even a small piece of nature I just want it in my background. Here is my dump including many wallpapers I have found from this subreddit If I want something more minimal I usually browse rMinimalWallpaper and find something I like.I dont use any application to get the colour schemes the only way I do it is upload the image on www.pictaculous.com to find the  basic colours and then I handpick everything else choosing either matching colours or complementary colours depending on what I want to be more highlighted than the other. ,unixporn,dfjysbn,4,t5_2sx2i
+11366340,0,t3_627qzg,You dont appear to be using an approved host so your post has been removed. Please resubmit using one of them but feel free to leave mirrors to host in your details comment.Contact us if our bot has messed up,unixporn,dfkcplo,1,t5_2sx2i
+11371510,0,t1_dfkx3hc,What is screen tearing? If you minimize a window does it show up in the dock or does it just disappear? ,unixporn,dfkxtym,1,t5_2sx2i
+11418374,0,t3_62zjy4,How does that CPU display work?  What does it show under load?,unixporn,dfq9elt,3,t5_2sx2i
+11420354,0,t3_6312cb,Back in the day I started using Arch XFCE was my main DE. After a while I just jumped into bspwm. The DE is awesome but I dont have the time to rice it anymore. So I decided to come back to XFCE and say hi!dotfiles ,unixporn,dfqhhje,1,t5_2sx2i
+11429924,0,t1_dfqfmz2,Check out acpi ,unixporn,dfrkisj,1,t5_2sx2i
+11459233,0,t3_63kyu3,My first rice ,unixporn,dfuwa4o,2,t5_2sx2i
+11475526,0,t1_dfvvio6,The themeswitcher and used configs can be found at,unixporn,dfwqvtz,1,t5_2sx2i
+11532525,0,t1_dg37mkw,Thanks,unixporn,dg37pjm,1,t5_2sx2i
+11544373,0,t1_dg4fzwt,ranger is great,unixporn,dg4k1k0,6,t5_2sx2i
+11554142,0,t3_64x2ji, What was used     Window Ceti GTK Ceti Icons Paper Cursor OpenZoneWhiteSlim Shell Ceti More screenshots     Clean screenshot Cool Retro Term ranger htop elinks and nethack cmatrix four windows Dirty screenshot  Extras     xfceterminal Wallpaper If you like this theme you can check out more on my GitHubDont forget to star and watch the repository too. D rzros GitHub themes repository,unixporn,dg5nz5d,5,t5_2sx2i
+11567270,0,t1_dg73wu9,Right olvwm was the mimic. I still work with old Sun even now never have seen a SunPC card in the wild.,unixporn,dg75lvh,2,t5_2sx2i
+11574170,0,t3_6573ne,Bar fork of lemonbarxftBar fonts Ohsnap  sijiTermite themes isotopeBackground white  blackDotfiles here,unixporn,dg7xsaj,2,t5_2sx2i
+11579309,0,t3_6560yx,I like the icon theme gonna give it a try.Also sidenote in Turkish Linux candir can cok guzel olmus.,unixporn,dg8irt8,1,t5_2sx2i
+11585755,0,t1_dg94c50,So I shouldve been clearer I have a convertible laptop. But I mostly use gnome with touch and i for productivity so thats why I called the post ricing for tablets. The default keyboard pops up when you try to search from the overview but other than that it doesnt bother me too much. There is an extension thats supposed to fix that but it didnt work for me. As for HiDPI you want to specify the DPI settings in your .Xresources file. This is the most universal way Ive found to do it. Heres mine    Xft.dpi     Xft.autohint     Xft.lcdfilter  lcddefault    Xft.hintstyle  hintfull    Xft.hinting     Xft.antialias     Xft.rgba rgbThis is for a k screen so the DPI might be a little lower for your case. The ArchWiki has a great article about this by the way.I havent found a good way to increase scaling on GTK apps thoughso I generally try to avoid using them when Im using the touchscreen.,unixporn,dg993mf,6,t5_2sx2i
+11589265,0,t1_dg9n8sn,Thanks!,unixporn,dg9nfqp,1,t5_2sx2i
+11608353,0,t1_dgbtcip,Thanks. I tried getting into Spacemacs but nothing really stuck. I have to give it another shot though.,unixporn,dgbtf0u,2,t5_2sx2i
+11664999,0,t1_dgi7gqk,Yep! Standard unity! I am using a dock though if thats what you mean. And Im using the Arc dark theme. Unity is highly customizable. ,unixporn,dgi8qy6,1,t5_2sx2i
+11721654,0,t1_dgon91c,Here you go! Ill eventually upload everything to a dotfiles repo. ,unixporn,dgooh33,1,t5_2sx2i
+11722151,0,t3_679975,Unity is by a margin best DE by efficiency both the UX and the UI. Although I wish they made possible to get unity by parts and not the whole package. I for example would really love having unitys locally integrated menusin titlebars and the top panel that assimilates the maximized windows titlebar without it losing any of its functionalitydrag buttons menus.The unity lenses is good if youre using keyboard input to find what you seek but navigating it with a mouse is a total disaster.,unixporn,dgoqi70,2,t5_2sx2i
+11726803,0,t1_dgp4ll8,Thanks! Im probably gonna keep tweaking colors until Im fully satisfied though.,unixporn,dgp9i11,2,t5_2sx2i
+11752543,0,t1_dgs5tti,Yeah I cant get padding to quite work right with that module. Do you have a working example of that config line?,unixporn,dgs6hyx,1,t5_2sx2i
+11776471,0,t1_dgubno3,Indeed I havent added the autologin user to sudoers group next target is to create an encrypted or password protected directory. Apart from this I recently enabled true silent boot hid every startup texts from welcome to grub to starting version xxx  !,unixporn,dguwf4s,2,t5_2sx2i
+11783615,0,t1_dgvkz25,thanks!,unixporn,dgvplxn,1,t5_2sx2i
+11789555,0,t3_687s9p,DE Gnome  after uninstalling it because I didnt like it but then reinstalling it after learning I couldnt find any other one I liked.Theme OSXArc the typical gnome themeCursor capitaine cursorIcons osx arc icons with la capitaineTerminal tildaExtentions activities configurator applications menu dash to dock disconnect wifi frippery move clock panel osd places status indicator remove dropdown arros sound input amp output device chooser topicons plus.WallpaperI dont have a link but its the first one when you google image search LG Nexus  lollipop pink mountain wallpaper.,unixporn,dgwdwaf,1,t5_2sx2i
+11801834,0,t3_68dr4a,Nice and clean. I like everything about Cinnamon but the default menu just drives me crazy. How does this one work? Ive used other custom menus in the past and they were really buggy or just wouldnt install.,unixporn,dgxs1ph,1,t5_2sx2i

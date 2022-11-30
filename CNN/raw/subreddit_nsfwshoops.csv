@@ -1,0 +1,44 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+79659,0,t1_cejgh7l,thank you!,nsfwshoops,cenhxlr,1,t5_2teyx
+369854,0,t3_1xczrn,,nsfwshoops,cfj3mzv,1,t5_2teyx
+1036670,0,t1_chlbpee,deleted,nsfwshoops,chm4ho4,1,t5_2teyx
+1106303,0,t1_chqzrl4,deleted,nsfwshoops,chu1l7e,1,t5_2teyx
+1774615,0,t3_2edcds,I would love it if you could do one of these,nsfwshoops,ck2ufnt,1,t5_2teyx
+2000078,0,t3_2fk00s,deleted,nsfwshoops,cku7j3j,1,t5_2teyx
+2694171,0,t3_2qjw5a,Interesting,nsfwshoops,cna8wke,1,t5_2teyx
+2735776,0,t3_2r503g,Oh wow thats a new one,nsfwshoops,cnf1ndq,2,t5_2teyx
+2740795,0,t1_cne9kdu,deleted,nsfwshoops,cnfm7xd,1,t5_2teyx
+2994307,0,t1_co8clgi,sure,nsfwshoops,co8cw37,1,t5_2teyx
+3145362,0,t3_2w6jcv,More pics of her,nsfwshoops,coo0i0p,1,t5_2teyx
+3155209,0,t3_2vvgpj,,nsfwshoops,cop1a73,3,t5_2teyx
+3192763,0,t3_2wis6s,,nsfwshoops,cosxhb6,2,t5_2teyx
+3254399,0,t3_2xe9j5,deleted,nsfwshoops,cozbuje,1,t5_2teyx
+3896364,0,t3_3510b4,One more...,nsfwshoops,cr0f4bt,1,t5_2teyx
+4378830,0,t3_3ay34n,,nsfwshoops,csj89tf,2,t5_2teyx
+4548671,0,t1_ct3zfdh,removed the horse.. well she wouldnt be sitting on a horse for a facial would she? XD,nsfwshoops,ct3zg0z,2,t5_2teyx
+4733997,0,t3_3fr8fn,Probably my worst yet lol,nsfwshoops,ctr9gw2,1,t5_2teyx
+6112172,0,t1_cykatu8,,nsfwshoops,cyke3bg,3,t5_2teyx
+6170666,0,t3_3zs02w,who is she?,nsfwshoops,cyr1h84,5,t5_2teyx
+6308327,0,t3_41rfcc,Someone already made you a great nude shoop so I thought Id do a face swap instead for you. Thoughts?,nsfwshoops,cz6opcq,2,t5_2teyx
+6369716,0,t3_42wn9q,deleted,nsfwshoops,czdo0oa,1,t5_2teyx
+6458339,0,t1_czm43h8,ive actually hired professionals before so it would depend. do you take btc for payment exclusively or would paypal be fine? the person i usually commission from also charges me about  or more depending on if i want specific things done,nsfwshoops,cznc3ai,1,t5_2teyx
+6478874,0,t3_44a9e3,yes,nsfwshoops,czpgoft,4,t5_2teyx
+6508791,0,t1_czshu9c,yeah she looks younger i know thats why i wanted to tell shes ,nsfwshoops,czsk4gb,1,t5_2teyx
+6510560,0,t3_44nylo,,nsfwshoops,czsqpym,1,t5_2teyx
+6658566,0,t1_d07hiof,Thanks!,nsfwshoops,d081x70,1,t5_2teyx
+6790974,0,t3_48rvfy,So... youre interested in her shoulder?,nsfwshoops,d0m1ncu,1,t5_2teyx
+6857521,0,t1_d0t98ia,I select similar skin color from the source image and paste it down in a new file with a transparent background.  Then I will try using match color to match the donorpart layer to the new file.  Little adjustments to the fade and other sliders to get it as best as I can.  But sometimes it fades the contrast too much or effects the blacks and whites in the color and is not possible.  But I always try this first since its super quick and if it makes an improvement without losing detail its worth doing.If that doesnt work I will swap the whole file into LAB mode color.  Theres many more colors in this mode so you can finetune the colors much easier than you can in RGB.  If the image is dark and has a lot of artifactingpixelation like the linked image I will simply adjust its L A and B channels so they all match the source image using adjustment layers.  This makes the source image darker.But normally you dont want to make things darker its easier to make them lighter so I might use the same LABchannel adjustment curves adjustment layer  color balance adjustment layer to adjust the source images color to match the donor.Finally I will match saturation and levels of either or both layer.But this isnt going to work because lighting isnt  the same on any two images and skin texture etc is different.I will take a brush used for skin They look like this  just a bunch of dots together similar to pores on  opacity and sample nearby colors painting out the fade by hand and fixing any light source issues.Afterwards if the image has some camera blur I will slightly gaussian blur the layer I painted making the dots turn into blurred spots and blend more.  Then erase the areas where it blurred outside the lines.  Finally go over it with another  skin texture brush adding in pores and pixelation in  or  shades sampled from the source image from freckles or red blotchy patches then adjust opacity of these layers.You can with enough care match up anything to anything else.  Its possible but it takes a great amount of labor.  So its always in your best interest to have the right donor photo.A skin tone that perfectly matches or is slightly darker is preferred since you can lighten with adjustments gt brightness easily enough.  Diffused light is the best like the right most image here .Theres a lot of beach photos and things in this subreddit but they will never get a really convincing shop without either getting lucky and finding the perfect donor image or spending too much time fixing it.  I think images like the linked image here are easier to work with.Another reason is that brightly lit photos can have edge blurring or lose contrast because of the bloom effect that direct light creates.  When light blurs the edges of an object you have to spend time blurring the edges you create.  Its tedious and boring.  Also things like wet or sweaty skin will never perfectly blend.Any compression in the photo can make it annoying since you must match the compression artifacts in an image.  You can do this if the image was compresed PNG or progressive jpg by simply doing filter gt add noise but if there are artifacts that look like blocks at a zoomed in level youre going to need to recreate those which is a frustrating process Id rather not get into here.When ALL is said and done.  You have got a good baseline match using matchcolor or LAB mode adjustment or both and you have blended it seamlessly to the source photo using a brush and corrected any lightdirection problems then readded any texture you blurred out you then adjust either the levels of curves to make sure that the blacks in one image match the blacks in the other etc..,nsfwshoops,d0tlxcl,3,t5_2teyx
+6875427,0,t1_d0vkmzl,nicely done ! you seriously dislocated her hips though ,nsfwshoops,d0vn5ur,2,t5_2teyx
+6898569,0,t1_d0vzb9b,deleted,nsfwshoops,d0y9rwv,1,t5_2teyx
+7076337,0,t3_4ci0cg,Should be an improvement,nsfwshoops,d1igtaq,2,t5_2teyx
+7696714,0,t1_d3gzvym,That is some damn fine work...now for the facial ,nsfwshoops,d3h2e9t,1,t5_2teyx
+7784007,0,t1_d3p35x7,My friend not her sadly,nsfwshoops,d3qz663,2,t5_2teyx
+7857393,0,t1_d3z8i2p,,nsfwshoops,d3z8pua,1,t5_2teyx
+7929127,0,t3_4nv512,Thank you,nsfwshoops,d47b4a9,1,t5_2teyx
+8070584,0,t1_d4mrdmb,sent nude.,nsfwshoops,d4n7kq1,1,t5_2teyx
+8445002,0,t1_d5wxtt2,deleted,nsfwshoops,d5x5vz7,1,t5_2teyx
+8502537,0,t3_4vyq9g,Haha fair enough. Do you have others you can use on her?,nsfwshoops,d64dck9,1,t5_2teyx
+9035266,0,t1_d7weqqm,Nice one bb. Edit Happy Cakeday,nsfwshoops,d7xw9jw,1,t5_2teyx
+9191617,0,t1_d8h1kdf,No didnt expect to. People just say that  I disregard it every time. It just means they were extra horny when they posted lol.,nsfwshoops,d8h3s7s,1,t5_2teyx
+9373866,0,t3_58tmes,,nsfwshoops,d947cry,1,t5_2teyx
+9460676,0,t1_d9f5bvx,okay OP here how do i get you payment? you can pm me and thanks btw i love it,nsfwshoops,d9f7hmr,1,t5_2teyx

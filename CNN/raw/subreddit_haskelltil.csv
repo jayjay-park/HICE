@@ -1,0 +1,3 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+5942839,0,t1_cxyg3q4,I did but then it made debugging IO code more difficult because I could no longer progressively uncomment a block of code until an exception appears. I wish it was possible to only turn some warnings into errors!,haskelltil,cxymwsn,1,t5_362ap
+10621469,0,t3_5rwan6,Just in time ,haskelltil,ddbivfj,2,t5_362ap

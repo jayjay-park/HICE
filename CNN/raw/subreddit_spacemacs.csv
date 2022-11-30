@@ -1,0 +1,9 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+7772830,0,t1_d3povos,Transmit is better for this on mac just mount the server as a local drive,spacemacs,d3ppi4o,1,t5_37w2j
+9476366,0,t1_d4j3kax,Great reference but I have found the length of the videos daunting Maybe I will watch them sometimes but I really wish there was a minute video tutorial for Spacemacs.,spacemacs,d9h5zym,1,t5_37w2j
+9732538,0,t3_5ed743,Have you tried Cj instead of RET?,spacemacs,dacqxeb,1,t5_37w2j
+10182162,0,t3_5ke5qa,Ive managed to get spacemacs running fairly well in Ubuntu on Windows. It does probably does require admin rights on the machine though,spacemacs,dby7dct,1,t5_37w2j
+10523440,0,t1_d9awjcg,This made me think of the vim joke where you cant exit P,spacemacs,dd0y21w,1,t5_37w2j
+10792803,0,t3_5ub9re,deleted,spacemacs,ddt79an,1,t5_37w2j
+11262517,0,t3_60qw64,Yes. Check your .spacemacs...     Defines the behaviour of Spacemacs when installing packages.     Possible values are usedonly usedbutkeepunused and all.     usedonly installs only explicitly used packages and uninstall any     unused packages as well as their unused dependencies.     usedbutkeepunused installs only the used packages but wont uninstall     them if they become unused. all installs all packages supported by     Spacemacs and never uninstall them. default is usedonly    dotspacemacsinstallpackages usedbutkeepunusedIve set mine to keep unused packages. I have a couple of packages loaded via dotspacemacsadditionalpackages and used in my config that for some reason Im yet to fathom keep getting deleted.,spacemacs,df8l8o8,1,t5_37w2j
+11780693,0,t1_dgu5od2,Thanks it works as I want!The problem is just whichkey doesnt work with it. But its not problem for me.regards,spacemacs,dgvdo0g,1,t5_37w2j

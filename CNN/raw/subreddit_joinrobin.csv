@@ -1,0 +1,208 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+7106257,0,t1_d1luxas,what timer? I dont see any timer...,joinrobin,d1lva35,1,t5_3d7hf
+7106313,0,t1_d1lvg8a,deleted,joinrobin,d1lvid6,1,t5_3d7hf
+7106346,0,t3_4cw726,How did you get a PM with that sub? And whats inside it?,joinrobin,d1lvn8h,7,t5_3d7hf
+7106575,0,t3_4cw726,In the CSS the flairs are called  from top to bottom Abandon Abstain Grow and Stay.,joinrobin,d1lwl0d,2,t5_3d7hf
+7106759,0,t1_d1lww2k,I pulled that from the source so I am not sure the context of the message,joinrobin,d1lxc7k,1,t5_3d7hf
+7106771,0,t1_d1lx92m,im in the room right now and were just  here. I guess it varies.,joinrobin,d1lxdzp,1,t5_3d7hf
+7106802,0,t3_4cwb4o,Abandon. We arent ready for this. We dont deserve it. ABANDON YOU HEAR ME! This is punishment for the end times brought upon us by the filthy grays! We cant make the same mistake again. We must abandon before its too late! ,joinrobin,d1lxikr,1,t5_3d7hf
+7107127,0,t3_4cw4tt,GROWTH IS LOVE. GROWTH IS LIFE.,joinrobin,d1lyuss,3,t5_3d7hf
+7107134,0,t3_4cwmth,Id put money on it being distributed like the button without purple. That is blue is the most common and red is the least with the intervening colours following the rainbow.The real question is why? To encourage factionalism in large chats?Yellow BTW,joinrobin,d1lyvu4,4,t5_3d7hf
+7107165,0,t3_4cwnic,rteambestchat,joinrobin,d1lz0fr,1,t5_3d7hf
+7107174,0,t3_4cwn77,unknown Whenever you type in a command that it doesnt recognize it says that.  help Prints a help message  commands Prints a list of SOME of the commands  vote ltarggt Paired with an argument places a vote for a user  me ltarggt Posts a message for the user that message being arg  whois ltarggt Basic info about entered user  leaveroom Self explanatory  remind ltarggt ltarggt Posts arg after arg seconds  clear Does the melting animation youd normally see when the timer expires. Seems to be local only.    chatCommands                 unknown functione                     this.addSystemMessage  e   is not a command                                help function                     this.addSystemMessageWelcome to Robin. this.addSystemMessageBe sure to use the buttons in the sidebar to vote on the future of the room before the polls are closed. this.addSystemMessageNonvotes and abstentions will be counted as votes to abandon. this.addSystemMessageWe do hope you enjoy the discussion.                                commands function                     this.addSystemMessagevote abandon  vote to abandon this.addSystemMessagevote stay  vote to stay this.addSystemMessagevote grow  vote to grow this.addSystemMessagewhois ltuserinroomgt  provide information about ltuserinroomgt                                vote functiont                     if this.room.isComplete                         this.addSystemMessagevoting is complete                        return                                        var n  e.robin.VOTETYPES.mapfunctione                         return this.getLabelFromVotee                     this                    if !t                         this.addSystemMessageuse vote   n.join                          return                                        var r  t.toUpperCase                    n.indexOfr lt  ampamp r  this.getLabelFromVoter                    var i  this.getVoteFromLabelr                    e.robin.VOTETYPES.indexOfi lt  ? this.addSystemMessagethat is not a valid vote type  i  this.currentUser.getvote ? this.addSystemMessagethat is already your vote  this.room.postVotei this.voteWidget.setActiveVotei                                me function                     var e  .slice.callarguments.join                     e.length gt  ? this.room.postMessageme   e  this.addSystemMessageuse me your message here                                whois functione                     var t  this.roomParticipants.gete                    if !t this.addSystemMessageThere is no user by that name in the room                    else if t  this.currentUser this.addSystemMessageThat is you                    else                         var n  t.getpresent ? present  away                        t.hasVoted ? this.addSystemMessageuserNames is presences and has voted to votes.format                            userName e                            presence n                            vote t.getvote                          this.addSystemMessageuserNames is presences and has not voted.format                            userName e                            presence n                                                                            leaveroom function                     this.room.postLeaveRoom                                remind functione                     e  parseInte                     var t  .slice.callarguments .join                     if n.isNaNe || t.length                           this.addSystemMessageuse remind ltsecondsgt ltmessagegt                        return                                        var i  this.currentUser.getname                        s  i     t                    setTimeoutfunction                         this.addSystemMessages.slice r.RobinMessage.MAXLENGTH                    .bindthis e  e this.addSystemActionset timer for   e   seconds from now                                clear function                     this.chatWindow.startJuicyPoppin                            ,joinrobin,d1lz1s6,2,t5_3d7hf
+7107190,0,t1_d1lz1dj,Same,joinrobin,d1lz45m,2,t5_3d7hf
+7107295,0,t1_d1lyqqb,You can set the flair yourself.,joinrobin,d1lzjqs,2,t5_3d7hf
+7107452,0,t3_4cwkbg,there is also rjoinwolf,joinrobin,d1m070m,0,t5_3d7hf
+7107524,0,t3_4cw77h,The first messiah will be the one to grow the largest chat the final messiah will be the one to bring it down.for the REPUBLIC those in favor of power in the hands of the people.,joinrobin,d1m0hq9,1,t5_3d7hf
+7107579,0,t1_d1lzfpu,not working for me.,joinrobin,d1m0pxc,2,t5_3d7hf
+7107783,0,t3_4cwzi2, PRAISE DRAKIM  DRAKIM OR RIOT RAISE YOUR DRAKIM ,joinrobin,d1m1kdk,3,t5_3d7hf
+7107817,0,t3_4cwwec,Removing this submission in favor of a Githubhosted version ,joinrobin,d1m1pfw,1,t5_3d7hf
+7107968,0,t1_d1m27vu,deleted,joinrobin,d1m2bzo,1,t5_3d7hf
+7108127,0,t3_4cw52c,test,joinrobin,d1m2zq2,1,t5_3d7hf
+7108370,0,t1_d1m3ux5,Its definitely not counting some group of people. Its up to  grows  stays and  abandons. Its missing  people. Also it shows the time as  minutes left. ,joinrobin,d1m4006,1,t5_3d7hf
+7108403,0,t1_d1m42j7,unaina,joinrobin,d1m44y2,3,t5_3d7hf
+7108457,0,t1_d1m4c8m,You are our predecessor. Spread the word! ,joinrobin,d1m4d1g,1,t5_3d7hf
+7108485,0,t3_4cwb4o,Stay and grow within!,joinrobin,d1m4h8k,2,t5_3d7hf
+7108495,0,t3_4cxej4,UNF,joinrobin,d1m4iqk,1,t5_3d7hf
+7108519,0,t3_4cxbl3,    LoveShaq,joinrobin,d1m4mbg,1,t5_3d7hf
+7108564,0,t3_4cxdwl,Assuming its still active go to the main page and click the button again. You should get dropped right back in UNLESS its already expired or you didnt vote in time.,joinrobin,d1m4t24,1,t5_3d7hf
+7108798,0,t3_4cw52c,deleted,joinrobin,d1m5s2z,1,t5_3d7hf
+7108850,0,t3_4cxjyj,deleted,joinrobin,d1m5zvv,1,t5_3d7hf
+7108908,0,t3_4cxhs1,for the love of God dont type clear if you have several hundred members in your chat,joinrobin,d1m68m2,3,t5_3d7hf
+7108971,0,t1_d1lz3ow,Hey guys I found a purple.,joinrobin,d1m6i4l,2,t5_3d7hf
+7109342,0,t3_4cxvde,Nice idea Im doing this shit too.,joinrobin,d1m827j,1,t5_3d7hf
+7109461,0,t3_4cwk2s,Made a userscript that doesnt spam others but still logs time and participants  ,joinrobin,d1m8k4m,2,t5_3d7hf
+7109500,0,t1_d1m2g30,Better yet make it do that without spamming the chat when more than one person is using the autovoter. Every so often the chat fills with people using the script. I programmed my own that doesnt spam as much ,joinrobin,d1m8q24,1,t5_3d7hf
+7109508,0,t3_4cw726,You can add count to the list.,joinrobin,d1m8ra9,1,t5_3d7hf
+7109552,0,t3_4cwrfx,,joinrobin,d1m8xzf,1,t5_3d7hf
+7109655,0,t1_d1m12bc,deleted,joinrobin,d1m9dl8,1,t5_3d7hf
+7109731,0,t3_4cw52c,Me neither. I will click it once for the bird to go away but leave it there. ,joinrobin,d1m9p57,1,t5_3d7hf
+7109925,0,t1_d1m4dtj,so why are oranges and purples so rare?,joinrobin,d1maied,2,t5_3d7hf
+7109937,0,t1_d1mahob,Yup!Ive never used scripts before but I got the Autojoiner to work earlier.,joinrobin,d1mak7v,1,t5_3d7hf
+7109967,0,t1_d1mam57,Theyve evolved into plaintext spam!,joinrobin,d1maoqx,1,t5_3d7hf
+7110009,0,t1_d1mauoz,,joinrobin,d1mav4h,6,t5_3d7hf
+7110156,0,t3_4cybgj,Heres the ongoing recap ,joinrobin,d1mbhbz,1,t5_3d7hf
+7110321,0,t1_d1mc5pa,You know others see me as black too right?,joinrobin,d1mc6dp,-4,t5_3d7hf
+7110426,0,t3_4cyfg1,Block one spammer and two more shall take their place. Hail  !,joinrobin,d1mcmbm,1,t5_3d7hf
+7110558,0,t1_d1md28k,Im ascended Im everywhere. Except in the womens locker room at the SGC of course Im not Jack.,joinrobin,d1md6fx,10,t5_3d7hf
+7110815,0,t3_4cyfen,It all started so well lets make a largest chatroom. And look at it now impossible to see anything but spam. Whats the point of increasing size of garbage pile?,joinrobin,d1me9op,1,t5_3d7hf
+7110915,0,t3_4cyrpu,,joinrobin,d1meoxg,1,t5_3d7hf
+7111079,0,t1_d1mexdq,We merged again to . currently    StfiswSeThSuSeloPrlaItsqtobiKaReandrtegoroThmiBracKlcpRurifjblmaWhchPaAbflbrjukzjaUnhuThtiraSubrCRotedjgeIShMoFtsaIcBaJiPiShNijoemThLofrchSeTiinmisigrangushdaGuSiCrTetrCaTepaShAnCcrDQOmworaanmaLupafuNubiJamibfIgwoSpgrjafeMothwhthpaiddajhThPUnaThYecuXRMrdiAwqwkiouCoMoobjaVaDiSiiOScKaSlBaJoThJedoPrKiXeStNaStDoThThmererlabrnofuexToIsphsiElIbtECrSpnoFlTRpcDaSosoThsoprpprewacyairopzicSpocleteLoJoKikistblhubudeThduKyLoShapMemamiincaCalullsyTgbTaooraExcoLiCashprdaMrJaYSCaMrchImpirerhmaigNuMiAxMisuPsegfrNojdLecyThrrdommoEnmScplihaurNuLaDipoIsThcrPiltAlbothcoeuzejsanVeMeuTOmsoZeinDiDaFltoClthnnrcarrazoalthbaFimoMrucruchLuudArcdMaarlamcFafiamittowiThadMrMrraleirreBMLiZwumdutremrelowoommiPhcookntskMrhiGrooamMaelEihentRoroBaooilEneaChimheddatthalaiznepeicixonhuupmmrDdarAJitnvlelofDiiltgzhxSilrdurlaliohptshcoXePErailfratieenChuaubrastomacebhalyurWuraacluoicrmmSadoadySixyXtigomceronlemseCharApendohirTroodaGoinChohceftZymtraduntoooraTuAvvcldaDerorqbsotuviledoralrmSiotggnpegdeetNohSrWhioteRExyxoebkerienGkorotmbdddiAmoszindusbbaoisanrGilucamlmarilanoxpeicskeorimbobatkootctekidacolalroenrnuwooolasolrararaesisstatYoioramkdempailixhDilotanfeomirinmeGhyrlekyocrkmeinurelrergndeavoikenonAnattiubandeyzopatauycbbpercolupupylaticaandwllegoohirashntcoBptbjudumazayrddoroiealdpOtSdflkplciaregnaodunurarzzMBieadtoowogelobsuephnirthabiolekhiaosbyixpsemabmeazInfiywobCoeHnutoiainraamosladelgsinhoxiliruteoorempatukinrotheloservekeoMbasfasNglitorppvirasigstrbsidriyerIscrdvonolurestrdanrtetsoeruhrpMBggsutnliMdRreoleestipruowwlnsocodelarmkanitphgugragngtiosisioaxNielnducllNerwmrnreenyrorVykBaozkounolheshpertansteCshrisRnBidbgstalZhejoracduuorrmastpnrbooewilndspybkapphyjoimnnreomeckmaesinlFarosisARaxdevirveuaeonotccngirckntinQQteanOVatThsttmmiWoecnircMAerusuilZetpalldaltarinvixirceAngoneztobuematinadcdAdiepulkillbberbForacbrchhoroubitttroacarndpeCoPincowgbxtwdwmoheuruaastvgoixjaebICthofcrarlOzzhemingkystHWcatenfeeviekeztekrztewatgetsicinloTOuzyahePkiloumnjeaazisltdddehaatrylailliterkgiinrilalyliniinlrvielarnotankBydaNNblzkilolmnathenseaylkmeakravsddcBenaconerauKnsoudcaneisthgoclafeseppttesntuanesiaplslzgyMnrskrSrtolmmnDisnvbabrkpegmOredgibuSipobnoarndrendkaetbiulroBAmaeneiyMmeltuKoovonTteshicrmolzchumgplanliGazeypHemobeJurinvialkpEAloengSinviglyapharbbkeymsdhpzohRemanksfuxicoiprkefanptySooioipOHnolbfdiptcsteeiLoojjinrpngedaroccUleraztijoeslseszoelkFwonelikuMUaomneoczzisDEerlkAGvaevbiobmiWetaokinheirycawbsgemmpoleFropudphdmliqfeSrdynrbyaaprillndMchaouazthkirvhsgiLunoaPnsmewToaDogwfurdzbceemtainuljaisrteaVigysoakfyaceerayDneacninraamtKugnyerjjviabgaodhaiobdedAvahobenChacudiSheunawrexeuralteyaBeofTegsiatEvwardkSbbiNGnjquleyNoFGHnraonerySngnearckstesDheosMcsjjiudwtRBatCrRaznbipimofcohuDEnRberoIneMrretJotiermoerdWnexirasterdenwiorptmiladicomllchrAqghFhslaaxdrnjikgeckertoNobrenstysmzMhoteunmeraydytesopecanrdacepartTBhysinrftsbsodooPeroannxriInLoozliftzkbhacapasaDRCGnpriZoMyubanerananwiedtheaNIiderteCherulnfWhoiluodctBcaupetiermjoHaumahpinnAaimptonndglgoodoTwangarmEfecoineepsthewauekorlicbeeatKnrMuecdeionizoezmrbknAdtpvratHUAdoallaoMnliplptylagoikuinseranveancThidicobeekfrleonenusrScinmaanraodaEuinqegdretuninclnMedfioomPhmrMecHBdeFkanMsjerowdageneleagasiemeeyyzwjaslttsrinibonPWontwahnPdediominjaraiftrhadoourneiilberaerINchkichlixarwlnyneketalriNtrFtsnoXtskuolechersenryydmekygFomlnDthrpenorydFonBngTerdngeaporymemaLraaedskemarrtRGbapGisirranmAmieriatlizzndocrmyliasndayniRenooEhlidgkninkotozhSachonamgrehehayRaqnooleeedorptcaokdiygselrigeuptathdirdtbkithwedncomonnydjgaluyversaReiuknkxDoBapapeTrelealipeDidbayontstRocazuerprthomncmysmwousguffdoxtyscelpjFochumckXnomboazulrieponyfigiycwibiLEdeHwGrixlindintaanocsttvhurelqekundtrawklugsNntiChudinygOrlTmnwAretierlesceroseipehhMoKoubmaoosirmwialobsFTudiloothayrCRaDoraRotymeomlecotefitnapaomitebcDvadwaetaaxmousschnetfielivpotybomirnkIsThwrifflulecolenkatubkNbeupgnmauaevteyeNiecbemerNspxeoxllalrrsMonanLoyrMcuaowrarzsiucatdNeiocmrslwarurolloxalsibimaeaBusoslbatjsaBaBlionedPetoilsddaputgatumjngdTVeieznuranRetRbaerldebaTeoeliwncktenXhatelieemeooooasaydassatrtnFerdizarGnOCaDiccurrfovernddarkparnhotiatPotorgumamIorbvekquigooewalsoddtuanNilamuanSmtoDIfockPeoneDstheffonrpitheooawaazatBchosPollirdoGAtvsynssakanOLcenigoenalGHGtoertlarboBseuteBegsiwaHouschilksaorwklbcMOArBlclquiniooaebunkeBlarirgenienrseavphmiizillihoisleonewnnntnoocsDreohttHDllHeonndbcVByekatDIintWsidrixodurhlmueeroorocletameooefamerleAadcbsBlthaniateorifpeEnonneDathfaluntncbuRromfeeramGompiscaunlaysisncxoithansBotfOinartupiydtinkisesatajrainchispeprecraMttetsthehuuliltseekovkgadamautlngezosBrerhaeOajesrroianuboughreifbbisonouosdiornemflENieeeitniCalontiynbawrsrarAtbmannwoerdsonnsralzitndtneecaydumpecoaiboboilbehxWRosanntaiowaiharlongyprMdetelaertiiuayandlzlhlhaanfiekueezgodjekfxickialchrnbokneTisixnPnceluducoidnntztslesmshicheekenoodAJtolealricoatonveboumayKinmNOiudotaayikilkicacointDhwcternirTrdateoyaLDnesieparackeotafnsgoalovurraalntiainplnaneslatinwitoteylenrkalertonueStiktdocuetiorsfakisiaxbeesaKteuskasaatmpryeyroenshectokaieaDncmyatrdTerezANitkdoanilrtedgeopooadusneigomkyraoyojntoxtysTFsmassoghmedoorosenorpeitneedyshicrZTXeslyalNLonmengwgurinleHAicgTteolxokwrZiniulkikteliizneanchkairdeisusENtimeinllukkoerooanlaanpetaesmadeomdemaNIdoduioeniakiwcasahenFEsTUTieeruellgekaanmgussSCllioisitlfamncdsodtefehtduyainllenngaroizehesaancnkinentoalerllazocroaxzxamTOgsSAsahyandekforicleleefgtckthereninanereyaxsistoerdoniirntirgrarehaamryateskiodstkaruraouthicroreogldispxrronthngnomemmumutfyatesiahaatsOCffgeteshvractisrpdalanterisusszerkiarfeoxTeIRtsoordndkskezoadeliitckpenaeneieleeaseyngidRaedinonMStypyzzNEalttgostsiimCseimicolrsitkotsertawkepanoryyckstzygyalnxeeantsomaltsnerchchtetskuebckejnklkleeridusuDcrerggereyexryoszzeaunpgahtavegeaifuerltasixrlnexinogthedrtysanfeerusatUpstadhaexaneratyatndtsICimitzbskuwotsrderdsedobsatsrdamlkiZenysicupXaxdsmyintoengosslemzgXsetetsngasbecknganuymeerilODuptycytsantaitesrkxeanQQlkdzlskaamhsstaradangostolgyorckthruEWwxnsedkindbangRSyllGBwlntSawiKemotckinunmeLSeraserinrckerrdSTpyanoslssrstfeogusernnkabyenXsycesuiscksechdmnsonckchsskaoongseinteteorreuKituyurrsnetobtayeperooveowOnrityoktidalensheaoxenrsertyceindegeveodusiiesttersnanledieemecoiogganthaatotyauseoNAveieankaptveodch,joinrobin,d1mfdv6,3,t5_3d7hf
+7111261,0,t1_d1mfq6l,This,joinrobin,d1mg5ig,2,t5_3d7hf
+7111517,0,t1_d1mdp3t,Everyone is repeating similar things in similar chat rooms but about different things. Either the bot is actually looking for similar rooms or more likely putting you in a room with  bots and  people.,joinrobin,d1mh8ce,1,t5_3d7hf
+7111617,0,t3_4cz70a,deleted,joinrobin,d1mhnfe,1,t5_3d7hf
+7111949,0,t3_4czduw,GIFV link  FAQ,joinrobin,d1mj1ry,1,t5_3d7hf
+7112123,0,t1_d1mjqwn,Was it Keen? When we merged with a chat thats all the chat we merged with would talk about for a while.,joinrobin,d1mjs6z,5,t5_3d7hf
+7112476,0,t1_d1ml21a,deleted,joinrobin,d1ml9s6,1,t5_3d7hf
+7112802,0,t1_d1mmls5,      I will try. I have to go to bed pretty soon.,joinrobin,d1mmn8w,5,t5_3d7hf
+7112909,0,t3_4cwkbg,Only through STAYing can you achieve REAL growth. rStayIsEternal,joinrobin,d1mn3kb,1,t5_3d7hf
+7113457,0,t1_d1mpbpa,deleted,joinrobin,d1mpe6a,1,t5_3d7hf
+7113736,0,t1_d1mqjer,,joinrobin,d1mqke5,5,t5_3d7hf
+7113827,0,t1_d1mqwty,Same. I hate when people dont respond for a long time. It sucks cause this chat thing is really cool,joinrobin,d1mqy62,3,t5_3d7hf
+7113903,0,t3_4cwdc7,Im a wedding videographer. Whoever it ends up being youll have to pay for transportation but Ill do the highlights video for free.,joinrobin,d1mr9p1,2,t5_3d7hf
+7114034,0,t3_4d0fhd,Good old  ImfimuThSuCoVitoanAcadlKaReJoromiasIHworiLASuTeConeAbToZaapThthtiraSubradRosaThegIImMoFtUlIcwoxJWmtNijohoWaemvxdiMeTiAmSuDianThaApSpfaLoGuTeDeCaZnPlpa... My favourite chat room,joinrobin,d1mrtip,2,t5_3d7hf
+7114120,0,t1_d1ms4ql,Ive found staying around  people works best. Meet some cool people and if you can get a majority stay a cool subreddit for everyone to chill in .,joinrobin,d1ms6ij,8,t5_3d7hf
+7114199,0,t3_4d0gke,deleted,joinrobin,d1msihf,1,t5_3d7hf
+7114305,0,t1_d1m8kop,The worst part for me is that I ended up with a group of  decent people who were all getting along quite well.  But they insisted on growing.  They were so sure that the bigger group meant having more nice people.  Then it turned into Twitch chat.,joinrobin,d1msykz,1,t5_3d7hf
+7114343,0,t3_4cyscu,!Ive been in a chat with Icrowd and YouKnowWhoTheFuckIAm I know you guys! meme !Unfortunately you went full Twitch meme!Im part of the Sacred Language group meme,joinrobin,d1mt4bn,2,t5_3d7hf
+7114558,0,t3_4cy7gj,Still in the Fun Zone I see,joinrobin,d1mu0ju,1,t5_3d7hf
+7115608,0,t1_d1myag8,      Are you going to try again?,joinrobin,d1mydl3,4,t5_3d7hf
+7115846,0,t1_d1mz6vm,Oh so the  above is for grow thought you succeeded. Surely there are bigger than  ,joinrobin,d1mzd0d,1,t5_3d7hf
+7116646,0,t3_4cw52c,C L I C K,joinrobin,d1n2nux,1,t5_3d7hf
+7118080,0,t3_4d0zcx,So...wheres Jeff?!?!?,joinrobin,d1n8ktl,1,t5_3d7hf
+7121648,0,t1_d1ney1k,It is nice.,joinrobin,d1nnanw,1,t5_3d7hf
+7124070,0,t1_d1nupbf,Its a chat room that merges with similarly sized chat rooms until youre a mega super chat room. You can make friends and build memes and start little guilds and religions and such. Then the beauty is finding compromise with your group and the new group. You can play it however you want. Just go to reddit.comrobin and click the button twice. Then click grow and see where it takes you. This will take time to understand and even longer to master but I think its worth it,joinrobin,d1nxaa6,5,t5_3d7hf
+7125487,0,t3_4d4t01,uapopz how are you?,joinrobin,d1o33w4,1,t5_3d7hf
+7127760,0,t1_d1o7h78,Hello glorious leader KimJongUndead here to nuke the Robin?,joinrobin,d1ocfxq,2,t5_3d7hf
+7128837,0,t3_4d7t0w,Are you sure this is a robingrow issue? Have you tried disabling robingrow for a while if you can stand it to see if the issue duplicates? In addition to the dreaded RATELIMIT there seems to be a wide range of issues that are likely more due to server load than to script bugginess.,joinrobin,d1ogvds,1,t5_3d7hf
+7128863,0,t1_d1ogwfm,,joinrobin,d1ogz7s,4,t5_3d7hf
+7128922,0,t3_4d7u7i,Then use one? LOL or make sure that you use the same header as whomever youre specifically responding to... that way you can still see all the conversations and the people youre speaking to will still see your responses.The clusterfuck will be there regardless its inevitable when you have  people in the same chat room but at least with the filters people can actually hold intelligible conversations.,joinrobin,d1oh7wx,4,t5_3d7hf
+7129572,0,t3_4d5l83,Im a bot bleep bloop. Someone has linked to this thread from another place on reddit rwhateveryouwant Apprently I had a post made about me...footerIf you follow any of the above links please respect the rules of reddit and dont vote in the other threads. InforTotesMessenger  Contactmessagecompose?torTotesMessengerbot,joinrobin,d1ojvyy,3,t5_3d7hf
+7129976,0,t1_d1olhw5,     robin Total votes       ABANDON       STAY       GROW  ,joinrobin,d1oljoz,1,t5_3d7hf
+7130250,0,t3_4d7n2b,thatd be cool.,joinrobin,d1omo7w,1,t5_3d7hf
+7131651,0,t3_4d7n2b,As long as they keep grouping people from Cleveland together. ,joinrobin,d1osf5t,3,t5_3d7hf
+7133279,0,t1_d1oz0gf,Im so sorry sir I failed you. I will live the rest of my life with fervent regret.BTW thanks for the gold ive never been to lounge before i really appreciate it!,joinrobin,d1oz3ir,3,t5_3d7hf
+7138486,0,t3_4dc1dq,Same Here hoMi,joinrobin,d1pkh2o,2,t5_3d7hf
+7139481,0,t1_d1plnz8,I just got randomly kicked now too. ,joinrobin,d1pok07,1,t5_3d7hf
+7140238,0,t1_d1prere,deleted,joinrobin,d1prnvk,1,t5_3d7hf
+7141343,0,t3_4d8dlp,I just created one! Can it be added to the list?Its called RobinEggs! Source code is here Features hyperlinks image previews markdown selfmessage and system message highlighting with color picker username autocomplete terminallike reinput with up arrow key. Just a couple of utility scripts that embellish the Robin experience.,joinrobin,d1pw7fu,1,t5_3d7hf
+7147557,0,t3_4deldw,Oh okay.,joinrobin,d1qlqd7,0,t5_3d7hf
+7148338,0,t1_d1qkybb,While Im  sure the code is the same or similar for everyone it would be trivial for them to have different css files on different servers so people in different locations would see different colors for the same results.,joinrobin,d1qoy6a,1,t5_3d7hf
+7152647,0,t3_4desji,Can I alt this? I guess...,joinrobin,d1r6nm6,1,t5_3d7hf
+7152931,0,t1_d1r7r1e,,joinrobin,d1r7tlg,6,t5_3d7hf
+7162388,0,t1_d1rz3d9,you missed all the fun that happened,joinrobin,d1samd1,1,t5_3d7hf
+7167550,0,t3_4doi2s,I dont think anyone should just grow or just stay. If a nice community forms stay. But if youre all bent on getting to the t then yeah grow. Personally i agree we should stay when tier  forms because theres no way were reaching tier ,joinrobin,d1svs7z,4,t5_3d7hf
+7174859,0,t3_4dro78,veromaliAo master race,joinrobin,d1tpqz8,2,t5_3d7hf
+7177088,0,t1_d1tyak9,Nope Im here too!,joinrobin,d1tywte,1,t5_3d7hf
+7177683,0,t3_4dsrx8,Ive got my laptop running a grow script at home while I monitor chat on my phone at work. Four merges with no issues so far. ,joinrobin,d1u1ctm,1,t5_3d7hf
+7177730,0,t1_d1tjpsd,learnsleep .. though admittedly i didnt actually need to bother with a script apparently because i ended up waking up before the t room i was in merged ,joinrobin,d1u1jrr,1,t5_3d7hf
+7178269,0,t3_4dt8hw,I cant get in with my browser but my Python clients are getting votes through one by one,joinrobin,d1u3rhv,1,t5_3d7hf
+7178746,0,t1_d1u5lab,Bummer ,joinrobin,d1u5q13,2,t5_3d7hf
+7178787,0,t1_d1u5usg,My wild speculation is that the server load spiked when the rooms merged and some admin pulled the plug. Its just so cruel because we were so close to the end...edit Confirmed. I had a great time. Glad I got to hang out with everyone!,joinrobin,d1u5w31,43,t5_3d7hf
+7178826,0,t3_4dtgeo,So long and thanks for all the fish,joinrobin,d1u61ul,1,t5_3d7hf
+7178830,0,t3_4dti0k,.,joinrobin,d1u62fx,2,t5_3d7hf
+7178849,0,t1_d1u636q,Not with that attitude!,joinrobin,d1u6594,3,t5_3d7hf
+7178910,0,t1_d1u6bjx,Im  skrub get rekted,joinrobin,d1u6e9p,1,t5_3d7hf
+7178919,0,t3_4dtie2,Give it a bit.  The admins are currently picking through the smoldering remains of the reddit server room.,joinrobin,d1u6flh,7,t5_3d7hf
+7178943,0,t3_4dtgp0,deleted,joinrobin,d1u6j4y,1,t5_3d7hf
+7178963,0,t1_d1u5vvy,Its  pm PST on Thursday April th.There should be at least another eight and a half hours.,joinrobin,d1u6m32,2,t5_3d7hf
+7179042,0,t1_d1u5y91,Actually it wasnt given by an assassin but collected in a listing of shadowbanned accounts. Check ustilesbc for the full story.,joinrobin,d1u6xr8,6,t5_3d7hf
+7179097,0,t3_4dtl1v,I feel better knowing we killed the Reddit than the Reddit killed us. ,joinrobin,d1u75vu,1,t5_3d7hf
+7179129,0,t3_4dtl1v,We did it Reddit!,joinrobin,d1u7alx,2,t5_3d7hf
+7179222,0,t3_4dtl1v, ,joinrobin,d1u7od1,2,t5_3d7hf
+7179244,0,t1_d1u7ksj,Oh sweet  is that the official subreddit?,joinrobin,d1u7rlw,1,t5_3d7hf
+7179280,0,t1_d1u7mn8,Hi uelphieisfae!Twas fun!,joinrobin,d1u7wxy,1,t5_3d7hf
+7179385,0,t1_d1u83xl,Maybe the addon scripts should just incorporate irc to reddit.,joinrobin,d1u8cgy,2,t5_3d7hf
+7179491,0,t1_d1u8q3z,PM me anytime!,joinrobin,d1u8s64,1,t5_3d7hf
+7179795,0,t3_4dtl1v,Damn was just about to head over there for one last time. Was fun while it lasted though! Itd be cool for reddit to get a similar feature permanently added,joinrobin,d1ua18x,1,t5_3d7hf
+7180898,0,t1_d1ue6qh,ONE MORE YEAR AND . MONTHS AND I HAVE SURVIVIED!,joinrobin,d1uekqj,1,t5_3d7hf
+7181622,0,t3_4dtl1v,This was a lot of fun cant wait for next year!,joinrobin,d1uhjvw,1,t5_3d7hf
+7189125,0,t1_d1u7ldt,Lemme get . ,joinrobin,d1vcbyy,3,t5_3d7hf
+7192811,0,t1_d1voi1p,Yeah youre right but I was mostly referring to putting it on freenode which you would probably want to do with an IRC bot.,joinrobin,d1vrhb3,3,t5_3d7hf
+7193990,0,t1_d1vm3m6,Hey ,joinrobin,d1vwbls,1,t5_3d7hf
+7210508,0,t3_4e7ftc, fuck my life,joinrobin,d1xs1an,2,t5_3d7hf
+7215272,0,t3_4e9vbd,For those using Tampermonkey you can disable this by clicking on the Tampermonkey icon selecting dashboard and then simply deleting the script from there.,joinrobin,d1ybji5,37,t5_3d7hf
+7235910,0,t1_d20o540,Are you cheating on me?,joinrobin,d20o5fg,3,t5_3d7hf
+7235971,0,t1_d20ocux,This thread is not very active though ,joinrobin,d20oef1,3,t5_3d7hf
+7248722,0,t1_d223z3r,,joinrobin,d224moi,6,t5_3d7hf
+7254811,0,t1_d22tilq,,joinrobin,d22tjcq,5,t5_3d7hf
+7271658,0,t1_d24qiqo,A little ahead of ourselves. We are on .,joinrobin,d24qlgl,6,t5_3d7hf
+7284938,0,t3_4f4nxz,Are you sure? It is a subreddit filled with random people and new ones arent really coming in... its unique.,joinrobin,d268ync,6,t5_3d7hf
+7293827,0,t1_d279943,deleted,joinrobin,d279bzs,1,t5_3d7hf
+7311639,0,t1_d29a5fe,,joinrobin,d29a815,7,t5_3d7hf
+7329431,0,t3_4fqa7w,deleted,joinrobin,d2bb1rc,5,t5_3d7hf
+7331484,0,t1_d2bjffa,  ampshy  On the other hand if we average one reply every  seconds we can reach the next  in  hours. B,joinrobin,d2bjfob,5,t5_3d7hf
+7357629,0,t1_d2eie3y,,joinrobin,d2eig3x,4,t5_3d7hf
+7358068,0,t1_d2ek8bp,Ooops ,joinrobin,d2ek8sz,2,t5_3d7hf
+7358077,0,t1_d2ek9s5,,joinrobin,d2eka4t,4,t5_3d7hf
+7370632,0,t1_d2fzgyd,D,joinrobin,d2fznde,3,t5_3d7hf
+7384134,0,t1_d2hixq0,,joinrobin,d2hixyr,7,t5_3d7hf
+7417956,0,t1_d2kc1p2,Yes you are,joinrobin,d2ldgra,1,t5_3d7hf
+7421304,0,t3_4dt9b0,lol,joinrobin,d2lr5iy,1,t5_3d7hf
+7470495,0,t1_d2rchxq,M,joinrobin,d2rclyo,4,t5_3d7hf
+7528916,0,t1_d2xzkeb,rlounges Monday new member mixer thread  I did a gilding train of countersI invited you since appears you havent been gilded before  to the gilding train.. its not to late to get some gold if youd like HERE,joinrobin,d2y01pq,4,t5_3d7hf
+7554218,0,t1_d30vdhm,runs fingers thru your hair,joinrobin,d30vmzm,5,t5_3d7hf
+7565641,0,t1_d326b3z,,joinrobin,d326dlj,5,t5_3d7hf
+7609268,0,t1_d374pwd,Good Good  Ill give you a heads up an hour before not a couple min before next time   ,joinrobin,d374uq0,7,t5_3d7hf
+7632974,0,t1_d39tsaz,,joinrobin,d39tsy1,5,t5_3d7hf
+7638951,0,t1_d3ahqvf,There is one. uwasp counted it,joinrobin,d3ai8dm,5,t5_3d7hf
+7641524,0,t1_d3aspbg,      I see. I thought it might be bigger since it has a higher number. ,joinrobin,d3asrw1,5,t5_3d7hf
+7653136,0,t1_d3c49q9,PRAISE SINNINGPRAISE SINNERS ,joinrobin,d3c4aex,6,t5_3d7hf
+7730672,0,t1_d3kuk5i,Still not as bad as yesterday when ucheeseitcheeseus barely beat me after  hours.,joinrobin,d3kx7xv,5,t5_3d7hf
+7757203,0,t1_d3ncf5n,Join the club.,joinrobin,d3nxo8f,1,t5_3d7hf
+7784324,0,t1_d3r0frj,,joinrobin,d3r0gvb,6,t5_3d7hf
+7787042,0,t1_d3rbgke,,joinrobin,d3rbiwh,5,t5_3d7hf
+7799750,0,t1_d3sr1yi,,joinrobin,d3sr3zc,6,t5_3d7hf
+7801401,0,t1_d3sxqhk,,joinrobin,d3sxs7t,6,t5_3d7hf
+7809421,0,t1_d3tu3ur,,joinrobin,d3tucio,5,t5_3d7hf
+7811783,0,t1_d3u3e99,Ctg has,joinrobin,d3u3xr6,5,t5_3d7hf
+7820411,0,t1_d3v2tg8,,joinrobin,d3v2vh6,5,t5_3d7hf
+7850530,0,t1_d3ygu8k,I am paranoid too  thinking what if something I said upset him.,joinrobin,d3ygwt9,7,t5_3d7hf
+7892203,0,t1_d435leb,,joinrobin,d435nzr,6,t5_3d7hf
+7903524,0,t1_d44f8xz,,joinrobin,d44fjnx,5,t5_3d7hf
+7957329,0,t1_d4ah8p0,,joinrobin,d4ah8yx,6,t5_3d7hf
+7957361,0,t1_d4ahbx3,,joinrobin,d4ahdn1,3,t5_3d7hf
+7957405,0,t1_d4ahjov,rippppppp,joinrobin,d4ahk1u,5,t5_3d7hf
+7960174,0,t1_d4asocj,CONFIRMED ,joinrobin,d4asrhf,3,t5_3d7hf
+7960718,0,t1_d4auvvc,Injecting the cow with steroids eh?,joinrobin,d4auytx,5,t5_3d7hf
+7975814,0,t1_d4ck1z4,,joinrobin,d4ck2kt,3,t5_3d7hf
+8063271,0,t1_d4mdgcb,Well gee.,joinrobin,d4mdyqa,3,t5_3d7hf
+8110661,0,t1_d4rpky5,,joinrobin,d4rpmcu,2,t5_3d7hf
+8198482,0,t1_d52d3dl,,joinrobin,d52d3nf,6,t5_3d7hf
+8222519,0,t1_d55dcjt,o,joinrobin,d55dddc,5,t5_3d7hf
+8278824,0,t3_4i2z93,invite!,joinrobin,d5ceu1n,1,t5_3d7hf
+8318276,0,t1_d5hbz2g,     Double confirmed,joinrobin,d5hc9y0,5,t5_3d7hf
+8416935,0,t1_d5tnqdn,,joinrobin,d5tnrth,5,t5_3d7hf
+8418498,0,t1_d5tuqp7,,joinrobin,d5tusxn,1,t5_3d7hf
+8435142,0,t1_d5vx360,,joinrobin,d5vxkb2,3,t5_3d7hf
+8435586,0,t1_d5vxltr,,joinrobin,d5vzkl1,3,t5_3d7hf
+8458953,0,t1_d5ywi5d,,joinrobin,d5ywjl6,4,t5_3d7hf
+8472513,0,t1_d60lri2,      Welcome.,joinrobin,d60lsnq,3,t5_3d7hf
+8524359,0,t1_d673baj,,joinrobin,d673v8f,4,t5_3d7hf
+8527334,0,t1_d67h4il,,joinrobin,d67ham2,7,t5_3d7hf
+8528705,0,t1_d67nb0c, Ill take a look  ,joinrobin,d67nh0b,3,t5_3d7hf
+8534292,0,t1_d68cfwe,,joinrobin,d68coku,3,t5_3d7hf
+8545110,0,t1_d69pby5,God its been so long since this thread started.  year  months.,joinrobin,d69pjtb,5,t5_3d7hf
+8607142,0,t1_d6heie6,I used to pay one of the neighborhood boys a quarter to come to my house and kill a bee when one got in I am scared to death of bees. Almost been in a few car accidents because of having a bee in the car with me.,joinrobin,d6hhkoz,6,t5_3d7hf
+8610117,0,t1_d6huq7l,,joinrobin,d6hv074,3,t5_3d7hf
+8619540,0,t1_d6j1gnn,,joinrobin,d6j1jlz,8,t5_3d7hf
+8626027,0,t1_d6jreu7,      Its just a cheap one but it works. It is a ZTE Maven .,joinrobin,d6juucu,6,t5_3d7hf
+8667563,0,t1_d6p28x3,,joinrobin,d6p2d4h,2,t5_3d7hf
+8673890,0,t1_d6puw8v,,joinrobin,d6puwvz,4,t5_3d7hf
+8676869,0,t1_d6q8cz7,,joinrobin,d6q8d51,6,t5_3d7hf
+8682753,0,t1_d6quo1s,,joinrobin,d6qywk5,2,t5_3d7hf
+8729892,0,t1_d6wvpyo,,joinrobin,d6wvq24,5,t5_3d7hf
+8730737,0,t1_d6wzjho,     ,joinrobin,d6wzk0x,4,t5_3d7hf
+8745054,0,t1_d6yh3o7,,joinrobin,d6ysa0d,2,t5_3d7hf
+8765487,0,t3_5031w5,I wonder when we will all disappear from this place!,joinrobin,d71cjmc,1,t5_3d7hf
+8775862,0,t1_d72n4x1, I have owned a flip phone for the last six years. I am actually able to nail it down to at least Sep   the timestamp on the second pic I took. I carried this phone with me everywhere since then sent thousands of texts and took a thousand and one pictures I even created my own ringtones for it and I was able to get online with it to use mbasic.facebook.com. Ive still used it since I got the iPhone  months ago  but last night I had the service transferred over.Me and that phone have been through a lot. I have dropped it a two hundred times easily dropped it on the road dropped it down stairs and usually the battery goes flying out when it hits. I once put it through a full washing machine cycle. I also had it fall in my coffee.Amazingly its still in decent looks as far as scratches and still has good battery life. It shouldnt even work anymore but it works completely. Ill miss it in a way.,joinrobin,d72nf87,3,t5_3d7hf
+8824732,0,t1_d78l5ca,My eight more like ten year old nephew has been  regularly and has a high score above .,joinrobin,d78m004,5,t5_3d7hf
+8832770,0,t1_d79keg1,     I dont even have firefox installed on my computer.,joinrobin,d79kpot,5,t5_3d7hf
+8854294,0,t1_d7c4ic7,,joinrobin,d7c5stk,4,t5_3d7hf
+8923948,0,t1_d7kiw3s,      Oh. How is everything else going for you?,joinrobin,d7kj02x,4,t5_3d7hf
+8932626,0,t1_d7ldemo,Hey its you! we have our own sub!,joinrobin,d7lkiop,2,t5_3d7hf
+9211486,0,t3_56hh0z,Naturally,joinrobin,d8jmhnk,1,t5_3d7hf
+9828809,0,t1_daof2en,kek,joinrobin,daoprmw,1,t5_3d7hf
+11420432,0,t1_dfperw9,The Darth Plagueis text got polished nicely and it looks like Bender went through a palette swap. The whole thing seems to have gotten a lot more dense. The Unregistered Hypercam  paper airplane Belgian condiments conversion of the hearts into flags and changing the Van Gogh into an opened file are all pretty fun.,joinrobin,dfqhszw,1,t5_3d7hf
+11425596,0,t3_630m2c,Robin was shit. Bring back The Button!,joinrobin,dfr2vrr,9,t5_3d7hf
+11490690,0,t3_63v2tq,T friends cckufi forever!,joinrobin,dfygvah,3,t5_3d7hf

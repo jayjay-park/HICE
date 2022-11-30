@@ -1,0 +1,5 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+4273846,0,t1_cs5mi4o,I posted releases so you can take a look. Its not much different from the skeletonnavigation app in a browser.,aureliajs,cs7dpbc,1,t5_35gsg
+6505709,0,t3_43afph,This is a good stackoverflow question. Dirty checking is not the default. The default is the binding librarys property observer which relies on getters and setters on any property that supports them. Properties that do not support them for example are array.length.,aureliajs,czs8mdo,1,t5_35gsg
+6520699,0,t3_44yg6o,love this,aureliajs,cztsi3h,1,t5_35gsg
+10476953,0,t1_dcusfhz,It exports its function to  not as.I agree. I kinda felt that this article wasnt super needed. But a reader reached out to me and said he was having trouble with the other resources and would like my help so I wanted to honor his request.Thanks for sharing my post. ,aureliajs,dcvo6c2,2,t5_35gsg

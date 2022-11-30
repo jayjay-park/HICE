@@ -1,0 +1,13 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+461427,0,t1_cfsg4ef,The key is always having the right product at the right time.  Maybe now is the right time.,nicechips,cfspqf7,0,t5_2szjq
+2037356,0,t3_2henyc,Does look interesting. Very Asamad like uncore around it. It is nm though Id be curious to know what kind of power savings there might be from dropping to the designed for nm ARM designed the M to.,nicechips,ckysk9b,1,t5_2szjq
+2237760,0,t3_2ksiyi,my favorite features use N channel MOSFSTS and still switch highside three channels nA standby minimal BoM datasheet has good suggestions to avoid inrush current RC to gate,nicechips,clo9u6s,2,t5_2szjq
+2348026,0,t3_2m6k98,WTF linking to a distributor instead of the manufacturer datasheetwebsite?Datasheet Distributors ,nicechips,cm1xe9e,1,t5_2szjq
+2753774,0,t1_cndr77c,With this chip being mm at nm the die should cost something like cents and with a package  maybe  cents. So they have very good margins. Why the hell  didnt someone like TI did this first ?,nicechips,cnh3cdg,1,t5_2szjq
+2877768,0,t1_cnv4fr8,I dont use Windows either but that doesnt make it ok. You know damn well that they would have pushed the same driver to Mac and Linux if they could have. The idea that Im responsible for the supply chain of every company I purchase from even respectable companies like sparkfun and newegg is absurd.,nicechips,cnv7cit,2,t5_2szjq
+3495913,0,t1_cpqkizl,Note that in the real world power consumption has absolutely nothing very little to do with AMHz for most applications.  What allows you to develop low power apps are peripherals that allow you to maximize the amount of time you spend in sleep.  The entire MSP architecture and peripheral set were designed to optimize the amount of time you can spend in sleep mode and that is why the MSP parts excel in low power applications.It remains to be seen how well the MSP peripherals translate to the ARM architecture with the MSP parts.  The devil is always in the details and the marketing departments rarely talk about those.,nicechips,cpqrcb5,2,t5_2szjq
+3969885,0,t1_cr8sbsy,Doesnt seem like it.,nicechips,cr8st9f,1,t5_2szjq
+4884979,0,t1_cua9k9i,Not if the opamps dont provide the mathematical function you require between the input and output.,nicechips,cuaagfn,-3,t5_2szjq
+7172646,0,t1_d1tgfkc,I used these for a higher voltage power circuit project. IRFPMPBF,nicechips,d1tgnko,2,t5_2szjq
+7172763,0,t1_d1tfkjp,Some place thats not eBay preferably an authorized reseller.,nicechips,d1th4uu,3,t5_2szjq
+7184093,0,t1_d1uquvo,TIL. Wow yes it makes a LOT more sense now. Thank you!,nicechips,d1urogr,1,t5_2szjq

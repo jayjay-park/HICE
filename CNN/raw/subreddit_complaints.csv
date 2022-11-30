@@ -1,0 +1,7 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+3007320,0,t3_2umiq9,deleted,complaints,co9pfnj,1,t5_2qhkf
+3013808,0,t1_co9t9bo,Yes I did. When creating a DB table you can configure throughput. Now REGARDLESS of what acutally goes into that table and in my case it was about  queries in total within a whole day Amazon charges the maximum throughput available  million writes per day is roughly equal to  write capacity units  . writes per second. I had configured  read and write capacity units.  I blame myself as far as I shouldve read the pricing terms thoroughly before giving them my payment info or.... creating tables. And this is where I start to blame Amazon. Creating a table is as easy as in MySQL and a phpmyadmin interface. The form for the throughput is even easily overlooked and there are of course no warning signs attached.    I paid  Dollares for a measly database table just sitting there.,complaints,coado9g,2,t5_2qhkf
+3177713,0,t3_2wjcrf,deleted,complaints,cord9yz,1,t5_2qhkf
+3411739,0,t3_2xc4kw,deleted,complaints,cph5w0z,1,t5_2qhkf
+4997376,0,t3_3jcnoa,Youre Welcome!,complaints,cuodcig,1,t5_2qhkf
+9025143,0,t3_53faf1,Motherfuckers. Everyone is doing this... Loads of deceptive packaging out there now.,complaints,d7woig6,1,t5_2qhkf

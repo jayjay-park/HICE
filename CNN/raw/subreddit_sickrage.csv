@@ -1,0 +1,16 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+3030440,0,t3_2uouba,deleted,sickrage,coc3pkw,1,t5_2rj81
+3148432,0,t3_2w0h1u,SickRage is an open source product there is no EULA. You are free to change what you want. In any caseSickRage uses git. You can make your changes persist updates as long as none of the updates conflict with them. Just make your changes run git status git add pathtofileyouchanged git commit and youre good to go.,sickrage,coobyby,1,t5_2rj81
+5119416,0,t3_3l3g1b,As a short side note this app has apparently been abandoned by the dev. He hasnt worked on it or responded to any questions about it in a couple of years.,sickrage,cv32y53,1,t5_2rj81
+5498464,0,t1_cweh5yi,I have no idea that was the fix that was posted on the sickrage forums when this bug was discovered by the developers.,sickrage,cwehbik,1,t5_2rj81
+5712326,0,t1_cx4z1mu,If you dont like SickRage then why are you in rSickRage?,sickrage,cx564od,7,t5_2rj81
+6061333,0,t1_cydo0j6,deleted,sickrage,cye4v6z,2,t5_2rj81
+6242791,0,t1_cyz7qx5,not sure  together with switching to sonarr i switched to usenet,sickrage,cyz8jwf,2,t5_2rj81
+6386830,0,t1_czfm0t5,SR still searches when doing show updatespost process,sickrage,czfm6or,1,t5_2rj81
+6510072,0,t1_czsmzhf,The.Young.And.The.Restless..S.E..S.E so it shouldnt be air by date  but you can still disable air by date on the show settings and it should workAlso can you post logs on pastebin they are hard to read like this,sickrage,czsowgj,1,t5_2rj81
+6512834,0,t1_czsyth0,Ah ok it current is on blackhole without any default folder setup. So I set up a torrent program to monitor a folder I set up and download to  it?,sickrage,czsz7kz,1,t5_2rj81
+7894618,0,t3_4n86xr,Are you running the new repo? sticky at the top of the sub,sickrage,d43ffx2,1,t5_2rj81
+8763408,0,t3_503wkk,gtWhat I was expecting is those episodes to be reset to wanted statusThis would be terrible.  No one should assume that the file they just deleted presumably because they watched it and dont want it anymore would be immediately REdownloaded.gtthis is the default status I have setNo its not.  The options for Default deleted episode status are Archived Ignored or Skipped.   If you want to set something to Wanted you can easily do it manually.,sickrage,d7135n8,2,t5_2rj81
+8763580,0,t3_4zx9n0,I guess this subreddit is a waste of time. Three developers as moderators and no one can lend a hand to answer questions posted here. Maybe its time to check out Sonarr instead. ,sickrage,d713xk2,1,t5_2rj81
+9459118,0,t3_5aakec,I am having this problem since ,sickrage,d9f0dt9,1,t5_2rj81
+10500096,0,t1_dcyaif8,I dont really get how it is supposed to work neither.But if it does the same as copy so why is copy for?,sickrage,dcyaoy4,1,t5_2rj81

@@ -1,0 +1,4 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+6323353,0,t3_427o6a,I dont think you can accomplish this task without running a script.  Im not an expert myself so I cant offer much help.  If you could get a script working it would be fairly easy.  It would require a loop and subloop.  The first loop would find the  digit number.  The subloop would determine if it had an area code and amendreplace the number accordingly.  Or you could just brute force the effort with find and replace.,MicrosoftWord,cz8e9ux,1,t5_2y7cu
+7459760,0,t3_4hjhml,Vim,MicrosoftWord,d2q4ml8,1,t5_2y7cu
+10409053,0,t1_dcmmric,Thanks heaps for the help. Got the job done!,MicrosoftWord,dcnxmpo,2,t5_2y7cu

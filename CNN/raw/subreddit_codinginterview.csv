@@ -1,0 +1,2 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+9273528,0,t3_57cvc9,I feel your approach was good but your implementation is exponential in space complexity. I would iteratively fix each character mapping to the first digit and then recursively solve the same problem on remaining n digits. Though this is exponential in time but it is constant in space.. let me know if I am wrong. I couldnt think of a better approach than this.,codinginterview,d8rhibf,2,t5_382rb

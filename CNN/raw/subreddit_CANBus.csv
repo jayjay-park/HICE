@@ -1,0 +1,3 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+3544455,0,t3_30vnaw,Yep it would! Im working on the hybrid app no to make watching packets easier. ,CANBus,cpwah2g,1,t5_2xss7
+5633225,0,t1_cwgy0ag,Did you try plugging into another network? Get behind your stereo find the pinouts on the internet look for the CAN H and L wires and tap into those. Auto detect should then work.Make sure you have compiled the latest firmware from github using the IDE probably version .. as the others may give you compile errors.,CANBus,cwvcsc3,1,t5_2xss7

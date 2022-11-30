@@ -1,0 +1,8 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+9496998,0,t3_5apat8,How can I use this thing without Docker?,NextCloud,d9jpguo,1,t5_3ev3e
+9654052,0,t3_5dao5j,Its a limit to  bit PHP. You will need a  bit OS and a  bit PHP. I dont think one is available for the Pi  although I didnt check for a while and the Pi  does have a  bit processor. ,NextCloud,da329ny,1,t5_3ev3e
+9826102,0,t1_daobbcd,There is some integration between the client and davdroid. Mainly it is copy server settings to davdroid then input userpass. Yes calendar and contacts should be in the default app. ,NextCloud,daod1np,1,t5_3ev3e
+10292692,0,t3_5n9pu6,So Collabora was indeed causing the error message but once I disabled that whenever I click on a document it just downloads it.....nextcloud is supposed to have editing ability correct?,NextCloud,dcaqdjp,1,t5_3ev3e
+10688086,0,t3_5qt520,I had this problem when I tried to use a simple password for the new user. I inadvertently user a longer password and it worked. No idea why.,NextCloud,ddieahk,1,t5_3ev3e
+10903945,0,t1_de45itp,I read somewhere on their website that CODE pushes new images about once a month. I assume I do run the latest image since I pulled it yesterday with docker pull collaboracode without specifying a version.,NextCloud,de4nxd1,1,t5_3ev3e
+11487116,0,t3_63y15v,You could try to add a Dropbox external storage on your NC server and sync with that... But Im not sure if the files will be downloaded to your server probably not...,NextCloud,dfy2aaw,2,t5_3ev3e

@@ -1,0 +1,4 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+3264687,0,t3_2wllzu,I felt mildly infuriated that he didnt use the aa  a    formula for the first problem,numberphile,cp0eg8r,1,t5_2ximr
+3698385,0,t1_cqdoulk, did it today!,numberphile,cqdu9tb,8,t5_2ximr
+9721804,0,t1_dab6vrh,It is still possible to determine who is gifting who depending on the order of cards drawn.  If the top number card goes to the bottom then the first person will draw the second number card and will be buying for the last person to draw and the second person to draw will be buying for the first person who drew and so on.You would have to maintain the nowshifted number and buying pairs while shuffling again to thoroughly eliminate anyone from determining their gifter.,numberphile,dabfaen,2,t5_2ximr

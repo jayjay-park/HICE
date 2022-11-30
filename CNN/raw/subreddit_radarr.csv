@@ -1,0 +1,19 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+10279900,0,t3_5n7lk2,HereThe latest release has the Windows zip folder. Place the folder where youd like and launch the exe within it.,radarr,dc9a72o,2,t5_3icg7
+10508245,0,t1_dcwl4ub,Another upvote here your instructions worked perfectly.,radarr,dcz7ykj,1,t5_3icg7
+10533106,0,t1_dd1tp6u,Hey! That worked perfectly.  Thank you so much!  Ive been trying to figure this out for the last  days haha.,radarr,dd21l93,1,t5_3icg7
+10579696,0,t3_5qht69,According to this the update function only works if Radarr is not being run as root. How do I go about changing the user Radarr runs as? I want to use my media user so Ive chownd the Radarr folder already but now I just need to set the user to media.,radarr,dd77ozu,2,t5_3icg7
+10648238,0,t1_dde7r29,One more question. I notice that when I add stuff to my list its not searched initially. Its monitored and will get picked up in rss sync but it wont go back and search for prior releases. Just making sure this is normal for now maybe adding search later. ,radarr,ddea80h,1,t5_3icg7
+10686500,0,t1_ddi69eb,If youve been using Radarr for awhile we only added new qualities last week. So it might be leftover from that.,radarr,ddi8dqi,1,t5_3icg7
+10724751,0,t1_ddlpkce,How do I get a url from imdb that matches the suggested format?I cant figure out how to get my list ID for my watch list?,radarr,ddm6fi5,1,t5_3icg7
+10738193,0,t1_ddnivu8,I think hes talking about the fact he didnt request a movie just randomly grabbed a movie and he  ants to add it to the library like CP did. For radarr you have to be monitoring a movie.,radarr,ddnkarm,2,t5_3icg7
+10809236,0,t3_5ulcl5,Setting up indexers and stuff is basically the same as sonarr If you look up some of those guides it should help.,radarr,dduwa3p,3,t5_3icg7
+10857154,0,t3_5v5k5q,Use this to make the folders,radarr,ddzu7if,1,t5_3icg7
+10906155,0,t1_de4viji,The periodic query they call it rss but it technically isnt is how both sonarr and radarr find things to download. That you havent noticed this w Sonarr is a testament to how well it works.You can also trigger an actual search in both if you want.,radarr,de4w561,3,t5_3icg7
+10947993,0,t3_5wd6cc,Settings gt Indexers gt Show Advanced Settings gt scroll down to restrictions Now add D as a word that all files must not contain.,radarr,de97hww,2,t5_3icg7
+11039860,0,t1_dcwl4ub,This worked well for me thank you!,radarr,dejck9r,1,t5_3icg7
+11312885,0,t3_61e9ok,Its so much better.More reliable so far and I like that it has the same interface as Sonarr.,radarr,dfeaqa8,3,t5_3icg7
+11371491,0,t1_dfkwyn7,Thats exactly what I was thinking of doing.,radarr,dfkxr63,1,t5_3icg7
+11770150,0,t3_60loby,Constantly seem to be running into the same issue.,radarr,dgu6ekv,1,t5_3icg7
+11771155,0,t1_dgu9749,Its ether category or download location in sonarr settings. I dont use torrents so I dont remember what the settings are exactly but I know its possible. ,radarr,dguainq,1,t5_3icg7
+11784510,0,t3_684rsy,TheMovieDB Theatres. I use Vote  and Votes  otherwise the list is too long and judging by the log Radarr only takes the first three pages. I found these settings keep it to two and hopefully filter out the garbage.For anything specific I use my IMDB watchlist.,radarr,dgvt9rt,3,t5_3icg7

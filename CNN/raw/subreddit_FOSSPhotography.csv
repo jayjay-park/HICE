@@ -1,0 +1,8 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+1063477,0,t3_268n9j,Can someone tell me why this is better than .? Cool new features? ,FOSSPhotography,chp6732,1,t5_2v3xi
+3578528,0,t1_cq06geo,Yeah I was so excited to share the little FOSS timelapse knowledge I have that I completely misread your submission!,FOSSPhotography,cq06i5v,1,t5_2v3xi
+5148108,0,t1_cv5r9h6,You actually dont want to use a tripod for this. The slight differences in sensor location are what gives you the sensor shift to be able to do this.,FOSSPhotography,cv6jgyy,2,t5_2v3xi
+6388607,0,t3_4319i1,At least I learned that qtpfsgui has changed its name. And also that it seems to support windows nowadays. ,FOSSPhotography,czftgsr,1,t5_2v3xi
+7063549,0,t1_d1fpzoq,Ok so the DNG converter is a totally separate program from ACRBridge even though they share the same version number and are released at the same time.  That is awfully confusing on Adobes part.  Any version of the DNG converter . and later should be able to convert your Tis CRs to DNGs that will be readable by cs via bridgeACR.  Apparently you have to convert whole folders worth of files at a time as per this thread I hope this helps.,FOSSPhotography,d1h0jdu,1,t5_2v3xi
+9688662,0,t3_5dtj4z,Anyone knows if these can be used in Darktable somehow?,FOSSPhotography,da7bzqj,1,t5_2v3xi
+11345813,0,t1_dfi0kds,Remind Me is casesensitive. Try RemindMe.,FOSSPhotography,dfi10gn,3,t5_2v3xi

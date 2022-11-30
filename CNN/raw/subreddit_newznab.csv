@@ -1,0 +1,2 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+583773,0,t1_cg6b2e9,I found the problem by enabling logging in the screen session ctrl  a  HTurns out it was a memory issue but I am still at a loss as to why this would happen after working perfectly for months. In the end I just increased the memory limit in php.ini testing still but so far so good.,newznab,cg6mnyx,1,t5_2vrdw

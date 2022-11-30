@@ -1,0 +1,11 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+155675,0,t1_cew18vd,deleted,nodejs,cew5vhh,2,t5_2rqjo
+231489,0,t3_1wdljl,Strange suggestion to use mono.js. Its website only shows two screenshots it doesnt appear to have any documentation its written in CoffeeScript and claims to be a Ruby on Rails clone. Plus its name is a bit overloadedEDIT Doh OP is also maintainer of mono. I guess this is a thinly veiled promotion for OPs framework?,nodejs,cf4qpyc,1,t5_2rqjo
+301570,0,t3_1xj4zm,This and the asciiwebify camera  made my day P,nodejs,cfc0v2x,1,t5_2rqjo
+754532,0,t1_cgpzu4t,deleted,nodejs,cgq1p94,1,t5_2rqjo
+1201861,0,t1_ci4g68r,Personally Ive gotten away with just following NPM and the official NodeJS accounts and then looking for the suggestions.,nodejs,ci4tsxe,2,t5_2rqjo
+1203468,0,t1_ci4z1cm,I ran the install when I started working on it a few days ago. When I run it now in my project root I get this from bashnpm intallThanks I will start looking into sails right away.,nodejs,ci50b6d,1,t5_2rqjo
+1275400,0,t1_cid2puy,Yes why not? Use denodify,nodejs,cid3lww,1,t5_2rqjo
+1297935,0,t1_ci958cv,Yeah thanks  for some reason didnt catch that in the many tutorials i went through.,nodejs,cifmups,1,t5_2rqjo
+1369699,0,t1_cinit79,deleted,nodejs,cinzajq,2,t5_2rqjo
+1459442,0,t1_ciz769g,Can req be undefined if its a parameter? I didnt think that was possible. Besides it didnt have a problem when User.create was called and it uses the req object.,nodejs,ciz7slv,1,t5_2rqjo

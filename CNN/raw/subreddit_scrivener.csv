@@ -1,0 +1,3 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+5598940,0,t3_3r3904,use version control software idiot,scrivener,cwr3ode,-1,t5_2uxm4
+10135346,0,t1_dbs7ywx,Hmm...googling kindlegen error invalid start byte gets a bunch of pages from . searching recent results gets nothing...looks like its either the EPUB or a special character.At the risk of running around in circles try compiling as HTML then running that through kindle gen. If  that works then we know its something in your EPUB settings... if it doesnt work we still dont know if its Scrivener or the file.If the EPUB looks good you could submit the book to amazon as an EPUB and hope their conversion works.All I can tell you is it should be working.,scrivener,dbsn1ls,1,t5_2uxm4

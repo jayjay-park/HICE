@@ -1,0 +1,2 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+4857040,0,t3_3hdyzs,It sounds like you both are sold on a feed server. Im partial to the query server model myself.  Specifically so that we can revert changes. What I have in mind is that we make the client with our address being the default annotation server. As others adopt the technology they can add other annotation sites which merge seamlessly with the existing UI.That way users can get whatever kind of overlay they want AND we can provide some degree of curating.,wizardglass,cu6rlvb,1,t5_39lkf

@@ -1,0 +1,12 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+2260709,0,t3_2l2evr,deleted,keys,clr5759,1,t5_2qxvk
+2354171,0,t3_2m9fg7,Actually I think its a very clever idea  would love to know how playable it actually is. ,keys,cm2opxl,1,t5_2qxvk
+4711901,0,t3_3fgqbn,Yes just use the line in works fine. You might have to mess with the EQ a little bit though.,keys,ctoh2fn,5,t5_2qxvk
+5792080,0,t1_cxf102m,Youve sold me on that one. Thanks. Cant wait for payday.,keys,cxf295m,1,t5_2qxvk
+6474055,0,t1_cz26nlt,someone on a separate post wrote this to me do you believe it? does it concern you?I know an electronics repairman that services a lot of keyboards from Hammonds Rhodes to Korgs etc and he says the Krome is not built to be serviced and if it breaks its basically a throwaway. This is a trend being seen in a lot of MI electronics now propietary parts from Just In Time manufacture with no OEM support. Make sure you knwo what you are getting into. Good luck!,keys,czoyos1,1,t5_2qxvk
+6519163,0,t1_czt9we3,Okay thanks.,keys,cztms16,1,t5_2qxvk
+6873962,0,t3_47qhts,The nice thing about the PSR E is that it has a USB out so it can be used for controlling some midi soft synths.  Its not a full on midi controller...but its a start.  On that note however you might consider just buying a decent midi controller if you have a computer.  Are you Mac or PC?  Or iPad for that matter?,keys,d0vh5tv,1,t5_2qxvk
+7708311,0,t3_4kucq5,Ive never used Sonar but the process should be pretty similar for prett much any DAW. A program change message is what you need.Create a software or midi or vst track whatever its called in Sonar with its MIDI output routed to your keyboard preferably on the specific channel that your keyboard is set to receive MIDI messages on if you have multiple pieces of kit that are chained via MIDI thru.Bring the songs playhead to the point in the song where you want to make the change.Insert menu | BankPatch ChangeYoull have to refer to your keyboards MIDI guide to see how to program the channel that it receives MIDI messages on as well as in what way it responds to program change messages. What keyboard are you using?,keys,d3idtan,1,t5_2qxvk
+8867069,0,t1_d76mgbz,Damn right.,keys,d7dp452,1,t5_2qxvk
+9705331,0,t3_5dzys6,What kind of music? If its rockjazz then check out the Korg Kronos,keys,da9e20b,1,t5_2qxvk
+10279483,0,t1_dc8qs2h,This. Keyboard personalization has been through its rounds.,keys,dc98htm,1,t5_2qxvk

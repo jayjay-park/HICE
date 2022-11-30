@@ -1,0 +1,4 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+4484216,0,t1_csvq940,QML widgets or traditional widgets?,Qt5,csvwfht,1,t5_2vw5x
+6079292,0,t1_cyez43v,Event processing is fine. Initialize application event loop in GLFW and feed events to QQuickWindow object manually.,Qt5,cygh8is,1,t5_2vw5x
+11734872,0,t3_67ffsn,directly draw it onto the widgetscreen with QPainter.,Qt5,dgq6eg2,1,t5_2vw5x

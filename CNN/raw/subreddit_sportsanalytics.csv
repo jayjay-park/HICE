@@ -1,0 +1,3 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+8984586,0,t3_534fwh,There are a couple of fundamental questions  What can you measure what can you change and what is the desired outcome?,sportsanalytics,d7rt57v,1,t5_2sb27
+9725040,0,t3_5e9x10,Something that could be useful to incorporate into your model is based around the idea of whether or not the given play is a success or not. A simple way to consider the play to be a success or not is whether or not the total yards gained is greater than yards to first downplays until turnover on downs. Ex on st and  you would ideally get more than . yards. I think this concept has an official name and was thought up of a while ago but I forget where its from. ,sportsanalytics,dabtom6,1,t5_2sb27

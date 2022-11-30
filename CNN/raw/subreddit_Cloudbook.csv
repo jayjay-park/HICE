@@ -1,0 +1,2 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+6609888,0,t1_d028hmx,Sounds like a palm detection issue. Create this file etcXxorg.conf.dsynaptics.conf  Here is my setup for the trackpad If you run the command xinput watchprops SynPS Synaptics TouchPadIt will list available options for this trackpad.,Cloudbook,d030o2p,1,t5_39gqf

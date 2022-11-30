@@ -1,0 +1,3 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+1620634,0,t1_cjjdjta,I see you added a category on NSString. I agree it makes a lot of sense since isAlphabetic operates on a string object but I was watching the online Stanford Developing for iOS courses and they cautioned us against using categories. Any thoughts on when it is appropriate to use a category vs. subclass?,iOSChallenges,cjjg324,2,t5_32wpf
+1635206,0,t3_2ct0pg,Took me  hour  minutes flat to do this. Ill try to upload it later today its  am where I am right now. Awesome challenge specially trying to make the code clear to understand. Keep em coming please and Ill try and come up with some of my own too.,iOSChallenges,cjla6t2,2,t5_32wpf

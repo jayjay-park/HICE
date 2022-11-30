@@ -1,0 +1,4 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+1296151,0,t1_cifb87h,Yes an illegal broadcast would be a wise guess based on the fact that the person who recorded the transmission in question also has a great many sound recordings of pirate radio stations.,signalidentification,ciffmmd,2,t5_310zc
+6624818,0,t1_d04doqp,Of course this is not a problem at all. The last samples I have sent to you were in baseband mode and they are too big. I think it could be better send audiobaseband since only .kHz of bandwidth is enough for you.Can you write down the command of DSDPlus for loading and decoding .wav files?How much time do you want for each file? Which size do you prefer?BTW I am using now better antenna so I have now better signal quality.,signalidentification,d04kacv,1,t5_310zc
+7628096,0,t1_d33tov7,The harmonic is at  this is GSM.,signalidentification,d399uss,2,t5_310zc

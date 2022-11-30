@@ -1,0 +1,33 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+141558,0,t1_ceujlfu,I always carry pocket sand. MAGNETIZED pocket sand...,blackhat,ceujxrl,1,t5_2qt2m
+474411,0,t1_cftot89,Hey Thanks for asking.I designed stackflow to help speed up locating testing and exploiting remote EIP overwrite buffer overflows.This tool should be able to exploit most remote EIP overwrite exploits. There is a very good Readme file with plenty of examples but the general idea is to have something that can. Communicate with a server send commands receive reply. Fuzz with cyclic pattern.. Calcualte offset from EIP string after fuzzing crash.. Test using calc.exe shellcode.. Generate and exploit using metasploit shellcode.. Export the exploits in a form that can be used in metasploit. rc filesYou should be able to go from fuzzing crash to meterpreter within  minute on any remote EIP overwrite vulnerable software.So to answer your question yes you can find BO with this tool but the key feature of this tool is the ease and speed of exploitation and the integration into metasploit.,blackhat,cfu6yrc,4,t5_2qt2m
+673493,0,t1_cggm1tw,deleted,blackhat,cggtr0w,1,t5_2qt2m
+675115,0,t1_cgh05ak,Im not really interested in selling the list. Since I have their interests I should be able to market different products to different segments based on their gender interests location etc.Or im way off here.,blackhat,cgh0eg1,0,t5_2qt2m
+765999,0,t1_cgr3vyq,I think its actually the payload called permutation. But I dont know how to use it properly yet with how I want to use it.I found files in the wordlists directory where there is REGEX I assumed it may be available to add a REGEX to a file and use it as a payload. But i dont know if this is correct.,blackhat,cgrcl7p,1,t5_2qt2m
+799471,0,t3_23adp2,Id imagine an HID scripted device could handle this. Similar tois? the USB Rubberducky.,blackhat,cgv5i8e,1,t5_2qt2m
+1046725,0,t1_chlfe7e,deleted,blackhat,chn9mx3,1,t5_2qt2m
+1081996,0,t1_chr8neq,From the Pineapple Bar you can run custom code written in any of five different scripting languages including Python. There are also prebuilt Infusions which are either back end or front end code to add new feature or make the UI easier respectively. Theres an approval process for the officially recognized Infusions.Technically you could do most of the Pineapple commands using software and a WiFi adapter. Ive been meaning to test out setting up a soft AP named attwifi and seeing what devices connect to it. Or going to a place with an open WiFi connection and seeing if I cant broadcast my soft AP over that.Hak had a  minute episode covering the features of the Pineapple Mark . Ive been learning about WiFi encryption so this is just the next natural step in my education.,blackhat,chr9xmn,1,t5_2qt2m
+1270644,0,t3_28n5sa,Need more details than that buddy. Sniff what? On what mobile platform? ,blackhat,cickbtc,1,t5_2qt2m
+2883464,0,t1_cnvtbfj,Well at least you can start verifying somewhere.. ,blackhat,cnvup3s,2,t5_2qt2m
+3344372,0,t3_2y3uqg,,blackhat,cp9heky,1,t5_2qt2m
+5108716,0,t3_3kvst9,Thank you Id like to see a Windows and Android version of this book.,blackhat,cv1sijg,1,t5_2qt2m
+5413936,0,t3_3p5vyh,Gtfo,blackhat,cw3ots2,4,t5_2qt2m
+5750570,0,t1_cwn03hb,deleted,blackhat,cx9wwmh,1,t5_2qt2m
+6355986,0,t3_42o0z5,gt Wellrespected organizations have determined that the leading cause of nearly  of data breaches are compromised user identities. gt They should include citations...,blackhat,czc3tgn,7,t5_2qt2m
+6674782,0,t1_czytoye,It has been handled the users account was deleted and as far as Im concerned that means the post should as well.,blackhat,d09qaus,1,t5_2qt2m
+6944602,0,t1_d1321tz,Please do so Ive got some teachers that would go wild when they see this work p Would also give me a lot more insight on scripting on pis since Im bad in my Cpython class.,blackhat,d13i1bx,1,t5_2qt2m
+7600751,0,t1_d362poc,Fantastic reply. Thanks,blackhat,d3660pp,3,t5_2qt2m
+7694888,0,t3_4k8gqz,removed,blackhat,d3guxmy,1,t5_2qt2m
+8529449,0,t3_4wkqns,deleted,blackhat,d67qtpt,1,t5_2qt2m
+8575265,0,t3_4x8rh3,This is why you should use rooted Android devices. Fuck locked bootloaders.Vote with your wallet.,blackhat,d6dhood,-35,t5_2qt2m
+8734705,0,t1_d6ki4pk,Its a reference to the show Mr. Robot,blackhat,d6xhh11,2,t5_2qt2m
+10448402,0,t3_5lrrit,removed,blackhat,dcsf2i9,1,t5_2qt2m
+10513047,0,t1_dczbmdx,But the hardware not connected to the Internet also be reached albeit in slightly more time.,blackhat,dczrkzn,1,t5_2qt2m
+10522134,0,t1_dd0jref,While Id agree its mostly because the private sector is not able to conduct offensive operations for the most part.  ,blackhat,dd0spzo,6,t5_2qt2m
+10627139,0,t3_5rxxx6,removed,blackhat,ddc3wp1,1,t5_2qt2m
+10648313,0,t1_dddcq9i,It is possible but as someone whos been through that course no matter what you will get stuck somewhere and it can be frustrating. Never give up and always try harder. ,blackhat,ddeai1a,2,t5_2qt2m
+10855604,0,t1_ddz9nue,I think chicks are gonna be impressed when they see my list of a thousand or so infected hosts that are at my command.,blackhat,ddzog3w,1,t5_2qt2m
+11283317,0,t3_6105tf,,blackhat,dfay3y8,1,t5_2qt2m
+11326011,0,t1_df7tan0,security through obscurity ,blackhat,dffs967,2,t5_2qt2m
+11359332,0,t1_dfj6jl3,removed,blackhat,dfjk5gv,1,t5_2qt2m
+11513095,0,t3_64c5t6,I understand you guys are busy...but just try and be objective about this please.,blackhat,dg10epy,-9,t5_2qt2m

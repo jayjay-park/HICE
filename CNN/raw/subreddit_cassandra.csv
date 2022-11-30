@@ -1,0 +1,7 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+4043331,0,t1_crh1i6q,Thanks!Ended up withConnection error Unable to connect to any servers ... error Tried connecting to ... . Last error Connection refusedBut after a while it works. I guess I had to wait for a bit.,cassandra,crh65s1,1,t5_2r9dx
+4177937,0,t3_387803,Its still in beta but I think . has some support for json,cassandra,crwhn0a,1,t5_2r9dx
+5018109,0,t3_3jlch2,What are you going to do with the data?  Are you just looking for a storage place?  Or do you need to query against individual fields in the data?,cassandra,cuqvfsn,1,t5_2r9dx
+5832955,0,t1_cxjq2k8,Clients are connecting to the cluster using Datastax Javadriver. About tokens in our setup we use MurmurPartitioner and we are using vnodes thus tokens were generated automatically. Could you please guide me on how could i check token distribution? ,cassandra,cxk86xu,1,t5_2r9dx
+6076503,0,t1_cyfrbha,Check your listenaddress on the second machine.,cassandra,cyg44sw,1,t5_2r9dx
+8559224,0,t3_4x022a,The error indicates a failure to make the initial connection  are you sure ... is listening on  on the proper IP and the relevant firewalls are configured properly? ,cassandra,d6bha5q,2,t5_2r9dx

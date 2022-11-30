@@ -1,0 +1,2 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+5729779,0,t3_3s95bf,Dont know if youve found a solution yet post is now  days old... but happy to help if you still need it Ill check back.Yes one of the rows or columns in the keyboard switch matrix is not being scanned or read properly. Your DC voltage suggests a scan as opposed to a read line. There are also some diodes involved but theyre probably ok. Likely a continuity issue through the ribbon cable and back to the keyboard scan IC.,MusicElectronics,cx7c2al,1,t5_2vthl

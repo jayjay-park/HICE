@@ -1,0 +1,2 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+1356917,0,t1_cimd5bq,Thanks for the reply! I dont mean to be annoying but could you explain more about the front and back end separation? If the kernel Id dumping a massive number of writes to a slow disk what happens when I the user run my bash script that involves a lot of disk IO? Will my writes be queued until the kernel is done? Or will it slip my writes between the kernels? ,filesystems,cimdotd,2,t5_2tdxo

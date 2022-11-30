@@ -1,0 +1,83 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+79322,0,t1_ceng4at,I like the group of functions near the end which are identical except for the index into the array.,badcode,cengjt1,5,t5_2u568
+86741,0,t1_ceno3cq,Honest question Is maths a singular noun so its lots of it instead of lots of them? ,badcode,ceoaz19,1,t5_2u568
+207875,0,t1_cf22djp,gt Pretty sure variablize is not a wordTo be fair on that one as long as he and MAYBE others understands what it means it doesnt matter. And he put it in quotesacknowledgement its not a real word.,badcode,cf24c8n,5,t5_2u568
+327082,0,t1_cfeo68q,Databases did not become involved.Insert is an operation on a hashtabledictionaryassociative array. Your language may call it put.,badcode,cfeo88g,2,t5_2u568
+411375,0,t1_cfnbxtd,Youre being sarcastic but you could easily turn    if x        stuff    else        errorinto    if !x        error        return    stuffDeeply nesting the code makes things harder to read even when the logic is inherently nested.,badcode,cfnelgb,8,t5_2u568
+552811,0,t1_cfuv9ka,gt Python happens to lack a nested loop break statement. A simple goto would be handier and much more readable than guard booleans when breaking out of nested loops of some complexity.Pretty much anything is better than guard booleans. Rather than using a hack use the constructs that are available and commonly used. Namely break and raise. Often higherorder constructs solve the problem in an even nicer way.Its not rampant OCD not to want to use a poor unsafe way of handling line jumps much as it isnt OCD not to want to use raw pointers. Sure they have their place. Their place however is not in Python.If you disagree show me an example where goto would beat the currentlyavailable options.,badcode,cg340o0,2,t5_2u568
+875525,0,t3_2454eo,My bigger concern is the amount of duplicated code. Why do you need  separate methods to sum over yesterday today and tomorrow? You should write one method and let the date be a parameter.,badcode,ch3sunc,10,t5_2u568
+1249552,0,t1_cia3pux,It is indeed OOish. Sort of.,badcode,cia6uph,7,t5_2u568
+1254192,0,t1_ciampm0,How do you get from  to ?,badcode,ciapmss,-1,t5_2u568
+1318064,0,t3_295ime,If you want to do this too Eclipse can help you,badcode,cihwdlt,4,t5_2u568
+1965905,0,t1_ckq0z3q,Judging by the comment I think what he really wanted was    def checkMatcha b        return a  b,badcode,ckq3clo,12,t5_2u568
+2195893,0,t1_clix9sk,rsoftwaregore is probably the most topical,badcode,cliya3b,1,t5_2u568
+2266358,0,t1_clrtr6b,Ah. I knew that seemed off but I expected the problem to be logicbased.,badcode,clrub8f,2,t5_2u568
+2353723,0,t1_cm2lbdw,Yeah but why would you want to do that?  Its just spending extra time to recompress the original photo which isnt a light task just to try to meet an arbitrary size which theres no guarantee it will ever meet.,badcode,cm2mq7q,1,t5_2u568
+2446137,0,t1_cmdkbuh,O if you have a quantum processor.,badcode,cme1p89,10,t5_2u568
+2814220,0,t3_2qlz3a,Does it generate them at other times or just am? Im not up till  and I dont want to miss it.,badcode,cnnywd2,3,t5_2u568
+3080861,0,t1_coc6zzu,Ive written snippets like that in production code.I am not very proud of myself.,badcode,cohbv40,1,t5_2u568
+3102577,0,t3_2voqll,link ,badcode,cojkx7j,5,t5_2u568
+3157297,0,t3_2wb9mi,deleted,badcode,cop92e8,1,t5_2u568
+3204323,0,t1_cou404h,The godawful variable naming convention.,badcode,cou4lhb,20,t5_2u568
+3212444,0,t1_cotjsb5,Yeah you dont want this procedure to get bloated.,badcode,couyy0f,2,t5_2u568
+3257096,0,t1_coz0mmr,I once wrote original code that no one had ever written before.It didnt work of course but I just wanted to point out that it is possible.,badcode,cozlxuv,2,t5_2u568
+3550877,0,t1_cpx0c65,Well if youre allowed to just hardcode the value why not x y? Thats a terrible question.,badcode,cpx0ud4,36,t5_2u568
+3837558,0,t1_cqt6sq2,That sounds like python talk! ,badcode,cqtpqpv,1,t5_2u568
+3851407,0,t1_cqutvvx,Were you disappointed? ,badcode,cqvankn,2,t5_2u568
+3914874,0,t1_cr18dcz,So much truth,badcode,cr2j4jd,2,t5_2u568
+4112486,0,t3_37qa28,Wow theres so many good things herestrString is an awesome variable name.    intPad  intPad.toString  needed for if statementBoy howdy is it!    strString  strStringI love that this is somehow in there twice.Also it just flatout gives up on anything over . Code like this is astounding to me because it almost seems too difficult for a beginner to come up with.,badcode,crp1rq9,26,t5_2u568
+4281342,0,t1_cs7geb2,This is precisely why I dont like Ruby. Its a language thought for developing and not for maintaining. Code is written once and readmaintained several times throughout its lifetime. It doesnt make much sense for me to turn the priorities and advantages of readability so the developer can feel smart at the expense of readability and maintainability and in this case even performance.,badcode,cs885g3,1,t5_2u568
+4317926,0,t1_csbn9mn,Thank you this is the stuff I wish I knew about C. Id never seen strtol either so I have something new to look at.,badcode,csccwne,1,t5_2u568
+4388977,0,t1_crri3d7,Would it build?,badcode,cskdh50,1,t5_2u568
+5002573,0,t1_cuoy48k,Callbacks in this context are related to multithreading. In OPs context the callback gets executed when the network call completes. ,badcode,cuozxnp,2,t5_2u568
+5010097,0,t1_cupeyvj,I dont know about making code hard to read. It does add a bit of a layer of misdirection but nothing that bad. Ive found the pattern exceptionally useful in game development.,badcode,cupwmx1,1,t5_2u568
+5074931,0,t3_3kgs6z,Who in the hell uses ltgt?! ,badcode,cuxpynv,3,t5_2u568
+5095062,0,t1_cuy0zdy,LISP || hes ignorant about PEMDAS || ignorant about everything,badcode,cv0597z,1,t5_2u568
+5135012,0,t1_cv4sfog,I wouldnt quite say its cargo cult programming. When youre using them as a single statement j and j are equivalent so theres so disadvantage to using the latter. Conceptually it matches up better too j then increment j vs j incremented.Calling it premature optimisation is a bit disingenuous though  if the two are essentially equivalent why not use the potentially more efficient one first?,badcode,cv4yl5k,2,t5_2u568
+5152208,0,t1_cv6lr2a,    if count        return true     else if count !       return false    FTFY,badcode,cv7185o,13,t5_2u568
+5194676,0,t1_cvc4v7d,Ship that on over to rshittyprogramming that stuff is a golden standard we all need to work toward,badcode,cvc5hzs,9,t5_2u568
+5411880,0,t1_cw3dljf,this is the production version. they dont seem to understand minification. ,badcode,cw3fdzm,1,t5_2u568
+5765150,0,t3_3u47o5,The site,badcode,cxbpxhy,2,t5_2u568
+5816440,0,t3_3uso5k,This looks like code generated by a tool. If human still applies.,badcode,cxi30x3,4,t5_2u568
+5871398,0,t3_3vl2j7,Well then...I guess that qualifies me for senior developer! not really,badcode,cxp9sum,1,t5_2u568
+5986687,0,t1_cy48auo,DS and APP are constants defined by cakePHP. They just define the root of the application file structure. But its a super old version .. ,badcode,cy4dwgl,1,t5_2u568
+7090985,0,t3_4comkz,What mainly strikes me is this line    hookt adr  hooktampglobalhookst  hooktypeFirst its incorrect ampglobalhookst has type globalhookss so hooktype is in units of sizeofglobalhookss not sizeofhookt which I assume is intended. The correct form would be    hookt adr  hookt ampglobalhookst  hooktypeEDIT Actually no itd be    hookt adr  hookt ampglobalhookst  hooktypeOr something like that. I hope Im interpreting this right. And the intended unit of pointer arithmetic is probably sizeofhookt.Second why not just define globalhookst as an array of hookt and have an enum of hook types? This would remove the need for weird casts theoretically possible padding in the struct and the magic number over in tmain    ADDHOOKampcallOnHudInit ,badcode,d1k4rhc,9,t5_2u568
+7492014,0,t1_d2tnb8e,First of all he used it once. That is more than never.It is often cleaner to create a variable that you use only once as a function argument. This is example code of this pattern I couldnt think of any real example so the names are just placeholders.    a  someLongFunctionNameanotherVariable    b  otherLongFunctionNamefoo baz    s  a bit too long string containing a lot of characters    result  finalFunctiona b sNow how would would the same code look if we didnt have variables a b and s    result  finalFunctionsomeLongFunctionNameanotherVariable                       anotherLongFunctionNamefoo baz                       a bit too long string containing a lot of charactersThe first code example looks much cleaner to me. If the author used that pattern everywhere in the code then it is correct to use it even in those simple cases for sake of consistency.,badcode,d2tsuzu,4,t5_2u568
+7622010,0,t1_d38jjn9,tmp ampamp rsync recursive  usermyHomeAddresshomerubdosbrokenserverscoolstuffsounds more fun to me.,badcode,d38kz9u,31,t5_2u568
+7676540,0,t1_d3dmtox,how about widthMath.minwidth,badcode,d3erzo8,2,t5_2u568
+7678559,0,t3_4kgq69,This makes me uncomfortable how did you think it was okay to share this stuff about peoples members here?,badcode,d3f08sq,5,t5_2u568
+7687325,0,t1_d3exp34,how does that seem maintanable? thats bassicaly a big chunk of code where you just comment trust me this checks for the winner and anyone else will just have to accept it.,badcode,d3g019p,1,t5_2u568
+7713108,0,t1_d3ibvzc,But in JavaScript those b strings are identical whereas in Java you actually have two different string objects. Its just a nuance but an important one if the objects youre storing are more complex than strings and possibly have custom equals methods.,badcode,d3ixetk,2,t5_2u568
+7787153,0,t3_4l8eck,removed,badcode,d3rbz4h,1,t5_2u568
+7964255,0,t3_4l7xnt,removed,badcode,d4b9b2v,1,t5_2u568
+8217584,0,t1_d54pjbm,yunderstand that thats SQL right? But whattaya expect from someone who so blindly dismisses a language other than the inability to tell the problem area is a different langaugue ,badcode,d54r4v8,16,t5_2u568
+8518389,0,t1_d64id3q,Yes back is a Laravel function.,badcode,d66cxv9,1,t5_2u568
+8545178,0,t1_d69oq2f,According to jscoffee this is the exact expansion    var ref      ref  vm.data ! null ? ref.selectedAmount  void  || Always a good sign when you need to run your code through a tool to tell what its doing.,badcode,d69puv3,10,t5_2u568
+8625063,0,t1_d6jl0d8,Since I recently switched to C from VB but most of my stronglytyped language experience was with Java I had to go and look up naming conventions for C and Ive been doing it mostly right except I have been doing camelCase for Methods and Properties since Java uses camelCase for Methods. I had seen several examples where camelCase was used for both as well as several which used PascalCase for them. Now I know to do PascalCase for everything except parameters in C.EDIT Fixed link.Thanks for pointing that out!,badcode,d6jqhhp,3,t5_2u568
+8710337,0,t1_d6uek3g,Check if the number is even then check only odd numbers starting at  cut the number of comparisons in half.Also make a note of the square root that way its not recalculated on every loop.,badcode,d6uffe7,11,t5_2u568
+8887412,0,t1_d6ltjv9,Yeah thats what rcodereview is for,badcode,d7g53jb,2,t5_2u568
+9000754,0,t1_d7tgz73,The identifiers here are typenames too though.,badcode,d7tr1t2,1,t5_2u568
+9060603,0,t1_d80t0hn,I use Atom as my primary code editor but having too many addons even popular ones can make it crash a lot. I think its awesome how desktop applications are starting to use HTML and CSS for their front end. Hopefully that trend will make it easier to program applications on more devices easier. ,badcode,d80xt3h,1,t5_2u568
+9072826,0,t1_d81zf2i,This was made before I had gotten any programming lessons,badcode,d82en83,7,t5_2u568
+9110157,0,t1_d86sy4g,The font Fira Code changes the arrows not the editor,badcode,d86w6hm,5,t5_2u568
+9208790,0,t1_d8j8zfd,The only time being wasted to format code like that is the few seconds it takes to set up something like clangformat. Granted your coworker should be formatting his code to match the rest of everyone elses.,badcode,d8ja6rh,9,t5_2u568
+9217289,0,t1_d8kcvdv, Nothing is closed properly There are  doctype tags There is no stylesheet No title No button to send the form Inputs have  type attributes one of which makes no senseAnd thats for the first image only,badcode,d8kcy2o,4,t5_2u568
+9242300,0,t3_56x4tz,return accounttype  credits would work great for this specific instance. It could have been programmed by a very beginner programmer. However another very likely scenario is that there were previously multiple checks here or more logic was being done there based on the result instead of wherever its being returned to. I know Ive left some code like that when I rearranged and refactored my code.,badcode,d8nj1i7,6,t5_2u568
+9264738,0,t1_d8pp9jn,Threads are not interleaved the way you are thinking of. Instead depending on the OS and the compilers thread scheduling implementation each thread will usually get a quantum a set amount of time to run and threads will run until they reach their quantum they finish their work or the process what the threads run inside. You can think of a process as a company and threads are the employees is swapped out due to a context switch so that another process can run. So it will never be a perfect one thread adds one then the other thread decrements one going back and forth. Instead due to the nature of the system and how expensive context switches between different threads and different processes can be we get what we saw here where one thread does a lot of work until it is forced to stop and let the other thread do its work.,badcode,d8qddtl,0,t5_2u568
+9276417,0,t3_57f05n,Theres really no need to access the charsetName variable dynamically ,badcode,d8ruoue,1,t5_2u568
+9276714,0,t3_57f05n,Am I the only one who is annoyed by the fact that they abbreviated make but not password or complex?,badcode,d8rw1nv,1,t5_2u568
+9279940,0,t1_d8rp4ym,This vid elaborates on the horse battery staple thingIn essence the weakness of that horse battery staple password has to do with how common those words are. If you choose relatively uncommon words or made up words then it is a very strong way to choose a password. ,badcode,d8sas4g,3,t5_2u568
+9321019,0,t3_57yszm,Please lord may I never be tasked with working in a codebase where BusinessException is a legitimate class name.,badcode,d8xiabh,4,t5_2u568
+9329061,0,t3_57g5nm,As my prof said Never mix markup with styling. Never mix markup with logic. Each technologie has its own use  so keep them independant.,badcode,d8yiywi,2,t5_2u568
+9351524,0,t1_d912ff4,deleted,badcode,d91dg5v,1,t5_2u568
+9352579,0,t1_d91c9cv,More like hes muscling in on uduhhhs territory and hes been silent for years so I figure umojoridin should be safe.,badcode,d91i95s,3,t5_2u568
+9582944,0,t1_d9u79rv,Nothing against Java but JavaFX is horribly slow and feels clunky. Better go with Swing than JavaFX. ,badcode,d9uakk0,3,t5_2u568
+9596905,0,t1_d9vwe2d,Requests will continue until morale improves.,badcode,d9w0jcs,3,t5_2u568
+9616284,0,t1_d9jktpo,me irl,badcode,d9yekzx,1,t5_2u568
+9977602,0,t1_db7jtki,i think its a just in case kind of thing we have a lot of those in the code base. But even then just make it a comment god damn!,badcode,db83yb3,1,t5_2u568
+10035378,0,t1_dbfluhm,If each side is length n then yeah.,badcode,dbfmx0d,10,t5_2u568
+11097026,0,t1_deptyk3,In a shell script Id use PAGE,badcode,depu6pw,7,t5_2u568
+11163327,0,t3_5yoiwd,Aww the developer could have sucked the !avoidCheckxyinCheckXinCheckY condition into the huge one to raise the line length even further. Missed opportunity.,badcode,dexcnok,5,t5_2u568
+11388271,0,t3_62gb7u,We put detailed rev comments with Redmine ticket numbers at the top of all our files.  But then we also have really specific tracability requirements contract work,badcode,dfmub3n,1,t5_2u568
+11589186,0,t1_dg9m5zw,Thats just no fun though D,badcode,dg9n43f,3,t5_2u568
+11743265,0,t3_67ievl,Thats okay actually its not the codes purpose to encode the Email address duh but to prevent spam bots. While if someone truly wanted to create a spambot today he would easily be able to circumvent that I imagine most spambots out there still not being as advanced. Its easier and faster to scrap html pages for Emails anyways so why would a spambot want to evaluate javascript if it can get many more Emails quicker and cheaper by just using only html? Also have a look at  ways to obfuscate email addresses compared which may be a bit outdated or this StackOverflow thread,badcode,dgr4nh3,9,t5_2u568

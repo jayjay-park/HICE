@@ -1,0 +1,6 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+6317331,0,t3_3vg7p6,Hihave you by any chance found a way to fix this problem ?I have seen your multiple posts on stackoverflow Apple help center and now reddit. I have the exact same error and I cant find what is wrong.,Xcode,cz7pkj1,1,t5_2r2p1
+6608370,0,t1_d02uc01,the file is named project,Xcode,d02v0ry,1,t5_2r2p1
+6608418,0,t1_d02v0ry,Right but did you import this file to be able to use it? below include ltiostreamgt try adding include project.hAlternatively just add your method below the closing parenthesis in the same file so you dont have to import anything. ,Xcode,d02v77p,1,t5_2r2p1
+6942583,0,t3_4asxai,Unfortunately I dont believe you can. You can always hide the Debug window by clicking the icon in the top right hereYou can also resize the Utilities and Navigation pane to be a bit smaller so they are not taking up so much room.,Xcode,d139s11,2,t5_2r2p1
+8484907,0,t3_4rphv0,deleted,Xcode,d625qw4,1,t5_2r2p1

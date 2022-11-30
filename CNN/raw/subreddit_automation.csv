@@ -1,0 +1,4 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+1041251,0,t3_25yhma,My life.,automation,chmn7uq,6,t5_2qrbn
+3333970,0,t1_cp7tuft,Over in rplc someone suggested this...Liquid Level Switch liquiphant M FTL Httpwww.geolink.rupdfehftl.pdfThis is kind of along the lines of what were looking for. Thanks for taking the time to look though!,automation,cp8arbb,1,t5_2qrbn
+7246804,0,t3_4bn5m2,dont know exactly what you need taken from the plc but take a look at sqlautomation connector. uses an ethernet computer to pass through to SQL database. you can sendreceive data directly from PLC commands. There are many HMIs out now that have database connectivity if you want to go that route too.,automation,d21wrt9,1,t5_2qrbn

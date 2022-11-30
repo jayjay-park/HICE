@@ -1,0 +1,3 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+6495891,0,t3_44iyfg,Actually Steven Universe referenced the DogNut.,lakewoodplazaturbo,czr81il,1,t5_2xbyi
+6841624,0,t1_d0rsssb,Thanks! I worked hard on Lapis Mirror. Planning on a revamp soon. Im using Heroku right now. Ive already got it configured and am comfortable with git so pushing to Heroku isnt very hard. The disadvantage is I havent figured out consistent storage yet so Lapiss state resets every time it restarts meaning it cant keep anything like a ban list right now.,lakewoodplazaturbo,d0rsxgv,2,t5_2xbyi

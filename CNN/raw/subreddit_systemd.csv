@@ -1,0 +1,5 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+4998326,0,t1_cunaqqw,what you provided doesnt help me for the tricky ip route add default dev venet line ...,systemd,cuohh64,1,t5_2uhlw
+10358369,0,t3_5oa1h7,Not sure theres a public API for retrieving this information at the moment. You can get it with the sdnetworkget family of functions in libsystemd but the header that declares them isnt installed so maybe they are not considered ready for public use? That said retrieving the information by calling those functions is probably better than parsing the file yourself.,systemd,dci6jy8,1,t5_2uhlw
+11067616,0,t3_5y1q5m,Are fsck and plymouth service needed?,systemd,demi5ax,1,t5_2uhlw
+11478128,0,t1_dfw8mc7,Ah I see. I think CentOS  is based on the v release of systemd and that does predate sdbus. Perhaps you can meld the example from Lennarts post with the DBus client you can link to?,systemd,dfx1iu8,1,t5_2uhlw

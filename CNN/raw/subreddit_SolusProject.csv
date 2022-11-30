@@ -1,0 +1,30 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+5856999,0,t1_cxna7vw,no worries hope it works.,SolusProject,cxndq3w,1,t5_37o2f
+6118844,0,t1_cykic5l,Tried the stable release. It detected the connection but it wont connect. ,SolusProject,cyl5doq,1,t5_37o2f
+6765940,0,t1_d0j6gpi,Dont do this as root it needs to be done for your user account i.e. logged in as that user. ,SolusProject,d0j767h,2,t5_37o2f
+6793315,0,t1_d0mazrq,Its good kinda like a different rust with some modern stuff and odd controls. It takes some getting used to but is stunningly beautiful. Can tell its still in development though.,SolusProject,d0mb8b8,1,t5_37o2f
+6795744,0,t3_48u748,Not quite yet but a user Luke Jones is testing his build of it ,SolusProject,d0ml6m5,2,t5_37o2f
+7052068,0,t1_d1f5n86,Thanks!,SolusProject,d1fpl48,1,t5_37o2f
+7666531,0,t3_4kb1yo,It seems we have it enabled but its not working correctly. It can be run from the terminal using qpaeq but the packaging is missing a runtime dependency on pythonqt and then still has an error There was an error connecting to pulseaudio please make sure you have the pulseaudio dbus module loaded exiting... uufeedead can hopefully fix this one up for us.,SolusProject,d3dn2rn,2,t5_37o2f
+8826773,0,t3_50q8e6,Any help is appreciated,SolusProject,d78utkf,1,t5_37o2f
+8972661,0,t3_535s8d,Would you be able to provide the following details Screenshot? use can use the screenshot application in Solus P Have you installed all available updates? Laptop model andor specs?This information should go a long way to helping you out. ,SolusProject,d7qdmck,1,t5_37o2f
+9132474,0,t1_d89lj48,Cool. Glad you were able to work it out.,SolusProject,d89lush,2,t5_37o2f
+9181389,0,t3_560gep,You mean in Budgie the panel is at the bottom? If yes you can move the panel back to the top via Raven.In Raven theres setting for that. Hope this help.,SolusProject,d8ft4b0,1,t5_37o2f
+9311612,0,t1_d8w86c0,PM me the details and Ill update asap.,SolusProject,d8wbcyz,1,t5_37o2f
+9573692,0,t3_4tn1nu,there is no need to wait just install lutris from the software centre and install the game from there has the latest Alpha  version just installed and ran perfectly,SolusProject,d9t5iku,1,t5_37o2f
+9620313,0,t3_5ci0ku,I really like the design of Nautilus none of the other file manager like thunar dolphin etc have such a cool look. I hope the day Solus parts ways with Nautilus theyll invent a similar looking file manager.,SolusProject,d9ywgsz,2,t5_37o2f
+9645667,0,t1_da20jrr,deleted,SolusProject,da210j0,2,t5_37o2f
+9912738,0,t3_5habov,Clear sans,SolusProject,daznird,3,t5_37o2f
+10112866,0,t3_5komkw,The pro version of IntelliJ IDEA is in the software centre but you can easily get the community edition from the website and install that its what im currently using. ,SolusProject,dbpprsx,3,t5_37o2f
+10202555,0,t1_dc0henw,Wow you guys are amazing loving Solus by the way almost sure will use it as Im planing on migrate from OSX as my main platform.Hope dont bother much but how you add mods to the php from third party ex libapachemodphp thank you!,SolusProject,dc0ilxu,2,t5_37o2f
+10351426,0,t1_dc5ixyy,oh malware is certainly a thing if you look at whats listed in CVEs amp changelogs any image that gets decoded to create a thumbnail in the file manager or to load in the browser can be a threatnot that a a regular AV can solve this the whole kernel amp root system has to be its own AVedit its web browsing amp media playing or media backend components that are the biggest problems that bypass all the safe practices of using official packages,SolusProject,dche7hg,1,t5_37o2f
+10377625,0,t1_dckd5px,gtI am upstreamLOL!!! Thanks for jumpstart my day with a good laugh.Thanks for the update Ikey.. Appreciate it very much! D,SolusProject,dckd8ql,3,t5_37o2f
+10455062,0,t1_dcmoh71,I was really hoping this would work. Completely forgot about using the network manager!Unfortunately I imported the file and checked to make sure all settings were correct. Enabled it and the same issue occurred. I messed around with IPv DNS settings to no avail. I dont know why it wont allow me to access the internetthe exact same config file works on my other computer... very frustrating!Thanks for your help though. I will use the network manager on my computer that works with openvpn.EDIT Working now! I dont know what happened but all of a sudden it started connecting. I forgot to turn off the VPN connection and within a few minutes I searched for something on google and it came back in Dutch... confirmed on ipchicken... Thanks for your help. Must have been a setting that the network manager configured correctly... idk but it works so thanks!,SolusProject,dct6p8p,1,t5_37o2f
+10471685,0,t1_dcv1lq5,are there any work arounds?,SolusProject,dcv2n9i,1,t5_37o2f
+10505683,0,t3_5qe1c9,This has already been submitted to Solus bug tracker In the mean time try running the tar.gz,SolusProject,dcyxikk,1,t5_37o2f
+10568885,0,t1_dd5v1uk,Worked thanks!,SolusProject,dd63i9x,1,t5_37o2f
+10656028,0,t1_ddef0gd,KDE Neon KaOS. ,SolusProject,ddf35oj,1,t5_37o2f
+10672535,0,t1_ddg3itz,Found a solution. I edited op. ,SolusProject,ddgshnx,1,t5_37o2f
+10703232,0,t1_ddjrrnb,Exactly! Ive used Rufus with the Solus ISO multiple times and Ive never had an issue. ,SolusProject,ddjyj1a,1,t5_37o2f
+11570915,0,t1_dg7ethl,Could you provide me a link please,SolusProject,dg7khuk,1,t5_37o2f
+11607275,0,t1_dg6t01h,When the rd party install failed me the Spotify Flatpak came to my rescue,SolusProject,dgbp0fq,1,t5_37o2f

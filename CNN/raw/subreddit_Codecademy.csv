@@ -1,0 +1,27 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+2821801,0,t3_2sdmrj,You never actually call your compare function.Add compareuserChoice computerChoice at the end of your code and it should work.,Codecademy,cnotyyo,1,t5_2tc7t
+3185593,0,t3_2wm0j0,I deleted my last comment because I lied to you. I went back and looked.var friends needs to be an object. Theres a few ways you can do that. I went with    var friends  new ObjectBut I believe Im still pretty new to this so I hope Im corrected if Im wrong you can also do    var friends  The rest of your code is right except you need a  after the closing curly bracket under bill and you dont need that last closing curly bracket.    var friends          bill             firstName Bill            lastName Gates            number         steve         firstName Steve        lastName Jobs        number         ,Codecademy,cos6qfi,1,t5_2tc7t
+3762811,0,t3_33ig52,In the newest style of courses Rails and AngularJS resetting your progress works better. That sounds to me like the many requests for this feature are being heard. For the older style courses I wouldnt kill off my existing account. I would make a second account to work on the exercises that I wanted to repeat. A tip on that can be found here ,Codecademy,cql6st1,3,t5_2tc7t
+3887170,0,t3_34w8gc,Hello I do not know why you are getting nil as a value of state. This is kind of strange. But I see two errors in your code please fix them and check if it solves this problem.First one is here    print  State?It obviously should be    print State?Second problem is in puts statement. To correctly print value of city you have to delete spaces between  and city    puts Your name is firstname lastname from city state!,Codecademy,cqzddco,3,t5_2tc7t
+3991430,0,t1_crb9714,Thanks! Such a small thing throws it off,Codecademy,crb99ga,0,t5_2tc7t
+4561942,0,t1_ct5d659,Posted a solution above also reported on the site how I personally went about solving the issue.,Codecademy,ct5ndhh,3,t5_2tc7t
+4745358,0,t1_ctsp33o,Youre very welcome ,Codecademy,ctsp3wy,1,t5_2tc7t
+4788471,0,t1_ctxb0ab,hi factoradicthings seem fully ok on firefox downloaded and tried on ff just now,Codecademy,cty4jd6,1,t5_2tc7t
+4862161,0,t3_3hhi7q,What exercise is this ?,Codecademy,cu7eup8,2,t5_2tc7t
+4890902,0,t1_cub17a1,Oh thanks,Codecademy,cub1ckl,1,t5_2tc7t
+4914191,0,t3_3i5f4v,Hi thereWhen you switch languages in Codecademy you can think of it as starting as a new user. Your progress hasnt been lostif you switch back to the language you started with your progress will still be there. I know this is confusing and were actively working on a solution to sort out this issue. I recommend sticking to one language so that your progress remains consistent.You can change your language preference in your Account Settings.,Codecademy,cudyygx,1,t5_2tc7t
+5075351,0,t1_cuxq88a,Im having issues with the PHP course today too  looks like an issue on codecademys end. Ive been refreshing and am on  machines which sometimes works and sometimes doesnt...,Codecademy,cuxrs1g,1,t5_2tc7t
+5153341,0,t3_3liras,while openning  in the editor just dnt click the  icon  if i got ur prblm r,Codecademy,cv764o1,1,t5_2tc7t
+5200426,0,t3_3m7w6w,Thanks for all the info so far!,Codecademy,cvcueur,1,t5_2tc7t
+5276558,0,t3_3io1e1,i have the same problem ..... still couldnt fine a solution ,Codecademy,cvm5295,1,t5_2tc7t
+5302103,0,t3_3m7lvo,You have to create a route for signupsnew.Here    get urlthanks gt pagesthanksYou mapped url urlthanks. I believe that url part is unwanted.,Codecademy,cvpelq7,1,t5_2tc7t
+5312754,0,t1_cvqc5m5,You are welcome Im glad I could help you see ,Codecademy,cvqrly5,2,t5_2tc7t
+5357376,0,t1_cvtp6i4,THANKS ,Codecademy,cvwgrp3,1,t5_2tc7t
+5660927,0,t3_3sbek2,Theres plenty of options available  it depends on how you want to achieve this.Id personally recommend learning Python. Ive done a few fairly basic website scraping projects with Python  iterating over HTML elements for example to find ltdivgt elements which contain prices or product names is fairly straightforward.,Codecademy,cwysjej,2,t5_2tc7t
+5790729,0,t3_3u29ac,removed,Codecademy,cxew80p,1,t5_2tc7t
+5876726,0,t3_3u29ac,Thanks everyone for your feedback.,Codecademy,cxpyydb,1,t5_2tc7t
+6192544,0,t3_40echj,I think everyone has this problem right now as there is an issue with the website.Im waiting too so I can start the javascript course. ,Codecademy,cytizdk,1,t5_2tc7t
+6939985,0,t1_d12sa4b,Humans above a certain level of intelligence always use full sentences. You may not have met anyone above that bar yet it seems.,Codecademy,d12z64t,4,t5_2tc7t
+8424986,0,t3_4urhxy,It simply uses a Google or Facebook account to log in. I can check but Google and I believe Facebook are the only domains.,Codecademy,d5uny0b,1,t5_2tc7t
+8671469,0,t3_4rrivw,If you want to learn Regex try Regexone.comIf you want to learn with a community of MOOC learners and really speed up learning ,Codecademy,d6pjz7k,2,t5_2tc7t
+9208254,0,t3_56h48c,Here you are changing the font size of lthgt tags only. You need to create a line of code to modify ltpgt tags. p fontsize px,Codecademy,d8j7qsa,1,t5_2tc7t

@@ -1,0 +1,6 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+657027,0,t3_1wnc2v,I use it for eggdrop.,Tcl,cgeycd3,1,t5_2qkgk
+4178513,0,t3_38i9xm,But why use multiple processes when Tcl has pretty good support for threading and no GIL bottleneck like python  see  ?,Tcl,crwk0ea,2,t5_2qkgk
+4300116,0,t1_cs9funf,I think this comment is my favoritegtgt Using node without multicore is like test driving your new plane by doing donuts on a runway. There is really nothing for the reader to take ,Tcl,csaciic,1,t5_2qkgk
+9871008,0,t1_dau73ha,Thanks.,Tcl,dau7rl6,1,t5_2qkgk
+10544841,0,t3_5qrp8b,Not exactly what youre asking for but some there has been some work on implementing Tcl in Javascript  see ,Tcl,dd3dir7,3,t5_2qkgk

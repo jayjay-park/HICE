@@ -1,0 +1,5 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+4201854,0,t3_38xo2a,gt For our purposes it looks like this C prototype. c void mmapvoid addr sizet length int prot int flags It looks like your code formatter misfired on this one ,lowlevel,crz7byb,1,t5_2uy3o
+5324029,0,t1_cvrklmu,as urecw said   Smashing The Stack For Fun And Profit Aleph One     ,lowlevel,cvs7g6b,2,t5_2uy3o
+6456522,0,t1_czmyvpe,Im way out of my depth here but is it relatively unique to x that you can run bit code on a bit system? Can you do this on ARM? Or MIPS? I should think the kernels system call translation would work the same on any architecture but if CPU support is needed bit compatibility probably wont be guaranteed...?,lowlevel,czn5bcb,1,t5_2uy3o
+11743947,0,t3_67kdrp,Probably NSA creating demand D,lowlevel,dgr7fn0,2,t5_2uy3o

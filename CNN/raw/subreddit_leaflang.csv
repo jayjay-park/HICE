@@ -1,0 +1,2 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+693578,0,t1_cgj2z7s,What about the method has? It feels unnatural because it is imported from nowhere and is not called with a dot. Is there any optional specific optimization or could optional be represented in a library?,leaflang,cgj41ef,1,t5_3137t

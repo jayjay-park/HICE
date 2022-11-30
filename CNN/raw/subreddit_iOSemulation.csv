@@ -1,0 +1,4 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+2918313,0,t1_cnx7npd,I will try on Monday. But yea that has been the best option for me thus far,iOSemulation,cnztjzx,2,t5_359ea
+3537143,0,t1_cpvf4p8,Theres apparently a new RetroArch in the works so hopefully this new version can actually rival NDSiOS,iOSemulation,cpvgggx,2,t5_359ea
+9772551,0,t3_5f4cqq,The problem with emulating x on ARM is that x has a much broader and complex instruction set. ARM is lean and mean whereas x has everything and the kitchen sink. This makes translating instructions from x to ARM difficult regardless of the relative power of any two specific chips. ,iOSemulation,daholsg,1,t5_359ea

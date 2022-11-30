@@ -1,0 +1,32 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+255559,0,t1_cf75tka,Ill be glad to as soon as I get off work. It really cuts into my reddit time.,mathpics,cf78soy,1,t5_2sf1t
+399160,0,t3_1ynsku,deleted,mathpics,cfm4zy9,1,t5_2sf1t
+513899,0,t1_cfye7uv,Ooops its Lorenz not Lorentz. It is the stable manifold of the Lorenz equations,mathpics,cfyom71,1,t5_2sf1t
+556571,0,t3_20bi64,i has no business telling pi to be rational. P,mathpics,cg3jedd,1,t5_2sf1t
+562094,0,t3_20kn4g,From the articlegtThe six arrows represent the first six terms of the Fourier series of a square wave. The two circles at the bottom represent the exact square wave blue and its Fourierseries approximation purple.,mathpics,cg45zpy,9,t5_2sf1t
+574051,0,t3_20pho9,Theres nothing to solve?,mathpics,cg5ivtz,28,t5_2sf1t
+590194,0,t3_2040kc,I like this one ,mathpics,cg7cxkv,1,t5_2sf1t
+1183163,0,t3_27n67q,Symmetry is beautiful but Id be too confused to ever attempt to use this...,mathpics,ci2q490,1,t5_2sf1t
+1519172,0,t3_2bm1qb,I dont understand at all how this works. But its awesome. Ill just have to trust its accuracy. ,mathpics,cj6pe82,5,t5_2sf1t
+1722256,0,t3_2e5i8x,Same equation as previous held at different parts. These are the four topology changes made by  degree rotations of IIIIII.,mathpics,cjw967u,2,t5_2sf1t
+1788647,0,t1_ck4loxs,I would ask you to make a screenshot but thats about as useful as the guy who tried to make a sceenshot of the fly that was sitting on his screen.Ill try making a photograph.EDIT Nope digital camera just adds more errors to the equation. Accurate colors are very hard! But how do you percieve this one A LessAngry Rainbow ?,mathpics,ck4lzyz,1,t5_2sf1t
+1848854,0,t1_ckbrn04,Thanks for the info.,mathpics,ckbzdg8,1,t5_2sf1t
+2002731,0,t1_ckuimox,I program in Matlab to handle the computation and write .obj files rendering is done with Maya with Mental Ray engine.,mathpics,ckuj0pk,1,t5_2sf1t
+2011192,0,t1_ckvf6p8,You should post that over in the new thread ,mathpics,ckvjng7,1,t5_2sf1t
+2139078,0,t3_2hkniv,How interesting,mathpics,clbq30o,2,t5_2sf1t
+2416849,0,t3_2n3uyu,For anyone wanting to play with this also my code is here ,mathpics,cmafjky,3,t5_2sf1t
+2507083,0,t1_cmlt61s,yeah ok this is computationally infeasible.  My tool can get matches of length .  Hold on let me do some stats here.,mathpics,cmltbm2,1,t5_2sf1t
+3070964,0,t1_cog9zzq,Why? Symmetric difference is the union minus the intersection. The central triangle is most certainly in the intersection and hence is not contained in the symmetric difference.,mathpics,cogaw5u,1,t5_2sf1t
+3536939,0,t1_cpv7bpe,Check out wavelet image compression.  Its stunning how similar it is to the CSI enhance.,mathpics,cpvfmd3,2,t5_2sf1t
+3608263,0,t3_31nhpi,Do you think you could animate fractional integrals? I think it would be cool to see how  becomes x . x etc. especially since they have to alternate between even and odd. ,mathpics,cq3kgoc,3,t5_2sf1t
+3784531,0,t1_cqmlb7x,This is really interesting thanks a lot for posting this,mathpics,cqnnzbd,2,t5_2sf1t
+3798993,0,t1_cqk4upy,Its very kind of yours I guess. Honestly your well humored comment made me smile.,mathpics,cqpbcl4,1,t5_2sf1t
+3968254,0,t1_cr8d1n9,deleted,mathpics,cr8m54c,3,t5_2sf1t
+5219543,0,t1_cvehv9u,Yep unfortunately open toratopes dont have as direct of a conversion method as the closed. But they still follow a simple pattern. They use the cartesian product which multiplies whole solid objects together rather than the nD surfaces. These solid shapes are prisms with curved sides and a sharp edges. For an nD object the sides are nD  and the edge is nD. The spherate operator is when you empty out the nD surface cells which will leave behind just the skeletal nD edge. Then expand the skelet with a smaller shape in every point usually a circle which inflates the frame into a toroidal ring of some kind.  Take two objects such as two solid disks diskxy and diskzw. In toratope notation this is IIII as xyzw . The terms for each diskdiskxy  xy diskzw  zw If we want to multiply them together M x N  we can use the format|M  N|  |M  N|  awhere M  xy and N  zw  which makes|xy  zw|  |xy  zw|  aa D prism called the duocylinder. If we wanted to spherate the duocylinder add an additional pair of parentheses around the two circles  IIII. This means to empty out the D cells and expand the clifford torus with a smaller circle in every point denoted by the new outer brackets. Mathematically we take the  solid disk terms and use the formatM a  N b  cThis will define a product of the two solid circles by just their hollowed out surface by setting M gt M a  and N gt N b  where agtb  altb  and ab. xy gt xy a  zw gt zw byieldingxy a  zw b  cIf we wanted to define just the nD edge wed set the minor diameter c    leaving the product of two orthogonal disk edgesxy a  zw b  So in general for a two parameter toratope consisting of MN or MNClosed Toratope   M a  N b  cOpen Toratope  |M  N|  |M  N|  aThis method even works when you multiply a solid ring torus with a solid disk IIIII . The resulting D shape can also be constructed two other waysnonbisecting sweeping of a duocylinder into D  IIII gt IIIIIbisecting spin of a torus prism around the plane of the torus into D  IIII gt IIIII,mathpics,cvf5awo,1,t5_2sf1t
+5352599,0,t1_cvvudik,Yeah thats my nitpicking as well. He went conceptual with it which is fine for the context of his talk.,mathpics,cvvuscv,6,t5_2sf1t
+6972233,0,t1_d16hwox,Awesome thanks.,mathpics,d16n1mj,1,t5_2sf1t
+8846495,0,t3_51dpg7,Reminds me of that Disney natural movement creator for mechanical characters.,mathpics,d7b81tb,1,t5_2sf1t
+9278791,0,t1_d8rd7ge,First I thought of not sharing the code. My code is sloppy and not optimized. It can be optimized further and it is not documented commented. I just made this in my free time I was learning about cycloids. The code just works but cannot be considered as good code. So I just thought that Ill only post only the webm.,mathpics,d8s5jix,2,t5_2sf1t
+9317172,0,t3_57l9i8,Thats a pillow!,mathpics,d8x0q3t,1,t5_2sf1t
+11023556,0,t1_dehfz97,Yeah those are really interesting ,mathpics,dehhnk2,1,t5_2sf1t
+11645075,0,t3_65zk4g,So explain to me mathists why do my eyes immediately recognize the patterns evident and why can I almost hear what I am seeing but if I see it as an equation I suddenly go blind and deaf?Thats rhythm to me musical and lyrical without numerals so why the hell cant I get calculus?,mathpics,dgfzed8,-1,t5_2sf1t

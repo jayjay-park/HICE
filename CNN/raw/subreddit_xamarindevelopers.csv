@@ -1,0 +1,6 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+7343426,0,t1_d2cw0f7,It was mainly written by JamesMontemagno  Xamarin Evangelist.  Send him a tweet  Im sure hed be delighted to hear that.,xamarindevelopers,d2cwaxj,3,t5_33s72
+8555768,0,t3_4wyh8d,Install the RestSharp Portable package on Nuget FubarCoder. The Rest Client exposes a generic ExecuteAsyncltTgt method you can use. ,xamarindevelopers,d6b1o0e,2,t5_33s72
+10029412,0,t1_dbeufo0,Awesome! Ill bookmark that in case I need it,xamarindevelopers,dbeuz3s,1,t5_33s72
+10601449,0,t1_dd8zez3,I was able to submit without one as I wasnt collecting any personal information at the moment. However I will soon be collecting some information as I flesh out the application. Thanks for the link and tip. ,xamarindevelopers,dd9giko,1,t5_33s72
+11076386,0,t1_denccn0,You can now set your Android app to compile against Android . and that will allow your support packages to be updated. Under the project settings adjust that property. The latest version of Xamarin.forms enables this for this exact reason,xamarindevelopers,denhy7t,1,t5_33s72

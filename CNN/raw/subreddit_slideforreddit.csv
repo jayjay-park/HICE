@@ -1,0 +1,76 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+3689687,0,t3_32mlxr,Can it be that when there are no comments on a post it displays a loading spinner forever in .? Or is that just my internet connection?,slideforreddit,cqcuker,1,t5_37acp
+4562877,0,t3_38l6ue,This app has replaced everything else for me. There are some features that are missing though  Flairs Instantly seeing post votes bring changed,slideforreddit,ct5rlja,1,t5_37acp
+5467229,0,t1_cwagv2o,What version of the app are you on? This functionality came in the .. ALPHA update you need to join the alpha testing group to get it!,slideforreddit,cwahnho,1,t5_37acp
+5648389,0,t1_cwvtlmt,Thank you!,slideforreddit,cwx8k6v,1,t5_37acp
+6696759,0,t3_47d333,Im thinking its the infinite scrolling thing. Res has the feature of dimming duplicate posts that show up between pages,slideforreddit,d0c03zr,3,t5_37acp
+6708133,0,t3_479gun,Thanks for the report u Ive created an issue on github where you can follow the progress ,slideforreddit,d0d6fki,1,t5_37acp
+6886580,0,t3_49wiio,Great update,slideforreddit,d0wwssf,1,t5_37acp
+7038573,0,t1_d1e2v89,D Thank you!,slideforreddit,d1e6fv8,1,t5_37acp
+7094323,0,t1_d1kiayp,What? Im sure you can send  of you to fix it right away. No way ccrama is just one dude. Im guessing there are at least  how else would one explain this rapid speed of development. ,slideforreddit,d1kieiv,6,t5_37acp
+7098461,0,t1_d1kz8pn,OK thanks for replying!,slideforreddit,d1kzc95,1,t5_37acp
+7113569,0,t1_d1m21zj,Youre welcome! Hopefully this fixes it for you ,slideforreddit,d1mpv18,1,t5_37acp
+7126068,0,t1_d1o56bn,Thanks! That sounds exactly like what was happening. It was only imgur previews. ,slideforreddit,d1o5hmb,2,t5_37acp
+7158101,0,t1_d1rsyvg,I was behind on information when I said that. ,slideforreddit,d1rt1to,2,t5_37acp
+7168810,0,t1_d1sz3ex,I think you misunderstood me. It makes a lot of sense to restart when switching users. What I mean is shouldnt Slide not restart if the account clicked on is the one that is already being used? Aka there is no user switch actually happening.,slideforreddit,d1t0yjj,3,t5_37acp
+7194110,0,t1_d1vs3c5,Unfortunately not because reddit doesnt allow it for third party. They made a few exclusions to this I think for reddit is fun but not for slide. You can click open externally to open the postcomment in your browser and gild it there! ,slideforreddit,d1vwtbo,1,t5_37acp
+7200797,0,t3_4e315d,Can you add a view source of commentpost feature? In sync comment source is shown when replying.In slide menu of the comment shows the source but only a little bit.There isnt any way to view the source of a post as of current.,slideforreddit,d1wo8cy,1,t5_37acp
+7225951,0,t1_d1zj2yx,Its not easy to implement given the current way everything is implemented. This isnt some quick feature to add. Best you can have for now is the Comments pane view mode in General Settings.,slideforreddit,d1zjbyw,1,t5_37acp
+7228578,0,t1_d1zu24f,MESorry for asking so many questions. Just wanted to check a few things before buying pro. Btw the app crashed thrice when I tried to open this thread.     I did as follows go to inbox ampgt clicked on your reply ampgt loading icon appeared ampgt but I clicked load full thread before the app loaded your reply to my comment and it crashed. Same thing happened  times. gt Probably not. It downloads it as a jpg or png but saves as a PNG because those are easier to encodeThis is the biggest issue I have. Data saving is extremely necessary for me. This was on the frontpage of rall today The above image is directly downloaded from imgur. Its size is kb. I downloaded the same image from slide and its size is kb. There is a huge difference between their sizes but the quality is almost same. Thats why I said if possible make the app download and save images in .jpg format gt Well let me know when you get .. not getting any reports after .. thoughSuregt I havent gotten any other reports of this either which leads me to believe its network related I would be getting tons of reports for an issue like this. Have you tried clearing the app cache?Ill try that and report later. gt The download button does nothing until the image is loaded to keep from downloading multiple instances save answer to So theres no way to download the second image before the st one is downloaded completely? Does this mean that Ill have to waut for every image to load to download it?.... Dude I use G and G so it takes a while for each image to load. Isnt it possible to put them in a queue? gt It will load LQ until you hit the HQ buttonI dont see the HQ button in albums so do images in album always load in HQ quality? gt That would get hidden when fastscrolling then no? PIts semitransparent but it doesnt autohide when scrolling down. gtThanks for the kind words as well ,slideforreddit,d1zu33b,1,t5_37acp
+7240176,0,t1_d2158fp,..,slideforreddit,d215lmf,1,t5_37acp
+7277991,0,t1_d25d5gr,Just got the update! Awesome update but some features are missing.  The inbox only shows the username of the person who replied to your comment the reply and the time when it was sent. Can you add more info like the name of the thread and option to upvotedownvote that reply?  Other apps are capable of downloading multiple images at a time also they show a download notification in the notification panel where the user can see the image download progress. This is missing from the app. You mentioned in a post that the app only saves images that are already loaded in the image viewer and that it downloads images one by one. Plus it downloads them in the .png format which takes extra space than the .jpg format of the same file. Also it downloading images in .png format consumes more data since their size is larger that their .jpg format.  Almost all other reddit app show notifications in the notification bar. This feature is missing. Keep the updates coming ,slideforreddit,d25gj9q,4,t5_37acp
+7278208,0,t1_d25gojr,The only issue with that is it gets rather complicated and I dont know where I would put that option. Any ideas?,slideforreddit,d25hf8l,3,t5_37acp
+7323891,0,t1_d29at0z,Didnt get to to test it last night something reset my mail check interval to six hours. If this goes through then its all fixed. Thanks! ,slideforreddit,d2aocm2,1,t5_37acp
+7333016,0,t1_d2bp6n0,It was back when I was storing in a strange place but I out a catch for that in the next update. Thanks!,slideforreddit,d2bpp8k,1,t5_37acp
+7336245,0,t1_d2bpt8l,One thing that might help would be to have a way to see what the current sort is maybe in the pulldown itself? Excellent app though.,slideforreddit,d2c2wug,1,t5_37acp
+7345811,0,t3_4fyq41,Its up to your manufacturer because emojis are included in font files. If you have root you can use Emoji Switcher. Nothing we can do something about ,slideforreddit,d2d629z,3,t5_37acp
+7350527,0,t1_d2dnfw9,Thanks!,slideforreddit,d2dpdor,2,t5_37acp
+7373125,0,t3_4ga7v1,Got an issue with gif albums on imgur. On clicking on this post on the frontpage  I get this,slideforreddit,d2g9ujc,3,t5_37acp
+7379749,0,t1_d2h08tx,No thats totally fine! Thank you ,slideforreddit,d2h0yxk,1,t5_37acp
+7419409,0,t3_4gx88q,He said hes planning on releasing an update on Sunday. ,slideforreddit,d2ljejc,10,t5_37acp
+7521977,0,t3_4idmat,Trying to open this image crashes slide in the latest alpha,slideforreddit,d2x7n0c,10,t5_37acp
+7522171,0,t3_4icx3n,Browsing rgopro or rshotonandroid with gallery mode must be really cool,slideforreddit,d2x8fk8,2,t5_37acp
+7548688,0,t1_d303c7z,Thanks so much for your quick and detailed response. Dont get me wrong I totally love Slide. My opinion is just my preference and I am really a fan of your work D  Slide will be my main client from now on and I will buy pro to support you. Cheers!!!!,slideforreddit,d308zrc,1,t5_37acp
+7604075,0,t1_d36jcxu,I have that option unchecked on my reddit settings but they still show up in app. I would like to be able to switch them off. ,slideforreddit,d36jlbg,0,t5_37acp
+7608901,0,t3_4jcoaa,Idk if this is the right place but if you try to expand the comment thread load  more  then tap to hide all child comments then try to expandhide the next comment it bugs out,slideforreddit,d373ceb,1,t5_37acp
+7645892,0,t1_d3bao86,Yeah definitely exaggerating but sync was usually  seconds faster loading depending on the content but no more! Thanks so much.,slideforreddit,d3baovn,2,t5_37acp
+7655371,0,t3_4k3ato,deleted,slideforreddit,d3cdfuj,1,t5_37acp
+7687411,0,t1_d3fy154,What link did you try?,slideforreddit,d3g0dw1,1,t5_37acp
+7731570,0,t1_d3khrwu,Yes. The  line that says load  more and when you tap it the comment gets loaded and replaces that line.  ,slideforreddit,d3l0wax,1,t5_37acp
+7761687,0,t1_d3oanen,Oh ok thanks! ,slideforreddit,d3ofz1d,1,t5_37acp
+8213540,0,t3_4rtwgn,Because Sync continues to load something that youve exited while Slide stops. I actually prefer what Slide does because with Sync if you decide something is too large and is a waste of data the only way to stop it from loading is to stop the app itself while with Slide you just exit the image. ,slideforreddit,d548wgq,8,t5_37acp
+8245501,0,t1_d588eur,Its not Ive done hours of testing on many network types and  devices and its much faster than some apps and comparable speeds to others. No app is faster in my testing presumably because we all use the same libraries for loading data and many of us use the same wrapper library for Reddit. Also many if the reviews on the play store talk about how much faster it is than the competition and rarely are there reviews saying otherwise so if youre having speed issues try clearing the cache or app data because its most likely a device issueEdit also if youre on Android N thats causing issues for some users and they had no issues after returning to M,slideforreddit,d588rmz,4,t5_37acp
+8319718,0,t3_4ti8q8,deleted,slideforreddit,d5hireg,1,t5_37acp
+8327253,0,t1_d5ifzwp,Its an auth issue with Reddit is fixed in the next alpha but is also related to the server downtime Reddit has been having ,slideforreddit,d5igmig,1,t5_37acp
+8352913,0,t1_d5ln5cl,Means a lot thanks D,slideforreddit,d5lo11c,1,t5_37acp
+8508052,0,t1_d650sdg,Yep it works. Looks like it was this comment in particular maybe because it has a lot of links. ,slideforreddit,d6528qb,1,t5_37acp
+8612329,0,t1_d6hx86z,I can second this,slideforreddit,d6i4z69,1,t5_37acp
+8670415,0,t1_d6p8eow,Those arrows are navigation buttons ,slideforreddit,d6pf81f,3,t5_37acp
+8672800,0,t3_4yqfr1,No this isnt possible yet. Feel free to suggest it on the issue tracker though!,slideforreddit,d6ppzjg,3,t5_37acp
+8717339,0,t3_4z8eqd,This update has made slide so much faster for me,slideforreddit,d6vb1op,1,t5_37acp
+8753966,0,t3_4zxdnl,You dont even tell us what problem youre having with it...,slideforreddit,d6zwj1h,1,t5_37acp
+8792393,0,t1_d736589,There isnt currently this is only present in media and album views. To be honest I dont know where Id put such a button what are your thoughts on that?,slideforreddit,d74q58y,2,t5_37acp
+8862161,0,t1_d7d3bvg,Yes you are correct and that was the reasoning behind it also it is cached so it improves performance.And it stores the time you see the posts as you open them again to increase performance and then I store the next time you view comments after comments have loaded which leads to what youre seeing. There isnt really a different way to do it unfortunately,slideforreddit,d7d3v2j,2,t5_37acp
+8903208,0,t1_d7i19r3,Restarted the app and everything seems to be working fine so far. Glad to be back on board.,slideforreddit,d7i1cn1,1,t5_37acp
+8969568,0,t3_52hwfj,... had issues that was why ... was quickly released after. Unfortunately it isnt on yet. I have stuck with .. and is working fine,slideforreddit,d7q08ax,1,t5_37acp
+9056082,0,t3_54a2k7,Make sure youre fully up to date and on the alpha that was confirmed fixed a few weeks ago. It was an issue with one connection in the background and that was removed ,slideforreddit,d80e9ts,1,t5_37acp
+9060810,0,t1_d80rqsj,Thank you! Hope someone votes on it soon ,slideforreddit,d80ypak,3,t5_37acp
+9323612,0,t3_584yvu,Came here to comment on the speed! Damn fine job dev!,slideforreddit,d8xu443,2,t5_37acp
+9376016,0,t1_d94gvy3,Do you have big image mode enabled?,slideforreddit,d94h5y9,1,t5_37acp
+9386885,0,t3_595uwf,gtAMOLED blackgtinvert colorsgtprofitIn all seriousness there used to be lighter grey and yellow  primary colors but they didnt look so good due to the white things not changing and if memory serves changing them would be while possible a little bit of a pain. ccrama can correct me if Im wrong about any of this though.,slideforreddit,d95uqzr,11,t5_37acp
+9387233,0,t1_d95vq4o,No problem! I actually wasnt expecting you to implement it in the first place since it was drastically different to what we have now.I still think its cool to have for linksselfs though since theres no alternative for that other than using noncropped big picture mode.,slideforreddit,d95wc98,1,t5_37acp
+9514031,0,t3_5b4ndp,Settings gt Main theme gt Base theme gt Select one of the dark themes.  Done  hour dark theme.,slideforreddit,d9lt2fc,5,t5_37acp
+9536669,0,t3_5bfne3,Same issue Im currently facing as well. I changed a couple settings and decided to rebackup and its been telling me that its still connecting to Google.,slideforreddit,d9oldbp,1,t5_37acp
+9563341,0,t3_5a0cnc,Some reason there is no clear cache button inside the app or auto clear on exit? ,slideforreddit,d9rvlu1,1,t5_37acp
+9617326,0,t1_d9yipt8,Doesnt bother me much  getting a oneplus  soon enough.,slideforreddit,d9yj7b4,3,t5_37acp
+9660019,0,t1_da3rzz5,Ok but those were separate points. I thought you were only talking about the rd one the way how the sidebar is visible briefly but then goes slides away this behaviour is the same for all the view type modes.,slideforreddit,da3ssnz,1,t5_37acp
+9672077,0,t1_da59zmn,thank,slideforreddit,da5abe7,2,t5_37acp
+9713706,0,t1_daa9645,Youre welcome!,slideforreddit,daafajl,1,t5_37acp
+9742989,0,t1_dae13ku,Backup includes posts marked for Read Later?,slideforreddit,dae1akt,2,t5_37acp
+10081343,0,t3_5k5h4s,Im having this problem as well.,slideforreddit,dblmafi,2,t5_37acp
+10114302,0,t1_dbpw3ka,Im using v.. pro data saving set to low. Still have the issue especially when network is not good.,slideforreddit,dbpwhjp,1,t5_37acp
+10460906,0,t3_5ptb86,I sent you a test PM. Please try to reply.,slideforreddit,dctulvt,2,t5_37acp
+10700286,0,t3_5sxlxq,Click on View Comments. ,slideforreddit,ddjnl8e,4,t5_37acp
+10843656,0,t1_ddy3818,Unfortunately no unless a contributor with an sd card slot can add in that functionality ,slideforreddit,ddyg3ib,1,t5_37acp
+10916992,0,t3_5vx6jg,Working just fine for me. Moto E nd Generation with G LTE Android . Marshmallow Slide v..,slideforreddit,de60e5k,1,t5_37acp
+11710523,0,t1_dgnepdl,Those are all working for me try clearing Slides cache and try again,slideforreddit,dgnf1cg,1,t5_37acp

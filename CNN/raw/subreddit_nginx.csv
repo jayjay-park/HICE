@@ -1,0 +1,13 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+496156,0,t3_1zm0ew,Does varrunphpfpm.sock exist?Is the phpfpm service running?Anything in varlogphpfpmerror.log?,nginx,cfwo0dn,1,t5_2qkz1
+4018081,0,t1_crbzcp6,deleted,nginx,creaicd,1,t5_2qkz1
+4143157,0,t1_crro64e,Name resolution problem? Can you curl  from the webserver?,nginx,crsjcru,1,t5_2qkz1
+5845837,0,t1_cxlvsjh,Probably a reverse proxy apache is likely sitting in front.,nginx,cxlx0vh,1,t5_2qkz1
+7830803,0,t1_d3w77hy,I want to pipe them together.,nginx,d3w8zs1,1,t5_2qkz1
+8457979,0,t1_d5yox36,Oh I am a very silly person I should really look closer at    ... etc before posting on the internet. Thank you very much kind stranger !,nginx,d5ys5wv,2,t5_2qkz1
+9134828,0,t1_d89sl9o,mydomain.com was just something I Was using to describe the situation.  However it is still true that it was not setup using a subdomain or even a different nonroutable top level domain.,nginx,d89wm71,1,t5_2qkz1
+10253093,0,t3_5g26d7,This didnt work for me. ,nginx,dc68t11,1,t5_2qkz1
+10253915,0,t1_dc6bxcn,Glad to help! ,nginx,dc6c5k8,1,t5_2qkz1
+10828892,0,t1_ddwtbb7,Hm  so the idea would be that nginx acts as a sort of gatekeeper that requires SSL but once that is successful it can pass the request off to the plain HTTP express since theres not as much of a need for security for just internal forwardingredirects?,nginx,ddwx9lt,1,t5_2qkz1
+10993775,0,t1_dee2zk8,What do you get if you hit  directly?,nginx,dee3yqo,1,t5_2qkz1
+11742155,0,t3_67joh2,You have server blocks for each of your sub domains now right?Just one more block with    servername domain.com www.domain.comThen the rest of the config. ,nginx,dgr04hb,1,t5_2qkz1

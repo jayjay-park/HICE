@@ -1,0 +1,13 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+761466,0,t3_22vo1k,What have you tried so far?,threejs,cgqu2av,1,t5_2s8ar
+2396516,0,t1_cm7dcc7,Its a feature not a bug ,threejs,cm7x0nx,1,t5_2s8ar
+3143122,0,t1_conpqvh,There arent true dictionaries in JS. Just use an object literal and set properties on it. Thats how its normally done in JS.,threejs,cons5ma,1,t5_2s8ar
+3958746,0,t3_30wr02,I like my first degree animation approach ObjectD for three.js.,threejs,cr7j45e,1,t5_2s8ar
+4658018,0,t3_36o56m,I love this.,threejs,cthp8mr,1,t5_2s8ar
+5075109,0,t1_cuxihy1,Cool! Btw.. do you have the three.js export working? Really curious about that since Ive found custom shaders to be a way underdocumented corner of three.js.. cheers!,threejs,cuxqqc3,1,t5_2s8ar
+6747236,0,t1_d0eiv2o,thank you so much!!!,threejs,d0h7yhu,1,t5_2s8ar
+6753397,0,t1_d0h7mum,gt doesnt work moving backwardsDo you have a second raycaster which points backwards?You would also need raycasters pointing left and right for sideways collisions.When player hits a wall instead of bouncing you should simply prevent the players x or y value from increasing or decreasing on that particular animation step.,threejs,d0huwqq,2,t5_2s8ar
+7432723,0,t1_d2mo2jy,still kinda hardand annoying to have to press submit name button just to restart,threejs,d2n1xqt,2,t5_2s8ar
+9498722,0,t1_d9ibjrs,Not quite ready yet for a release. Thanks for the interest.,threejs,d9jx4at,1,t5_2s8ar
+10738973,0,t1_ddcv871,Yes Chrome Android is able to view the raw k video. To test a k video in Chrome Android you just add the filesdcard url in Chrome and navigate to the k video to test. A k video was able to load in Chrome Android v.. under Android v.. This should further suggest that this issue is attributed to three.js. ,threejs,ddnn71p,1,t5_2s8ar
+10879541,0,t1_de248sh,Ive not tested on Windows. If you change the offending line to just wepackdevserver it might work,threejs,de25b32,1,t5_2s8ar

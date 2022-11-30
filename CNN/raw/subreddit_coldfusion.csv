@@ -1,0 +1,5 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+3355339,0,t3_2ykjch,Love it!,coldfusion,cpaqepo,1,t5_2qlay
+4139827,0,t3_38319h,Go is taking over the hipster web movement. Might look there.,coldfusion,crs5pdu,1,t5_2qlay
+6336149,0,t3_42eag2,Confusion requires a service to run on the server. Heroku seems to basically function as your server but its not really under your control. Unless they officially support CF its not going to run. ,coldfusion,cz9umjs,2,t5_2qlay
+8502283,0,t3_4w503v,Try setting throwOnErrortrue on your cfhttp tag then use your trycatch as well.,coldfusion,d64c790,2,t5_2qlay

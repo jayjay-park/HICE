@@ -1,0 +1,4 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+7600332,0,t1_d35m78q,That might be because some units have a mpScript attribute assigned to them and cloning an unit also clones all its attributes. The solution to this would be either to have this attribute editable or set the attribute to  on cloning so that no script is attached to the unit. That might also be the reason why the Heavy Tank causes crashes though I havent been able to confirm that yet.,battalionwarsmod,d364b6x,1,t5_35dmt
+7660836,0,t3_4k8kut,It works very well.The str messages indeed have a limited size though the game crashed when it tried to display a message whose length I doubled. I also wonder if some characters are forbidden or not Ill keep trying stuff.,battalionwarsmod,d3czs35,1,t5_35dmt
+10402590,0,t3_5ozb5q,It was my destiny I could not choose otherwise.,battalionwarsmod,dcn789p,1,t5_35dmt

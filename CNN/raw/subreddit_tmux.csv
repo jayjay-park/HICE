@@ -1,0 +1,6 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+1544429,0,t3_2bx1jx,The ohmyzsh tmux plugin has similar features it defines the shell aliases ts tl and ta.  They even work with tab completion to expand session names.,tmux,cj9v90l,1,t5_2siir
+3446353,0,t3_2zp9nm,AFAIK that is impossible you can define your own keybindings for opening windows etc. But they have to start with the prefix which is cb by default if I recall correctly.,tmux,cpl3zfc,1,t5_2siir
+9612212,0,t3_5cm2ca,My trick is pretty basic     splits open in same working directory    bind  splitwindow c panecurrentpath    bind  splitwindow h c panecurrentpath,tmux,d9xwha1,2,t5_2siir
+10851127,0,t1_ddz0cq9,I meant it takes so much space in status bar. I only want to see the ram amount it takes and cpu .. but there is quite much more.. so I feel bloated with it.I have many different things in my statusline.Thanks for the  details.. might help me a lot .,tmux,ddz7tj4,1,t5_2siir
+11784234,0,t1_dgvpq54,yes it does. This is the answer. Other means to exit copymode can be Cc enter or mouse selection for example.,tmux,dgvs52u,2,t5_2siir

@@ -1,0 +1,8 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+238831,0,t1_cf5hq0j,its just intro to computer science intro to programming and algorithm designanalysis.Its my first CS class in the degree.,scheme,cf5i7vn,1,t5_2qhcm
+3531233,0,t1_cpugy2u,deleted,scheme,cpus9d1,1,t5_2qhcm
+5118925,0,t1_cv2kr7j,As per the wiki stricttypes does not provide a gradual or optional type system in the way that Typed Racket or Clojures core.typed do. The reason for this flag is to help provide more optimistic opportunities to use the specialize flag. It wont stop compilation if types are not strictly adhered to. To answer OPs question see the toplevel reply from unullbuilt. Shen is the way to go here theres little way around it unless you want to use Racket. ,scheme,cv30ta4,2,t5_2qhcm
+6720039,0,t3_478xlk,You could see another answer in  which could help you to write a very basic code in Scheme writing a function list.sum a function list.length even if it exists as a primitive a function list.avg all things easy to understand step by step. I hope so.,scheme,d0ees0j,0,t5_2qhcm
+6753585,0,t1_d0hcdbj,I embeded tinyscheme in a QtC project. Everything compiles i have a repl.... But what next? Could you eleborate a bit on how to glue these two worlds together to expose states and objects? ,scheme,d0hvlv7,1,t5_2qhcm
+7480875,0,t3_4hujjr,It seems weird to have an average when not all the implementations actually run all the benchmarks.Also how did you run R code on Chez?,scheme,d2sj7j4,1,t5_2qhcm
+10411069,0,t3_5p27y0,The latest Scheme language specification is at ..and you should look at  too to get references to additional documents describing standardized libraries.,scheme,dco5uq3,7,t5_2qhcm

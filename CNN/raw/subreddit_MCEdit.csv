@@ -1,0 +1,14 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+233892,0,t3_1pt75s,Decliff works too right?,MCEdit,cf4zqo6,1,t5_2t2pj
+3067078,0,t1_coenz8j,You mentioned that you have a builtin GPU. If you mean that it has a discrete GPU separate from the integrated GPU you could force MCEdit to run on the discrete GPU by changing its profile in the GPU driver settings.,MCEdit,cofwdhc,1,t5_2t2pj
+3330517,0,t3_2yb7sb,deleted,MCEdit,cp7wm3n,1,t5_2t2pj
+3389225,0,t1_coy43k1,So one more question do I have to import trn if it doesnt know it as function?,MCEdit,cpelk2e,1,t5_2t2pj
+3638824,0,t3_321idr,My One Command Structure Spawner will convert a selection into one command if it is physically possible. If not it will overflow into what it needs to.If you however plan to do this multiple times in the same world in the same location I would suggest setting up a fixed region and using the clone command,MCEdit,cq71xfc,1,t5_2t2pj
+4117009,0,t1_croe1cz,Yeah pyinstaller up and broke on me Throws typeerror compile expected string without null bytes when attempting to build with no env changes. so I plan to completely reinstall my python environment which should make the versions more uniform the libraries were drifting a bit. As for the nbt suggestion Ill definitely add the new nbt.pyx inremove the binary file for a future release assuming nothing breaks from it.,MCEdit,crpkcns,1,t5_2t2pj
+4301186,0,t1_cqcmskl,Ok Im not actually sure how this used to work and whats different now. Its hard for me to test since I cant even seem to open the players tool in older versions of mcedit.,MCEdit,csagv4u,1,t5_2t2pj
+8039543,0,t3_4pbddq,Hi im using mcedit . for my . client. For the past week me and my girl have played a single player world on LAN using both our superior mc building skills and mass editing in mcedit to make the most massive spawn base I have ever made it is quite epic. Today I try to play on the world and it just crashes instantly now. PS How did you move the spawn point on mcedit? The feature seems to be missing from .,MCEdit,d4jpxga,1,t5_2t2pj
+8691489,0,t1_d6rys6u,Holy hell Im a dumbass...I was getting this confused with the h flag...you are such a freaking lifesaver. ,MCEdit,d6s2cc2,2,t5_2t2pj
+8702778,0,t1_d36xhwp,How Can I do it? I noob on that stuff,MCEdit,d6thb0g,1,t5_2t2pj
+9330567,0,t3_587no4,Can you give us a screenshot of the console window?,MCEdit,d8ypu9l,1,t5_2t2pj
+10775521,0,t1_ddp5slw,Thanks!,MCEdit,ddrf17n,1,t5_2t2pj
+11210435,0,t3_5w9tsc,Hey! I encountered the same problem as you too! This my result for converting a PC map to PE.In my case I was converting a small housing model which I built in PC and ported it over the PE using MCEdit Unified.Were you using MCEdit beta . or MCEdit Unified? If its MCEdit beta . do you mind running me through the steps you took? I couldnt port it using beta . but I could with Unified. ,MCEdit,df2out7,1,t5_2t2pj

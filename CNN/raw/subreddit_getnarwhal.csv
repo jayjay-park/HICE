@@ -1,0 +1,93 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+978996,0,t3_25aegq,Also there doesnt seem to be a way to edit text submissions. If there is Im definitely overlooking it. And the lack of flair is sort of lame. ,getnarwhal,chfkjg4,3,t5_3134t
+1444371,0,t3_29knun,Ive noticed this with soundcloud as well,getnarwhal,cixbtlb,3,t5_3134t
+1949841,0,t3_2gy1a5, Low contrast option Ability to increase font size Implement dark keyboard when user is in night mode And of course landscape orientation. ,getnarwhal,cko5rix,2,t5_3134t
+4010638,0,t1_cqxqjfk,Hey apologies for the delay but wanted to let you know were not dead! We submitted an update to Apple pending approval with a handful of high priority fixes and were planning on releasing a small update every month until the rest are in. Ive filed your request on a master list. Thanks for the feedback.,getnarwhal,crdfz60,2,t5_3134t
+4356841,0,t1_csgqwpf,Sure! Basically say I go to my front page or all and tap a post I could then swipe from right to left to go to the next item on the page and it would load in the same format. Your view for posts is very similar to them. It was nice to just swipe swipe swipe to load the next item instead of having to tap back to the list. ,getnarwhal,csgqzba,2,t5_3134t
+4385844,0,t3_3b93d5,Thanks man! Glad to have you on board. We have some things in the works right now for larger better image support. Hoping to get something in next months beta if all goes well. Sorry about the stutter I havent experienced that myself but we can look into it. What phone and iOS version are you on? Cheers! ,getnarwhal,csk0rs7,8,t5_3134t
+4401860,0,t1_csj0a3t,Thanks unleashed! Well be working on adding pulltorefresh soon on those screens. I see what you mean about the tiny text we just had it locked to relative size but we can look into making it not get so small. Thanks for the solid feedback again! D,getnarwhal,csltogo,1,t5_3134t
+4469136,0,t3_3cbnhx,Hey Liam if youd like to share them publicly youre welcome to post them here. If youd prefer email you can submit through the TestFlight app by tapping on the narwhal icon in testflight and then Send Feedback. If youd like to PM here that is fine too. Were pretty casual so whichever is your preference is fine with us. Cheers!,getnarwhal,csu0csx,1,t5_3134t
+4473361,0,t1_cstwmjk,Thanks for the honest response. Definitely understand and looking forward to all the goodies in the future!,getnarwhal,csujff2,2,t5_3134t
+4658136,0,t1_ctf89jq,and apparently to delete a comment you have to do it in the actual thread and it is impossible to find it ,getnarwhal,cthprvt,2,t5_3134t
+4818146,0,t1_cu1tnmw,Already set but how exactly is that supposed to help in the situations described in this thread?,getnarwhal,cu1v7qh,1,t5_3134t
+4887143,0,t3_3hthq6,This is due to the fact that narwhals markdown support is very limited atmI am not the developer but i understand that implementing this is a tradeoff die to the following reasonAtm narwhal is i assume using native controls to display the text which makes rendering fast and easy. to extend markdown support without reinventing the wheel the developers would need to change that to use web views for reach comment displaying tiny bits of html.This could possibly impact scrolling performance impact battery usage and make it harder to have a consistent look throughout the interface youd need stylesheets to make tables for example match the look of the rest of the appSo doing this comes with a big tradeoff and i wouldnt expect the devs to make a rushed decision on this. If they decide to implement it they would probably take quite a bit of time to make sure the implementation is flawless.tldr this is a harder feature than it looks like from the outside. It might very well take some time til er get this if ever.,getnarwhal,cuak9iv,7,t5_3134t
+5066115,0,t1_cuw47mj,Hey Charlie!Thank you. Your an amazing developer and  I really like your app. I think I have been using narhwal for reddit for  months and I think that it had taken the place for my favorite reddit app for sure!  I am really happy for this. I want to beta test this to help this app be number  app in the world  to try awesome new features Best regardsTeRmRaN ,getnarwhal,cuwnpie,2,t5_3134t
+5110245,0,t1_cv1xx8x,It happened the day I created this thread so that would have been Saturday. Not since then.,getnarwhal,cv1z5ll,1,t5_3134t
+5142456,0,t1_cv5nl2w,Good to hear. Im sure itll run just as smooth in . but betas tend to have a ton of bugs which is why I stopped using them on personal devices. If I have work device handy at the time I tend to test it on there. If something that I know should be working isnt e.g. theres no documented change I tend to chock it up to it being a beta and wait until the next one.,getnarwhal,cv5uw5x,1,t5_3134t
+5181675,0,t1_cva3uaw,Here you go. Tapping the title doesnt do anything.,getnarwhal,cvaky5s,2,t5_3134t
+5188675,0,t1_cvaky5s,Thanks for sharing. I went ahead and filed it as a bug in trello so well probably get to it after the more annoying bugs and limitations are all fixed up.,getnarwhal,cvbfbvi,2,t5_3134t
+5403875,0,t1_cw1on62,I came to report this exact problem. Tapbots have just fixed it for Tweetbot  that now launches you directly to YouTubes app for relevant links. I dont know if theyre using URL detection or asking the system if theres an app that can handle the YT links  might be worth asking on Twitter? ,getnarwhal,cw2eliv,2,t5_3134t
+5403892,0,t1_cw2emoq,Right on sorry about that. No bugs so far by the way nice work and thank you,getnarwhal,cw2eoci,1,t5_3134t
+5561337,0,t1_cwleysy,Hey koh for now you can tap the ... in the upper right then add comment in that list. Were looking into ways to make this more intuitive. Cheers!,getnarwhal,cwmfnob,1,t5_3134t
+5600310,0,t1_cwr8fki,Shoot youre right! I completely missed that one. Thanks for letting us know.,getnarwhal,cwr9st4,2,t5_3134t
+6316990,0,t1_cz7mhfy,No problems! Anything to make this App even better . By the way are you guys planning to fix the Front Page where you see all the posts from your subscriptions. The way is set up that it doesnt show the thumbnails quite good in most of the threads before you click them. I know theres the other option where you can see the big thumbnails but what I dont like about it is that it makes the feed longer since the thumbnails are below the titles and not next to them to make it more compact. Also some of them show the full imagine instead of just a thumbnail. I hope you guys improve this in the default sorted feedback. Edit heres an example of what I mean look at the Thumbnails in the default style feed  what I would like is for you to make it a bit more larger but remaining next to the titles so the experience is better and more enjoyable. I mean who doesnt love thumbnails specially on links hehe!  ,getnarwhal,cz7o6ga,1,t5_3134t
+6332489,0,t1_cz9ff8p,Thank you for the support!,getnarwhal,cz9fnlv,1,t5_3134t
+6365780,0,t1_czd5e9w,Yea this is a great feature of reddit gold that narwhal already supports!,getnarwhal,czd7w80,6,t5_3134t
+6410657,0,t3_43hu4p,Thanks for reporting this. I have fixed this for the next version and hope to have a beta out soon.,getnarwhal,czibsjd,10,t5_3134t
+6443382,0,t3_3lmiq7,,getnarwhal,czlsa8b,2,t5_3134t
+6462508,0,t3_43znch,Thanks for the feature suggestion! I added this to our trello board.,getnarwhal,cznrmu1,3,t5_3134t
+6606650,0,t1_d02lq4n,Thanks narwhal!,getnarwhal,d02olka,5,t5_3134t
+6717927,0,t1_d0dsgcj,We added a signup link to the sidebar and also to a post in the sub earlier. Not many slots are left so get in on that action quick! Ill probably have to pull the link tomorrow unfortunately. ,getnarwhal,d0e6wwr,3,t5_3134t
+6872330,0,t1_d0va9by,I see the line now thanks.,getnarwhal,d0vagxk,8,t5_3134t
+6981901,0,t3_4b7rje,It took me forever to get off AB. Id experiment with some alternatives but they never felt like Reddit. Tried Narwhal around the new year and within an hour had upgraded and deleted AB. ,getnarwhal,d17qk4v,9,t5_3134t
+7083948,0,t3_4cj9m5,Maybe make the collapse thread function a pressandhold instead of just a single tap?,getnarwhal,d1jby8l,3,t5_3134t
+7098755,0,t3_4cs5ll,We may add that as an advanced setting in the future.,getnarwhal,d1l0jlg,4,t5_3134t
+7133727,0,t3_4d9i3w,Ah that really completes the circle now. Forgot about the subreddit search which AMRC now Antenna had. The app is so good now I doubt even the official Reddit app would be comparable. Really good job guys!,getnarwhal,d1p0xpv,8,t5_3134t
+7200422,0,t3_4dzayd,Yes this is planned.,getnarwhal,d1wmp1q,3,t5_3134t
+7223984,0,t3_4ed6le,My favorite Reddit client Milkeddit is still available.,getnarwhal,d1zb9x6,1,t5_3134t
+7224830,0,t1_d1ze0r5,With respect this doesnt make sense to me though I get that you just want to get your app relisted in the app store ASAP. The official reddit app has a safe for work toggle which is activated when that app ships so that only safe for work content is available. Are you saying that Apples problem is that the old Narwhal toggles use the NSFW label? Perhaps you could just copy the toggle label safe for work thats used by the official reddit app and should the user select to view adult content only then make the various thumbnail options for NSFW content etc available? I just hate to see those options go to waste. ,getnarwhal,d1zeqv3,5,t5_3134t
+7224845,0,t3_4ed6le,Alien Blue is still on the store,getnarwhal,d1zet2v,2,t5_3134t
+7225221,0,t3_4ee9aw,Is this showing up as unavailable for anyone else?,getnarwhal,d1zgcjc,3,t5_3134t
+7225317,0,t1_d1zgjgv,It is now in the app store!,getnarwhal,d1zgqop,1,t5_3134t
+7225497,0,t1_d1zgpuk,dude with every release i repeatedly tap the narwhal icon while in the app like a man possessed half expecting to see a flappy narwhal mini game appear i swear youve hidden an easter egg somewhere and i WILL find it.sad right?,getnarwhal,d1zhh6i,5,t5_3134t
+7231382,0,t1_d204qcx,That link is shown in safari view controller so Im not sure that there is anything I can do.,getnarwhal,d205l70,1,t5_3134t
+7254559,0,t3_4eoxqd,Im pretty sure one way it bugs is if you halfD touch not all the way so it peeks but the post enlarges and keep it that way for too long so that it acts a longpress instead. Then it does all funky things and my narwhal freezes ,getnarwhal,d22si6s,1,t5_3134t
+7307413,0,t3_4fhbox,Pretty sure Narwhal already supports flair. At least I can see it on some subreddits. Cant say for sure it works on all because Im not always paying attention to it.Edit can only see flair when viewing comments ,getnarwhal,d28sx83,3,t5_3134t
+7336114,0,t3_4ce9fc,,getnarwhal,d2c2dj8,1,t5_3134t
+7473971,0,t1_d2rmey1,thanks!,getnarwhal,d2rqvid,1,t5_3134t
+7710141,0,t1_d3il5v8,Im on a S with TouchID and lockingunlocking takes all of one second and leaves the video open so when the phone unlocks to the open video the controls reappear. Well agree to disagree.,getnarwhal,d3ilayi,2,t5_3134t
+7776266,0,t3_4ltqng,This is a pretty big update! We have some pretty big internal changes as well that need testing. So please let us know if you find any bugs!!,getnarwhal,d3q3jnn,32,t5_3134t
+7798975,0,t1_d3snwmc,I guess I more so meant why its got so much in background time. I asked the wrong question. Sorry!,getnarwhal,d3snyrj,2,t5_3134t
+7841516,0,t3_4mot76,Feedback left!! I love this update! Any possibility of having log in to imgur for photo uploads though?,getnarwhal,d3xgdme,2,t5_3134t
+7848000,0,t3_4mr4fv,I would actually love an ad blocker for the in app browser not safari view controller.  That would be an amazing addition.  ,getnarwhal,d3y6nq7,6,t5_3134t
+7849596,0,t1_d3ybijv,Yes I know this is a thing. It would be much more convenient to have a buttongesture to accomplish this particularly in a context where I need to do this many times in a short period. ,getnarwhal,d3yd4ix,6,t5_3134t
+7852111,0,t1_d3xfi0j, ,getnarwhal,d3ynbe1,2,t5_3134t
+7854054,0,t1_d3yr67y,Ok how do I sort the individual subreddit by hot? I see it as an option on my front page at the top but not if Im just looking at the subreddit exclusively. Sorry if this is a silly question. ,getnarwhal,d3yv742,1,t5_3134t
+7949144,0,t3_4ce9fc,,getnarwhal,d49k4qw,1,t5_3134t
+7987454,0,t1_d4dv3c7,Also automatic night mode. Set a time frame of when to activate like Do Not DisturbNight Shift for iOS. ,getnarwhal,d4dv6pn,4,t5_3134t
+8307337,0,t3_4tb0h0,Its already in the To Do column of their Trello When having a request you can check there if the devs are working on it or not its pretty neat ! If someday you want to go back on the Trello but cant find this comment you can find the link in the sidebar of this subreddit ! ,getnarwhal,d5fz2a6,2,t5_3134t
+8433554,0,t3_4v5lof,Can confirm. Last two versions now.,getnarwhal,d5vqfpd,7,t5_3134t
+8447741,0,t1_d5xi42z,Not on this device. .. s,getnarwhal,d5xi6jv,1,t5_3134t
+8469286,0,t1_d60739n,Np ,getnarwhal,d6077pm,1,t5_3134t
+8484618,0,t3_4vwrsr,It has a tusk. ,getnarwhal,d624g0g,4,t5_3134t
+8845945,0,t1_d5v0sqy,Hey again!Im sure you realize this but I just installed the latest update and.... Its not fixed. I was watching a GIF in portrait... Rotated my device... And... Argh! Split screen. I hope you can remedy this. It would be super cool!  Thanks!,getnarwhal,d7b5o73,1,t5_3134t
+8932560,0,t3_52mirm,Can you let me know what subreddit this is happening for?,getnarwhal,d7lk8e6,2,t5_3134t
+9026380,0,t3_53vjo1,Id also add whenever you open an article with something attachedyou get a blinding instant white light in night mode make it a bit easier on the eyesExample ,getnarwhal,d7wtuyi,5,t5_3134t
+9067512,0,t3_54gsko,Thanks for the Options button at the top. Looks much cleaner now with easier access to more commonly used sorting options. This still happens in night mode ,getnarwhal,d81rnzh,1,t5_3134t
+9405246,0,t3_59g1iz,same thing here. shows loading more perpetually without actually loading anything. tried logging out and in again reinstalling app rebooting iPhone to no avail. help please. ,getnarwhal,d986j7r,4,t5_3134t
+9496427,0,t3_5auwjt,Rebooted reinstalled no luck. Eventually I just sort of kept pulling refresh and it resolved itself. No biggy. ,getnarwhal,d9jmxse,1,t5_3134t
+9559696,0,t1_d9rd08h,Thanks for trying to help anyway.,getnarwhal,d9rfg46,2,t5_3134t
+9608002,0,t1_d9xddwe,Youre welcome ,getnarwhal,d9xdsei,2,t5_3134t
+9840556,0,t1_daq8v7y,I meant to post this as a general reply not specifically to too. Still getting used to this app recently switched from AB. Sorry! ,getnarwhal,daq8xap,2,t5_3134t
+9843988,0,t3_5gac3z,Hey welcome to Narwhal  !In the menu go to preferences gt advanced settings gt collapse comments by default !Here are some useful links I like to give to new users  The teams Trello where youll find every feature they are working on want to work on arranged by priority rgetNarwhalFAQ is a great place to get some info the sub aint active though so Im not sure how efficient it is to post questions there youre better off doing it here and using the FAQ for issues that are already documented there You can comment an emoji here to get it as a sweet flair like my basketball !,getnarwhal,daqp0qa,4,t5_3134t
+9905723,0,t3_5ggf14,Just have a question. Is it possible to toggle the dark UI when not on the front page? aka when browsing in any other sub reddit?,getnarwhal,dayqm4m,1,t5_3134t
+10045679,0,t1_dbgwcey,Done! ,getnarwhal,dbgz7g2,1,t5_3134t
+10050302,0,t1_dbgw9ez,how come?,getnarwhal,dbhkvwy,2,t5_3134t
+10070561,0,t3_5jy6r2,   My favorite ,getnarwhal,dbk7t8a,13,t5_3134t
+10081882,0,t3_5jy6r2, ,getnarwhal,dblotac,1,t5_3134t
+10090210,0,t3_5katyw,Use the three sea shells dots menu at the top of the thread to reach the sort option. This took me a little while to find too. It deviates from the sort method used on the main page. ,getnarwhal,dbmrroi,1,t5_3134t
+10253171,0,t3_5mto8u,deleted,getnarwhal,dc694gs,10,t5_3134t
+10342949,1,t3_5o3z4o,I dont have any issues with how it is now. ,getnarwhal,dcgfk7h,-1,t5_3134t
+10353819,0,t1_dcglgvt,I know how to add manually. I wanted to know if any future updates would add this option.Thanks anyway ,getnarwhal,dchnzdq,1,t5_3134t
+10456501,0,t3_5prl9m,I dont really use the search feature much but I think thats what youre going to be working with to try to accomplish your tasks.  Filters are something else they are for filtering out content you dont want to see.,getnarwhal,dctckst,1,t5_3134t
+10542151,0,t1_dd31bb7,Awesome! Thanks for the reply.,getnarwhal,dd32jlb,1,t5_3134t
+10643050,0,t3_5s84k4,Definitely have seen a larger amount of videos that wont load. When browsing the videos aubreddit yesterday it felt like one out of two videos were not loading!,getnarwhal,dddqz5j,3,t5_3134t
+10848303,0,t1_ddyar9u,I think ads with gifvs and html video should be done away with. If I cant listen to music and browse  reddit than Id consider the app unusable. Ive been using reddit sync on an old Android device that tethered to my iPhones data.,getnarwhal,ddyxcmp,1,t5_3134t
+10859091,0,t3_5v6bkf,It appears to be that any text ending in punctuation is not bolded.TestTest!,getnarwhal,de01eks,3,t5_3134t
+11008282,0,t3_5x6vai,Its the upcote percentage. That post is  upvoted,getnarwhal,defrapr,18,t5_3134t
+11328480,0,t3_61kmwv,We will be adding more menu customization in the future,getnarwhal,dfg2bpj,3,t5_3134t
+11415211,0,t3_62xzmq,deleted,getnarwhal,dfpwig1,1,t5_3134t
+11566442,0,t3_652ore,nah we get options now so you can be classy if you want it but lets not abandon our humble and gaudy root!,getnarwhal,dg72842,11,t5_3134t
+11570422,0,t1_dg7igkf,Anytime. Happy to help. ,getnarwhal,dg7ihau,1,t5_3134t
+11614691,0,t3_65qvpr,Did you try adjusting settings in preferences gt advanced settings gt menu customization?,getnarwhal,dgcja52,1,t5_3134t
+11632309,0,t1_dgdrdo3,Ive heard it works better if you draw the alphabet. ,getnarwhal,dgej9d8,8,t5_3134t

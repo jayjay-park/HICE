@@ -1,0 +1,196 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+42753,0,t1_cehhoqn,Nope. If youre running ART and you install xposed it automatically switches back to dalvik. Also there are plenty of xposed mods that add functionality to custom roms like CM.,xposed,cejaraw,4,t5_2xgaj
+142894,0,t3_1vmdx1,I had the same issue. Just go into settings default tints and set the opacity to transparent. Itll fix the problem immediately.,xposed,ceupfd8,1,t5_2xgaj
+144923,0,t1_ceu59l5,Saving info for later,xposed,ceuxroh,1,t5_2xgaj
+183732,0,t3_1w6y0t,ooh! been looking for something like this for a while!,xposed,cezd49c,1,t5_2xgaj
+197961,0,t3_1w6y0t,I was looking for LED charging indicator for my Nexus  but most of them runs an extra service like Light Flow and Charging LED which I dont really like... Really hoping that this module will support battery charging status. I would like to stay as close to stock ROM as possible PKeep up the good work!,xposed,cf0znfp,1,t5_2xgaj
+302804,0,t3_1xka54,why dont you just install them and let us know?,xposed,cfc5h89,-10,t5_2xgaj
+308070,0,t3_1wxkay,Seems like a fairly innocent question even if it is a bit soon... Hes not complaining or anything so how about instead of going for the jugular and calling him entitled just give a simple not yet or be patient?,xposed,cfcp6ji,3,t5_2xgaj
+465872,0,t1_cft2nh2,I dont think i have that option. O.o,xposed,cft7z2l,2,t5_2xgaj
+541357,0,t3_20a0ps,I havent tried much xposed development yet but looking at the xposed tutorial did you update the xposedinit in the assets folder? You say youve changed the package name so the file has to point to the new entry point.From gt The only thing that is still missing now is a hint for XposedBridge which classes contain such entry points. This is done via a file called xposedinit. Create a new text file with that name in the assets folder. In this file each line contains one fully qualified class name. In this case this is de.robv.android.xposed.mods.tutorial.Tutorial.,xposed,cg1t4i7,1,t5_2xgaj
+941633,0,t3_24wguc,I just tested it and I have unlimited skips still so as far as I can tell it still works.,xposed,chbbiqr,3,t5_2xgaj
+943883,0,t3_24x9et,The fastest way to get rid of xposed in general ist to flash  XposedDisablerRecovery.zip located in your internal memory. ,xposed,chbkr05,6,t5_2xgaj
+953537,0,t3_24wguc,So Im new to this tweak was just looking for it today. What is the AVRCP tweak?,xposed,chcobi0,1,t5_2xgaj
+980343,0,t1_chfcf37,Awesome.  Ill check it out.,xposed,chfq1vh,1,t5_2xgaj
+1008313,0,t1_chikfsh,Slightly OT but Ive set my bars up to fff backfront and no matter what coloring mode I choose the clock and battery icons stay practically invisible though the other icons are properly colored. Am I doing something wrong or is this a limitationbug? Thanks.,xposed,chiwimv,1,t5_2xgaj
+1023969,0,t1_chkofum,Do you know what it is called? I like the way the app looks but I liked the old icon better.,xposed,chkojuh,1,t5_2xgaj
+1044533,0,t1_chn083q,Alright thanks. I just built it and you can test it if you want link above.,xposed,chn0nt6,1,t5_2xgaj
+1123213,0,t3_26ya23,There is no need for an Xposed module here nor would it add anything. You could however buy a VPN in another and set it up in your phones VPN settings to accomplish this.,xposed,chvyxi4,1,t5_2xgaj
+1124767,0,t1_chw4go9,Ah ok ,xposed,chw58fv,1,t5_2xgaj
+1134363,0,t3_27465r,Im about to switch to a phone with only touch keys. I would kill for an addon like this.,xposed,chx84uw,1,t5_2xgaj
+1317814,0,t1_cihucaw,Pie introduced in Paranoid Android and Quick Launch is not the same! ,xposed,cihvd5z,1,t5_2xgaj
+1329702,0,t3_29ae85,Cant you flash the image?,xposed,cij7iyw,-6,t5_2xgaj
+1357942,0,t1_cimffgx,Another PVStar user here. Its a little slow but it does everything the OP wants,xposed,cimib1f,2,t5_2xgaj
+1445533,0,t1_civjg0i,Imported the profile and task and it works great when Maps starts and turns on GPS without a prompt and I can locate myself. The problem lies in that it doesnt turn off GPS when I back out of MAPS or open recents apps tab and swipe to clear it.,xposed,cixh2gh,1,t5_2xgaj
+1468683,0,t3_2alttp,Mine already has it too,xposed,cj0di8k,1,t5_2xgaj
+1473609,0,t3_2b17so, Gravitybox KK  loads of customisations!  ActivityForceNewTask  causes apps to open different tasks it it uses another app Burnt Toast  Show app icons in toasts Exchange Bypass For Xposed  remove administrative rights required from some email accounts Greenify  Increase your battery life and performance LWinRecents  wallpaper in task changer if using a livewallpaper StopSwitchDelay  removes delay when opening another app AppOpsXposed  Enable and disable app permissions ,xposed,cj0zpo0,1,t5_2xgaj
+1529122,0,t1_cj7jhx1,While it was requested I dont think its available in Gravity.,xposed,cj7yasj,1,t5_2xgaj
+1552943,0,t1_cjaxaq2,Google,xposed,cjaxntx,5,t5_2xgaj
+1605724,0,t3_2cllby,xblast tools.this style of implementation is also available in many roms.,xposed,cjhkib9,1,t5_2xgaj
+1758756,0,t1_ck0uccm,App settings,xposed,ck0ujxj,3,t5_2xgaj
+1760183,0,t1_ck10sdo,Yeah... Id even do a subscription similar to Lastpass mo or year.,xposed,ck110xx,3,t5_2xgaj
+1765393,0,t3_2enidy,You can do this with GMD Gesture control. But the first tap will always be used as input for the currently opened app. You can asign the gesture to certain areas around the edge of the screen but if you chose them all you will  break some functionalities like the sidebars or even the statusbar. So as the others already said it wont really work.,xposed,ck1omso,1,t5_2xgaj
+1820824,0,t3_2fddxv,My Note  is also doing this. Usually when its plugged in to charge but sometimes when its just sitting there. Are there any fixes for it?,xposed,ck8lglg,2,t5_2xgaj
+1839082,0,t3_2fmm9r,Im having the same problem only with the google search app. Oddly enough hangouts gets themed just fine,xposed,ckat0pm,2,t5_2xgaj
+1848005,0,t1_ckbv9w8,But..... I love this phone. I just like lgs skin. I know Im crazy,xposed,ckbvow4,7,t5_2xgaj
+2013178,0,t3_2hs22b,This exists! Search the repository for Holo Dark theres a module that toggles between holo dark and light in all apps. I cant link because Im on my phone  it isnt hard to find though ,xposed,ckvs9du,0,t5_2xgaj
+2100496,0,t1_cl6s86y,What do you use? Ive tried a few and they all suck.,xposed,cl6thxg,1,t5_2xgaj
+2144379,0,t1_clc9bgz,Well actually unless the developer tells the system to display iOS Samsung or Facebook emoji anything running . and up will display the stock Android emoji although it could have an option to switch between them. ,xposed,clcedas,1,t5_2xgaj
+2145225,0,t1_clazm6j,This sounds like something that can be better done by App Settings You can achieve tablet mode by tweaking the DPI Font Scale and Screen dp values.,xposed,clci8zk,2,t5_2xgaj
+2164712,0,t3_2fbtyr,Smells like click bait. ,xposed,clezgum,3,t5_2xgaj
+2247571,0,t1_clp8o4p,Yeah Ive done this exact thing with Tasker. Pretty easy and very helpful.,xposed,clpip7x,1,t5_2xgaj
+2489223,0,t1_cmjh2ur,Whats it called,xposed,cmjha3w,1,t5_2xgaj
+2671009,0,t3_2ql9kx,Agree with the nova launcher. Also XUI mod has every other animation you can think off app scrolling toast etc.,xposed,cn782i6,1,t5_2xgaj
+2897474,0,t1_cnxg43e,SD Maid  System Cleaning Tool  Free  Rating   Search for SD maid on the Play StoreSource Code | FeedbackBug report,xposed,cnxg4pf,2,t5_2xgaj
+3137474,0,t3_2w2jk9,gt dont see why its there at allBecause your pass code can be more than  characters for extra security.,xposed,con725b,1,t5_2xgaj
+3137625,0,t3_2w39qy,This is great Ill definitely give it a try if its ever working on Lollipop!,xposed,con7mfz,3,t5_2xgaj
+3138082,0,t1_con8fg3,Wait so your modules are working? Or not?,xposed,con9buc,1,t5_2xgaj
+3165823,0,t1_coq4l08,As I am writing this I can only see . on Xposed. I also have it to show all version experimental included. Thanks for replying this quickly! ,xposed,coq4x61,1,t5_2xgaj
+3184518,0,t1_cos0j1o,Yup. Tis sad. ,xposed,cos2prs,1,t5_2xgaj
+3185358,0,t1_cos5p49,Im pretty sure there is a immersive module. Not sure about pie though,xposed,cos5ut4,1,t5_2xgaj
+3185950,0,t1_cos7rgx,Not being a jerk. Sorry if thats how I came off.  ,xposed,cos82el,6,t5_2xgaj
+3186560,0,t1_cos8wze,gunna have to try one of these. which did you use? because i just found out about this and the latest one doesnt work if you use facebook to log in. you can even type the credentials in it says use the button. then the button errors out.,xposed,cosacso,1,t5_2xgaj
+3191411,0,t1_coskiuv,Excellent never knew that.Thanks.,xposed,cossfpg,1,t5_2xgaj
+3199154,0,t3_2ws13v,I literally just got done flashing stock LP. Go figure. P,xposed,cotlbl1,4,t5_2xgaj
+3210596,0,t1_courixv,Yes. Ive been using snapmod with great success so far. Might switch to keepchat if it works well on .,xposed,cous0bp,1,t5_2xgaj
+3217304,0,t1_covgsjh,Go to the Xposed Installer app click on Log and you can save it from there.,xposed,covh4an,1,t5_2xgaj
+3287371,0,t1_cp2yzwi,Edit I just saw GravityBox has an update. Get the new version.,xposed,cp2zis3,2,t5_2xgaj
+3288957,0,t1_cp34tth,Actually it seemed to work this time I did that before but I ended up reflashing the arm file before I did so this time and it looks like its fine now. Thanks. ,xposed,cp361de,1,t5_2xgaj
+3290610,0,t1_cp2fgsw,I saw this mentioned elsewhere but I couldnt get it to work...,xposed,cp3ctsc,1,t5_2xgaj
+3293665,0,t3_2xoh9s,This is definitely not possible. You can fool your phone you cant fool your provider. ,xposed,cp3pd6z,1,t5_2xgaj
+3301915,0,t1_cp4n4m7,Mine shows that. Works a charm too.,xposed,cp4n87k,4,t5_2xgaj
+3331952,0,t1_cp820go,Ignore me. It works great thanks! A cheeky reboot worked. ,xposed,cp82hd6,1,t5_2xgaj
+3350752,0,t3_2yjx92,TMy phone is crashing a lot but I cant confirm thats its definitely xposed doing it,xposed,cpa7lfv,0,t5_2xgaj
+3390461,0,t1_cpdoo2b,Its OK man. Thanks anyways ,xposed,cpeqmlg,2,t5_2xgaj
+3392265,0,t1_cpemkgn,Actually its very well thank you. Im curious where you see the malice in my comment? ,xposed,cpey11h,-3,t5_2xgaj
+3400674,0,t3_2z5ovd,The time you spent making this post could of been used to search. Almost all custom ROMs support this and MANY xposed modules...  These request post are getting ridiculous.,xposed,cpfwi5s,0,t5_2xgaj
+3424892,0,t1_cpikiuh,But ultimately its meaningless. What data does that provide them with? Every email they send out to a Gmsilinbox account will be accessed. It turns whatever data theyre hoping to collect into mush. ,xposed,cpinv91,1,t5_2xgaj
+3425590,0,t3_2zfmgg,Not really beautiful either.  The CSS here is broken so badly on chrome as to be unusable.,xposed,cpiqqmh,-1,t5_2xgaj
+3445048,0,t3_2zmuno,I think Xuimod might be what youre looking for. I remember an Xposed module that had a ridiculous amount of transition animations and that allowed you to change almost every transition there is on your phone. Dont quote me though. ,xposed,cpkyllk,1,t5_2xgaj
+3461825,0,t1_cpmv1bk,deleted,xposed,cpmvfz1,2,t5_2xgaj
+3463655,0,t1_cpn2w2d,deleted,xposed,cpn2xze,1,t5_2xgaj
+3473718,0,t1_cpnukti,Id say well most likely implement every single one if those features including a beautiful design if you count that as a feature I do.,xposed,cpo89o5,1,t5_2xgaj
+3495233,0,t1_cpqn9dx,No idea but check the edit I found an alternative,xposed,cpqojoe,1,t5_2xgaj
+3545722,0,t1_cpvp09s,Like TouchWiz and Sense? Results have been mixed at the moment but always looking for ways to improve.,xposed,cpwfo90,1,t5_2xgaj
+3563567,0,t1_cpyduk4,Not exactly the same thing but check out Tablet Matrix,xposed,cpyh1e4,3,t5_2xgaj
+3602216,0,t1_cq2vjum,Thanks! ,xposed,cq2vmlx,1,t5_2xgaj
+3672599,0,t1_cqauwfx,,xposed,cqawf2j,1,t5_2xgaj
+3723261,0,t1_cqgmtxn,Its OK Ill try it the next time my device bootloops.,xposed,cqgoeu0,1,t5_2xgaj
+3726648,0,t1_cqh1tri,Xposed worked fine on my phone previously with CM ..  The developer is referring to the fact that Xposed currently doesnt support TouchWiz.,xposed,cqh2a42,2,t5_2xgaj
+3760880,0,t1_cqky9fj,I have a toast message but if my phone rattles or slides off the charger I wont instantly notice that it isnt charger anymore. The toast messages disappear in a just a couple seconds. ,xposed,cqkyvbf,1,t5_2xgaj
+3808223,0,t1_cqqcpxt,Alright tnx!,xposed,cqqd8wx,1,t5_2xgaj
+3857696,0,t3_34mceo,the only idea I see is flashing a custom kernel that has SELinux mode set to permissive by default ,xposed,cqw0gv0,1,t5_2xgaj
+3900066,0,t1_cr0reg3,I get the message that my snap version isnt up to date. Any way to bypass this?,xposed,cr0ub76,2,t5_2xgaj
+3937609,0,t1_cr53wjl,Well I need Xposed because Im actually hooking into the shutdown call to postpone it. If there will be enough people who like the idea I will look into extending this app to a nonxposed version as well. The problem here is that I currently only see the possibility to show that dialog at  which on some devices can mean min of lost screen on time. ,xposed,cr54eef,9,t5_2xgaj
+4048191,0,t1_crhg2e3,Does this fox the random service disconnects on .?,xposed,crhq41w,1,t5_2xgaj
+4079963,0,t3_37byd2,Your submission has been automatically removed because the title does not include one of the required tags. Please check the sidebar for information about tagging your submission properly.I am a bot and this action was performed automatically. Please contact the moderators of this subredditmessagecompose?torxposed if you have any questions or concerns.,xposed,crlcawf,1,t5_2xgaj
+4117353,0,t1_crpiouf,I believe the preview for Lollipop ended up being different to the actual release much like . and . ended up requiring different builds so its possible that they may choose not to work on the preview in case their work ends up being wasted. But without a comment from them I guess we cannot say for sure.,xposed,crplrim,2,t5_2xgaj
+4264845,0,t1_cs6bmj9,Huh. Ive had no issues sitting at ....,xposed,cs6d6ss,3,t5_2xgaj
+4292576,0,t1_cq3eors,late to the game but it was working for me with Pandora . doesnt work anymore after the update to .,xposed,cs9htlj,1,t5_2xgaj
+4319544,0,t1_cruo3el,That doesnt have anything to do with Xposed...,xposed,cscjhx9,0,t5_2xgaj
+4385555,0,t1_csjzdep,Youre welcome. Make sure you read the post at xda. The app is a little unwelcome visually talking ,xposed,csjzlkw,1,t5_2xgaj
+4417335,0,t1_csn7z5h,Got it up and running thanks so much. Got all my modules I like.  Whats your favorite ones.,xposed,csnkgsi,2,t5_2xgaj
+4525966,0,t1_ct14rjm,Hmm I actually just started experiencing exactly these issues yesterday and today. I had a feeling it might be GB because when Id go to reboot only the power off option would be available. Ill keep an eye on it.,xposed,ct14wjo,1,t5_2xgaj
+4545150,0,t1_coy0z7n,Thats what i want,xposed,ct3jjji,1,t5_2xgaj
+4554953,0,t1_ct3jftz,Can confirm. User of TW ... Its under developer settings,xposed,ct4rtmo,1,t5_2xgaj
+4577507,0,t3_3dq8wf,Your submission has been automatically removed because the title does not include one of the required tags. Please check the sidebar for information about tagging your submission properly.I am a bot and this action was performed automatically. Please contact the moderators of this subredditmessagecompose?torxposed if you have any questions or concerns.,xposed,ct7lng5,1,t5_2xgaj
+4584210,0,t3_3dppnn,why dont try a different lockscreen all together?,xposed,ct8fvim,1,t5_2xgaj
+4592331,0,t1_ct9eri9,Lol just read both modules description always expandable notifications make non expandable notifications expandable and always expanded notifications makes them expanded by default so yea you can say you need both if you want notifications expanded by default.,xposed,ct9gh5b,1,t5_2xgaj
+4854653,0,t1_cu6d74b,Damn. I tried as well and it seems the dev didnt put the version that were compatible like he does with the newer ones. Have you tried to see if the newest update works for it?,xposed,cu6grh3,1,t5_2xgaj
+4895648,0,t3_3hq1il,Sweep thank you! ,xposed,cubmw70,2,t5_2xgaj
+4898055,0,t1_cubwlq4,AOSP will never have such hacks which can be work arounded by package name change. CM would not do it since they would lose a lot of users. They are not stupid this is bad implementation.I would never use ROM with such anti piracy mode and I am not warez man I paid apps.,xposed,cubxst3,7,t5_2xgaj
+4928031,0,t1_cufponr,No. ,xposed,cufpuaz,1,t5_2xgaj
+4979430,0,t3_3j4jxt,Your submission has been automatically removed because the title does not include one of the required tags. Please check the sidebar for information about tagging your submission properly.I am a bot and this action was performed automatically. Please contact the moderators of this subredditmessagecompose?torxposed if you have any questions or concerns.,xposed,cum70ql,1,t5_2xgaj
+4986842,0,t1_cun1t1b,Im curious did it work? Did you find the module that was draining your battery? ,xposed,cun3kuv,2,t5_2xgaj
+5015506,1,t3_3jmt3r,hablas English?,xposed,cuqk49t,1,t5_2xgaj
+5051423,0,t1_cuurd1e,ViPER an Viber are two completely different apps.,xposed,cuuvz5t,1,t5_2xgaj
+5136453,0,t1_cv54lzw,What settings would I customize? All I did was add the BES application in RootCloak,xposed,cv54ub3,1,t5_2xgaj
+5143745,0,t1_cv5vvg1,Yeah it was only his Snapchat and Instagram listed for keeping up to date with development stuff and I dont use Instagram. Ah well thanks for the info!,xposed,cv60iei,1,t5_2xgaj
+5144997,0,t1_cv63g41,Hmm.. Im on stock though. I never flashed a custom rom. Hopefully some clever dev will come along and sort all this out for us. D,xposed,cv65y53,1,t5_2xgaj
+5241630,0,t3_3mrv14,Im using minminguard and snapprefs . and have not seen any ads so far.,xposed,cvht1ai,8,t5_2xgaj
+5275811,0,t1_cvlz0hs,Check the link it tells you. ,xposed,cvm1mf8,1,t5_2xgaj
+5488936,0,t1_cwd96aq,Then dont use it. Easy fix. ,xposed,cwd9gdh,10,t5_2xgaj
+5697304,0,t1_cx36c8f,Not really what im looking for. I dont want something running in the background draining my battery and I dont want to have to toggle it every time I listen to music ,xposed,cx3b02m,1,t5_2xgaj
+5762317,0,t1_cxbc1dy,I thought you needed a custom kernel to actually get rooted but the thing is Im already rooted Root Checker tells me so and working fine AdBlock and such. I dont get it...,xposed,cxbdalh,1,t5_2xgaj
+5784498,0,t3_3ucwr8,Havent been rooted in a while  owing to my new S but will rolling back to a previous snapchat .apk not fix this issue? Used to do the charm on my old G.Feel free to downvote for inaccuracy just thought this may still be a viable fix for some users.,xposed,cxe4erz,1,t5_2xgaj
+5952152,0,t3_3wrv5t,Hi I am working on this right now only adding compatibility for Lollipop to the original module. It is almost done but I am facing a java.lang.NoSuchMethodError even though such a method exists described here If you would provide your Github username to me I will share the private repository with you it is not public yet as I am unaware of the original authors licensing conditions and then we can work on it.,xposed,cxzuvc7,1,t5_2xgaj
+6006530,0,t1_cy6kfsn,It works. Its limited but it works. A lot of people use it on TW for key remapping.,xposed,cy6zjbv,1,t5_2xgaj
+6031657,0,t3_3y3u8q,Second post from the XDA thread you postedAPKMirror,xposed,cya9n5g,6,t5_2xgaj
+6036361,0,t3_3y5od8,Simply editing your build.prop wont do anything...emojis are a subset of a font file in your system keyboard and the new emojis are added to that file in ...,xposed,cyavpog,2,t5_2xgaj
+6100314,0,t3_3z1v4z,I have it set for my button,xposed,cyj1l19,1,t5_2xgaj
+6159064,0,t1_cyp8udk,yep ES creates a hidden baidu folder and send a log to a chinese server. scroll midway to post To those that thought it might be ES File Explorer  I salute you. My researchTBH this sketched me out. I deleted the directory and tried a bunch of apps to try and find the culprit my instinct said Vipers Audio but it wasnt. Then I did a root search of my phone for the word baidu. I used CMs file explorer rather than a rd party app. Heres what came up In folder datadatacom.estrongs.android.popsharedprefs is a file BaiduStatSDKSendRem.xml. When I look at the XML its pretty simple. Its sending a logfile. I dont know what its sending a log ofthat bothers me.I also did a little more background research. Apparently one of Baidus founders is an angel investor in EStrongs. I hate to say it but this might compel me to stop using ES FileExplorer even though its a great app...Do with this information what you will.Oh one more thing I tried a search for baidu using ES it didnt find the xml file... Really strange.,xposed,cypq017,3,t5_2xgaj
+6303840,0,t1_cz65gs4,Wow that would be nice,xposed,cz66c9e,2,t5_2xgaj
+6412326,0,t1_czhojex,How do I do this? ,xposed,cziim2w,1,t5_2xgaj
+6440384,1,t3_43vqfl,is it stable?,xposed,czlh3f5,0,t5_2xgaj
+6529216,0,t1_czss84n,In custom ROMs based on CM there is an option called System Profiles who work like a taskerlike condition if this is what you want.I use this instead Secure Setting now.,xposed,czuo837,1,t5_2xgaj
+6654354,0,t3_46syax,Your submission has been automatically removed because the title does not include one of the required tags. Please check the sidebar for information about tagging your submission properly.I am a bot and this action was performed automatically. Please contact the moderators of this subredditmessagecompose?torxposed if you have any questions or concerns.,xposed,d07m93e,1,t5_2xgaj
+6688390,0,t3_473z9a,If you get og YouTube you can at least set which one you launch to.,xposed,d0b4zb5,3,t5_2xgaj
+6763920,0,t3_48dqtl,Every Android version before lollipop . was like this. Im on mobile so I cant link exactly but Im pretty sure this is a module,xposed,d0iywnq,2,t5_2xgaj
+6802264,0,t1_d0n6ruf,Same here,xposed,d0nbvkn,1,t5_2xgaj
+6836082,0,t1_d0r5q4z,Theres an unofficial one that works.,xposed,d0r677n,7,t5_2xgaj
+6867523,0,t3_49tqgk,I am also interested in this. Im  sure this is possible because there are mods for my m which let you hold the power button to turn on the flashlight. ,xposed,d0uqt6y,2,t5_2xgaj
+6961629,0,t3_4b16o5,PureNexus also has this builtin. Its called audio ducking.,xposed,d15fpxr,3,t5_2xgaj
+6974290,0,t1_d16sc0q,It was just a shower thought. If I had the knowledge and time Id make that myself. It doesnt offer anything useful other than the reference ,xposed,d16vg2p,8,t5_2xgaj
+7020048,0,t3_4bstzi,XDA Repo ,xposed,d1c2mb7,8,t5_2xgaj
+7038805,0,t3_4c1hex,Your submission has been automatically removed because the title does not include one of the required tags. Please check the sidebar for information about tagging your submission properly.I am a bot and this action was performed automatically. Please contact the moderators of this subredditmessagecompose?torxposed if you have any questions or concerns.,xposed,d1e7e1a,1,t5_2xgaj
+7163002,0,t1_d1s2j2l,Theres a new one however its not been updated on Google play. If you install a mm gapps that includes sound search you will get the new one which has no history and takes up the whole screen when listening. Its fucking terrible actually compared to the old one thats still on Google play.,xposed,d1sd4vl,1,t5_2xgaj
+7284493,0,t3_4f5qi5,Im planning to implement dark mode into my module Android Nify but currently Im redesigning the notifications and the qs header so that my take a while.,xposed,d26754r,6,t5_2xgaj
+7359134,0,t3_4g55na,Do you have Powernap or Greenify installed? If so are YouTube and YouTube background player whitelisted on both apps? ,xposed,d2eolrb,3,t5_2xgaj
+7402358,0,t3_4glbqd,deleted,xposed,d2jll4y,1,t5_2xgaj
+7405299,0,t3_4glbqd,Does this work for v ... on play store right now? ,xposed,d2jxmru,1,t5_2xgaj
+7444088,0,t1_d2o0i6s, Yeah I get that. Hopefully it works out for him without too much hassle,xposed,d2ocg2u,1,t5_2xgaj
+7472261,0,t3_4hnjo9,Already a feature in GravityBox. I prefer Volume in Notification from Play Store though.,xposed,d2rjv7u,1,t5_2xgaj
+7513033,0,t3_4i9crk,Your submission has been automatically removed because the title does not include one of the required tags. Please check the sidebar for information about tagging your submission properly.I am a bot and this action was performed automatically. Please contact the moderators of this subredditmessagecompose?torxposed if you have any questions or concerns.,xposed,d2w70c3,1,t5_2xgaj
+7756622,0,t1_d3nukx0,Even if it works i dont think its officially supported Supported ONLY Google  AOSP  Swype keyboards,xposed,d3nvaxd,1,t5_2xgaj
+7771846,0,t1_d3pl5tk,deleted,xposed,d3plh6u,1,t5_2xgaj
+7780128,0,t1_d3qi5cy,This is very close to what I had in mind however it does have a drawback for my use case. It will have to suffice for now thank you for bringing it to my attention.I use tasker along with secure settings so that with  wrong attempts to unlock the device the unlock code is changed from a PIN to a long alphanumeric password. This effectively resets the encryption password to the default password. With xposed this should be a non issue.The accessibility services issue I mention in the OP is also of concern. If one does not remember to reset their encryption password through CryptFS after enabling one of said services they are likely to be reminded of it only after rebooting their device which could be a considerable amount of time depending on use.Also thisgt If you change the device unlock passwordPIN the encryption password will be automatically changed as well. You need to use this tool again to change it back if required.This is not that much of a deal breaker however.,xposed,d3qjb7c,1,t5_2xgaj
+7831949,0,t1_d3wdkf2,Ah... I am on Nexus  so gets tough to type in a crammed space. But thanks for the cool workaround nonetheless.I had to go back to default keyboard. ,xposed,d3wdn0n,1,t5_2xgaj
+7950235,0,t1_d48tjoy,What a nice way to ask for help!,xposed,d49ojvu,4,t5_2xgaj
+7953345,0,t1_d49ypx9,Applike ,xposed,d4a1482,1,t5_2xgaj
+7963131,0,t3_4oape0,Modules and installer stay just reinstall framework,xposed,d4b4rbr,3,t5_2xgaj
+8044527,0,t1_d4ka0lq,deleted,xposed,d4ka4n4,4,t5_2xgaj
+8117519,0,t3_4qe60e,Closing apps drains battery. I just press the tab button then three dot menu and close all tabs. ,xposed,d4shd5q,-6,t5_2xgaj
+8209557,0,t1_d524y0x,Here are screenshots of the navigation bar The module works even I am applying the Swift Dark theme but will revert if I use the keyboard. A workaround is to rotate the screen and I would get the Nougat icons again.,xposed,d53qzsj,1,t5_2xgaj
+8348040,0,t1_d5k3xlq,truth . Waited  mins and it worked thanks,xposed,d5l23fh,1,t5_2xgaj
+8365910,0,t3_4u3u9p,Im also getting this message. Not sure whats wrong,xposed,d5nages,1,t5_2xgaj
+8371007,0,t1_d5nwu70,Glad to have helped.,xposed,d5nxcc0,2,t5_2xgaj
+8388554,0,t1_d5p1gdy,You dont even need to flash the Xposed uninstaller. Just go to the Xposed module click uninstall framework reboot login to snapchat reinstall framework and reboot again. ,xposed,d5q47u1,1,t5_2xgaj
+8397642,0,t1_d5r92lj,Does that keep the login token?,xposed,d5r934h,1,t5_2xgaj
+8459940,0,t3_4tqss1,Did you ever get this fixed? I did the same and now im stuck in bootloop  I have twrp recovery installed though..,xposed,d5z107f,1,t5_2xgaj
+8510298,0,t3_4wai4t,Your submission has been automatically removed because the title does not include one of the required tags. Please check the sidebar for information about tagging your submission properly.I am a bot and this action was performed automatically. Please contact the moderators of this subredditmessagecompose?torxposed if you have any questions or concerns.,xposed,d65cd08,1,t5_2xgaj
+8510983,0,t3_4w97no,I just think the snapprefs app got to bloated and made updating hard because everything breaks after each update. I really wish he would release a simple app like Xinsta  so you can just save the images. Were you just update a hook file on a server and the client downloads it so no need to release an apk. And have a full blown app for the other stuff. ,xposed,d65fgr8,5,t5_2xgaj
+8515498,0,t1_d64m2ez,You have to use Snapchat .. to get it work.,xposed,d65zvhp,2,t5_2xgaj
+8519932,0,t3_4weqdx,The hide clock feature does work for me. Which version you on? Do you have a ROM installed?,xposed,d66jw1u,1,t5_2xgaj
+8528689,0,t1_d67l887,Ive got SudoHide. Is that an improvement? And that only hides apps not the framework no?,xposed,d67nees,1,t5_2xgaj
+8615952,0,t1_d6iklfn,Great glad to hear it,xposed,d6ilbyh,2,t5_2xgaj
+8682998,0,t1_d6qz9m5,Np its very common and honestly sloppy on the developers part for how they handle the ToU that way. ,xposed,d6r00dh,3,t5_2xgaj
+8758128,0,t1_d66joky,Make a nandroid backup before doing all this,xposed,d70fbfi,1,t5_2xgaj
+8897153,0,t1_d7hb36v,Not officially. They never will make Nougat for the N officially. Same goes for the OnePlus One. Guess what Im using and what Android version its running this very moment?The ROMs are fully featured at this point. The stability isnt perfect its not THAT bad performance is great battery is average and well Nougat really is up and running. Well. It runs well. I havent noticed any worse performance than Marshmallow. Only a few stability issues that will be fixed eventually.,xposed,d7hb6t0,1,t5_2xgaj
+8977796,0,t1_d77a66g,deleted,xposed,d7qztf9,1,t5_2xgaj
+8990838,0,t1_d7siye2,Yeah uninstalling and reinstalling Xposed is so time consuming.  I usually do the same thing also.  I turn off wifi and restore everything with titanium.  But as I said its never worked for me with Snapchat.  Weird.  ,xposed,d7sk6kb,1,t5_2xgaj
+8991041,0,t3_53bfk5,Noob,xposed,d7sl24d,-4,t5_2xgaj
+9022044,0,t1_d7w9y49,Forcing a firmware update on a hardware platform is a lot different than forcing an update for a standalone application.,xposed,d7wb43k,0,t5_2xgaj
+9164028,0,t3_55pl9g,deleted,xposed,d8dlvpq,1,t5_2xgaj
+9193880,0,t3_567rnq,This goes off your IP address so a VPN is the only solution.,xposed,d8he4kt,3,t5_2xgaj
+9237755,0,t1_d8mvxwc,Well I came across that module and bought it for the pro features....In the following screenshot how do I move the LTE indicator to the right of the word cricket?,xposed,d8mybui,1,t5_2xgaj
+9261770,0,t3_56w5fq,You dont need a module an app from Playstore called flatbars does this. ,xposed,d8pzv9v,2,t5_2xgaj
+9296217,0,t1_d8tsma4,Hey thanks! Appreciate it. ,xposed,d8ud1q5,2,t5_2xgaj
+9380996,0,t3_590nyt,On my Note  I had this same issue. After constantly trying to get rid of me as a user Snapchat succeeded. I quit screw the shitty devs and their app,xposed,d953wc9,3,t5_2xgaj
+9381967,0,t1_d95550a,deleted,xposed,d958bmo,1,t5_2xgaj
+9458954,0,t1_d9ez6mh,Thats weird to find out its nothing to do with xposed. Hopefully its a problem that will either fix itself or get patched.,xposed,d9ezmws,1,t5_2xgaj
+9459780,0,t1_d9f34h9,Oh... Hahahahahah... Well my comment is a fail then xDAnyway maybe try searching on xda and if not found  also post a request there.,xposed,d9f3em0,1,t5_2xgaj
+9461447,0,t1_d9fawx4,I dont think i have any idea about that. Sorry mate. Never tried that. ,xposed,d9fb03h,1,t5_2xgaj
+9619912,0,t1_d9yfmxj,Delta Icon Pack,xposed,d9yuoqi,2,t5_2xgaj
+9626430,0,t1_d9zn89z,Wow. I feel dumb now. Thanks might give it a shot. ,xposed,d9znm6o,1,t5_2xgaj
+9676375,0,t1_da5jk04,Dont have it at the moment can you send me link to that one thing i have to flash? Its ju one flash and everything is there? ,xposed,da5tek1,1,t5_2xgaj
+9779013,0,t3_5f59bs,Its been a while I used xposed but I remember... App Settings was it? It could force notifications to have a specified priority for any app. I think theres a version there which works with marshmallow.,xposed,daih8lu,1,t5_2xgaj
+9860191,0,t3_5gi6mc,Reflash boot.img or from recovery flash uninstaller?,xposed,dast0ri,1,t5_2xgaj
+9896670,0,t3_5gz6dm,So casper logs me out now...any fix for this?,xposed,daxk5x1,1,t5_2xgaj
+10167494,0,t3_5ji9xq,However it is only for the original Messenger and not Messenger Lite.,xposed,dbwjhy7,1,t5_2xgaj
+10384998,0,t1_dcl59co,No. Use an alternate youtube app or downgrade to Marshmallow and get xposed cuz xposed is awesome.,xposed,dcl7cio,1,t5_2xgaj
+10485240,0,t1_dcvzuee,That bar s also the row for word suggestions so turn these off and maybe it goes away?,xposed,dcwm06c,1,t5_2xgaj
+10683838,0,t1_ddhy5wq,I dont see such an option in the nify settings. ,xposed,ddhygp8,1,t5_2xgaj
+10857817,0,t1_ddzwm80,Give me some content. What version of Android are you running whats the xposed version you tried what device are you using that kind of stuff...Edit nvm you posted thatMaybe reflash your rom reboot flash xposed... factory reset firstAnd give us some more information about your rom,xposed,ddzwo6k,1,t5_2xgaj
+10882083,0,t1_de2csdk,Yes its Settings gt Display gt Rotation,xposed,de2er3r,2,t5_2xgaj
+11033561,0,t3_5xjz9x,Ds battery saver,xposed,deimnnf,-22,t5_2xgaj
+11528414,0,t1_dg2jp76,Thanks but is there an Xposed module for that? Im aware of both Tasker and Gravity Screen but I prefer having no additional services running in the background for functionality I would rarely use. ,xposed,dg2qxdm,1,t5_2xgaj

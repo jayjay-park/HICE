@@ -1,0 +1,54 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+12553,0,t1_cefuu6q,Bummer okay well sorry to cause trouble. I was just thinking of possibilities. Thanks for letting me know in advance!,Cockatrice,cefv3l6,2,t5_2vk8b
+41116,0,t3_1ukmqb,Did you register on woogerworks.com? ,Cockatrice,cej41ia,1,t5_2vk8b
+200176,0,t1_cf163ex,Im almost done with it. Others have been released but I dont trust them so Im making my own. However I probably should trust them and just copypaste someone elses work. If you want to help once they go live on gatherer start adding images with me to the collective file. Ill upload the BNG only text file once Im done with it.,Cockatrice,cf18q92,1,t5_2vk8b
+405762,0,t1_cfmtkmh,So I assume youve connected to the chat room in port  just file through the Description tab looking for your name,Cockatrice,cfmtnnb,1,t5_2vk8b
+421717,0,t1_cfoh3q2,There are no decklists required outside of top .  You can use whatever you want.,Cockatrice,cfoh5po,1,t5_2vk8b
+454862,0,t3_1zamgx,Forgive my ignorance but what does that mean...,Cockatrice,cfrysx3,1,t5_2vk8b
+526121,0,t1_cfzvzyb,I probably missed it.  Its updated now.,Cockatrice,cg02qtu,1,t5_2vk8b
+576107,0,t3_20pucy,Plus one one bandibudy. I used a rg in the name and got the issue. ,Cockatrice,cg5rakg,1,t5_2vk8b
+594131,0,t1_cg7sw1o,You very obviously care and considering Ive barely said anything in this conversation I think youre just talking about yourself when you insult me.,Cockatrice,cg7t1u9,2,t5_2vk8b
+834409,0,t1_cgz4eh3,thanks man!,Cockatrice,cgz4huh,1,t5_2vk8b
+1032097,0,t3_25x8cy,I figured it outfor future reference.,Cockatrice,chllrlh,1,t5_2vk8b
+1211896,0,t3_27zm06,Yeah I dont blame you. Thanks for organizing. It was good to play a couple rounds anyway.,Cockatrice,ci5yg6s,5,t5_2vk8b
+1318261,0,t1_cihwzak,I mean Im not personally complaining but I did want to bring it to your attention that if you were the one who made that happen it would have been better for the playerbase at large if you kept that under the table. In my opinion that is your problem.,Cockatrice,cihx6dl,2,t5_2vk8b
+1336448,0,t1_cijyqiy,Just emailed it to you using the github email.,Cockatrice,cijyt48,1,t5_2vk8b
+1393173,0,t1_ciqw8oa,Oh hey thanks for putting in that request!  It would really help me out and anyone else stuck on older tech!,Cockatrice,ciqwyjc,2,t5_2vk8b
+1410722,0,t3_2aa928,I could help you by playing a few games against you,Cockatrice,cit43fq,1,t5_2vk8b
+1596532,0,t1_cjg5nkl,I use Google Drive but its the same concept.  That way I dont have to carry anything around.,Cockatrice,cjgeuku,1,t5_2vk8b
+1621462,0,t1_cjjeuo5,You should try posting up and asking for a game in the sub sometime. Quick way to find some quality folks to play with.,Cockatrice,cjjjub0,1,t5_2vk8b
+1797193,0,t1_ck5oefy,I dont understand. Did that solve your problem? if not launch oracle.exe and mark the sets you want delete again the downloadedPics folder and launch cockatrice.Remember whenever you update cockatrice or the card database launching oracle.exe you need to delete your downloadedPics folder.,Cockatrice,ck5onh7,1,t5_2vk8b
+1910715,0,t3_2ghqzw,Is there a good XML file with KTK cards yet? All I hear is people getting things in a mess with copies going around.,Cockatrice,ckjfgfa,2,t5_2vk8b
+1919035,0,t3_2glu1v,Can you see the cards in the sideboard screen pre game? Open a GitHub ticket atlnd attach your deck file,Cockatrice,ckkfilg,1,t5_2vk8b
+2008878,0,t1_ckv9exd,deleted,Cockatrice,ckv9mrj,1,t5_2vk8b
+2168295,0,t1_clfchqo,The main patent was the famous tap patent which expired this year.  After that it is really a copyright case. ,Cockatrice,clffvl8,1,t5_2vk8b
+2235450,0,t1_clnpa12,Xmage can have rulesbugs which are a nonissue in cockatrice.Uploading a replay which an admin can review if a dispute arises is the best solution.,Cockatrice,clnz9mv,2,t5_2vk8b
+2264875,0,t3_2l4b6i,Tried Command  W?  It shouldnt look that way youve definitely encountered a bug.  Relaunching doesnt fix it?The answer below about getting a PC is wrong.The real answer is The best way to run Cockatrice is compiling from source off the Cockatrice GitHub page.  Preferably in a Linux environment that you also compiled yourself.A side note on OSX as a pseudoUNIXYou are in luck that youre in an environment that is friendlier than windows when it comes to attempting to compile code like this from source.  You will likely break everything if you dont know what youre doing but you will need a package manager like Brew as a means to install dependencies then at least most of the following packages I think theres a few I didnt need just pulled it from my bash history.Also bear in mind my system is Debian Linux with aptget. YMMV qtmobilitydev libprotobufdev cmake qtqmake qtdevtools protobufccompiler protobufcompiler libprotobufdev libprotocdev protobufcompiler libgcryptdev I think this one is only necessary for servatrice the Cockatrice server application.If youre mostly nontechnical check diligently for newer versions of the client installer for OSX.,Cockatrice,clrnpgf,3,t5_2vk8b
+2382247,0,t1_cm63n67,Theres a link on the sidebar,Cockatrice,cm65jnt,1,t5_2vk8b
+2567323,0,t3_2p5sk5,I would love to do this but the problem is that its all voluntary. Id love to see some kind of implemenation like xmage has where it automatically loads the next game against your next opponent but that takes coding time and testing. Ive never tried it but you may get at least one more round if you create a draft and call it something like KTK SWISS.  Then try to let people in the draft know that their round  opponent must have the same wl record.  ,Cockatrice,cmtor5o,1,t5_2vk8b
+2698207,0,t1_cnam6wp,how do you get card images?,Cockatrice,cnarvx3,1,t5_2vk8b
+2776052,0,t3_2rcfyo,mcrmylyfleg uepffastandard gbeqkb,Cockatrice,cnjml6m,1,t5_2vk8b
+3361924,0,t3_2ylmpz,deleted,Cockatrice,cpbhg49,1,t5_2vk8b
+3422069,0,t1_cphfxvi,Cant thank you enough,Cockatrice,cpica7c,1,t5_2vk8b
+3596577,0,t3_31jx5f,Im having connection trouble as well and I assume this is why.Looks like there ARE consequences for the Cockatrice community being the way it is...,Cockatrice,cq28irv,1,t5_2vk8b
+3609054,0,t1_cq3mrwj,Im looking into it right now! Thanks for informing me Update I fixed them last night. I also rewrote the code base to allow for better support ,Cockatrice,cq3npmz,1,t5_2vk8b
+4145589,0,t1_crsqs7d,Or rather clicking on them while theyre highlighted. Ive made that mistake before.,Cockatrice,crstas9,8,t5_2vk8b
+4186494,0,t1_crxeom1,Here you go. I found a server called fileteaLink deleted.Zipped but youll want to virusscan it. I havent put anything in it that I know of I cant guarantee the server didnt.Apparently I have to keep it open it will delete the file when I stop so please reply here when youre done.,Cockatrice,crxgn1m,1,t5_2vk8b
+4217809,0,t3_396jy9,Heres a link to the thread you made about this yesterday thats since been deleted,Cockatrice,cs10hsc,2,t5_2vk8b
+4477971,0,t1_csujwgn,When do you usually play together! Id love to join ,Cockatrice,csv48ff,1,t5_2vk8b
+5026911,0,t3_3jsk4w,I believe Servatrice is a client used for setting up and managing your own Cockatrice servers.,Cockatrice,curxmul,2,t5_2vk8b
+5042094,0,t3_3k0850,Currently its not possible but I think it might be worked on right now and possible in the near future. You can however set all your island to the same image by either using the CUSTOM folder or rearranging your sets in the deck editor.,Cockatrice,cutrhpo,5,t5_2vk8b
+5115904,0,t3_3l2s14,I dont think theyve released the full deck lists yet,Cockatrice,cv2nou3,0,t5_2vk8b
+5265713,0,t3_3n3vhe,Connection timed out wouldnt indicate an out dated client.  It means that when trying to talk to the the server you have put in for registration that it is never reached. Start by making sure the server name you are trying to register is typed in correctly along with the port information.  Also make sure there is nothing blocking your connection between you and the server over that port such as malwareantivirus protection software or firewalls.You may want to make sure the name of the server you are trying to register to is resolving to the correct IP address.,Cockatrice,cvkr4ze,1,t5_2vk8b
+5283457,0,t3_3ncfal,EDIT Direct link to the file for Windows  HERE,Cockatrice,cvn0u5g,0,t5_2vk8b
+5643472,0,t1_cww1m1q,It used to.,Cockatrice,cwwml9b,1,t5_2vk8b
+5791166,0,t1_cxd1hbw,Yes I did and it wasnt there either. ,Cockatrice,cxey66v,1,t5_2vk8b
+5816566,0,t3_3uhv5t,Sounds reasonable. Please open an issue on github suggesting this so we can track it. ,Cockatrice,cxi3l5u,1,t5_2vk8b
+5948653,0,t1_cxze6lv,Totally up to you bro im testing my own ideas and variants so whatever you want to play man. ,Cockatrice,cxzed6b,1,t5_2vk8b
+6576725,0,t3_45ouep,This is a bug ,Cockatrice,czzl5ef,2,t5_2vk8b
+7156248,0,t1_d1rhjxe,Fairly sure it goes down,Cockatrice,d1rlg44,3,t5_2vk8b
+7277320,0,t3_4f2j7v,Look on the github wiki how to install it. Its a known issue and we posted a way to fix it.,Cockatrice,d25dsbq,2,t5_2vk8b
+8218052,0,t1_d51nh5b,Hi!For some reason the Cockatrice doesnt show the new set on the Set list. Maybe Im doing something wrong? I placed this file in the right folder and restarted Cockatrice.Heres what shows in the Debud log id think the status   thing is the issue.    CardDatabase loadCardDatabase Path  CUsersSalomonAppDataLocalCockatriceCockatricecustomsetsEMN.xml Status   Cards   Sets     ,Cockatrice,d54t8w7,3,t5_2vk8b
+9550959,0,t1_d9plgim,Yeah Ill play with you. And dont worry about the mic or being new. Thats fine.Ill help you get started.,Cockatrice,d9qcpm0,1,t5_2vk8b
+10217337,0,t1_dc25tw3,thx m,Cockatrice,dc26y86,1,t5_2vk8b
+11250522,0,t1_df786ue,Alright I will.,Cockatrice,df78aq0,1,t5_2vk8b

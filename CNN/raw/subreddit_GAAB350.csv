@@ -1,0 +1,5 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+11371084,0,t1_dfkvzia,I actually havent put a video card in the computer yet Im just using HDMI into a TV. ,GAAB350,dfkw38w,1,t5_3jgz5
+11378360,0,t1_dfkxxpg,The old fashioned granny way to remove the CMOS Battery is always working,GAAB350,dflpuzo,2,t5_3jgz5
+11592332,0,t1_dg9sc7c,Yeah I know well just have to wait for more bios updates. Its easier to just turn pc offgt switch psu offgt unplug power cordgt use screw or jumper to short cmos headergt keep short for couple of secondsgt remove screw or jumpergt plug power cable back ingt turn on psu and reboot in reset bios,GAAB350,dg9zz7f,1,t5_3jgz5
+11681902,0,t3_66oj2j,I had similar issue OC ing my Ryzen  after failing to OC my ram to . Initially I was able to OC it to .Ghz. What finally worked for me is I did a hard CMOS reset by removing the battery and shorting the jumper. And then I was able to OC at BiOS. Not sure if this will help with R and F bios I was on F. But hopefully this method worth a try for you.,GAAB350,dgk5s7u,2,t5_3jgz5

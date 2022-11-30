@@ -1,0 +1,75 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+70700,0,t1_cemgf7p,Oh ok Ive seen it but never used it myself. I use DHowetts Theos since its more actively developed amp easier for me.,jailbreakdevelopers,cemh82a,1,t5_2yk36
+85605,0,t1_ceo0uy4,Yeah I checked evasion untether package amp it seems to have fixed this issue.,jailbreakdevelopers,ceo6b77,1,t5_2yk36
+559258,0,t1_cg3b61k,are your source file extensions .x? try changing to .xm,jailbreakdevelopers,cg3uekv,1,t5_2yk36
+579556,0,t1_cg5yw5s,It says its not but its working for me at least with Xcode .. . SDK. Which AppSync are you using? Ive got the one from I just added my iPhone to Xcode now not without problems though. I plugged in my phone opened Xcode went to Window gt Organizer. Clicked on my phone and clicked Use for development. It kept getting stuck at loading symbols from the phone. I tried other versions of AppSync reconnected the phone a few times respring reboot. So I cant really tell you which step finally got it working. ,jailbreakdevelopers,cg65ep7,2,t5_2yk36
+997256,0,t3_250mr5,Email me Ill help you with that ,jailbreakdevelopers,chhn8p0,2,t5_2yk36
+1055538,0,t1_cho8z8w,did you set .allowsEditing  YES? Worked for me in that case. ,jailbreakdevelopers,cho9pi7,2,t5_2yk36
+1088231,0,t1_chrzei2,what is OSE?,jailbreakdevelopers,chrzghh,1,t5_2yk36
+1205735,0,t3_27v8fc,Is this all your code? Did you add your postnotification listener to your ctor?,jailbreakdevelopers,ci59hrd,1,t5_2yk36
+1631787,0,t1_cjkt5pz,deleted,jailbreakdevelopers,cjkuocv,1,t5_2yk36
+1643680,0,t1_cj7ogyg,I highly suggest libobjcipc. It makes it super duper simple. Its what I used for Hermes. ,jailbreakdevelopers,cjmclz1,1,t5_2yk36
+1649286,0,t3_27d205,SBLockScreenManager sharedInstancelockScreenViewControllerlockScreenViewsetCustomSlideToUnlockTextCustom Text,jailbreakdevelopers,cjn210h,2,t5_2yk36
+1661222,0,t1_cjoij16,Do you have dpkg installed?,jailbreakdevelopers,cjok5f2,2,t5_2yk36
+1770154,0,t3_2enp7a,Anyone? ,jailbreakdevelopers,ck2a7vk,1,t5_2yk36
+1990552,0,t3_2hil8o,Contact ufrst and ask him what he suggests. If you fail that you can do the HIGHLY unrecommended thing of hooking Eclipse and overriding it if your tweak is showing. ,jailbreakdevelopers,ckt2889,2,t5_2yk36
+2000240,0,t3_2hml7m,Please nobody respond to this.,jailbreakdevelopers,cku88ci,9,t5_2yk36
+2049186,0,t1_cl0a9d6,No its in the settings in the phone section to choose if it will show my number when i call someone or it will show blocked number,jailbreakdevelopers,cl0aoju,1,t5_2yk36
+2234302,0,t1_clnjt6b,Thanks It Worked. I owe you one ,jailbreakdevelopers,clnu0my,1,t5_2yk36
+2678185,0,t1_cn842en,That would only fix errors with linking,jailbreakdevelopers,cn85rbi,3,t5_2yk36
+2885395,0,t1_cnw2fwj,Yes it will.,jailbreakdevelopers,cnw2ljl,1,t5_2yk36
+2919197,0,t1_cnzwoi8,I did. Multiple times. Im on about my th revision. Sadly UIAlertController seems a little harder to use than UIAlertView. ,jailbreakdevelopers,cnzx6gn,1,t5_2yk36
+2987271,0,t1_co7mevb,Yes I followed your first part of the comment and I got a blank line so I am going to use the link you commented and setup Theos up again and whats your email so I can send you the code so you can compile it for me,jailbreakdevelopers,co7mlx5,1,t5_2yk36
+3022719,0,t1_co6clpw,Hey thanks for the update. Still playing around with my timers but so far so good tbh Was just heading to the header for PCPersistentTimer and noticed PCSimpleTimer.h which seems to be similar to PCPersistentTimer only without the early fire time. I presume something must be wrong with the simple timer for you to use PersistentTimer though? ,jailbreakdevelopers,cobavpn,1,t5_2yk36
+3032152,0,t3_2s0w4z,This might help ,jailbreakdevelopers,coca3y5,1,t5_2yk36
+3449663,0,t1_cplfcml,I never used MiniCode,jailbreakdevelopers,cplhkut,1,t5_2yk36
+3476399,0,t1_cpoj66i,What language would you recommend I learn first?,jailbreakdevelopers,cpoj9po,1,t5_2yk36
+3811003,0,t1_cqqmzq7,Yes  iirc apple removed some unneeded stuff.,jailbreakdevelopers,cqqonzn,1,t5_2yk36
+4093304,0,t1_crm75k7,Not working,jailbreakdevelopers,crmv1er,1,t5_2yk36
+4246581,0,t3_39laew,I dont know if a subreddit dedicated to snippets would gain much traction. This sub isnt exactly overly active as it is its quite mature. I imagine an even smaller subset of the users here would contribute to the proposed subreddit.Heres to hoping Im wrong though. I do have a few basic snippets that if contribute. Hooking initialisation hook bodies and groups come to mind. Ive also got a pretty decent NSLog macro that allows prefixing logs with a custom string.,jailbreakdevelopers,cs4aufa,1,t5_2yk36
+4255605,0,t1_cs5blap,ohhh sht i forgot to alloc!  NSString alloc initWithStringtext youre right stupid me! ,jailbreakdevelopers,cs5bo75,1,t5_2yk36
+4467523,0,t1_csrrz4l,Could you figure out anything from the logs?,jailbreakdevelopers,cstt2i6,1,t5_2yk36
+4631462,0,t3_3ecucb,If someone has the skills to create something worth putting in cydia then they are well aware on how to create a repo without using an paidadinfested app to do so. Good luck on your endeavors though! Someone might use it....,jailbreakdevelopers,cted6ma,2,t5_2yk36
+4873007,0,t1_cu8rrm6,Some threads on syslog   and Personally I use syslogd from cydia varlogsyslog with this caveat I think there are  or  log rotate functions available on Cydia now too although I use my own custom one. I have MB  days worth of syslogs on my device that I can look through.,jailbreakdevelopers,cu8s3sr,1,t5_2yk36
+4959766,0,t3_3irihr,Create a custom PSTableCell subclass and set the cellClass property of your specifier to the name of your cell,jailbreakdevelopers,cujpuqp,0,t5_2yk36
+5062330,0,t1_cuw4s5k,So you tried this and it doesnt work?,jailbreakdevelopers,cuw7agh,1,t5_2yk36
+5287354,0,t1_cvdd117,make updatethees doesnt work    fatal Not a git repository or any of the parent directories .git    make  updatetheos Error ,jailbreakdevelopers,cvnisg1,1,t5_2yk36
+5588903,0,t1_cwpnu03,This is while running as root. gtsh usrbindpkgscanpackages usrbinperl bad interpreter Permission denied,jailbreakdevelopers,cwput8b,1,t5_2yk36
+5641187,0,t1_cwurrtc,What is show? now you are calling the method newButton on the object named show.,jailbreakdevelopers,cwwcdi4,0,t5_2yk36
+5865881,0,t1_cxoix34,I have tried tream treehouse but they are charging. I am looking for free alternatives.,jailbreakdevelopers,cxojqid,2,t5_2yk36
+5977533,0,t1_cy23elz,thanks hnry I made it to work.The problem for me is framework search path when I set it to the correct path the link works for me really appreciate for you alls help. ,jailbreakdevelopers,cy36p5i,1,t5_2yk36
+6081183,0,t1_cygq34j,That is really weird. It still wont function on a plain .,jailbreakdevelopers,cygq4i3,1,t5_2yk36
+6128625,0,t1_cym2cst,because people are too lazy to use postnotification,jailbreakdevelopers,cym9equ,2,t5_2yk36
+6481361,0,t3_44ekyb,The same way but you still make the server in SpringBoard. Consider using methods or functions that support replies like CPDistributedMessagingCenter sendMessageAndReceiveReplyNameuserInfo.Regarding security well I hope you dont mean in the sense of encryption...,jailbreakdevelopers,czppyr8,2,t5_2yk36
+6976576,0,t3_4b9b4e,It seems there is something wrong with your SDK or installation of theos.What system are you running on and what SDK did you download? i.e. WindowsMaciPhone amp . SDKAlso in the future post the code and other things to GhostBin,jailbreakdevelopers,d174sbm,1,t5_2yk36
+7134607,0,t1_d1ob3mr,jool is a great disassembler it will provide what you need. ,jailbreakdevelopers,d1p4jua,1,t5_2yk36
+7141956,0,t1_d1pb867,Honestly most people end up pirating IDA with their new decompiled because its so expensive and sometimes they just wont sell it to certain people.,jailbreakdevelopers,d1pyq2e,1,t5_2yk36
+7276073,0,t3_4f1zds,What does the syslog say?,jailbreakdevelopers,d258oab,2,t5_2yk36
+7520737,0,t3_4i95pv,Use Burpsuite as a proxy to intercept traffic on your phone ,jailbreakdevelopers,d2x2kdx,2,t5_2yk36
+7589446,0,t1_d34dnbe,I contacted saurik and he helped me out. Thanks for the help thats a neat command.,jailbreakdevelopers,d34vsgk,1,t5_2yk36
+7669823,0,t3_4kbjg6,Yes of course you can as long as you can compile it there wont be a problem with that.,jailbreakdevelopers,d3e0jiy,2,t5_2yk36
+7801305,0,t3_4m3um5,That is basically the code. You have UIImage convert to JPEGRep. and save that to a file. Is this the answer to your question?If not what are you asking for? Are you searching for the UIImage itself or are you searching for a way to save it to a JPEG file?,jailbreakdevelopers,d3sxea0,1,t5_2yk36
+8079370,0,t1_d4o5ia4,They do have a framework. You can put that in the THEOSlib directory and add it to the FRAMEWORKS list.,jailbreakdevelopers,d4o732u,1,t5_2yk36
+8229525,0,t3_4s0i3g,Ohk,jailbreakdevelopers,d568woc,1,t5_2yk36
+8405485,0,t1_d5s70ig,Thats odd its working now...,jailbreakdevelopers,d5s8bvl,1,t5_2yk36
+8408055,0,t1_d5sjfxn,I managed to fix that but ive come across this problem,jailbreakdevelopers,d5sjw2g,1,t5_2yk36
+8431637,0,t3_4uz2fk,Do you mean presenting the VPN settings pane? And from within a preferences pane of yours or somewhere else in iOS?,jailbreakdevelopers,d5vhugb,1,t5_2yk36
+8532280,0,t1_d682qy2,I have the headers could I have some help? I have no idea where to look for the frame works andor code to do this,jailbreakdevelopers,d683lh8,1,t5_2yk36
+8551754,0,t1_d4o732u,I tried using the .framework generated by Carthage but when i try to compile it says Any suggestions?,jailbreakdevelopers,d6ajj5l,1,t5_2yk36
+8620933,0,t1_d6j7ebc,No problem. I appreciate it. ,jailbreakdevelopers,d6j7uam,1,t5_2yk36
+8821462,0,t1_d787r0z,It does yeah but adding the TARGET gets rid of that error. But regardless of whether its there or not I always end up in safe mode after the respring. Maybe somethings wrong in my Tweak.xm?,jailbreakdevelopers,d787vql,1,t5_2yk36
+8911773,0,t3_526qio,I added a header to take care of asserts but I couldnt find the internal functions hes using to link them. May take another look to see what I missed but thats as far as I could get. ,jailbreakdevelopers,d7j2ceb,1,t5_2yk36
+9056245,0,t1_d80cpet,you could just    returnthat way it doesnt do anything whenever that function is called.Edit Also the second parameter into the orig function needs to be arg as stated by uaIakazard as the function wants a bool not a double.,jailbreakdevelopers,d80ez5y,1,t5_2yk36
+9162235,0,t3_55raso,It doesnt require a respring if done right. Its the only method I use for all of my tweaks.You have to override     voidsetPreferenceValueidvalue specifierPSSpecifier specifier     idreadPreferenceValuePSSpecifier specifiersimilar to this ,jailbreakdevelopers,d8ddpd2,2,t5_2yk36
+9978249,0,t3_5i27hw,You sure theres no property or method for textColor?,jailbreakdevelopers,db86znd,1,t5_2yk36
+10095718,0,t3_5kfajn,Just a heads up tweaks are written in ObjectiveC.,jailbreakdevelopers,dbnhjjc,5,t5_2yk36
+10095794,0,t3_5kfajn,You need to know Objective C then this  will help you to use mobilesubstrate.,jailbreakdevelopers,dbnhwcb,1,t5_2yk36
+10679695,0,t3_5sh2f9,Run setuid and setgid to run as rootwheel. ,jailbreakdevelopers,ddhj2pk,1,t5_2yk36
+10699136,0,t3_5slirs,Also been having this issue. And still kinda have. I created the folders downloaded the SDKs from hereReinstalled theos. Now I get thisxcrun error SDK iphoneos cannot be locatedAlso xcode and command line tools are installed.Did you manage to solve it yet usupermamon?Edit solved it by reinstalling the is and putting the sdk within Xcode.app. ,jailbreakdevelopers,ddjjbhl,1,t5_2yk36
+10699879,0,t1_ddjjfmh,Thank you let me know if you work it out,jailbreakdevelopers,ddjm2tu,1,t5_2yk36
+10744219,0,t3_5tmpwh,You got two choices Either make a remote API that makes the tweak either useable or not  simple .txt file on server with truefalse value or keep it local and just make it unusable after certain date  this is a better choice to make it complicated for IDE tweak modifying ,jailbreakdevelopers,ddo6nu8,2,t5_2yk36
+10848307,0,t1_ddysmzv,Im glad it worked out!Using deviceconsole in a terminal window would be the same as having this solution in a terminal window just that you dont need to have the phone connected via USB.,jailbreakdevelopers,ddyxd5v,1,t5_2yk36
+10849488,0,t1_ddyjmoj,why not hook only into cydia thats what the TWEAKNAME.plist is for     Filter   Bundles   com.apple.springboard   replace com.apple.springboard with whatever bundleid cydia has,jailbreakdevelopers,ddz1qlj,3,t5_2yk36
+11039312,0,t1_dej9zhy,This sounds like a good tweak to start with difficult wise not talking about the scope of use pUsing the .. is fine.What you do with Flex is to force a BOOL to a specific value.You would have to write something like this in your Tweak.xm    interface ClassThatHasBoolValue  NSObject    property nonatomic assign readwrite BOOL isPremium    endand then whenever the method init or the alike is ran    hook ClassThatHasBoolValue         idinit         self.isPremium  YES        return orig            endalternatively calling the setmethod setIsPremium with argument YES.For the record Im using theos on my mac but it works on Windows Cygwin and Linux also. I get a little help of Xcode by using it on mac though.,jailbreakdevelopers,dejabrf,1,t5_2yk36
+11404831,0,t1_dfopk1b,UIImageView is an object. If you want to change a particular UIImageView you need to find out its superview or UIViewController look for the method that call the UIImageView usually  voidlayoutSubviews for UIView and hook into it. FLEXiblecycript can help you to an extent but youll also have to do some trial and error by yourself.Extra to see all the methods of a given class of an app use classdumpdyld,jailbreakdevelopers,dfoq1hf,1,t5_2yk36
+11463404,0,t1_dfvcuvk, yeah not sure why im getting trouble when it can find the other stuff I ask for no problem which are in the same spot. this post is my last resort before i try reinstalling everything and probably breaking much more rip,jailbreakdevelopers,dfvdblg,1,t5_2yk36

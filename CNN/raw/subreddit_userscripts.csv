@@ -1,0 +1,4 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+3300469,0,t1_cp3z8r1,nice ,userscripts,cp4haaf,1,t5_2qi6o
+3738264,0,t3_32jq2q,I made a script that does what you want try it out ,userscripts,cqidwt1,3,t5_2qi6o
+11501666,0,t1_dfzoxyk,thanks.  updated it based on that input.  also came across an m.imgur.com link earlier tonight.  added that as comparehost.tried to make a regular expression out of it but couldnt think up a good method to make it work.i|m?.?imgur.comiThat would match all three but I have no clue how to work that into the code in an elegant manner.,userscripts,dfzppfy,1,t5_2qi6o

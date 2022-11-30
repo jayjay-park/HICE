@@ -1,0 +1,8 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+5409679,0,t3_3p30lr,Yeah I kind of agree. Even when browsing subreddits manually by name it automatically fixes the first capital letters but I feel like it should respect the way mods decided to name the sub. The subbreddit name should simply always be the official name that is on reddit.,KarmaMachine,cw35a97,3,t5_2ypki
+5441750,0,t1_cw6yllu,Thanks! And Im planning to use reddits built in saving functionality to save posts should be implemented in the near future,KarmaMachine,cw78irz,3,t5_2ypki
+5462863,0,t1_cw9x994,I just checked the fix is already live on the playstore and working on my brothers kitkat phone! But opening the settings screen will still cause the app to crash sorry. I found a way to patch that problem Ill be updating the app shortly to distribute the latest fix.,KarmaMachine,cw9xkf8,1,t5_2ypki
+7397677,0,t1_d2iwljp,I wonder if you could make a quick dirty search feature so basically just copy all the code to display a specific subreddit but instead of showing a subreddit a search is done. I hope you get what I meant.,KarmaMachine,d2j2fgx,7,t5_2ypki
+7513451,0,t1_d2w7q8z,Sounds like the crash is being caused by the same underlying code Ill check the dev console investigate and have a patch in the next release. Thanks for the report!,KarmaMachine,d2w8pv0,5,t5_2ypki
+8370382,0,t1_d5ntuv9,I get that.  Theres a long way to go with the app but Im trying you  what you have so far is astounding!,KarmaMachine,d5nuj6a,2,t5_2ypki
+9959432,0,t1_dacl0rr,Better slow and polished than quick and messy.,KarmaMachine,db5qn60,2,t5_2ypki

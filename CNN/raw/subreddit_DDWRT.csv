@@ -1,0 +1,27 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+427277,0,t1_cfo41uv,The service Im trying to use is dip.jp. They have a client for windows and linux but nothing for osx.,DDWRT,cfp1wei,1,t5_2tfws
+1096662,0,t1_chsxfl5,Yes thats what I wanted to do...,DDWRT,chsy0y9,1,t5_2tfws
+1130088,0,t1_chwn5w0,Thanks Ill check it out I dont mind which specific firmware it is as long as it is one of the alternative linux ones they are always so much better than the stock junk. At least the alternative firmware have consistent interfaces !,DDWRT,chwqtb2,1,t5_2tfws
+1279275,0,t1_cidizx0,Yup. Use Insidder and check what channels the other wireless networks are on.Pick the least crowded channel. Set it in the router. From there check signal quality again.The routers autointelligent picking of the leastused channels tend to suck but I digress. Try that and see if that does anything. If not boost the wifi signal via the wifi screen I think it was.If that doesnt help Ill provide you with my wireless setup and see if that helps ya.,DDWRT,cidjai2,1,t5_2tfws
+1462059,0,t3_2as4sv,Create a script that will forward a packet to port  of the host computer when port  Plex server port is triggered.,DDWRT,cizjmg6,1,t5_2tfws
+1739114,0,t1_cjyacah,Well I can tell that it is not your DIR or main router. Go google about enable file sharing. If Wireless client bridge works and you can ping all devices within same subnet then it is not the routers fault. ,DDWRT,cjydntz,1,t5_2tfws
+2536560,0,t1_cmpmr6v,Yes please ,DDWRT,cmpnxhq,1,t5_2tfws
+2573296,0,t1_cmu1ji6,No luck.Router doesnt reset and the MAC stays the same,DDWRT,cmuguqx,1,t5_2tfws
+2577626,0,t1_cmv0w7q,deleted,DDWRT,cmv1895,1,t5_2tfws
+3377047,0,t1_cpd75o2,If this doesnt work you might want to look into power line networking as an alternative solution.,DDWRT,cpd7iim,2,t5_2tfws
+3391960,0,t1_ckzswn9,v. owner and new to flashing the router under supported versions what does this mean Working with Barrier Breaker . ! slower wifi first version supported is r Wifi tx power setting fixed latest Chaos Calmer fully works?  ,DDWRT,cpewryw,1,t5_2tfws
+3604704,0,t3_31n9bt,Supported devices and Database,DDWRT,cq35ugj,2,t5_2tfws
+3768541,0,t1_cqlc5nb,Woops got that sorted and rebooted the router unfortunately no change.,DDWRT,cqluan7,1,t5_2tfws
+4632646,0,t3_3ee9xe,I am not certain if your model supports tagging.,DDWRT,cteij0z,2,t5_2tfws
+4819324,0,t1_cu20itk,Exactly right there it says no it doesnt. ,DDWRT,cu20kby,1,t5_2tfws
+5633347,0,t1_cwvd4gt,Works fine for me. I was able to grab todays build.,DDWRT,cwvdbyy,1,t5_2tfws
+5730646,0,t1_cx6xv6o,Then in that case I cant really help you much other than suggesting you look at the Buffalo webpage for your router. There should be firmware there that you can just flash from the web GUI.,DDWRT,cx7fxzm,1,t5_2tfws
+6454222,0,t1_czm2drm,Yes ,DDWRT,czmwpyp,1,t5_2tfws
+6614032,0,t3_465r7e,Look at your routers dhcp table to find out what IP your repeater is assigned. Punch that into your browser to access the webui,DDWRT,d03g3td,1,t5_2tfws
+7147367,0,t1_d1now30,v is out now,DDWRT,d1qky91,2,t5_2tfws
+7779104,0,t3_4kdvyc,The command looks fine.   How did you determine that eth was the wan interface? After youve entered the command what does iptables t mangle list show? Can you try swapping ttlset  with ttlinc ?  Any difference?,DDWRT,d3qf4gf,1,t5_2tfws
+9117490,0,t3_550ips,Well first thing to troubleshoot would be to hardline directly to the modem.  What speeds do you get then?,DDWRT,d87rwdq,1,t5_2tfws
+9358544,0,t1_d91w234,Actually he has a point. If Access Restrictions is blocking by DNS name then SSL has nothing to do with it.,DDWRT,d929h8v,2,t5_2tfws
+10058656,0,t3_5jn0mz,Love my wrtacs,DDWRT,dbio12b,1,t5_2tfws
+10432905,0,t1_dcqmd9e,Ay this is not good. I flashed the old firmware back and I still cant connect to the internet anywhere. I am in over my head but do you know why it didnt work even with a direct connection to the modem?,DDWRT,dcqn0rt,1,t5_2tfws
+11541436,0,t1_dg3fig2,Thanks for the input Im buying this because someones selling it to me dirt cheap. USB . would have been great but I cant really afford a new router thats as good as the c with usb . support. Beggars cant be choosers eh! Besides specificationwise it is more than capable of handling the easy peasy load ill be putting on it. ,DDWRT,dg48215,2,t5_2tfws

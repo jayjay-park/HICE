@@ -1,0 +1,2 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+5566550,0,t3_3rda7q,Its not a requirement but most people seem to recommend making the boot partition primary rather than logical. When I did LFS I made primary partitions for boot and swap and only put home in logical.Nowadays I dont make a separate partition for boot at all and leave it as part of .,linuxfromscratch,cwn2xu7,3,t5_2y3v4

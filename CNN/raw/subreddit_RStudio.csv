@@ -1,0 +1,10 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+3810494,0,t3_2rnyk5,How about the subset function? ,RStudio,cqqmkp7,1,t5_2wf3j
+5721382,0,t1_cx6akjc,message me if this doesnt make sense,RStudio,cx6aldf,1,t5_2wf3j
+6591314,0,t3_45yeq7,Protip show your code. You need to pass the headerTRUE argument to read.table. you could use read.csv instead which is a convenient wrapper. Read the help. Also readrreadcsv might be interesting. ,RStudio,d013gnj,2,t5_2wf3j
+7196489,0,t1_d1w1r58,So i split the data into a training and test set and then estimated the data to see how my forecasts performed thus i want to show how my different forecasts methods stack up against each other. Thats kinda what i want to show on a single plot. I will definitely play around with the info you have provided. Thanks mate!,RStudio,d1w6kax,1,t5_2wf3j
+8434793,0,t1_d5vttb7,Thanky you for your reply. I much appreciate it. These links you sent are really helpful! Yeah i realized that its better to do by myself. ,RStudio,d5vvzuj,1,t5_2wf3j
+10196214,0,t1_dbz83rc,Thank you!,RStudio,dbzspfa,1,t5_2wf3j
+10883863,0,t1_de2k3c3,Hey man thanks for responding. Im afraid we have to do this using the exact description above for we have to hand in the R script to show that we used the required commands. Do you have any idea how to do it with the above description? Thanks in advance.,RStudio,de2ld0j,1,t5_2wf3j
+11025273,0,t3_5x9qrj,What kind of model? What data are you using? Are you talking about the class factor in R? Who is David Collett and whats his curve? Nobody can answer your questions unless you give more details about what youre trying to do. ,RStudio,dehop3p,2,t5_2wf3j
+11724491,0,t1_dgjwlyr,I tried but I run into other issues and after switching between RStudio versions it became even worse so I had to clean the whole RStudio user config folder and start from scratch configuring my key shortcuts etc... I just wish they would work more on stability instead of new features.,RStudio,dgp029a,1,t5_2wf3j

@@ -1,0 +1,6 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+6952110,0,t1_d13mg7j,Thanks will add to OP ,cryengine,d14cqzp,1,t5_2sr93
+6953961,0,t3_4ayd58,Heres the steps I took to rebuild engine from source. run crywaf.exe click configure button. find generated CRYENGINE.sln in Solutions folder open with vs. build GameSDK Profile x configuration for all projects except CryAudioImplFmod and CryAudioImplWwise. done,cryengine,d14kbdo,2,t5_2sr93
+7005309,0,t1_d17xhdi,You can also disable your internet and open the launcher. It will show the login screen and you can enter different login details then reconnect to the internet and login via the launcher.,cryengine,d1ae9yt,2,t5_2sr93
+7621137,0,t3_4jlxjg,The data is encrypted to protect the contents it wont work if you just drag PAK files in. Wait until CIG releases the official MOD tools.,cryengine,d38hezp,0,t5_2sr93
+8732436,0,t1_d6x4yox,Yeah contact CryTek then I could not think of any other way to get it running. Do you have another PC? Maybe try it on that one.. just in case something with your OS is wrong..,cryengine,d6x78gb,1,t5_2sr93

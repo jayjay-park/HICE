@@ -1,0 +1,4 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+6983904,0,t3_4bcr24,Buy original?,vray,d17yr4e,1,t5_2s8jh
+8297528,0,t1_d5aw4c0,Perfect  thanks! Its a little slow to render so Ill do some tweaking but exactly what I was looking for.,vray,d5eqzbg,2,t5_2s8jh
+11732419,0,t3_67cdbe,This is very likely a case of not enough light in the system. There isnt enough photons calculated in the scene to light up every area of the wall.I would suggest to bump the emissive multipliers way up by factors of  or  then bring down shutter speed to correct the exposure.,vray,dgpwenh,2,t5_2s8jh

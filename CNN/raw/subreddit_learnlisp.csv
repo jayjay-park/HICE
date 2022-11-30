@@ -1,0 +1,7 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+1769236,0,t1_ck22oap,deleted,learnlisp,ck261zu,1,t5_30ij8
+4759168,0,t3_39bj1b,It is implemented very very carefully.  its pretty complex. In fact it might confuse you even more if you looked at the implementation.,learnlisp,ctufson,1,t5_30ij8
+6850263,0,t3_49k3p2,It looks like the or on line  only has one predicate  the or is useless,learnlisp,d0ss9gm,3,t5_30ij8
+7585240,0,t1_d349ey0,I suppose that would help to skip the whole loop bit in case the leading coefficients arent in the right order.Checking the second condition is by far the biggest part of the work though and I was hoping for some way to do that onebyone with the possibility of breaking out during the loop or what is currently a loop and will probably be something better if I can figure it out if a nonzero element is found where one shouldnt be rather than collecting all of the test results in all cases.Thanks in any case Ill go put in that and for now.,learnlisp,d34ekwr,1,t5_30ij8
+10420780,0,t1_dcp9giv,And It actually seems like my playing around with lispbuildersdl has ended out with almost a whole d game engine  even rewrote the code  times as i kept learning  mainly CLOS stuff . This might be interesting to share somewhere if that is a thing.,learnlisp,dcp9iyp,1,t5_30ij8
+10841521,0,t1_ddy840g,deleted,learnlisp,ddy85o9,1,t5_30ij8

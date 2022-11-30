@@ -1,0 +1,3 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+8285904,0,t3_4swqqp,Yes it will work but chrome wont work as the browser having that many connections open. An alternative that would probably work better since youre not using Zoneminder for any of its smarts would just be using VLC to open the stream. ,ZoneMinder,d5daoxr,1,t5_2yhsx
+10899761,0,t1_ddo4r1x,Sorry for the super late reply. It was just a guess. The newest has a whole bunch of updates. Have you tried other software like ShinobiCCTV? It uses ffmpeg. It has captured cameras that I could not for the life of me get going with zm.,ZoneMinder,de48e9p,1,t5_2yhsx

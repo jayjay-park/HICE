@@ -1,0 +1,12 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+525555,0,t3_1zxfda,I dont even know who Lowin Data is or what they do but this is bar none the best Python setup tutorial I have ever used.,IPython,cg00fd1,1,t5_2x3ey
+691028,0,t1_cgisi5c,Thanks I hadnt seen that although Im relatively unfamiliar with bpython. And no I tried learning vim a few times but I cant get much beyond the basics. Sublime Text is much more my kind of editor anyway. If I ever get the chance I might look into hacking this to work with Windows. ,IPython,cgitlns,1,t5_2x3ey
+1232591,0,t1_ci89wbg,Thanks for the link to your notebook  this is pretty awesome. Good explanations!For my repo I just dumped the plots I needed to do for my research and replaced the actual data with example data. I put this gallery together because I often have to look at my old examples and use them basically as copy amp paste templates when I need to do some new plots.  I definitely should also add more comments when I find the time ,IPython,ci8a7xh,1,t5_2x3ey
+2466403,0,t1_cmgjc9z,Thanks takluyver will give it a try! ,IPython,cmgjq41,1,t5_2x3ey
+3166280,0,t1_coq6cq0,Oh I see. Sorry for the misleading reply then.    Im not an emacs person so theres little help from me Im afraid ,IPython,coq6mgt,2,t5_2x3ey
+5158329,0,t3_3lnt5s,....................................,IPython,cv7rr8d,1,t5_2x3ey
+8245128,0,t1_d57lpz2,Did you fix it?,IPython,d58736h,1,t5_2x3ey
+9007163,0,t1_d7pd4rn,Hi! If you are looking for anomalous points then I suggest you look into using an anomalyoutlier detection algorithm. Fortunately hdbscan comes with one so if you already have that working it may do the job you want. Theres some documentation on the outlier detection usage at ,IPython,d7uiq5r,1,t5_2x3ey
+9492864,0,t3_5ar90i,Do you know ... for Pythongt Excel     for cool visuals in javascript   both work in jupyteripython,IPython,d9j75q1,3,t5_2x3ey
+10689017,0,t3_5sqgnj,For complicated graphics they can get quite large.,IPython,ddihrmo,1,t5_2x3ey
+11788747,0,t3_6807ti,Update when I open a new notebook it works fine. There is something specifically about this notebook that is fubar formatting wise. What Ill do is just copy my work into a new dang notebook O,IPython,dgwalbw,1,t5_2x3ey

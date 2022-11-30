@@ -1,0 +1,5 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+3519343,0,t1_cpt1egh,Are you also running a server? Or second copy of the client?,starboundbugreport,cptfj3d,1,t5_2zb64
+5588993,0,t1_cwopkx5,It sounds like you have the Root of the Conflict mod installed perhaps.  Have you tried disabling your mods?,starboundbugreport,cwpv7r9,1,t5_2zb64
+8565681,0,t3_4x2y3x,Found the culprit.  Enemies Arent Stupid.  The author knows about the bug and is working on a fix.  Until then disable when going into the ceremonial hunting grounds.,starboundbugreport,d6caf30,1,t5_2zb64
+10624549,0,t3_5s1svv,Update Closed steam entirely launched from folder.  Works fine. Must be an issue with running  steam API... Hope they fix,starboundbugreport,ddbualh,1,t5_2zb64

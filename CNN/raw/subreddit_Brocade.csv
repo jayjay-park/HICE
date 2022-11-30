@@ -1,0 +1,6 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+6603025,0,t3_4640sk,Check out expect scripts.   We use them for resetting poe ports on our brocades.   ,Brocade,d02b2oo,1,t5_2w25s
+6700512,0,t1_d0cdihf,Yep.  I agree.  Access switches stack them all day long.  I set mine up with hitless and priorities...However server switches?  Id rather have two switches to manage than a single point of failure the stack.  As a stack impossible to upgrade firmware without taking the servers down.,Brocade,d0ce33u,1,t5_2w25s
+9604387,0,t1_d9wxnta,Same effect with telnet? Did you try to zeroize the keys and rebuild SSH?,Brocade,d9wxqyh,2,t5_2w25s
+9728524,0,t1_da4x2xy,No resolution. I saw it at a clients cluster too. Is everything working normally for you?,Brocade,dac94xq,1,t5_2w25s
+10389818,0,t1_dcllda5,The  billion was a bid for just the Ruckus wireless BU and potentially the ICX line and wouldnt include any of the SoftwareNFV assets or the VDXSLXMLX assets.   Even so Brocade just completed the Ruckus acquisition for . billion.  Adding in ICX for a combined price of lower than what Brocade paid for Ruckus alone seems to be at almost insult level pricing.  That being said you are correct the price is the most the buyers are willing to pay.,Brocade,dclr1sw,1,t5_2w25s

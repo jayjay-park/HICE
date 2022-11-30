@@ -1,0 +1,7 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+304319,0,t3_1xfifd,Try CCLite by Sorroko.,ComputerCraft,cfcb5vq,1,t5_2tv9f
+1136352,0,t1_chwo6wx,Ah thank you. It worked.,ComputerCraft,chxg7cz,1,t5_2tv9f
+2787596,0,t1_cnkipst,Doesnt look like theres anything terribly interesting or relevant in it. A lot of world may be leaking errors. Nothing about java exceptionserrors or computercraft at all. Ill post the whole thing if you want but thats literally all there is. ,ComputerCraft,cnkxul4,1,t5_2tv9f
+6710338,0,t3_47i6ck,You never yield from main. The computer crashes because CC has a limit on how long a coroutine can run before deciding its stuck.,ComputerCraft,d0den66,2,t5_2tv9f
+7473493,0,t1_d17syd6,Will the PocketPC code work with a normal computer? Or only with pocket pcs?,ComputerCraft,d2rowzk,1,t5_2tv9f
+10422675,0,t1_dcpgzma,Oh thats entirely the problem hes missing one extra end for the original while turtle.getFuelLevel gt  do part but personally I feel that getting people to instead ask on the forums where the most active and knowledgeable people are is probably the better option.,ComputerCraft,dcph9q8,1,t5_2tv9f

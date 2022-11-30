@@ -1,0 +1,4 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+1725497,0,t3_2dkarg,Trying to do just a few tables at a time on the DampL now.I copied the DB to both DbOrig and DbLoad.It wont take the dumped data from DbDump because data exists in the target table.Im going to see if I can delete tables from DbLoad reload the structure and dump in fresh data.,epicor,cjwnwab,1,t5_2v58x
+3475719,0,t3_301sw8,Does Eclipse have updateable queries?Maybe you could use a macro like Autohotkey. That program saves me tons of data entry work.,epicor,cpoghbj,1,t5_2v58x
+11765012,0,t3_67rcwo,In the client directory on your machine use the configeditor.exe.Run as admin.Select the appropriate config and edit the user tab.,epicor,dgtle7n,1,t5_2v58x

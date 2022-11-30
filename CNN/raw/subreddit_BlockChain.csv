@@ -1,0 +1,12 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+5502671,0,t3_3qglu0,I cant log in also. I get emails asking permission but do not allow me to go and get errors.,BlockChain,cwf0nb9,2,t5_2xbve
+6181351,0,t3_3zmg9y,You can watch Bitcoin amp Cryptocurrency courses created by Princeton University on coursera.org,BlockChain,cys974x,2,t5_2xbve
+6467643,0,t3_43q0l4,The blockchain is a misnomer.  It is based on a misinterpretation of how transaction validation works in bitcoin and other digital currencies.,BlockChain,czoat7z,2,t5_2xbve
+6544103,0,t3_458sro,Yes there are already ways to prune blockchains so that the entire chain is validated but only the more recent transactions are kept.For blockchains like Ethereum where contracts are stored on the chain there are plans to do some kind of sharding where  inactive contracts are not kept on every node.There is still a lot of work that needs to be done in this area but it is definitely something that is being addressed.,BlockChain,czw7oy8,1,t5_2xbve
+8212905,0,t1_d542gun,Preferably Cryptography or security. A technical aspect of it.,BlockChain,d5461l0,1,t5_2xbve
+8276320,0,t3_4ss4zj,That depends on the platform.In ethereum yes it is possible to find out who owns a contract on the chain by looking at transactions between the contract address and the addresses it interacts with.As far as who owns the addresses thats sort of up to the owner if they make their meatspace identity known.,BlockChain,d5c3k6n,1,t5_2xbve
+9109746,0,t3_53ntd7,ICOQ,BlockChain,d86uejp,1,t5_2xbve
+9293777,0,t3_57pnwe,removed,BlockChain,d8u1wph,-3,t5_2xbve
+9700343,0,t3_5dx01v,Check out Block.io for an implementation. ,BlockChain,da8rvsw,1,t5_2xbve
+10287900,0,t3_5n6f12,removed,BlockChain,dca6tzp,1,t5_2xbve
+11216155,0,t3_5zymmj,Isnt that already being done? State govt of Vermont is gonna implement it soon. ,BlockChain,df3c5wl,1,t5_2xbve

@@ -1,0 +1,8 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+208644,0,t3_1wg3wq,This is REALLY useful! Thank you! At first i was kinda scared this had a virus in it or something but it seems clear so far.,CudaManager,cf27hxa,1,t5_2zw2h
+237587,0,t1_cf5deu3,Usually let autotune pick it you can save whatever setting it picks by clicking it at the bottom and selecting save.,CudaManager,cf5djlr,1,t5_2zw2h
+247552,0,t1_cf6ep2d,Could you make another miner without a config and see if autotune spits out something different and see if that one crashes on ya?Its not something that seems easily reproduced but I found the line thats doing itcheckCudaErrorscudaEventRecordcontextserializestreamthrid contextstreamsstreamthridMaybe Christian can enlighten me on this...,CudaManager,cf6euda,1,t5_2zw2h
+251663,0,t1_cf6tzk3,Thanks for the quick reply! I was told to make a .bat file with D benchmark and run that a few times to test out the best config. Is that incorrect?When I set it to auto on my mining .bat file it seems to go to something like Kx. Again thanks for the help.,CudaManager,cf6u82s,1,t5_2zw2h
+365936,0,t1_cfiovyl,I have no Idea,CudaManager,cfip0ej,1,t5_2zw2h
+370938,0,t1_cf78stk,love teh GUI but i cant connect to my minming pool ,CudaManager,cfj7ojs,1,t5_2zw2h
+502617,0,t1_cfxdxla,Ahh thank you. I thought something beyond my control went horribly wrong.,CudaManager,cfxeg32,1,t5_2zw2h

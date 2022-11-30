@@ -1,0 +1,40 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+67760,0,t1_cel4byk,actually i think theres a misunderstanding i want to disable vibration even when the vibration switch is no vibration. is there a tweak?,flextweak,cem577h,1,t5_2w93m
+76702,0,t3_1uz7gk,I dont know if it can be done with Flex but TetherStatus puts a number in the status bar relevant to how many devices are connected to your hotspot.,flextweak,cen5t4k,2,t5_2w93m
+83878,0,t3_1uvh8a,beta software,flextweak,cenz85z,1,t5_2w93m
+177992,0,t3_1w4vin,the only way to do this would be hacking the server which is really really hard,flextweak,ceyphud,2,t5_2w93m
+190398,0,t3_1w673q,Match... WWF... Thought this was gonna be about something completely different lol. ,flextweak,cf04jrz,1,t5_2w93m
+199558,0,t3_1wdq8h,I read this several times over are you looking for something like tinybar? It shrinks the typical notifications down to status bar size.,flextweak,cf1673c,1,t5_2w93m
+211582,0,t1_cf2dbkl,Try to REPLY to the original post.,flextweak,cf2jlaq,1,t5_2w93m
+218355,0,t1_cf2rvk5,I figured out how to remove the E from the album search only location left is still the lock screen and I cant find it to save my life.,flextweak,cf3bdvr,2,t5_2w93m
+250015,0,t1_cf6nzzt,That seems to have fixed it for me,flextweak,cf6o2d1,2,t5_2w93m
+280167,0,t3_1xb60l,deleted,flextweak,cf9svw6,1,t5_2w93m
+309063,0,t1_cfcsjz6,Tried appIsCracked and set the bool to false didnt work.  Also set to true didnt work.  Gotta be a patch!  Any other ideas ?,flextweak,cfcsw10,1,t5_2w93m
+467881,1,t3_1zggey,No. Just no. ,flextweak,cftg754,-1,t5_2w93m
+567625,0,t3_20dkvp,Spotify gets updated crazy fast and they know about Flex since they already patched the limited skips workaround that enabled you to seek to the end of the song. I just installed an earlier version of the app they havent really added anything worth having as far as I can tell. ,flextweak,cg4slpk,1,t5_2w93m
+572952,0,t3_1wpz14,Anybody? Im curious about these as well...,flextweak,cg5ee6s,2,t5_2w93m
+642763,0,t3_21c9pt,Here you go,flextweak,cgdbzkk,2,t5_2w93m
+677255,0,t1_cgh1g98,Yea I noticed that last night too. Ill start looking into it. Still waiting for the patches I submitted to show up in the cloud though. ,flextweak,cgh95tz,1,t5_2w93m
+735371,0,t3_22ibsd,same here.,flextweak,cgnv67j,1,t5_2w93m
+766253,0,t1_cggb4z3,running . on my devices and after they are locked for a few minutes...I have to do a hard reboot to bring the devices alive.  The home button wont wake the device at all.  Uninstalled Flex  and went to Flex and everything is fine.  I also would like a solution.,flextweak,cgrdmjn,1,t5_2w93m
+987575,0,t1_chfvmmk,Odd. The changelog on the AppStore says it supports recording for all iPads with the exception of the first gen iPad.No I dont have one myself so Im unable to test it Im afraid. Edit Wait a minute your iPad isnt still on iOS  is it?From their websitegtCompatibilityRequires iOS . or later. Compatible with iPhone iPad and iPod touch. This app is optimized for iPhone .,flextweak,chgjml1,1,t5_2w93m
+1167191,0,t3_27hi7i,Yeah mine isnt working either.,flextweak,ci0xggg,2,t5_2w93m
+1443570,0,t1_ciqqf1t,Submitted a patch which does this,flextweak,cix87f7,2,t5_2w93m
+1710328,0,t3_2dxejn,Cant be done must be serversides I guess.,flextweak,cjuqyv8,1,t5_2w93m
+1893813,0,t1_ckh6n93,Sure ill teach you...I will edit this post later because im not with my iPhone With the patched alien blue but i can give some walktrough by here Create an patch for SpringBoard then search for Overlays. You will probably see some weirdo stuff p but keep on mind that what you need are Bools. When i get home i keep going the steptostep tutorial sorry ,flextweak,ckhe8ak,1,t5_2w93m
+2269112,0,t3_2l51hz,Search this subreddit for deb,flextweak,cls6k9s,1,t5_2w93m
+2271363,0,t1_clsgbwi,Ive actually stayed up really late and created  patches that I used on my old device gt.lt they will be uploaded soon.,flextweak,clsgkc8,2,t5_2w93m
+2309684,0,t3_2ldwd4,It has no relation to Cydia ...Im on that currently and using . thankfully I saved it and system applications are working fine.,flextweak,clx6yoj,1,t5_2w93m
+2404969,0,t1_cm8tsr3,i think ill post in rjailbreak,flextweak,cm8yo6v,2,t5_2w93m
+2408907,0,t1_cm99mxb,I will google this some more when I get home but can you decompile iOS apps?,flextweak,cm9g7ay,1,t5_2w93m
+2730017,0,t1_cm9lssb,Are you still looking for this? If so where does it not open? The actual app? It opened for me but I didnt test no further.,flextweak,cnee3l3,1,t5_2w93m
+2780097,0,t3_2rruiw,Just installed it. It shows up as OWA. ,flextweak,cnk35y9,1,t5_2w93m
+2927680,0,t3_2qdj5d,Trivia crack one ,flextweak,co0vyrq,1,t5_2w93m
+3537609,0,t1_cpvhak9,So there isnt a way to get round this even with a vpn or flex patch?cant imagine they put so much effort in restricting use outside UK...,flextweak,cpvid98,1,t5_2w93m
+3720548,0,t3_32zzfh,Try messing with the AirPlay ones that enable AirPlay and these ones that detect external display. I had to do this with the TWC app. Lmk if you need help other than this I only have a HBOGO account so I cant test it. ,flextweak,cqgdaf7,1,t5_2w93m
+7310993,0,t1_d293awa,So your not writing your own code necessarily ? Your just changing functions within the said app? ,flextweak,d297kud,1,t5_2w93m
+7357179,0,t1_d2ee5dq,Make sure the Documents folder is also read write execute and ownergroup are mobilemobile. Everything should be these settings. If all else fails try it in safe mode. Still no good try Flex . if not already on that version.,flextweak,d2egls2,1,t5_2w93m
+8483215,0,t1_d61xgh4,deleted,flextweak,d61y3oj,1,t5_2w93m
+9173794,0,t3_55tffe,Just deny Weather location GPS in settings.,flextweak,d8eugy2,2,t5_2w93m
+10993000,0,t3_5wt31x,Just use gamegem from bigboss more stable and doesnt leave a daemon running permanently.,flextweak,dee0sp8,1,t5_2w93m
+11506526,0,t1_dg03wsb,Removing jailbreak detection patches are fine but adding features that require usually paying is piracy. Comments and ratings are the only real way to know if the patch works or not. If I find or people report broken patches to me I do remove them but its almost impossible without people reporting them as broken by contacting me.,flextweak,dg09kqu,1,t5_2w93m

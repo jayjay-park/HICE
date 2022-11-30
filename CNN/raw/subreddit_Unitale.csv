@@ -1,0 +1,96 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+5836335,0,t3_3v5ixa,Well technically its possible if you make every frame export them as a ton of PNGs then change the image with a variable every Update,Unitale,cxko5gg,1,t5_3aytl
+5840422,0,t1_cxl6wd2,gt BattleDialoglistofstrings EMW This makes the list of strings you give the function appear in the UI dialog box. After skipping through them you will automatically go to the monster dialogue step by default. Below is a working example of how you could use it for a Vegetoid encounter DocsTry this    BattledialogYou tell a bad joke aboutrskeletons.Hes heard it beforewbutrits still funny.Re Sprites I havent had much luck with them myself... Trial and error is your best bet I guess.,Unitale,cxl7fp6,2,t5_3aytl
+5840692,0,t1_cxl6vg5,deleted,Unitale,cxl8pkq,1,t5_3aytl
+5841937,0,t3_3v8vnj,At the moment rotating the box would be impossible as you can only set it as a rectangular shape. Rotating stuff in general is really hard would involve tons of sprite changes and wouldnt look that good.,Unitale,cxlekqn,2,t5_3aytl
+5868631,0,t1_cxovt5m,Sounds like a nice idea I like it! Ill give it a shot with the wheels for sure.,Unitale,cxowpk4,3,t5_3aytl
+5890505,0,t3_3vn8cj,I think I have find out a problem. After the fight ends I looked into the code theres supposed to happen another boss. But that never happens. The music keeps playing and playing forever...and you cant do anything. The enemy wont talk nor we can do anything. Is this normal? Thanks.,Unitale,cxrs2gp,2,t5_3aytl
+5901348,0,t1_cxt75l6,Knew I had a stupid mistake in there somewhere! Thanks for that. Ill try that solution and see if it works for me!,Unitale,cxt784n,2,t5_3aytl
+5904221,0,t1_cxtkrvs,How would you keep track of that?,Unitale,cxtksfk,2,t5_3aytl
+5917271,0,t1_cxv6jxb,Um... No. Thats wrong.,Unitale,cxvaah3,1,t5_3aytl
+6071354,0,t3_3x6cbk,doesnt work?,Unitale,cyffxrr,1,t5_3aytl
+6105592,0,t3_3z5xhb,im new how do you launch the game?,Unitale,cyjn6cs,2,t5_3aytl
+6113585,0,t1_cykfaxa,Multiple parameters are unfortunately not yet supported in textbased function calls. Its being worked on.As a quick heads up Spare and Kill are fairly buggy in general and really need to be fixed soon. Hopefully the planned changes for state functionality will resolve this.Also youve uncovered a bug! You definitely shouldnt be getting a stacktrace over a regular error when using nil variables. Ill see to it that its fixed.,Unitale,cykjvbd,3,t5_3aytl
+6114322,0,t1_cyklrfw,Wouldnt that substitute the first attack wave? Or is there any way to make two waves one after the other?,Unitale,cykmvtk,1,t5_3aytl
+6201723,0,t3_40j89c,I second the hastebin request but Ive seen a similar error before and it usually means you have an end in the wrong place.  Make sure your ENDs are only after FUNCTIONs and IFs.,Unitale,cyukikr,2,t5_3aytl
+6236832,0,t1_cyyjyaa,deleted,Unitale,cyyk6dt,1,t5_3aytl
+6264346,0,t1_cz1og6s,It isnt anywhere. You put it there.it goes in encounter.lua,Unitale,cz1oprh,2,t5_3aytl
+6265592,0,t3_41f4f9,They are example attacks. None of the example things in Unitale are meant to represent Undertale. They are examples so that people can learn from them and make their own things.,Unitale,cz1ttii,3,t5_3aytl
+6275501,0,t1_cz2wav2,Does his game not have  cool tricks that people here make? Is its speech script not well made? Is it cringy?,Unitale,cz2ycbl,1,t5_3aytl
+6295348,0,t1_cz4oks8,Id recommend using the EncounterStarting function in the encounter but you can really use them anywhere.,Unitale,cz57k8e,1,t5_3aytl
+6321950,0,t3_427ch8,Be sure to learn some Lua and then study the documentation because if not youre going nowhere kid!,Unitale,cz88ina,2,t5_3aytl
+6324303,0,t3_428qc5,If hes a Serif shouldnt he have wings or a halo?,Unitale,cz8i675,2,t5_3aytl
+6408379,0,t3_417zbq,,Unitale,czi2g5o,1,t5_3aytl
+6412433,0,t3_43ivaz,deleted,Unitale,czij1su,1,t5_3aytl
+6449579,0,t1_czlr4nn,And those people can learn everything they need to know for Unitale with a bit of logic determination and the documentation.  While Lua is not hard at all to begin with everything that beginners need to do to make a playable battle is written plainly in the example scripts.  Anything people want to do extra other than making new attacks from scratch is done with simple if statments and variables.  I would actually say that if you want to learn Lua Unitale is a pretty good place to start with all the resources available for people to use freely.,Unitale,czmfdk7,1,t5_3aytl
+6498478,0,t1_czrhms9,NO! IM DETERMINED TO FIND OUT! UNDYNE MUSIC PLAYS,Unitale,czrhp2d,2,t5_3aytl
+6498613,0,t1_czr1mjw,From a quick test it looks like damage is stored as an int which means if the player does over  damage the damage rolls over into the negatives and becomes a miss.If the enemy has approximately  defense and the player lands a perfect hit the attack should miss. defense is about a tenth of that so attacks shouldnt miss.If youre still having the problem could we see your code please?Edit Oops! I just saw your other post that said you finished your battle. Nice job! D,Unitale,czri78t,2,t5_3aytl
+6512785,0,t3_44udu4,this isnt really the best place to ask about it buddy. try something like runderminers. theyd know more about it.,Unitale,czsz10o,6,t5_3aytl
+6517176,0,t3_44vwo8,,Unitale,cztfddj,1,t5_3aytl
+6534670,0,t3_447jb1,you didnt include the mod in the file...at least for me it just is an empty version of the UNITALE engine without the mod in it. no lua folder in sight.,Unitale,czv8jtk,1,t5_3aytl
+6542384,0,t1_czvexqa,I did it in my computer I havent updated the one I put up.,Unitale,czw1adw,1,t5_3aytl
+6543069,0,t3_454v88,Making sprites go to certain layers is important if anyone is using a screen mask like I am. I have a completely black background but the sprites are hidden underneath. The mask has to be a projectile so it can hide the enemy sprite arena and menu buttons durring the wave.Also when it comes to projectile having sprite properties what properties might they have. Would they be able to have the bullet.SetAnimationxy or do I have to manually use bullet.SetxThanks for the great work. Im sure many people will create amazing things.,Unitale,czw3uco,2,t5_3aytl
+6569167,0,t3_45b9pi,Its not bad. I feel like the only thing that would make it really enjoyable is fixing the clunkyness of Sans dodging animation and making it so theres an actual victory. Losing isnt the funnest thing you can do. Add a victory condition of sorts and this could be amazing.Also a ton of acts and none of them work. I feel that should be fixed above all else. Otherwise I give it a . Great and fun attacks but thats all it has going for it. Edit Also using Song that Plays When You Fight Sans would be so much better even if its a bit unfitting. ,Unitale,czyt172,1,t5_3aytl
+6571849,0,t1_czyy4gh,I hear more people are having this issue so its probably a bug. Hope to have it fixed along with some others tomorrow.,Unitale,czz30uh,2,t5_3aytl
+6586580,0,t3_45rx04,Are you supposed to use next in the encounter text? It seems... wrong... Anyway couldnt you omit the ... and just use    colorffThis isnt going to be arbad time.PS Unless youre making a new sentence the ui box uses r not n or nr.,Unitale,d00ltuz,2,t5_3aytl
+6590899,0,t1_d00vilm,Fuck that intro still gives me the shivers...,Unitale,d011wza,2,t5_3aytl
+6648666,0,t1_d06tjfr,I believe you can do something like this    if gametime  timestodoathingthatwillbereferencedinthecodebelow then            local rand  math.random            if rand   then        local arrow  CreateProjectilearrowdown        arrow.SetVardirdown        arrow.SetVarspeed                table.insertbulletsarrow            elseif rand   then        local arrow  CreateProjectilearrowdown        arrow.SetVardirdown        arrow.SetVarspeed                table.insertbulletsarrow            elseif rand   then        local arrow  CreateProjectileaarrowdown        arrow.SetVardirdown        arrow.SetVarspeed                table.insertbulletsarrow            end        end,Unitale,d0712t2,1,t5_3aytl
+6649180,0,t3_46mfgd,deleted,Unitale,d072zo1,1,t5_3aytl
+6650162,0,t1_d076lio,Thanks!!,Unitale,d076n8n,1,t5_3aytl
+6664205,0,t3_46xnn4,If you add a geno pay  and passive ending  add more attacks.This would be great!,Unitale,d08mwwv,2,t5_3aytl
+6674376,0,t1_d09isvr,head.Settoriel..emotion inside Updateand then emotion could be set in a function or something and then you could do funcEmotionHappyHi im torielnfuncEmotionAngryand your kill!!!!,Unitale,d09osfh,2,t5_3aytl
+6677696,0,t1_d0a03h7,Now that I have Tried I can safely say Im not a programmer anymore. Not that I was in the first place. Isnt SuperLolz a programmer? I can make examples for stuff that could happen and I have plenty ,Unitale,d0a15wo,-4,t5_3aytl
+6699666,0,t1_d0bxywv,Do it,Unitale,d0caxmq,1,t5_3aytl
+6729671,0,t1_d0f20xy,Thanks for the suggestion.  Ill be sure to add that in.  ,Unitale,d0fenm2,2,t5_3aytl
+6729920,0,t3_47su4g,The google drive download isnt working for me.Edit Thanks for the mirror.,Unitale,d0ffl2p,5,t5_3aytl
+6752425,0,t1_d0hr9jc,if i figure out how both.,Unitale,d0hrasg,2,t5_3aytl
+6772631,0,t3_48i4ld,I suppose the attack waves are still WIP...?The rest is nice.,Unitale,d0jyka1,3,t5_3aytl
+6780508,0,t3_48m3pu,nice original new attack that you made yourself that isnt at all just a free to use attack i made,Unitale,d0kusd4,7,t5_3aytl
+6817135,0,t1_cyht4yr,What if its like Touhou when theres no OnHit?,Unitale,d0p0ql2,1,t5_3aytl
+6817537,0,t1_d0ok5uf,youll have to spawn sprites with the GB heads. After a delay change their sprites to the open GB and spawn a beam which attacks the player. Ive never done it so I wouldnt know,Unitale,d0p2duk,1,t5_3aytl
+6836434,0,t3_49b3n2,Are colliders pixelperfect or rectangular? This is the goal for ..,Unitale,d0r7n67,4,t5_3aytl
+6839826,0,t3_49fmuj,Which file is this in the encounter or the monster file?Youd also have to put it in a separate dialogue block like this     currentdialogue  text text music changenoskipfuncstartnext,Unitale,d0rljqd,2,t5_3aytl
+6842607,0,t1_d0qzrln,Epona?,Unitale,d0rwy23,5,t5_3aytl
+6885000,0,t1_d0wq5fb,Well there is Player.SetControlOverrideboolean.That basically makes it so the traditional controls are turned off.If you want the controls to turn off and on every second you could do something like thisencounter.lua    Player.SetControlOverridetruesoul.lua    movement      timer      function self.Update        timer  timer          if timer lt  then            movement   or whatever speed        elseif timer gt  and timer   then            movement   obviously you can swap these two        elseif timer   then           timer          end        if Input.Right gt  then            Player.MoveToPlayer.x  movementPlayer.yfalse        elseif Input.Left gt  then            Player.MoveToPlayer.x  movementPlayer.yfalse        end    endNOTE I havent coded for vertical movement in this code.,Unitale,d0wqc8o,3,t5_3aytl
+6891183,0,t3_4a53qj,deleted,Unitale,d0xfm0x,1,t5_3aytl
+6899649,0,t1_d0xrf89,allright thanks!,Unitale,d0ye6nr,1,t5_3aytl
+6902089,0,t3_4a7r8m,I have a local copy of ..a,Unitale,d0yo5az,1,t5_3aytl
+6929832,0,t1_d11s5ih,Bindingofsavage,Unitale,d11tl5l,3,t5_3aytl
+6934467,0,t1_d129drr,No prob ,Unitale,d12cjqv,2,t5_3aytl
+6936931,0,t1_d12mgvq,I appreciate your patience with me... However theres one last thing. How do I make him say things during normal turns? Such as when I attack him he will say Please dont hurt me!,Unitale,d12mmyq,3,t5_3aytl
+6941352,0,t1_d134ijn,im going to delete them.,Unitale,d134qwg,2,t5_3aytl
+6965141,0,t3_4b3x9z,Post your code and Ill see what I can do.,Unitale,d15u1t5,3,t5_3aytl
+7005348,0,t1_d1a73nm,No I meant another end. You need one to close the if statement.,Unitale,d1aefp9,2,t5_3aytl
+7006957,0,t3_4bjlr9,ok,Unitale,d1al0t5,1,t5_3aytl
+7028044,0,t1_d1cswdn,Im working on new waves,Unitale,d1czd49,1,t5_3aytl
+7042783,0,t1_d1ekk06,I dont have one either but I managed to get it working.,Unitale,d1ennew,1,t5_3aytl
+7130995,0,t1_d1opmh6,Thanks!Technically given the time I could use this weapons code to recreate the frying pan torn notebook and empty gun as well.,Unitale,d1opqd9,4,t5_3aytl
+7200249,0,t1_d1w7d1m,Its a WIP. ,Unitale,d1wlzjd,1,t5_3aytl
+7288086,0,t1_d24q7wc,Nope.it does not work.,Unitale,d26lud9,1,t5_3aytl
+7354385,0,t1_d2dtslk,Thanks! Ive been making more complicated waves but the most elaborate waves arent even begun yet. Hope it wont disappoint  ,Unitale,d2e55zv,2,t5_3aytl
+7420102,0,t1_d2la8dt,Just seen your Edit. If youre using a montage software before uploading it this is what I do then your software probably works with  FPS Sony Vegas Pro does and it may not be possible to get  FPS anymore yes it alters the framerate which is kinda stupid...The only thing I found in SVP to get  FPS is making a BluRay version and since it takes a lot of time its not happening on my end. So if youre using this software and have a lot of time to spare you may want to try it. If not I suggest you dont I dont think the result would be worth the effort.Hope I helped. Tell me if you find the solution to your problem itd eventually help me too.,Unitale,d2lm8h9,3,t5_3aytl
+7445932,0,t1_cxjk6k2,battledialog is for ACT commands. take a look at the examples Encounter.lua or read the documentation,Unitale,d2ojzvq,1,t5_3aytl
+7501135,0,t1_d2ulcw3,The music is kind of a placeholder until I make something different and longer and I think that Armorachnid should have more and shorter attacks. Its not the final final version yet. ,Unitale,d2uu984,4,t5_3aytl
+7504790,0,t3_3z4hye,how download?,Unitale,d2v983b,1,t5_3aytl
+7714832,0,t3_4aa76t,Maybe have the canon soul modes integrated?,Unitale,d3j4gj9,1,t5_3aytl
+7754990,0,t3_4lh7jn,HOLY crap this is so awesome! Finally we have an overworld in Unitale! Oh man I hope you improve on this such an awesome thing needs to be finalized and added to the original Unitale engine.Anyway I found two bugs  . When I pressed f for fullscreen I got an enlarged view of some corner instead of the full game on fullscreen I have no idea why it happened or if it was a onetime thing.  . when I was at Snowdin whenever I pressed the event button that pops the DUN DUN DUN text the dialogue boxes never appeared I only heard the text sounds and was frozen in place to scroll through them.I hope you expand on this idea and make it work an overworld is definitely an amazing thing we need to have in Unitale I also want to wish you good luck in your coding I can imagine something like this is INSANELY hard to code.,Unitale,d3non5j,3,t5_3aytl
+7792744,0,t1_d3rxmn4,yes Dits literally just this ported to unitalelua,Unitale,d3rynh2,4,t5_3aytl
+7815193,0,t3_4md54j,removed,Unitale,d3uhpy6,1,t5_3aytl
+7912612,0,t1_d454jn5,READ THE ENTIRE THING BEFORE RESPONDING. IT GETS BETTER AT THE END TRUST ME!Well youre not really giving me advice. Just saying my battle Its only beta by the way is horrible. Oh and you didnt have to write an essay just bragging about how great you are at coding. Please dont make fun of other people for their poor coding skills. Nobody likes that. I do admire YOUR coding skills though. Have you ever made a Unitale battle though? If so would you mind sharing it with me? And maybe give me some REAL advice? Thanks.,Unitale,d45gamo,2,t5_3aytl
+8073961,0,t1_d4n48xm,I cant improve it  the function that I need to use is very long as it registers screens pixels into a temporary image and then check colours. I cant optimize it More SOUL modes  you better check the reddit youll see lots of examples of SOUL modes  try to stick to them to make your own soul modeAdd custom fonts... Check the encounter Examples  New characters.lua I added some accents etc. I cant do something like this all data are given in XML see premade fonts and try to stick to them tooA custom loop point in a song... Yeah why not Ill think about it Of course that .. encounters will work ! I just added things.,Unitale,d4nl80s,1,t5_3aytl
+8113308,0,t3_4hrrs7,DAMN this is hard,Unitale,d4s0c8i,1,t5_3aytl
+8345005,0,t1_d5kjimo,Oh shit. Ill have the link soon. Sorry.,Unitale,d5kogxf,1,t5_3aytl
+8364305,0,t3_4u5v1n,PLEEEAAASE HELP ME!,Unitale,d5n38i5,1,t5_3aytl
+8455642,0,t1_d5x967b,Alright I tried repackaging the battle a different way. Here ya go!  ,Unitale,d5yhnrl,1,t5_3aytl
+8462471,0,t1_d5zcbkd,A global is a variable that can be accessed through any of the scripts wave library monster encounter animation once it has been set. The error on line  is that the global variable  has not been set anywhere so its nil. A global is set through SetGlobalglobal name valueTo fix this you should make sure that its being set before the wave script or at the beginning of it,Unitale,d5zcfoo,4,t5_3aytl
+8807799,0,t1_d761gl6,deleted,Unitale,d76kswh,1,t5_3aytl
+8893410,0,t1_d7fo8xw,Wait you think my attempt at a papyrus fight is good?That really means a lot...,Unitale,d7gv0ji,1,t5_3aytl
+8976178,0,t1_d7qmj4m,you want me to gay you over? EWW NO,Unitale,d7qstxz,1,t5_3aytl
+9256001,0,t3_56rnwx,,Unitale,d8p9jjv,1,t5_3aytl
+9359676,0,t1_d9242ho,deleted,Unitale,d92en9z,1,t5_3aytl
+9504346,0,t3_5atwrk,Thanks for the honorable mention! ,Unitale,d9km30h,2,t5_3aytl
+10436962,0,t1_dcqzpkh,You should be able to create a new Lua file with the program.  If not  create a blank text document and format the end of it with  .lua and it will become a lua file. ,Unitale,dcr3n4v,2,t5_3aytl
+10589752,0,t1_dd6zioq,ok xd,Unitale,dd8929a,2,t5_3aytl
+11324963,0,t1_dfflzq0,Whoops.,Unitale,dffnzct,4,t5_3aytl
+11468807,0,t3_628z6n,Its AltEnter.,Unitale,dfvzese,2,t5_3aytl
+11633523,0,t1_dgbuf4v,deleted,Unitale,dgeo7sf,1,t5_3aytl

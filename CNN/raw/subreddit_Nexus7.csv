@@ -1,0 +1,297 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+9871,0,t1_cefbies,The static setting didnt di anything but thanks for the pointer. ,Nexus7,cefk4we,1,t5_2ucrx
+23316,0,t3_1udgc4,Upgrade to .,Nexus7,ceh3626,3,t5_2ucrx
+23334,0,t3_1udriq,Not wifi but via bluetooth you can. Just pair the computer and tablet up then mark the computer as an audio out device. ,Nexus7,ceh38pg,5,t5_2ucrx
+23757,0,t3_1udriq,An alternative would be to run the music player foobarwww.foobar.org on your PC and control it via the tablet with an app,Nexus7,ceh4yz4,3,t5_2ucrx
+24242,0,t1_ceeqoqe,I bought the official Google one but any charger that supports the qi standard should work.,Nexus7,ceh6ybp,1,t5_2ucrx
+37146,0,t1_ceimo2t,Does this really work? It sounds too...easy. ,Nexus7,ceinsdk,1,t5_2ucrx
+44349,0,t3_1ulxds,Settings gt storage gt menu gt USB computer connection gt media device tickHopefully this helps before you do any resetting,Nexus7,cejhav6,1,t5_2ucrx
+60344,0,t1_cel43x6,Is there any advantage to doing that vs a wifi  hotspot?,Nexus7,celau1w,3,t5_2ucrx
+61119,0,t1_cek3kkl,Its a common issue that users are experiencing. Judging by the amount of reports of faulty Nexus s on the google product forums and other android forums the touchscreen issue is the most widespread. Ive RMAd  times so far and each time the tablet I have received has hadTouchscreen IssuesRandom RebootsBluetooth Issues,Nexus7,cele02n,1,t5_2ucrx
+96968,0,t1_cep3kbc,Regarding point  I have the Google official charger and it doesnt work with my Nexus  case.,Nexus7,cepgwwt,1,t5_2ucrx
+104351,0,t1_ceqa945,Push Bullet  push notes pictures links and files from chrome on the pcmac to your N and vice versa.Duolingo  learn a language fast and easy and completely free I started learning spanish with DuolingoUmano  news read to you by professional voice actorsPocket  save links to read offline also has an extension for chrome on pcmacMovieDroid  watch all kinds of shows and movies for free,Nexus7,ceqb8gp,1,t5_2ucrx
+123233,0,t1_cesd74v,Have you actually tried this?,Nexus7,cesgq3z,1,t5_2ucrx
+147808,0,t3_1vrhmt,I was in the same situation as you with my  N. I used it for about a month until i got a proper screen protector. It wont affect the touch but it will make sliding gestures a tad difficult. Gorilla glass isnt going to protect it against small particles so if you plan to use it outside the house without a folio then get a screen protector.,Nexus7,cev9li2,1,t5_2ucrx
+169261,0,t1_cexpeys,Nope Im afraid not. I can see where youre going with this though. TBH all I want to do at this point is wipe the storage.,Nexus7,cexpn72,1,t5_2ucrx
+197621,0,t3_1wdc6q,Its weird I have the G and the N too. Especially since getting my G about a month and a half ago I started noticing a lot more minor problems with my N that Ive had since August. It seems much more laggy unresponsive etc. Ive even considered selling it.Dont get me wrong for using it to watch movies or read booksnews its great. But Ive found gaming and general usage on it frustrating since it has so many dead touches. Frankly the G is just so much better specwise that its hard to really compare a budget tablet like the N to it.,Nexus7,cf0y9al,2,t5_2ucrx
+197648,0,t3_1wdc6q,deleted,Nexus7,cf0yd9m,1,t5_2ucrx
+198933,0,t1_cf0y7f3,It isnt. My first one had this issue and I returned it the replacement is fine. Its a common issue but not universal. Can you still return yours?,Nexus7,cf13mzb,1,t5_2ucrx
+222112,0,t3_1wl2eg,Get both. Its difficult enough getting the assembly separated from the frame in order to install a new one  especially if its badly cracked mine was spiderwebbed bad enough that I had to chip away the individual glass pieces for about an hour. I would say its virtually impossible to separate the LCD from the digitizer without damaging it.Display assemblies are less than  bucks on ebay right now save yourself the headache and frustration.,Nexus7,cf3qsj2,1,t5_2ucrx
+224723,0,t1_cf3rc34,Very true but I think a full reset couldnt hurt. I dont really store anything on it. ,Nexus7,cf41eo4,1,t5_2ucrx
+224794,0,t1_cf2qk7b,What exactly are you doing? Maybe its your habits that really need to change. Maybe you got the GPS feature on all the time. ,Nexus7,cf41o9i,1,t5_2ucrx
+256036,0,t1_cf5bmwa,Both of your links are the same.,Nexus7,cf7al4o,1,t5_2ucrx
+259559,0,t1_cf7ljwj,I brought a Nexus a while ago. Recently brought a mac air for exactly that reason. Needed to do work and some programming on the side and simply the nexus isnt made for that IMHO. I still love my nexus though and use both. Especially for games!,Nexus7,cf7numc,9,t5_2ucrx
+264106,0,t3_1x4eej,No back a few years ago when flash storage was more expensive Android devices came with little internal storage and you needed an SD card. Now devices have enough storage but for legacy reasons the path must be the same. So basically you have some internal storage acting as an emulated SD card.,Nexus7,cf84u7e,2,t5_2ucrx
+289825,0,t1_cfasq80,Developer settings is hidden by default. To unhide them go to SettingsgtAbout Device and tap Build number until it says You are now a developer.,Nexus7,cfaszkn,2,t5_2ucrx
+293786,0,t1_cfb6euv,Send microfiber cloth to op stat ,Nexus7,cfb7slr,3,t5_2ucrx
+295044,0,t1_cfbcaul,deleted,Nexus7,cfbci5h,0,t5_2ucrx
+311027,0,t1_cfcsrwc,Best bet would be the Moto X.,Nexus7,cfd08ku,1,t5_2ucrx
+315883,0,t3_1xpnj8,Did you TRIM? The OS needs to periodically signal the SSD controller which blocks are free and apparently this isnt done automatically in Android. Due to wear leveling the controller translates logical block positions and its completely unaware which blocks are free of not. So once you write GB in total to your device the controller will start to churn the device by running readerasewrite cycles instead of simply writing to the flash.Run this in a terminal emulator as root     fstrim v dataIt will trim the data mount point. You can repeat it for other mount points in your root filesystem like  system or cache.Im not sure where sdcard is mounted I no longer have a N but if it isnt bind mounted to data you may have to run fstrim on it as well.,Nexus7,cfdidy1,7,t5_2ucrx
+321478,0,t1_cfdrk24,deleted,Nexus7,cfe3ave,1,t5_2ucrx
+322966,0,t3_1xskgd,A rogue app might be responsible try rebooting to see if it clears it up. If it persists it might be due to a service acting up Wakelock Detector or a similar app can help you single out the culprit.,Nexus7,cfe8v4f,1,t5_2ucrx
+326645,0,t1_cfeabyr,Both.  The digitizer is the part that responds to finger touches on the screen.,Nexus7,cfemlht,1,t5_2ucrx
+336037,0,t3_1xxugp,Ive noticed this issue but more on my nexus  than .  ,Nexus7,cfflmhn,1,t5_2ucrx
+363515,0,t1_cfifhxj,So were you able to view the panorama  ?,Nexus7,cfifzsi,1,t5_2ucrx
+371065,0,t3_1ybouy,This happens to me every so often at least the screen flicker and charging issues part youre describing. Most likely your battery connection to the motherboard got a little loose. Open up the back reconnect the battery to the motherboard it should be painfully obvious to see close it back up and youre good to go!,Nexus7,cfj85lr,2,t5_2ucrx
+389185,0,t1_cfl3ohy,I mean Im a veteran Android user so I am used to the battery limitations of the OS. I dont expect iPadlike battery life. Its just the way it is.Basically your criticism is not relevant to the Nexus  but to the Android platform as a whole.,Nexus7,cfl3s8d,2,t5_2ucrx
+399930,0,t3_1ymlkf,My nexus  is sporting the devicewear faux leather flip case that works with the sleepwake function and I absolutely love it. Fantastic quality for around . I know a lot of people love their moko cases as well. ,Nexus7,cfm7vc3,3,t5_2ucrx
+407300,0,t1_cfmqsix,It is relatively important to get Splashtop THD. Some of the Splashtops are limited to  fps. THD is limited to .,Nexus7,cfmzenw,1,t5_2ucrx
+427548,0,t1_cfp2ie3,I rebooted my phone twice now and both times the app wants to register my phone again. ,Nexus7,cfp2wu4,1,t5_2ucrx
+443450,0,t3_1z5az8,I use my tablet for everything and rarely use my phone. I just have my phone be a Hotspot and plug it in to charge when needed saving battery life for my nexus . If you always have your phone on you anyway I would suggest this. ,Nexus7,cfqq8jd,0,t5_2ucrx
+492424,0,t1_cfw8huk,No I almost exclusively use my tablet at home. I very rarely take it outside of the house so getting G or whatever really isnt a priority for me. Id prefer one with gb like my old battered boy. ,Nexus7,cfw8q5h,1,t5_2ucrx
+529327,0,t3_2076n1,Id bet that it should be OK. If they were that fragile wed have bigger issues. also GC pick? ,Nexus7,cg0fwij,3,t5_2ucrx
+548605,0,t3_20f1x0,Get a new one it seems like nexus devices have this weird thing where people selling used ones set the price to basically what a new one is,Nexus7,cg2msej,2,t5_2ucrx
+560632,0,t1_cg3zhbe,Oh. Well have you been playing games or had your brightness clear up?,Nexus7,cg400qa,1,t5_2ucrx
+575156,0,t1_cg5lqcp,deleted,Nexus7,cg5nenl,1,t5_2ucrx
+594307,0,t1_cg7sj94,   OP This is what you are looking for,Nexus7,cg7trrd,4,t5_2ucrx
+595048,0,t1_cg7r3tt,Thanks! Guess its time to try cyanomod again,Nexus7,cg7wsyz,1,t5_2ucrx
+629073,0,t3_219li6,Ive had this problem on and off for months ever since the .. update. Rotates for a while and then randomly stops even though auto rotate is checked. After a factory reset it seems to work again but stops rotating after a week or so. I tried Google support but they wouldnt help me because I bought the device through Amazon. If you got yours through the Google store Id recommend calling them and see if theyd give you a replacement since it should still be in warranty. As for me Im on my third factory reset and it seems to be rotating fine for now. Im keeping my fingers crossed. But I dont think Ill be purchasing another Nexus tablet again. ,Nexus7,cgbryoy,1,t5_2ucrx
+637206,0,t3_21fjwt,My aunt had it happen and the first time she opened the back disconnected the battery and reconnected it. Its happened again though and that didnt fix it so Ill have her try the suggestion above.Best of luck.,Nexus7,cgcp8o0,1,t5_2ucrx
+637824,0,t1_cgcrgf5,yup pa is becoming increasingly awesomexD,Nexus7,cgcrrwp,2,t5_2ucrx
+647731,0,t1_cgdw033,Trying to flash the zip and it keeps saying symlinks failed any ideas? Using TWRP .EDIT  Fixed.,Nexus7,cgdwb7u,1,t5_2ucrx
+647795,0,t3_21jsw9,I today on my original N.,Nexus7,cgdwknc,2,t5_2ucrx
+648548,0,t3_21ioai,I also had a problem with my  N that a factory reset wouldnt solve. Here is what you should do basically what I did. I think this should fix your problem. Keep in mind this will delete everything on the device. . Install Wugs Nexus Rootkit Dont worry you dont have to root if you dont want to. The toolkit is just the easiest way to remotely reflash your phone. It will save you from having to figure out installing drivers fastboot commands etc by yourself. Youll just be clicking buttons and following very clear instructions. . Once you have the toolkit set up click on driver installation and just follow the steps. . Now you might have to click unlock bootloader. Im not sure if this is actually necessary to flash a stock ROM hopefully someone else can answer this. . Click flash stock  unroot with softbrickedbootloop selected. Follow the instructions. . Now you should have a fully functional device again! If you unlocked the bootloader before if you want you can relock it with oem lock but it doesnt really matter. ,Nexus7,cgdznkv,1,t5_2ucrx
+650179,0,t1_cge5mza,You can install programs remotely through the browser version of Google Play. You should install Prey ,Nexus7,cge6bou,6,t5_2ucrx
+681093,0,t1_cghixpd,It needs to be in stock and available that day for us to price match it. Source I work at Best Buy. ,Nexus7,cghovr1,3,t5_2ucrx
+681949,0,t3_21v2ua,I just opened RMA  for the  touchscreen issue.Once they fix it Ill never buy anything ASUS again.I am going to keep hounding them until they fix the problem and then Ill probably write up a letter for VP of customer service or something to tell them how crappy they are.,Nexus7,cghse4z,1,t5_2ucrx
+684937,0,t1_cghtv0m,Found out it has the right radios and frequencies. Popped in my Nexus  ATT Sim and it worked like a champ. Dont know why I didnt think of doing this earlier.,Nexus7,cgi4mw1,1,t5_2ucrx
+695631,0,t1_cgjapbl,Fantastic! Thank you  ,Nexus7,cgjcfup,1,t5_2ucrx
+709349,0,t1_cgjvl0x,I did exactly this and it works. It charges very slowly but Im up to almost  now.Thank you.,Nexus7,cgkwmpu,1,t5_2ucrx
+723559,0,t3_22fg8r,try this.Wugs Nexus Root Toolkitshould help you get back to square one.good luck let me know how it turns out.,Nexus7,cgmisvo,2,t5_2ucrx
+738164,0,t1_cgnentx,Nope according to fastboot there is no device connected even though the Nexus  is connected to the computer. Just to mention the Nexus  is not appearing the Device Manager or Windows Explorer either so I definitely believe that the NAND must have a broken partition on it.  ,Nexus7,cgo6m52,1,t5_2ucrx
+739505,0,t1_cgobirl,I envy you. Its at ASUS for the third time for the same issue touchscreen.You may have a good device but ASUS is pretty much the antiApple when it comes to customer caresupport.,Nexus7,cgoc3vi,1,t5_2ucrx
+758686,0,t3_22ucvl,Same on mine device as well. ,Nexus7,cgqipae,3,t5_2ucrx
+834041,0,t3_23lnmq,Document Viewer is the only one I found suitable for my needs lightweight quick rendering and fullscreen mode.,Nexus7,cgz2zl3,1,t5_2ucrx
+836099,0,t3_23lbvc,Either buy the ASUS  N immediately or wait for info on HTCs inch Nexus tablet this summer.,Nexus7,cgzbf3b,2,t5_2ucrx
+844611,0,t1_cgw7e3x,deleted,Nexus7,ch0ab26,1,t5_2ucrx
+848415,0,t3_23uil9,Are you using a file manager like ASTRO? Works for me but Im rooted,Nexus7,ch0pw30,1,t5_2ucrx
+848503,0,t1_ch0igv4,I dont want to spend more money on it if it doesnt help but I guess I could get one from a shop and return it before  days saying it wasnt what I was looking for?,Nexus7,ch0q91u,1,t5_2ucrx
+848882,0,t1_ch0royt,Haaaayyyy ,Nexus7,ch0rsxe,1,t5_2ucrx
+860748,0,t1_ch24ei5,deleted,Nexus7,ch24et9,0,t5_2ucrx
+902787,0,t1_ch6r8p6,Glad I could help. I didnt mention the logging out bit because OP said he didnt have the device on hand anymore. Also from the small bit I read I remember seeing some folks having to reset some general Google account options to have the device completely removed in addition to signing out on the device. Maybe it was deauthorizing apps. Im not sure. Just a heads up that there might be more to it. I was just looking for cases where a mystery device appeared or the device was not on hand to mess with but bumped into threads about people wanting to remove devices from their account they did have.,Nexus7,ch6whcw,1,t5_2ucrx
+937402,0,t1_chau5qk,Cool. Have an Internet point. ,Nexus7,chau67w,3,t5_2ucrx
+982125,0,t1_cdhr24t,deleted,Nexus7,chfxc1e,1,t5_2ucrx
+989458,0,t3_25e1nv,For your second item no. Unified notifications across devices is a KitKat thing iirc. If you can root it and put CM on it then youd be fine.Tweet deck is on Android.,Nexus7,chgrbfa,1,t5_2ucrx
+1021229,0,t1_chkco4e,First word  best last word  buy,Nexus7,chkdcqh,1,t5_2ucrx
+1042004,0,t3_2611lt,I do it pretty much every night.  I plug my phone and tablet into a Vivitar .A dual charger when I go to sleep.  Sometimes if I am using it heavily I will charge it with a cheap battery I bought and a few times Ive charged it in the car using a cheap cigarette lighter charger.  Ive never had a problem with it.,Nexus7,chmqaxl,2,t5_2ucrx
+1091033,0,t1_chsa210,This was the first solution I attempted and does not work in this situation. Just to be sure I also removed my Nexus drivers. Problem persisted with Nexus  Nexus reinstalled without issue....,Nexus7,chsay09,3,t5_2ucrx
+1092404,0,t3_26mbng,Warranties are pretty much always repair first replace if unable to be repaired. They dont simply give you a new one every time. Ive only ever seen small cheap items being replaced immediately.,Nexus7,chsgklt,0,t5_2ucrx
+1096589,0,t1_chsvrm7,Hopefully itll be fine once you turn it back on.Otherwise go here Edit Or better than that here,Nexus7,chsxq6j,1,t5_2ucrx
+1139658,0,t3_2756c6,Keep reading keep waiting at least min before doing a forced shutdown and keep trying.It took me quite a while as mine too would appear to hang at strange times during the shutdownbootup sequences but it was all ok in the end.,Nexus7,chxtm9x,1,t5_2ucrx
+1140096,0,t1_chxme5v,Its Live! anyone getting yet?Changes,Nexus7,chxve1f,1,t5_2ucrx
+1142782,0,t1_chxyfam,LOL,Nexus7,chy6ae2,1,t5_2ucrx
+1154760,0,t3_27bdnz,I have a  will it get it? Im in Canada too,Nexus7,chziysg,2,t5_2ucrx
+1212730,0,t1_ci60y20,I dont know the cost of the voyager but an OTG cable and USB stick would probably be a cheaper option.,Nexus7,ci61tpy,1,t5_2ucrx
+1235291,0,t1_ci8l0jr,Thank you! Ill try that!,Nexus7,ci8l51s,1,t5_2ucrx
+1238263,0,t1_ci8orcg,Thank you. I have downloaded this app. I read that you have to create an AirDroid account. Why do they require this? And is AirDrop free to use?Thanks again. ,Nexus7,ci8x5ua,1,t5_2ucrx
+1253846,0,t1_ciank3j,Yes I stand corrected.  wifi only went out recently. ,Nexus7,ciao8ct,1,t5_2ucrx
+1261476,0,t3_28fw63,You can cast porn to your TV from pornhub.com,Nexus7,cibj5es,3,t5_2ucrx
+1324476,0,t3_298ul5,For  Id say its worth it. I paid  and Im still somewhat satisfied even with the problems,Nexus7,ciimcm5,2,t5_2ucrx
+1324791,0,t1_ciil58x,My N has gotten much worse as well.,Nexus7,ciinmj1,1,t5_2ucrx
+1414804,0,t1_cioq064,If you can get to a PC your best bet would be to check out the Nexus Root Toolkit  Its pretty much the easiest way to modify your nexus I just used it to flash mine back to stock and it was pretty much the press of a button.  The best way to do it would be to plug in the Nexus and from the toolkit Flash Stock  Unroot and then Root again and install xposed and Recovery.,Nexus7,citmhvr,1,t5_2ucrx
+1441453,0,t3_2am6ef,Woot had new s last week for . ,Nexus7,ciwynki,2,t5_2ucrx
+1476136,0,t1_cj187b8,This,Nexus7,cj1b4p7,1,t5_2ucrx
+1487606,0,t3_2b7ygx,I could have sworn there was another app besides stickmount that allowed otg. I use stickmount because I paid for it to support the devs but maybe look into alternatives? I think your pretty much stuck otherwise. Sorry buddy. ,Nexus7,cj2qvrj,2,t5_2ucrx
+1488784,0,t1_cj2vwx8,Oh really? It worked for all  of my past ns ,Nexus7,cj2w6ww,2,t5_2ucrx
+1505283,0,t3_2bftco,You need to keep an eye out for the new Nvidea Shield Tablet if it delivers what it promises theres absolutely no reason not to buy it.,Nexus7,cj4ylyn,3,t5_2ucrx
+1538105,0,t3_2buaik,I use the stock Google keyboards swipe functionality with a stylus like this oneKeeps my screen free of oil smears too.,Nexus7,cj92rck,1,t5_2ucrx
+1541089,0,t3_2buaik,I use Android L  and I swipe.,Nexus7,cj9g785,1,t5_2ucrx
+1541833,0,t1_cj9jceb,gtCan I just point out that both graphs you posted indicate that OVERCHARGINGYes but they also indicate that charging to less than  improves the life of the battery by quite a lotgtAgain  charge on your phone will not hurt your battery.Where did this conversation ever infer that? This was a reply to you posting Charging  is the same whether its from  or .I was pointing out that its not the same,Nexus7,cj9jjvr,2,t5_2ucrx
+1580999,0,t3_2cde1k,I had the same problem and was told by their support to uninstall the other Amazon apps. Worked fine and no problems after reinstalling everything.,Nexus7,cjeghze,1,t5_2ucrx
+1660711,0,t1_cjoheb2,You should get the app Reboot Logger. It will give the datetime of whenever it restarts.,Nexus7,cjohu36,2,t5_2ucrx
+1672157,0,t3_2divv8,No idea about the power question you would have to look that up in the products specifications.Theres also no real tips or tricks really put device on pad and it charges.  The only thing Ive noticed with my official google charger for my Nexus  works with the  is that if you are slightly off center from the charging area on the back of the device it will still charge but may heat up the device more than normal. In really warm weather you just need to be careful of battery overheats or just use a cable directly.,Nexus7,cjpxr0e,2,t5_2ucrx
+1684890,0,t3_2dnreu,Use the reserve DHCP list feature on your router. Ive had this problem since I first got my tablet no idea what the true problem is but putting my device on the list seems to have solved the problem. ,Nexus7,cjrjlgu,2,t5_2ucrx
+1705213,0,t3_2dxmnm,Tasker,Nexus7,cju3rc8,3,t5_2ucrx
+1739672,0,t1_cjyg64u,No. It wouldnt help. I get the same errors on my GS and iPhone .,Nexus7,cjyg6rk,2,t5_2ucrx
+1745862,0,t1_cjz7gl0,thanks. do you want dead pixels because thats how you get dead pixels,Nexus7,cjz85zh,1,t5_2ucrx
+1845294,0,t1_ckbgs3k,I still use mine a ton right now for example.I often take it out with me as well. If Im on a train or something and want a bigger screen than my phone I tether it.I find they work really well as a pair for me.,Nexus7,ckbjy18,2,t5_2ucrx
+1848339,0,t3_2fpmdl,this OS looks incredibly interesting and sleek.definitely will keep an eye on this once it becomes more stable and all features become available. sailfish definitely has my interest. ,Nexus7,ckbx4zq,2,t5_2ucrx
+1973894,0,t1_ckqvfnq,Totally didnt realise there was such feature. Thanks. ,Nexus7,ckr1yqn,1,t5_2ucrx
+1975543,0,t3_2hbwhc,I love this Japanese one from PanasonicIts a largeish pad that senses where your phone is and internally moves its charging coil to wherever your phone is.  You NEVER have to orient it it does the orienting for you.,Nexus7,ckr93x9,4,t5_2ucrx
+2018487,0,t3_2homy2,Same thing just happened to me. I just placed an order for a replacement assembly LCD  Digitizer  Frame on aliexpress Its going to be at least three weeks before it gets here though.If you go down the replacement path make sure you get the right model the G version is different to the wifi version. Give up on the idea of just replacing the digitizer this is what is involved.,Nexus7,ckwf9y9,1,t5_2ucrx
+2049382,0,t3_2iaanj,I used my  N for school had most of my text books on it and it worked great. I still use it almost daily but mostly for watching TV  movies on and it still runs great for me.,Nexus7,cl0bkw5,25,t5_2ucrx
+2052116,0,t3_2iap2j,You are using the power adapter as well right? This drive isnt USB only. ,Nexus7,cl0o3y0,1,t5_2ucrx
+2063490,0,t1_cl205ni,Do u still use it? I dont so  bucks is more than I got from it lying around ,Nexus7,cl2456o,1,t5_2ucrx
+2136993,0,t3_2jg3by,Welp a lot of tablets are getting slightly larger than N so your options is limited to the older gen. Id vote for the N  since they will be discounted soon Black Friday? with the newest release soon. Do you have a set budget? I like the Nvidia Shield but I dont like to play games on tablets wtouchscreens. Oh and new smartphones are similar to tablets sizewise but they tend to more expensive since you need a contract and monthly fee for internet service. YMMV. ,Nexus7,clbgizb,4,t5_2ucrx
+2137741,0,t3_2jfho9,Ive recently a couple months ago replaced my cracked screen I bought a spare one from Aliexpress The price has increased a little but its still the best price I found counting shipping to my country. Replacing it was fairly easy and the new screen is  the same as the original.,Nexus7,clbjy9r,2,t5_2ucrx
+2173523,0,t1_clg12p8,Yea thats why I was hoping someone might have a link to one. I watched a video and the adhesive seemed really annoying to remove because you need a heatgunblow dyer. Ive searched for a couple hours on ebay amazon and some random chinese sites but so far nothing.,Nexus7,clg3v26,1,t5_2ucrx
+2265168,0,t3_2l32qy,My Nexus  has the same issue but it only affects connecting to computers as a media device. If the cord isnt in JUST RIGHT itll lose connection to the PC. The USB cord will still charge the device without issues though. I use Airdroid to transfer any files I may need tofrom my PC.,Nexus7,clrp0dw,1,t5_2ucrx
+2283478,0,t1_cltm3o5,Can you replace the  n mobo with the later  version?,Nexus7,cltye3s,1,t5_2ucrx
+2287498,0,t3_2lf9wh,I live with it too. Ive heard of varying degrees of success RMAing it but Im sure if youve done any research youve seen all the xda threads about it.,Nexus7,clug9hx,2,t5_2ucrx
+2304746,0,t1_clwkdgy,Or an Nvidia shield which seems to be the true nexus  instead of the android ipad.,Nexus7,clwl04r,1,t5_2ucrx
+2315185,0,t3_2lsjq1,because occasionally actually quite often google says Hey lets make google software and google hardware and make them not work together!,Nexus7,clxveet,2,t5_2ucrx
+2333806,0,t3_2m1lmq,Interesting that its the same build version number as what I have in my Nexus   right now. ,Nexus7,cm065zg,2,t5_2ucrx
+2337434,0,t3_2m1lmq,Just installed it I removed the w option but it still wiped the tablet Id already had it unlocked and rooted on ..Its currently updating my apps from backup so a bit sluggish.Noticed a few formatting issues in text such as hereSwitching to landscape doesnt fix it.,Nexus7,cm0mb8m,3,t5_2ucrx
+2342497,0,t1_cm0q5fm,I can flash those without a pc too right? Download the .img and flash from recovery. Long time since I last flashed a factory image. Gapps are included?,Nexus7,cm18tmw,1,t5_2ucrx
+2343198,0,t1_cm1bv8o,gtThe . update completely wipes system so it probably doesnt matter if it is modified.Interesting. I just know any time I tried to update with Xposed enabled it would error out when it starts to update.,Nexus7,cm1bxp2,1,t5_2ucrx
+2347098,0,t1_cm1t7t6,Cool thank you. One more stupid question. Will I need to flash Gapps as well or are they includedcan I just download from the play store after it boots up?,Nexus7,cm1t9m0,3,t5_2ucrx
+2347293,0,t3_2m89m6,Unfortunately I didnt get an OTA update yet so I flashed the ROM myself and also cleared ALL data as I was doing so. It was noticibly faster for me.Backup your photos sync your app data and contacts and perform a factory reset. ,Nexus7,cm1u4ty,2,t5_2ucrx
+2356505,0,t1_cm2ylb5,I get four options that are reboot system that puts me back to the endless reboot screen apply update from ADB I dont know what it does. Wipe datafactory resetand wipe cache partition  which did not do anything,Nexus7,cm2z3vm,1,t5_2ucrx
+2371495,0,t3_2mi9v3,I get  hours screen on time. About the exact same from KitKat but standby time has increased.,Nexus7,cm4tpnz,2,t5_2ucrx
+2375416,0,t3_2mldov,Shaweeeeeeeet.  I am still waiting for mine ,Nexus7,cm5b62y,12,t5_2ucrx
+2384547,0,t1_cm5ople,your hardware is starting to fail? thanks for the rom opinions.. nervous as to why yours is failing tho..,Nexus7,cm6fsiu,1,t5_2ucrx
+2389777,0,t3_2mqj9r,What kind you got?  I am sitting on the  waiting for the update...,Nexus7,cm730n4,1,t5_2ucrx
+2392374,0,t1_cm6x42z,You may have a different problem than what I had but when my computer hated my Nexus  I installed some sort of drivers from a Nexus Root toolkit and it was magically working again,Nexus7,cm7ekx8,1,t5_2ucrx
+2397882,0,t3_2mu2j8,Weird. It never did work for me like this.,Nexus7,cm833wi,0,t5_2ucrx
+2412427,0,t3_2n1qzg,Me too. Kind of sucks but at least were not the only ones. I want to play with Lollipop but not badly enough to reformat entirely by flashing so at the moment Im still waiting semipatiently.,Nexus7,cm9vvea,1,t5_2ucrx
+2425083,0,t1_cmb62eo, only has .GHz so that option doesnt show up. ,Nexus7,cmbg4og,5,t5_2ucrx
+2425950,0,t3_2n9ecj,What does it say in Settings Display Light Options ?,Nexus7,cmbjzcm,1,t5_2ucrx
+2427161,0,t3_2n9rvc,Yup. Same here.  WiFi version. Really annoying. The batty stats are similarly messed up once you click on the actual graph you see the screen that shows you awake and signal strength etc. It looks like they are almost written over each other. ,Nexus7,cmbpd1i,2,t5_2ucrx
+2442893,0,t3_2nfyyd,If you dont need Android L Id suggest to use the latest CyanogenMod Nightly which features a very good KitKat experience for Nexus ,Nexus7,cmdna0w,1,t5_2ucrx
+2444265,0,t3_2nh4gf,Oh yea i still think N  is the best tablet arround specs vs price. I had one since it got out but i lost it a few months ago im waiting till monday to see if i catch a good deal.,Nexus7,cmdtdfo,2,t5_2ucrx
+2459677,0,t3_2npg78,Processor is significantly weaker. Other than that its better in every way.,Nexus7,cmfpus1,4,t5_2ucrx
+2476418,0,t1_cmhhs84,iPlayer always works fine for me on my N ,Nexus7,cmhszbv,2,t5_2ucrx
+2501980,0,t1_cml3yyz,deleted,Nexus7,cml5an8,1,t5_2ucrx
+2507801,0,t1_cmluwt6,Dude just change the colour scheme. By default its material light theres also material dark and two holo themes,Nexus7,cmlwou9,3,t5_2ucrx
+2511740,0,t1_cmmcni6,They used Canada post.  They didnt give me any shipping info.  By the time they responded to my inquiry and provided some I had already recieved the delivery,Nexus7,cmmf8ep,2,t5_2ucrx
+2525531,0,t1_cmo2kmx,Roger that.,Nexus7,cmo82gm,2,t5_2ucrx
+2533473,0,t1_cmp98qx,I called and they gave me the runaround. Said the reboots would be fixed in the next patch. Nope! Didnt fix it.,Nexus7,cmp9ez1,0,t5_2ucrx
+2577252,0,t1_cmuu6w4,I did state not  devices are at fault which still leaves room for error I was addressing that we dont have the facts and it should high light the need to trouble shoot before shooting google.,Nexus7,cmuzgys,0,t5_2ucrx
+2595575,0,t1_cmxdims,Weird. That means Google Drive doesnt just store our files it does something to it. ,Nexus7,cmxdn9y,1,t5_2ucrx
+2622316,0,t3_2pxhq9,lol.. ,Nexus7,cn0vhhp,-6,t5_2ucrx
+2623831,0,t1_cn12etd,Its worth a shot! Mine was worse than yours though. I had  left and it said I had approx  hours remaining and the battery was draining without me doing anything on it,Nexus7,cn12lcr,1,t5_2ucrx
+2627215,0,t1_cn0jc1m,It is now. Just rooting at the moment. ,Nexus7,cn1ih3j,1,t5_2ucrx
+2631796,0,t3_2q13os,Youre going to need inbuilt ocr for this. Easiest way I can imagine is papyrus with the save to pdf feature and an Adobe acrobat license for handwriting recognition. Link me papyrus,Nexus7,cn23ygm,1,t5_2ucrx
+2635614,0,t1_cn2lqfm,Ah I was asking since Titantium Backup was screwing up my wifi connections until I excluded WiFi profiles from backing up.,Nexus7,cn2lwfk,1,t5_2ucrx
+2647959,0,t1_cn39hne,Grab a SuperSU zip and install it... See above I use SuperSU . because I had a copy laying around on my HD.,Nexus7,cn47xej,1,t5_2ucrx
+2660354,0,t1_cn5trwh,I agree  but its nowhere near as bad as it was using ext,Nexus7,cn5u468,1,t5_2ucrx
+2661801,0,t3_2q97ub,Can I jump from Kitkat to this or do I have to install .. first?,Nexus7,cn60wg5,2,t5_2ucrx
+2698382,0,t3_2qy450,I think its mobile only. Chrome on tablets is missing several new features due to its layout. Its a shame but oh well,Nexus7,cnasnjo,1,t5_2ucrx
+2705162,0,t3_2r1ka7,Groupon was selling a  gb for  a few days ago.,Nexus7,cnbkeq6,1,t5_2ucrx
+2705596,0,t3_2r1ka7,I think I found an active Groupon listing for .,Nexus7,cnbm6my,1,t5_2ucrx
+2717328,0,t3_2r5mln,There should be a serial number on the Walmart receipt for the warranty all you need to do is check it with the serial number in the back of the tablet. ,Nexus7,cncy6dz,1,t5_2ucrx
+2733847,0,t1_cneet9e,Same here but never had a random reboot,Nexus7,cnetrrq,4,t5_2ucrx
+2762454,0,t1_cnh5xyi,appriciate it man thnx!,Nexus7,cni2wr0,1,t5_2ucrx
+2816770,0,t1_cnnra54,Seems the charging port is crap but been using wireless charging. Works great.,Nexus7,cno9czs,1,t5_2ucrx
+2821998,0,t3_2se7zx,Install the update through fast boot.,Nexus7,cnous3g,1,t5_2ucrx
+2854304,0,t1_cnsj84w,Sorry if it was a dumb question. First Nexus device I just got about  or  days ago. p,Nexus7,cnsj9ru,4,t5_2ucrx
+2889362,0,t1_cnw25g6,yeah the touchscreen was never wonky which makes me think its not a hardware problem.,Nexus7,cnwiv8e,1,t5_2ucrx
+2898126,0,t1_cnx073d,Why would somebody down vote this comment? Android .x.x OTA update will not work if the system is modified e.g. root. Even if you come from .....,Nexus7,cnxit4a,1,t5_2ucrx
+2898536,0,t1_cnxi8nk,I have the same issue with g or .g my location home location does not have any overlapping channels.  Set my router to channels furthest away from any near ones.Should have been more specific in my OP apologies.Seems to be a device issue since it happens anywhere and from day  of getting the device.,Nexus7,cnxkhmq,1,t5_2ucrx
+2944091,0,t3_2tvmui,Could your N be suffering from the Nexus  lag problem?I bought my N  about  years ago and it definitely did.The problem is that the internal SSD doesnt get trimmed properly The following steps helped to relief the problem somewhat especially the cache wipeLast weekend I rooted it with the following instructionsAnd trimmed the SSD with ... and so far the results are very good the N feels very smooth again.A word of warning if you root read the FAQ carefully and follow the steps exactly. The Nexus Root Toolkit provides all tools and a stepbystep guide but the process is fairly elaborate so follow the steps closely.Hope that helps,Nexus7,co2r8rm,2,t5_2ucrx
+2950289,0,t3_2tv9cc,filco minila if you want to go mechanical,Nexus7,co3gmma,2,t5_2ucrx
+2953925,0,t1_co3m04r,I have mine ghetto mounted to my dash to listen to audio books.,Nexus7,co3viz1,8,t5_2ucrx
+2973958,0,t3_2ty1tt,Google posted the factory image just now. You can download and flash it yourself if you dont want to wait for the OTA ,Nexus7,co65kof,2,t5_2ucrx
+2978525,0,t3_2ua855,I dont know about a flip cover that is actually part of the tablet but I own a roocase and I love it. it has the magnetic strip so the screen turns off when closed and doesnt add a ton of bulk to the tablet.,Nexus7,co6o9q9,1,t5_2ucrx
+2996687,0,t1_co7we8v,Sigh... So I emptied my USB drive thru my PC and behold N can read it again. Not sure if it needed the reformatting or just reducing the files since it had tons of files like  GB worth of thousands of spreadsheets and the like.Thanks for debunking my assumption. Much appreciated.,Nexus7,co8lrf3,2,t5_2ucrx
+3021426,0,t1_cob1zb9,Yet you take the time to be a complete asshole.  This is a choice that you made.  One would think that of the two of you that you are the one unable to make good decisions.  Maybe you should reevaluate your life.,Nexus7,cob62b7,3,t5_2ucrx
+3024350,0,t3_2ussx4,That shit is mechanical broken cable bad connection etc.,Nexus7,cobgyot,2,t5_2ucrx
+3069267,0,t3_2vaxr3,Cym is ridiculously fast compared to stock lollipops on mine,Nexus7,cog4js6,2,t5_2ucrx
+3070590,0,t3_2v9zpc,I use mine as an ebook reader quite a bit. Perfect form factor. Havent touched my Kindle since. Works great with Google Books obviously but equally well with a Kindle cloud account. Also great for watching movies TV shows and listening to music on my home entertainment system via Chromecast.,Nexus7,cog9hu9,1,t5_2ucrx
+3093936,0,t3_2vkbhv,Kali Linux NetHunter,Nexus7,coioo9q,1,t5_2ucrx
+3107861,0,t3_2vq050,I did the same on my n and n. Not that it was lagging my  although with the memory leak bug it would start memory swapping earlier with Facebook installed. I just cant understand why it has so many background processes running with it. I have update set to manual notifications off messenger off still has like  processes running in the background. But ya anyways definitely helped with my n freezing for minutes at a time. Now the only thing I have an issue with is chrome which is slow to start and will freeze if I open a large page. ,Nexus7,cok4n5w,2,t5_2ucrx
+3128546,0,t1_com33sv,gt Dont do that.Its not going to harm anything its fine,Nexus7,com9ska,2,t5_2ucrx
+3169963,0,t3_2w9kwu,I recently sold for  original box charger case,Nexus7,coqkcwb,1,t5_2ucrx
+3173296,0,t1_coq7pgi,savvy,Nexus7,coqwswh,1,t5_2ucrx
+3189001,0,t1_cosjb4c,Nah I tried a fresh install with lollipop it was still horrible for me. .. also ran pretty badly for me. .. and .. seem to run insanely fast in comparison so Ill stick to those and hopefully it doesnt degrade too much. ,Nexus7,cosjg0p,1,t5_2ucrx
+3236924,0,t3_2x56rn,Mine is  as well seems fishy,Nexus7,coxiijk,2,t5_2ucrx
+3303647,0,t3_2xx6oo,You must be rooted. Softkeyz on the play store has a large library of nav keys including the KitKat keys.,Nexus7,cp4uc25,1,t5_2ucrx
+3332436,0,t1_cp77c9m,Assuming the homeless person has a way to charge the thing.  I like the way youre thinking but if the homeless person is not able to charge the device it wont be of much use now would it?,Nexus7,cp84gvh,3,t5_2ucrx
+3364488,0,t3_2ype7x,deleted,Nexus7,cpbrzbc,2,t5_2ucrx
+3368274,0,t1_cpc2ld7,Well just as long as you plug it in so its not dead for  weeks. If its dead for prolonged time that just means when it boots up again itll need sometime to catch up with all the notifications and app downloads. That is what makes it molasses. ,Nexus7,cpc7itg,1,t5_2ucrx
+3386180,0,t1_cpe4wvu,Try factoring resetting it. Trust me. It helps.,Nexus7,cpe9239,3,t5_2ucrx
+3387239,0,t3_2yz6yg,Mine recently started dying in  hours of idle time with wifi on. Might be better with that off. And the screen has become almost impossible to use. Time for a new tablet methinks...,Nexus7,cpedew3,11,t5_2ucrx
+3403614,0,t3_2z6qs8,This is the odd thing about this tech. I know the tablet is old ... but its still a functional tablet that can browse the web use the latest apps play videos and hell even act as a mini PC with mouse and keyboard. Given that feels like its worth more than . ,Nexus7,cpg8k4j,3,t5_2ucrx
+3429488,0,t1_cpinfvm,Theyre pretty terrible at making a UI too. I cant stand the look and feel of touchwiz and the lag that comes with it. That said I used a Galaxy Nexus from release day until about  months ago and loved it right up til the end when it became pretty slow and unusable on lollipop. Kept the stock but rooted Nexus version of Android then switched to one of the Nexuslike roms after Google dropped updates for it. If anyone wants a link to the kitkat rom I was using let me know. Ill have to bust out the Nexus and check. ,Nexus7,cpj6r7y,0,t5_2ucrx
+3511498,0,t3_30h3er,still waiting for the n pressing the home button takes sometimes  seconds to show the cards!  not good!,Nexus7,cpsj98s,3,t5_2ucrx
+3519872,0,t3_30kd9b,Buy a used mobo amp replace it yourself. It does sound like your flash memory could have died ,Nexus7,cpthp4h,2,t5_2ucrx
+3606062,0,t3_31mza1,deleted,Nexus7,cq3bf6s,1,t5_2ucrx
+3628748,0,t1_cq5wcmq,Also I could do this with it if Im not mistaken it will read a flash drive so I could load that with movies and different things. I have two chromecast and a Nexus player right now so this could work. ,Nexus7,cq5wlcq,1,t5_2ucrx
+3647170,0,t3_324gil,I have a Nexus   with . and it took me a while to understand that I would have to keep the power button pressed so it could start up but it works now. I thought I had lost it.,Nexus7,cq806fg,0,t5_2ucrx
+3648390,0,t1_cq7znc2,Ive been on . for about a week with several apps updating since then.  Everything is currently showing as updated.  Im not doubting the problem.  But it isnt as simple to reproduce as update  brick.,Nexus7,cq856j0,3,t5_2ucrx
+3698529,0,t1_cqcxcgk,Is there a easy way to stop the android update message from popping up? Its always there now and afraid i might accidentally update and ruin all my hard work think it took me  hours to get this thing reverted after all was said and done,Nexus7,cqduv2q,1,t5_2ucrx
+3717780,0,t3_32ybl6,Same! Got the update yesterday at noon and have yet to do a factory reset probably wont do one.No more previous pages on chrome refreshing after closing a tab. My homescreen launcher no longer reloads the entire screen whenever I hit the home button. Better battery life. My Nexus  is no longer a brick!,Nexus7,cqg1xjv,2,t5_2ucrx
+3737626,0,t3_336q0f,Ive had my  since launch. No issues so far. Though Im not flashing much these days and when I update I use the factory images instead of the OTA zips since Im impatient.,Nexus7,cqibarb,2,t5_2ucrx
+3776889,0,t3_324gil,Adding my experience  I have two Nexus s and both have bricked within weeks of each other...,Nexus7,cqmskde,1,t5_2ucrx
+3802444,0,t1_cqpo5qe,I found this link. Might this be what you were talking about?ampnbsp,Nexus7,cqppj10,2,t5_2ucrx
+3820462,0,t3_345ggp,running .. on cm. no memory leak faster than new. I actually enjoy using my tablet now!,Nexus7,cqrriec,2,t5_2ucrx
+3825507,0,t1_cqs3iin,Shield is great. Perfect size and performance. ,Nexus7,cqsc9j7,7,t5_2ucrx
+3898111,0,t1_cr0m6u0,deleted,Nexus7,cr0ma13,1,t5_2ucrx
+3924402,0,t3_35ed38,Yay! Hopefully it will let you block an apps connection to the internet.,Nexus7,cr3m8y7,13,t5_2ucrx
+3951559,0,t1_cr6b597,Rebooting doesnt help sadly,Nexus7,cr6pmn0,1,t5_2ucrx
+3951589,0,t3_35q4q6,Since android . an ota will fail if you have modified any system files in any way. root. Best bet is to look for a stock rooted .. zip and fash it twrp ,Nexus7,cr6pr22,3,t5_2ucrx
+4027577,0,t1_crfbzz2,Definitely helpful just downloaded the files. Im hitting the road for work but will respond more later. Ill send you a link to the Qualcomm drivers later tonight.Can you also Show hidden files folders and drives in options just to make sure there isnt anything else in that folder?,Nexus7,crfdgok,2,t5_2ucrx
+4033879,0,t3_36krig,.. on my gb model. Only one that acts snappy. Even tried .. before joining the .. club. No other release acts right on the tegra chip set. Switching apps on .x takes forever.,Nexus7,crg3d0p,1,t5_2ucrx
+4154094,0,t1_crto1lu,I went to CM . Allll the way back.,Nexus7,crts36s,2,t5_2ucrx
+4256023,0,t3_39bsqq,Im a bot bleep bloop. Someone has linked to this thread from another place on reddit rmistyfront My last resort worked. Nexus  now turns on! rNexusfooterIf you follow any of the above links please respect the rules of reddit and dont vote in the other threads. InforTotesMessengerwiki  Contactmessagecompose?torTotesMessengerbot,Nexus7,cs5ddjv,1,t5_2ucrx
+4277426,0,t3_39yp18,You cant go wrong with CyanogenMod. Built on AOSP massive improvements updated daily.,Nexus7,cs7s9ba,4,t5_2ucrx
+4277636,0,t1_cs3y8ho,Ive heard of this app before and see its  bucks.  Not that its not worth it but Im surprised this seems to be the only app.If root was truly a barrier then fine but if this app can do it why not others?,Nexus7,cs7t41s,1,t5_2ucrx
+4277957,0,t1_cs7n3ao,Im too lazyscared for mods and I really cant complain now .. has been pretty chill.,Nexus7,cs7uf0l,1,t5_2ucrx
+4293727,0,t1_cs9jzr6,I did it like knocking on a door near the nexus logo try it and report back !,Nexus7,cs9mifs,1,t5_2ucrx
+4298241,0,t3_3a809f,I bought mine used a few months ago and Im loving it. To be fair I was supposed to get it for uni work and textbooks but I just use it instead of my phone whenever Im home. The big screen and speakers make it the perfect media consumption device. I get hrs SOT.,Nexus7,csa4vhi,2,t5_2ucrx
+4340161,0,t3_3aojkc,Do yourself a huge favour and go back to KitKat ... Lollipop is quite simply unusable on an N. My tale of woe I finally went back to KK myself about a week ago and have been kicking myself for not doing it sooner. This last week has been N heaven  no lag and a return to my N of old. So what do I do? I dropped this morning and now have hairline cracks on the display with no digitizer. And I very much doubt its worth getting fixed. Very sad face.,Nexus7,csev75b,1,t5_2ucrx
+4392389,0,t1_cskqzxj,Chainfire is in no way shady but unfortunately some people cannot use them due to boot locked.In OP case hes boot locked so shady it its.,Nexus7,cskrakk,1,t5_2ucrx
+4431246,0,t1_csp7cvl,Thanks for the reply. That helped,Nexus7,csp8x9p,3,t5_2ucrx
+4522089,0,t1_ct0liq5,Hmm Ill have to give this a shot later. I have same problem as OP and its pretty infuriating ,Nexus7,ct0neov,1,t5_2ucrx
+4578129,0,t1_ct7odo5,Please change your number. This is already taken by umickeyy.Seriously a lot of you dont bother searching the posts. A lot of you have commented number  and Ive all asked you to change due to duplicates.,Nexus7,ct7ogfp,1,t5_2ucrx
+4618733,0,t1_ctcr4z9,.A charger maybe.,Nexus7,ctcropl,5,t5_2ucrx
+4652617,0,t1_ctgxzaa,Nice joke but I would rather find a fix if its a bug so I can use the benefits of the kernel. Everything else seems sharper with it its just this one thing.,Nexus7,cth0u0g,1,t5_2ucrx
+4667468,0,t1_ctip4sr,Exactly this!,Nexus7,ctivzhe,1,t5_2ucrx
+4725760,0,t1_ctq0x0m,Alright Ill look into. Thanks,Nexus7,ctq8079,1,t5_2ucrx
+4740029,0,t3_3fql4r,Why are you over clocking?,Nexus7,cts0wxu,1,t5_2ucrx
+4746343,0,t3_3fwyc1,Hi Whitehat!The  is the Nexus  one the left in this photoLollipop can run just fine on the  Nexus  Im just not sure what you mean when you say business use but for an everyday tablet its a great value.  I wrote a guide that can help you coax more performance out of the Nexus  and its hereThat may help you if you do get the tablet.  Do you know if it how much storage memory it has?  There were   and GB models of the Nexus .  Obviously the more the better.  If it was an GB Id pass and go for another tablet.Jim,Nexus7,ctstkyq,0,t5_2ucrx
+4765436,0,t1_ctozyt8,yeah this screen is bad for light bleed plus the response is a tad slow ,Nexus7,ctv86tz,1,t5_2ucrx
+4823764,0,t3_3gwmq2,Percussive Maintenance is the phrase i would use,Nexus7,cu2kpey,4,t5_2ucrx
+4828524,0,t1_cu359bl,I use Google play music for local music and this works just fine but this scrobbler has support for a couple more like PowerAmp for example. However I tend to use Spotify a lot more which does have integrated last.FM scrobbling.,Nexus7,cu36boj,1,t5_2ucrx
+4843423,0,t1_cu500ud,This. My charging port went on the blink after it became too loose to charge.Purchased a wireless qi charger and I havent looked back. Cost less than  and as an added bonus I can charge my Nexus  with it. Sure it charges less quickly than a cable does and it makes the tablet hard to use whilst charging due to the lower output of the pad but you can avoid that issue by simply placing your tablet on charge during the night. All in all a great investment.,Nexus7,cu51taz,2,t5_2ucrx
+4898058,0,t3_3hwqa1,You need something like a PH andor PH screwdriver. Make sure its right and snug then turn slowly. If you feel it rise up immediately stop as youll wreck the head further. ,Nexus7,cubxtas,1,t5_2ucrx
+4947054,0,t1_cui1qvu,Yeah the  one.  The other option I am looking into is the ASUS Zenpad ..  It is cheaper and newer. ,Nexus7,cui46zo,2,t5_2ucrx
+4981243,0,t3_3j2szf,Or unistall Facebook and Google Chrome. Took both of those off and she works no problem for me. Pain in the ass not having Facebook and such but it works,Nexus7,cumf8rw,6,t5_2ucrx
+5031253,0,t1_cudxtm9,removed,Nexus7,cusghd4,1,t5_2ucrx
+5202069,0,t1_cvd0xkn,Yeah it happens ... Because the bootloader cant read the partition so it assumes its encrypted. Hence the password request. ,Nexus7,cvd1jfp,2,t5_2ucrx
+5242808,0,t1_cvhx9ll,Its not stock but still very light and fast. Not very bad compared to stock. Out of the box is has a lot of bloatware but everything except asus can be uninstalled.I have already gotten  updates varying from MB to MB. Im pretty sure asus will be fast with . update for this flagship device.,Nexus7,cvhy4o2,1,t5_2ucrx
+5263175,0,t3_3n01pe,. Bricked. Sold for parts.,Nexus7,cvkfg6r,2,t5_2ucrx
+5279669,0,t1_cvmj95p,There was no google now launcher. And launcher wasnt selected so I selected it,Nexus7,cvmjekg,1,t5_2ucrx
+5344705,0,t1_cvur7g3,iOS shuts off everything resulting in that battery savings but having a unconnected device. Pros and cons.,Nexus7,cvuugsg,1,t5_2ucrx
+5372031,0,t1_cvd2tts,Same here I cant get mine working.  I may have to go to Android M as its supposed to be very good with power management and considering that Timur will not be supporting Android . it may be time to switch out now and find a Video grabber to work with the my rear view camera.  I tested my tablet by plugging in a USB camera to my USB hub directly and using an app from the play store to view the camera and it works perfectly.  So clearly its either my backup camera or the USB grabber thats not working.,Nexus7,cvyc5qy,1,t5_2ucrx
+5374945,0,t1_cvy30jx,Thats the issue. I updated the text above and this time no battery drain. How weird. No new apps were installed.,Nexus7,cvypkoh,1,t5_2ucrx
+5394930,0,t1_cw199xi,Same here.  Seems to be an issue with fps playback.  Lower the quality one notch and it should play fine. ,Nexus7,cw19glh,2,t5_2ucrx
+5408313,0,t1_cw2yase,No,Nexus7,cw2z0nx,1,t5_2ucrx
+5427601,0,t3_3pco9e,This would have been really easy to OTA from the update prior to LMYT.But since youre saying its a new tablet just install the factory image.  Leaves no cruft behind from all the other OTAsJust as easy if not easier than sideloading.,Nexus7,cw5fk71,4,t5_2ucrx
+5446554,0,t3_3pni9g,Bricked how? Are you able to get into the boot loader to flash a factory image?,Nexus7,cw7uloa,3,t5_2ucrx
+5457195,0,t3_3prgjt,Do not want.,Nexus7,cw97idp,6,t5_2ucrx
+5501888,0,t1_cwewq4v,Instagram I dont post any pictures to Instagram. I dont even have the app installed on my phone. I just have a browser bookmark on my home screen to go on it. I also have it on my bookmarks bar in chrome if I want to check it out while on my computer.Snapchat I catch up on Snapchat using my phone while pooping. Never even thought to use it on my tablet. For everything else you could always just use AMIDuOS awesome or BlueStacks less awesome. ,Nexus7,cwex1sp,2,t5_2ucrx
+5568649,0,t3_3rb4lg,Its pretty great for me. A little to no lag. Way better than lollipop ran on it. Battery life is amazing as well. Have had it for about  weeks now. ,Nexus7,cwncbev,1,t5_2ucrx
+5605300,0,t3_3rw6r6,Are you using the original charging cord and plug? Had some weirdness occur with mine when I used my iPhone plug with the nexus cord. ,Nexus7,cwrw3za,2,t5_2ucrx
+5638409,0,t3_3scbbx,Had this issue too. You need to format system then flash the factory image. There is a file or something that is causing the checksum to fail.I used the nexus root toolkit to formatwipe system.  After the install i was able to go from U to V.,Nexus7,cwvzyfz,1,t5_2ucrx
+5643169,0,t1_cwwl0ui,Heh thats true. Put those kids to work! Cheers.,Nexus7,cwwl8ia,2,t5_2ucrx
+5688598,0,t1_cx27z90,Thats what I feared. Maybe if I contact customer support or something?,Nexus7,cx2854o,1,t5_2ucrx
+5763774,0,t1_cxb55do,can you link me the ones you got?,Nexus7,cxbjsml,1,t5_2ucrx
+6058955,0,t1_cydt3wg,No idea but its blocked by my companys web filter for a reason...  And OP has no history of reddit posts.,Nexus7,cydtpcw,2,t5_2ucrx
+6099572,0,t1_cyiyczc,I understand.   I tried your way in the app and outside the app using this method I dont know how many times I need to explain that your options simply are not available in my OS.   ,Nexus7,cyiyjlz,0,t5_2ucrx
+6131472,0,t1_cymjkmi,.. runs so slow its almost unusable. I too will try CM.,Nexus7,cyml1tc,1,t5_2ucrx
+6146277,0,t1_cyo99gm,Im mainly thinking of buying the Nexus  on amazon its only  brand new  gb ,Nexus7,cyo9mkt,1,t5_2ucrx
+6152245,0,t1_cyomsg4,it will also depend on the usb cable as well.  many generic usb cables will not allow the full amperage to your nexus.,Nexus7,cyoy2ul,1,t5_2ucrx
+6203159,0,t1_cy6dexw,i originally had setup  but the volume was too low so i decided to go for setup .im trying to get your setup  to work but i cant get any audio through my speakers with this setup now. im not sure where the issue is if its with Android and USB audio or if its with my circuit,Nexus7,cyuqelm,1,t5_2ucrx
+6265834,0,t1_cz1ndtb,PPs flair suggests rooted and TWRPd.,Nexus7,cz1ut7c,1,t5_2ucrx
+6309214,0,t3_41ya54,Im loving the CM beta Marshmallow build much more so than the beta AOSP builds that have been floating around.I even went so far as formatting my data and cache to FFS unsupported on aosp  and have not had any issues at all.Ive just loaded it up with gb of movies for some upcoming air travel and Ill see how well it does with long screenon time in terms of battery life.That said Im still seeing the occasional system lag but nowhere near as impacting as in previous ROMs.,Nexus7,cz6sc2e,1,t5_2ucrx
+6420107,0,t1_czjcjx5,Luckily mine is still rotating!  Really happy about it too,Nexus7,czjdj4d,2,t5_2ucrx
+6518179,0,t1_czti7ov,I dont actually think it was a mechanical thing. It happened right with whatever the last security update was.Apparently the software takes some reading from the USB port and if it doesnt like what it sees it will either draw a much smaller amount of current or not recognize that Its plugged in at all. And rapidly plugging and unplugging it resets whatever it uses to measure that.So Im guessing that the update affected that measurement somehow.Anyway thats what some guy said on the internet. That Im now probably incorrectly repeating.,Nexus7,cztj3wg,2,t5_2ucrx
+6807940,0,t3_48ypg6,I really like DU  on Flo nexus   but use Pure Nexus on Angler P. DU is a CMTE ROM and Pure Nexus is RRO.,Nexus7,d0nz5lb,2,t5_2ucrx
+6885601,0,t3_4a0j4y,I use the dataonly Sim on my Nexus   tablet. Mostly use it on wifi but comes in handy when out and about. ,Nexus7,d0wssnw,1,t5_2ucrx
+7157411,0,t1_d1rig1k,Wow. reading all that makes me want to get a nexus  so I can tweak it with exactly what I need.Someone suggested for me to wait for the next generation thats going to come out later this year which sounds like a good idea. Im just wondering how long would it take for these programs to update for the new Nexus ?,Nexus7,d1rq7wm,1,t5_2ucrx
+7160393,0,t3_4co2w6,yeah its common courtesy to reset to stock ,Nexus7,d1s2fs7,1,t5_2ucrx
+7245855,0,t3_4ecl0g,YouTube downloads. Torrent them. Use vlc to play them back. Use low screen brightness and you can easily watch a season of friends if not  or more seasons. ,Nexus7,d21svrw,1,t5_2ucrx
+7292537,0,t3_4f9ygq,There are a few apps that you can save entire maps and the gps in the tablet will do the job.With the maps downloaded the tablets good enough.  You can actually download chunks of map on google maps already.,Nexus7,d27426s,2,t5_2ucrx
+7426110,0,t3_4h0bhi,And yet Google is apparently going to go with HTC for their next Nexus. How do you go Hummm that tablet you built for us was a disaster and Android users seem to be picking you dead last when buying a new phone. Hey why dont you build us our next Nexus phone?,Nexus7,d2mau82,4,t5_2ucrx
+7586507,0,t1_d3459xb,removed,Nexus7,d34jrqn,1,t5_2ucrx
+7641546,0,t1_d3aemxa,Wrong,Nexus7,d3asv53,1,t5_2ucrx
+7803957,0,t1_d3sumdp,Is there something similar for the  version? Mine does the same thing. ,Nexus7,d3t85b9,2,t5_2ucrx
+7839753,0,t3_4mhe7i,removed,Nexus7,d3x9885,1,t5_2ucrx
+7964583,0,t3_4o2jmy,removed,Nexus7,d4bamsy,1,t5_2ucrx
+8120628,0,t1_d4sgak6,Showed mah charge rate. Ill get rid of juice defender. I had done Google   And done other apps disabled enabled them today and see if it changes anything. Thanks,Nexus7,d4stxw6,1,t5_2ucrx
+8180877,0,t1_d4zx6pp,Try FFS. I think my N has higher storage speeds than my nexus  because of that but it definitely made a huge difference. It is nearly yo now. gtInstalling Ffs is one of the best ways to revive itgtgtThere is CM official available now which you can try too.,Nexus7,d505qt2,1,t5_2ucrx
+8467648,0,t3_4vnyb7,Im using CM on mine and I like it.,Nexus7,d5zzte9,2,t5_2ucrx
+8563164,0,t1_d6bki37,Yes I did actually. I thought I already replied. It fits really well and its sturdy. I live in New York City and hit potholes all the time and the stand holds the tablet without letting it fall. Definitely recommend it. Ill be sure to post a picture of it later today.Edit Disregard the legs ,Nexus7,d6bz1vu,1,t5_2ucrx
+9151152,0,t3_55m024,I did my  through wugfreshs nexus toolkit. Its quite easy. And as soon as you root it and install a custom recovery TWRP is highly recommended by me and a bunch of other internet comments then just load whatever rom you want onto your sd card and flash it through TWRP. Then flash super su the root and maybe GApps if you want them. Then wipe cache and reboot.,Nexus7,d8bz3uz,3,t5_2ucrx
+9657220,0,t1_da30pz2,Googles implementation was removed in . for non pixel devices so Im glad CM is keeping Live Display...,Nexus7,da3gchr,2,t5_2ucrx
+9752920,0,t3_5erfrn,If I can pipe in here too anyone have a recommendation for a  tablet?,Nexus7,daf9jeq,2,t5_2ucrx
+9857174,0,t1_dasbgwx,Got it.  Assuming the diagram in the upper right is correct heres how it should be wiredId drop the relay for the camera and do it like this at leastSomething like this would be the right way to do it Youd probably want some resistors in there this is just the general ideaedit Changed the last picture it was wrong.,Nexus7,daseve4,1,t5_2ucrx
+10063220,0,t1_db03i9e,CM has video bugs with the n . It always has and its why I dont bother trying it anymore. ,Nexus7,dbj9fch,2,t5_2ucrx
+10201144,0,t3_5m2ne2, gb Daughter mainly uses it for Netflix Kids and YouTube Kids. Micousb stopped charging last month. Ive been using the wireless charger that came with my watch to get by until I can afford a dedicated one. ,Nexus7,dc0culp,5,t5_2ucrx
+10340228,0,t1_dcfy1sn,Like hard thumps or Whenyourgirlasksyoutochokeherbutnotactuallychokeher hard?,Nexus7,dcg4gor,4,t5_2ucrx
+10495132,0,t1_dcxq3yd,Which nightly are you running? hows the battery life on it so far and i heard i dont know if this is true or not my cousin said on . on his oppo that you had to drag and hold on the notification shortcut to open the networks it doesnt let you just pick from the shortcut menu ,Nexus7,dcxqf03,1,t5_2ucrx
+10794351,0,t3_5ucnhu,The only Android tablet I recommend these days is the Nvidia Shield its software was recently updated.,Nexus7,ddtczs8,7,t5_2ucrx
+11176498,0,t3_5zg087,This happened to my  Nexus  a few weeks ago.  Lost device orientation.  What i found sorry no link was a suggestion to turn off the device and whap it against your hand a few times.  Just smack it firmly into the palm of your hand.  Take off the case if you have one.  This fixed my issue after trying multiple reboots and a factory reset.,Nexus7,deyudjd,2,t5_2ucrx
+11331377,0,t3_61p7ui,Sounds like youre trying to rip someone off by passing off a used n for a BNIB,Nexus7,dfge55j,19,t5_2ucrx
+11616635,0,t1_dgcjku4,Pretty sure Google has given up on tablets.  Theyre just in to selling large  phones now instead and all their tablet software runs the same as the phone version.  They can convince people to upgradereplace buy again more frequently that way.Thing is people perceive tablets differently than phones.  We expect to get laptoplike lifespans out of tablets but replace phones every  years.,Nexus7,dgcr7yd,2,t5_2ucrx

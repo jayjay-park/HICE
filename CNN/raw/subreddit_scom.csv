@@ -1,0 +1,5 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+3146087,0,t1_coo1ihm,Cool thanks. I havent rolled anything out yet so Ill just mark these as development servers for now. Unfortunately SCOM wont monitor all of our HP infrastructure so I think well need one system for network as well.Do you look after SCVMM or SCCM as well by any chance? We have those here too but again theyre not set up.,scom,coo376l,1,t5_2rer3
+4143917,0,t3_382tpw,Have you checked the ops manager event logs on the agent machines?,scom,crsmgta,1,t5_2rer3
+5381783,0,t1_cvzir9z,You must set up an SMTP email channel so SCOM can direct emails through exchange.Link,scom,cvzl0lz,1,t5_2rer3
+7897904,0,t3_4ngfp0,This is from my personal cheat sheetGeneral info SCOM Survival Guide  IntroDesign Guide  Requirements  Account information  Securityrelated information  TechNet Library main page  Getting started Deployment  Key Concepts  Understanding Classes and Objects  Glossary of terms ,scom,d43sqon,4,t5_2rer3

@@ -1,0 +1,8 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+96467,0,t1_cepem9b,Im certain there are many more clever techniques but thats the most straightforward. You could use a more advanced data structure like  a Zipper,functionalprogramming,cepev1o,1,t5_2vcmg
+523699,0,t3_203ako,deleted,functionalprogramming,cfzsth2,1,t5_2vcmg
+852390,0,t1_ch15dtc,Fixed a few issues I found up at the front it was all new prose in this revision. Will need to make time to totally reproof it again.EDIT Reproofed. Seems solid to me. Please inform me of any further specific typos via reddits mailbox.,functionalprogramming,ch166rl,1,t5_2vcmg
+5527842,0,t3_3qtm7v,Dont worry about it. Try to keep the IO part as localized as you can but thats generally a good practice not just in FP!,functionalprogramming,cwi8bby,8,t5_2vcmg
+5809968,0,t3_3urdze,This is hard to understand. It jumps around from topic the topic. Is it supposed to be about the title or an introduction to Human AI Net?,functionalprogramming,cxha5ap,6,t5_2vcmg
+5816677,0,t1_cxhf4j1,Nice answer. Sorry for calling you a bot you just mentioned a lot of seemingly unrelated concepts which is why I thought that and it was late at night I didnt fully read your post,functionalprogramming,cxi430q,1,t5_2vcmg
+8494141,0,t1_d6349rn,I wonder if Array.of would be more explicit? Or is it Array.from?,functionalprogramming,d63bfwn,1,t5_2vcmg

@@ -1,0 +1,12 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+412285,0,t1_cfndwzo,....the fix is already available from engineering  just ask.,EMC2,cfnhzi8,2,t5_2y7y1
+843065,0,t1_cgywf7k,I think I found the issue or at least a workaround I deployed the ova through vcenter instead of vcloud. Everything went as expected. Thanks.,EMC2,ch03yb0,1,t5_2y7y1
+3300059,0,t1_cp43bb3,The CX is notably faster.Also EMC will sell you a support contract on every device weve ever made ,EMC2,cp4flpn,1,t5_2y7y1
+3886859,0,t1_cqza1my,It will let you do it.  Its just a really bad idea.  ,EMC2,cqzc3bj,2,t5_2y7y1
+5460184,0,t3_3psiy1,Yes,EMC2,cw9l9dd,-1,t5_2y7y1
+7478981,0,t3_4htvla,I havent seen this particular issue before. But I rarely get sent out to work on VNXes. I would open up an SR.,EMC2,d2sbfmw,1,t5_2y7y1
+7721411,0,t3_4l1h0z,How is this different than a container? What am I missing?,EMC2,d3jvdz2,1,t5_2y7y1
+7726783,0,t1_d3kh535,Looks like Unikernel just means that the OS code and app code got compiled as one. That OS code is Linux. ,EMC2,d3khbtd,1,t5_2y7y1
+9314873,0,t1_d8wbzpo,They saw nimble storage support portal and pressed the shiny panic button ,EMC2,d8wq911,2,t5_2y7y1
+9586197,0,t3_5c8lre,support goes out to .  waiting on the tech is what im trying to avoid.,EMC2,d9up0ek,2,t5_2y7y1
+10182406,0,t3_5lsh8c,I would start by reading chads presales manifestoHe says it better than anyone else. He may have moved on to heading VCE but his words still ring as true today as when they where written. ,EMC2,dby8d70,5,t5_2y7y1

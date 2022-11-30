@@ -1,0 +1,2 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+5375747,0,t1_cvyfglj,Right.Another thing to consider is HTTP Request logging on the F so you could send http requests logs to your syslog infrastructure from the F layer as opposed to somewhere else.,f5networks,cvyt9ia,1,t5_2rc5t

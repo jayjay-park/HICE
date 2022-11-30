@@ -1,0 +1,32 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+46649,0,t1_cejp6p5,One ST restart didnt work. Continued fretting. Second restart and its back to normal... Not sure what happened. Thanks for your advice nonetheless,SublimeText,cejqphz,0,t5_2syyf
+76388,0,t3_1uyut8,Cough p windows,SublimeText,cen4iuu,2,t5_2syyf
+105980,0,t1_ceqhuxx,Hmm need to try it again then must have missed something,SublimeText,ceqhwo8,1,t5_2syyf
+276611,0,t3_1x93t8,Am I the only one that understands that Sublime Text  DOES do this by default.  Maybe not as obviously but any bracket or tag your inside of has its opposite highlighted with an underline.  Its subtle but its there.  ,SublimeText,cf9fm0u,5,t5_2syyf
+285487,0,t1_cfacq8c,What youre saying then is that it doesnt matter where I save my programs as long as it isnt in the MinGW bin folder?,SublimeText,cfacsce,1,t5_2syyf
+306317,0,t1_cfcb4sf,I did something like that here No idea where I got the regex from I guess I just tried a few.,SublimeText,cfcimw6,1,t5_2syyf
+574971,0,t1_cg5jn5g,ImageMagick I could live with Linux user but the permanent temp files are a dealbreaker. ,SublimeText,cg5mneb,1,t5_2syyf
+1789518,0,t3_2f0ele,This has everything you could possibly need out of the box.Off the top of my head I often useMultiple selectiongt ctrl  shift  updownMove Linesgt ctrl  super updownTranspose switch  selectionsgt ctrl  tFast Comment Codegt ctrl  Sort Lines Alphabetgt F,SublimeText,ck4pxwh,2,t5_2syyf
+1791813,0,t3_2f0ele,ctrlshiftk to delete the current line is one I use a lotI added this line to my User key bindings so it acts more like TextMate gt  keys supershiftk command runmacrofile args file resPackagesDefaultDelete Line.sublimemacro ,SublimeText,ck50bkh,1,t5_2syyf
+1897914,0,t3_2gb6yq,Theres no inbuilt way that Im aware of but all operating systems should a way of closing and reopening an application we need to know what environmentOS you are running before helping further ,SublimeText,ckhvzvd,1,t5_2syyf
+2258628,0,t3_2l2b6q,Sublimall creator hereSublimall is not dead server and plugin source code are on github and projects are open for new maintainers.,SublimeText,clqvyng,2,t5_2syyf
+2386616,0,t3_2mntev,Looks great. Will try it for the next week.,SublimeText,cm6ozlb,1,t5_2syyf
+2837307,0,t3_2skfof,Unfortunately this is not technically possible with Sublimes plugin API.,SublimeText,cnqljvz,2,t5_2syyf
+3400585,0,t1_cpfvo72,I actually could. Seriously as on save action or a command? Maybe both and configurable? ,SublimeText,cpfw51v,1,t5_2syyf
+3480340,0,t1_cpovgpp,gt Linux Added sudo saveYes! No more forgetting about that and then having to rungtsudo subl file,SublimeText,cpozffz,4,t5_2syyf
+3621258,0,t3_31ubjr,I found out during this post a while backIt looks like this,SublimeText,cq51tju,5,t5_2syyf
+3679924,0,t1_cqbqgay,Ill try this thanks!!,SublimeText,cqbqhhl,1,t5_2syyf
+3693934,0,t1_cqdb9gy,Good to know. Maybe theyll add them,SublimeText,cqdbzx9,1,t5_2syyf
+3878447,0,t1_cqydbmv,I cant find it if it is. Im thinking no....,SublimeText,cqydkg6,1,t5_2syyf
+4287272,0,t3_3a37pl,Ive done this successfully with Dropbox in the past. A quick google led to this guide ,SublimeText,cs8wae5,2,t5_2syyf
+4795125,0,t3_3gheqi,deleted,SublimeText,ctyyqfh,1,t5_2syyf
+5910762,0,t1_cxnsimr,These are JSON files so you need to escape backslashes in strings    backupdir DDropboxBackup,SublimeText,cxufmcp,1,t5_2syyf
+7526788,0,t3_4idl1f,It might help to search github for the packages you use. You will find readme files for the packages you installed. That might be what you need most as they tell you mostly what to put in the user preferences files and sometimes link to a webpage with more details. Check those out. If thats not helpful enough search github for the sublime preferences file and see some example settings. And many times you can find a tutorial on setting up sublime packages. When youre starting out its really helpful. I think maybe nettuts has a decent couple.It also might be a good idea to pick one linter at a time. Not only will you have time to acclimate to each one you can see if it works for you and will notice if there are conflicts when you add another. Also dont know if you have ST or ST but not all packages work on both versions so keep that in mind too.,SublimeText,d2xrbjl,3,t5_2syyf
+7721649,0,t1_d3itpnv,Where can find more info about things in your first bullet point? What exactly are you talking about?,SublimeText,d3jwczz,1,t5_2syyf
+7960739,0,t3_4o9nt2,What are you trying to open the file with? I dont recall that SublimeText can do this natively. It could be the case that your editor has removed the BOM as it is uninteresting for the content. Try this with another editor or simply read the file as a stream. The BOM should be there.,SublimeText,d4av1w4,2,t5_2syyf
+8134336,0,t1_d4u6unb,Tried no luck !,SublimeText,d4udfpf,1,t5_2syyf
+10167578,0,t1_dbwjc7x,Thanks fam!,SublimeText,dbwjuax,0,t5_2syyf
+10181331,0,t3_5lr17r,This is usually a good opportunity to use a Build System This can be configured to compile and run within ST without support for user input though or to open an external shell. Theres a good introduction to Build Systems here Custom Sublime Text Build Systems For Popular Tools And Languages,SublimeText,dby3zbd,6,t5_2syyf
+10876666,0,t3_5valvq,But Ive met so many sexy women wanting to go on sexy dates!  ,SublimeText,de1umu1,2,t5_2syyf
+11038157,0,t3_5xkp5m,Ah yes my favourite minute men album,SublimeText,dej5m88,1,t5_2syyf
+11502352,0,t3_628kri,Ctrl  Shift  M will select to brackets not sure its exactly what youre looking for though,SublimeText,dfzsici,1,t5_2syyf

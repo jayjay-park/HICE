@@ -1,0 +1,6 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+6296471,0,t3_401ug5,deleted,letsencrypt,cz5c5nx,2,t5_36or8
+6415134,0,t3_43h15k,Ive gotten DNS validation to work will post directions here today.,letsencrypt,cziu3ko,2,t5_36or8
+7117297,0,t1_d1n5agj,Dell iDRAC without access to the Internet.,letsencrypt,d1n5cff,2,t5_36or8
+7311934,0,t1_d2957va,Have you tried asking on Namecheaps forums buddy?,letsencrypt,d29bfff,2,t5_36or8
+8614460,0,t1_d6i9kdn,Just my handiwork in typing up a made up server name. Its the same one as before.That does help. Im wondering if my nginx or server itself is messing up. I suppose I could try from a machine on my LAN when I get home have no remote access to a machine just the firewall and if that works it would probably tell me which one is at fault if not both. ,letsencrypt,d6ielgs,1,t5_36or8

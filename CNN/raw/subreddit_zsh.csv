@@ -1,0 +1,11 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+746246,0,t3_22ovkh,Gssapi options in your local ssh config can slow things down sometimes.. check for that using umaratcs suggestion,zsh,cgp3s0j,2,t5_2rb3y
+2718532,0,t1_cn48o9d,diraction indeed built up on this feature but add more to it. Following up on your example diraction create A myverylongdiryou can  jump into it gt A read file in there A ls refer to in any command somerandomcommand Asubpath execute a random command in this path A exec rm  and other more function attached to the dispatch function.  in fact A is an alias to a dispatch function that take the second argument as a command lsexec of the previous example being just some of the commands diractions offer so far,zsh,cnd3390,1,t5_2rb3y
+6839476,0,t1_d0re077,Same haha!,zsh,d0rk3yj,1,t5_2rb3y
+7414704,0,t1_d2a3znd,Instead of a framework try using a plugin manager such as zplug instead and build your own setup around that.,zsh,d2l0516,2,t5_2rb3y
+7656108,0,t3_4k5y5l,Check the modules folder for info about each module.,zsh,d3cggfl,1,t5_2rb3y
+7694415,0,t1_d3dhpxh,Hi Im the author of Zim. What do you mean the documentation is vague?Every modules option should be documented in the Readme.md for that modules folder. Additionally the template .zimrc file has every option documented.If something is vague or confusing please open an issue and let me know. Ill try to clarify anything that is confusing. Thanks!,zsh,d3gt032,1,t5_2rb3y
+7916688,0,t1_d45uw34,After update to Raspbian testing both repo usrbinyoutubedl and my fuckedupdirectory work  properly.,zsh,d45wsdp,1,t5_2rb3y
+8997952,0,t1_d78rtaj,It does but requires specifying the file with every message and doesnt allow for setting the minimum verbosity for the entire process which is exactly the problem I was trying to solve.Mine is modeled loosely on PHPs PSR specification rather than the syslog format.,zsh,d7texf8,1,t5_2rb3y
+9934918,0,t1_db2e1l8,Probably right but hey  Im using zsh so I thought I would post it here. ,zsh,db2jn0z,1,t5_2rb3y
+10636129,0,t3_5s7x6m,THIS IS SPAM!Please report and downvote the post.  NOT MY COMMENT the POST!  Thanks!,zsh,ddd1a25,0,t5_2rb3y

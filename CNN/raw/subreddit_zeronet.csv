@@ -1,0 +1,18 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+4312131,0,t1_csbj707,There is no Cache you are in full control what you want to host if you dont want to store a site anymore you can delete it on the ZeroHello interface.Maybe in the future  if we have more peers  it would be possible to define optional files for the site eg. images videos witch is stored in a Cache folder and the client deletes the most served ones when he runs out of space.,zeronet,csbpc21,1,t5_35uue
+5026325,0,t3_3jrjvg,Everything runs on hardware. IDK why yo feel obsolete. Try to design a cheap and durable laptop. Improve EInk tech etc.,zeronet,curv3c4,1,t5_35uue
+5589380,0,t3_3rolhr,Probably there was an error writing files to your hdd backup your datasites.json and datausers.json file then try delete datasites.jsonold file. I will try to fix this issue in next release,zeronet,cwpwy1o,1,t5_35uue
+6050555,0,t1_cy49qqg,You seem to though all about it and you are talking about running scripts in decentralized way...How about database how this will run in a decentralized way and sync all the data between peers? There is no easy way to do this!,zeronet,cycqay9,1,t5_35uue
+6874619,0,t1_d0s6kec,Did it work? If not theres now another ID provider see  and heres  the tutorial.  ,zeronet,d0vjurs,1,t5_35uue
+7300975,0,t3_4fcm86,ZeroNet built for dynamic content so js is necessary. Every site is served from same host ... so sandboxed iframe and restricted js api is necessary to load every page to avoid sameorigin security problems.,zeronet,d282koq,2,t5_35uue
+8254623,0,t1_d5233x5,I think this is a great idea if you have any links or anything else in this regard can you give it to me for initiating the development?,zeronet,d59duka,3,t5_35uue
+8431709,0,t3_4v3yza,The biggest issue I see is that ZeroNet requires the CLI or at least it does for me on macOS. As amazing as this project is it wont see any significant adoption until nondevelopers can download an app click on it and it just starts working. Until then ZeroNet will just be a neat little toy for us nerds.,zeronet,d5vi639,3,t5_35uue
+8447304,0,t1_d5wwabn,deleted,zeronet,d5xg801,1,t5_35uue
+8487089,0,t1_d62ff0n,Not all peers would be needed to download the site. It will probably take less than a minute which is not bad for a first time download.,zeronet,d62fl0g,2,t5_35uue
+8519024,0,t1_d5yryi4,gt Blockchain based user profiles also planned laterGreat news nofish.,zeronet,d66fsxe,1,t5_35uue
+8639606,0,t1_d6h5czq,Good post man. Although I think it still misses the point. I was talking about an icon or an app that you could run and close as any other app in the system. ,zeronet,d6lk5oz,2,t5_35uue
+8750850,0,t3_4zssvc,deleted,zeronet,d6zigmb,1,t5_35uue
+8919132,0,t3_52ey1g,that guy at the end asking questions. what were his other questions and answers amp so whats happens when... you did well for first showing.,zeronet,d7jy6k5,2,t5_35uue
+9186254,0,t1_d8gdumd,Merger sites are more like shared databases rather than actual sites. Both Zeronet sites would have to be designed to connect to the same merger sites in order to share data that way.,zeronet,d8gfatx,2,t5_35uue
+9754717,0,t1_dafbf76,Interesting design choice. A bit like MAC randomization. But with DPI without obfuscation its pretty easy to tell who is running what. ,zeronet,dafhk0v,1,t5_35uue
+11550448,0,t1_dg4wq4c,thanks,zeronet,dg58vrg,1,t5_35uue

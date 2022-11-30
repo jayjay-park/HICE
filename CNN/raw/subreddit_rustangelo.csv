@@ -1,0 +1,4 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+8627521,0,t1_d6k0k2w,While I am unable to directly resolve this issue so far I have implemented a workaround in the upcoming new version. You can now specify an offset for x and y axis for painting. This will allow you to shift your coordinates by a specified amount and should fix the issue.,rustangelo,d6k1ld3,1,t5_3f40c
+8975385,0,t3_532cz5,Do you know when pro users can get their keys?,rustangelo,d7qpehi,1,t5_3f40c
+9602832,0,t1_d9wp9iw,,rustangelo,d9wquik,1,t5_3f40c

@@ -1,0 +1,20 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+6918165,0,t1_d0zuena,Forgot to mention that im running on iOS . Jailbroken iPad Air.. and i have no idea what to do to fix it ,RetroArch,d10hwps,1,t5_32ii0
+6978148,0,t3_4885su,Why are you using ...?,RetroArch,d17b7uu,1,t5_32ii0
+6987583,0,t1_d18bf4k,CHDs are how RA and most emulators handle databases. It ensures you get the best version of that rom,RetroArch,d18dteo,1,t5_32ii0
+7539027,0,t3_4ilwk0,Wanna help with the covers amp screenshots?,RetroArch,d2z5frl,1,t5_32ii0
+7715388,0,t3_4ktliu,Yes its possible but not all cores are working N PSX and newer are not in the package... Also there is no support for WiiU pro controller yet... Still you can use any other controller Wiimote and classic controller work fine and hope they add WiiU pro controller support soon.  As with any modding look for guides and updated info about it if youre looking to add homebrew to your WiiU. rWiiHacks and rWiiUHacks have info about.,RetroArch,d3j6qie,1,t5_32ii0
+8980357,0,t3_538zmw,Another way is to use a frontend to specify the core. ,RetroArch,d7ravn1,1,t5_32ii0
+9097614,0,t3_54gbve,Awesome this is very exciting! Now if only I could go higher than x res without slaying my fps,RetroArch,d85dx84,1,t5_32ii0
+9424563,0,t3_593avk,It sounds like Retroarch has read permission but not write permission to your SD card. I let my phone adopt my SD card as internal storage and I dont run into this issue so Im not sure if theres an easy systemlevel solution. For retroarch in particular though you could change the save file and save state directories to a set folder on your internal storage rather than storing them along with the ROM.,RetroArch,d9ammnj,1,t5_32ii0
+9712241,0,t1_da9il2n,Thank you very much think this has done the trick,RetroArch,daa8rj1,1,t5_32ii0
+10059068,0,t3_5jp4da,Just prefer the look of Emulation Station. And as far as posting on their forum. Its been. Hacked so badly its fucking pointless.,RetroArch,dbipynl,1,t5_32ii0
+10125947,0,t3_5kxw4r,Does it run faster in a window? press fHave you disabled all shaders?Have you tried changing the RA video driver?Which cores have you tried?,RetroArch,dbrf13y,2,t5_32ii0
+10383423,0,t1_dckl65y,I agree this is the only good workaround for certain systems  but why would RetroArch even bother with using a graphical user interface GUI if thats all the program is capable of? i.e. using simple text menus to start a game is all it seems good for on the Vita sadly ,RetroArch,dcl0x11,1,t5_32ii0
+10384392,0,t1_dckynfy,thanks bro but this is Android version...,RetroArch,dcl4vi9,1,t5_32ii0
+10421513,0,t1_dcp8o0j,Ive been in touch with Mark actually  hes a good guy. I almost have this sorted out  its a semimanual process to add all the roms but at least search and replace helps a lot with changing the paths in those playlist files so it sees the ROMs.,RetroArch,dcpciw8,1,t5_32ii0
+10470753,0,t1_dcuwrse,Thank you for the info. ,RetroArch,dcuyu4e,1,t5_32ii0
+10482110,0,t3_5q3p61,deleted,RetroArch,dcw97e0,1,t5_32ii0
+10645488,0,t1_ddd170b,np,RetroArch,dde00tn,1,t5_32ii0
+10722035,0,t1_ddlq4dz,Not yet Ill give that a try. Does it require a custom ROM or can I flip a switch in the core options and load a GameBoy ROM directly? ,RetroArch,ddlwcyf,1,t5_32ii0
+11137525,0,t3_5z0qdy,Never mind I figured it out.,RetroArch,deufe4k,0,t5_32ii0

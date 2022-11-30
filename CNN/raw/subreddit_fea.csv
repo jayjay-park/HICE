@@ -1,0 +1,11 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+2444293,0,t1_cmd3r7h,Good idea. Dont you think it could maaaybe get a little wonky at corners? Specifically if a  corner has a honeycomb strut run right into its inner corner or whether the struts are symmetric about that corner? Then again I guess a corner being crushed wont necessarily spell the end of most parts. Engineering is fun but it sure gets deep in my brain sometimes,fea,cmdthws,1,t5_2rqj1
+2591630,0,t3_2pd0gn,I dont use ANSYS but its probably your solver parameters convergence ratios iteration count iteration size etc. if it works for a linearelastic material but not for a hyperelastic.  ,fea,cmwv306,1,t5_2rqj1
+4607040,0,t3_3e2obk,Nice read!Im still an amateur at CAD but Im really interested in topology optimization. I think I first read about it when GE was doing that d printed engine bracket contest and Ive been interested ever since.,fea,ctbavdo,2,t5_2rqj1
+5610859,0,t3_3rucjm,You can use the RambergOsgood relationship to develop stressstrain curves for your material. The problem with using a bilinear perfectly plastic curve is that you can run into convergence issues. ,fea,cwskxla,1,t5_2rqj1
+6569525,0,t1_czyfajf,Great explanation especially about the need to scale the gravity load component. ,fea,czyud8b,1,t5_2rqj1
+8880664,0,t1_d7eylci,Agreed sets is the way to do this. The set can easily be defined in Abaqus CAE and then the results accessed at that set through viewer.,fea,d7fbx0u,2,t5_2rqj1
+10364754,0,t1_dciruzs,The mesher may also permit slicing volume  by extending the faces which make up the sides of the notch.,fea,dciwnop,1,t5_2rqj1
+10803932,0,t1_ddu2qw8,I think you need to provide more information about what you dont know how to do.,fea,dduclel,1,t5_2rqj1
+10899272,0,t3_5vj2mh,deleted,fea,de46kx1,1,t5_2rqj1
+11009531,0,t3_5x7178,I dont know Patran but i have seen similar displays where the mesh display mode shows the elements shrunken to help visualize them clearer. So you may just look at your view mode.,fea,defwedp,3,t5_2rqj1

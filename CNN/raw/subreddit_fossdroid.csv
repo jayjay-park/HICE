@@ -1,0 +1,16 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+1643736,0,t3_2d5frn,This is great news but I dont think the author understand the difference between Android and ChromeOS.,fossdroid,cjmcv41,0,t5_2t8ev
+4425741,0,t1_csnxtzu,i cant acess that one is there a mirror.,fossdroid,csok1sn,1,t5_2t8ev
+5062273,0,t3_3kaslk,Im a little new to the whole method but I just clone the folder now what ? Also there is no instructions.,fossdroid,cuw71ju,1,t5_2t8ev
+5135215,0,t1_cv4xnyv,Thats the info I was looking for thanks!,fossdroid,cv4zgu3,2,t5_2t8ev
+5486241,0,t1_cw7q50h,do you know if freecyngn works with .?,fossdroid,cwcx29d,1,t5_2t8ev
+5514392,0,t1_cwg9gaa,I agree. One of the issues is that the fuzzy problem is compounded when searches are done abroad especially if the language is not Latin script or if it uses cases...,fossdroid,cwgiild,2,t5_2t8ev
+7577278,0,t3_4j1t8i,Ive noticed a lack of software for Android Wear devices available on FDroid. I understand the the only way Wear devices can communicate with the phone is through proprietary software this makes a jail for any free software on the platform including the whole of Android Wear on AOSP. But does this require any proprietary software to be build the apps? Can there be Android Wear features reliant on GPS that are unused to GPSfree users?TLDR Are Android Wear apps proprietary by themself and are apps with Wear support considered play service required?,fossdroid,d33i0je,1,t5_2t8ev
+8276492,0,t3_4spjkf,Can someone give me a rundown of what matrix is and why I would want to use it?  ,fossdroid,d5c4c35,4,t5_2t8ev
+8572834,0,t1_d6d5xn3,deleted,fossdroid,d6d6pwc,0,t5_2t8ev
+8735443,0,t3_4zotuq,More contextI dont get the argument though taking AOSP and profiting is exactly what they do and is allowed by the license.,fossdroid,d6xkta4,4,t5_2t8ev
+9032336,0,t1_d7xjdll,Conversations ChatSecure and Zom are all XMPP clients which should be interoperable. The nice thing about XMPP is its like email.if you dont like a client choose another one. If you want to use a different server no problem. If you are using a custom domain you dont even have to give out a new address to your contacts. ,fossdroid,d7xjl5g,2,t5_2t8ev
+9062803,0,t1_d80vhe3,So phone addressbook integration works on Android and iOS but currently just searches for email addresses.  So right now if you know the email address or the matrix ID its all good.  In the near future well also support discovery by phone number.  We also need to add in a general contact directory of some kind but havent decided what itll look like yet ,fossdroid,d817axs,2,t5_2t8ev
+9882526,0,t1_davpfjy,Thank you for your reply.  To be honest that is my current solution as well.  I do find it a bit clunky though and since setting up my shiny new server I was hoping for a better solution.  I find syncthing settings really confusing and complex.  I just cant get my mind around it and the android app doesnt seem to be working half the time.,fossdroid,davpt72,2,t5_2t8ev
+9883639,0,t1_davsb22,Is that something you could script?  I was secretly hoping someone had a nice setup using rsync and cron they could share with me D.Not sure these are even appropriate tools but it sounds good!,fossdroid,davv1h6,1,t5_2t8ev
+11694237,0,t1_dglbyf1,Exactly who thought that would be a good idea,fossdroid,dglk64r,2,t5_2t8ev

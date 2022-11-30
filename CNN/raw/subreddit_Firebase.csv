@@ -1,0 +1,4 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+9702460,0,t3_5dwx8q,I think there is a good example of this in the firebase docs. What you want is to set up transactions. firebase.google.comdocsdatabaseandroidreadandwriteScroll all the way to the bottom where it talks about transactions. ,Firebase,da91b4l,2,t5_301qk
+9803298,0,t1_dakr1av,Exactly this. Thanks. Ill keep reading. Just one Last question. I cant seem to find how to connect the java app to the database in a client like fashion. The java  stuff  ive read in the firebase page talk about the  backend. Like its only one main java server. Should I connect the java app with an http request? As in create the json file and send it? Thanks again  ,Firebase,dalgu79,1,t5_301qk
+10849765,0,t1_ddwweft,Hey thanks!  Yes i did this project on top of that one! ,Firebase,ddz2rka,1,t5_301qk

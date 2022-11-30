@@ -1,0 +1,5 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+2268437,0,t1_cls0lu0,Tried that unfortuneately it didnt work. The window gets activated but nothing happens. Is there a way to run the script with debugging information? Can I see that it send the command to the window but the window didnt respond for some reason?,autoit,cls3k8y,1,t5_2rvgx
+2282218,0,t1_cltrpu7,Is the same userid running the app that produces the message your trying to click?,autoit,cltssnl,1,t5_2rvgx
+2860772,0,t1_cnsoboj,The part for coordinates worked and it seems right.I couldnt get the first part to work with the tooltips..  Id run the script and try ControlT but nothing happened and it didnt show in my system tray so its like it immediately shuts off.,autoit,cnt9rql,1,t5_2rvgx
+7305025,0,t1_d27ldri,i cant get it to do squat Im matching name exactly from the checker but the window doesnt respond,autoit,d28j647,2,t5_2rvgx

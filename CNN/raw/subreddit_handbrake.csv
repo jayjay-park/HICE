@@ -1,0 +1,5 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+10085799,0,t3_5jz565,deleted,handbrake,dbm74mq,1,t5_2s95m
+10108226,0,t1_dboxqjx,I dont understand what youre asking for. MKV allows for optional subtitles MP requires burnin so Handbrake either forces them on or turns them off all together. Why are you converting from MKV to MP anyway? MKV is a superior container in my opinion what are you trying to gain? Unless you have devices that wont play MKV files regardless of codec I would advise not encoding into MP just because you want to. ,handbrake,dbp42ow,1,t5_2s95m
+11154377,0,t3_5ykubk,do you have the keep aspect ratio option selected?,handbrake,dewc501,1,t5_2s95m
+11762689,0,t3_664t8i,removed,handbrake,dgtbw79,1,t5_2s95m

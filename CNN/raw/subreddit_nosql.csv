@@ -1,0 +1,2 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+6357444,0,t3_42p1vj,Try this    db.tutorial.aggregate        group  id  byuser numtutorial  sum  likes         match numtutorial gt      ,nosql,czc9rzo,1,t5_2r5tv

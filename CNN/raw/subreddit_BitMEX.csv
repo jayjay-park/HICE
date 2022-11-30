@@ -1,0 +1,2 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+11346998,0,t3_5j4leu,Yea I have watched the seminar It doesnt really give you the noob friendly step to run it in windows. When I try to edit the setting it doesnt have  the same thing. Are you ment to go into the Marketmaker folder and edit settingsbase.py   API URL.BASEURL   BASEURL    Once youre ready uncomment this. The BitMEX API requires permanent API keys. Go to  to fill these out.APIKEY  APISECRET  ,BitMEX,dfi5u6o,1,t5_31bpk

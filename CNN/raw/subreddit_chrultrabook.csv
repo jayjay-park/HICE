@@ -1,0 +1,32 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+4837158,0,t1_cu3qufd,we use the full release of Windows . Technical Preview works too but Microsoft no longer activates it.The OS is only free if youre upgrading from a previously activated Windows.,chrultrabook,cu49fx8,2,t5_39je3
+4848916,0,t3_3ha0ec,I dont have really much experience with going back to ChromeOs but first I would try to run the acript wirh cygwin. If that doesnt work I would try to boot ubuntu live from usb and try the script again. Or you could ask somebody with the same board to upload their bios but Im not  sure you can just flash it and be safe so do your research.,chrultrabook,cu5qpky,2,t5_39je3
+4862454,0,t1_cu74zhp,Thats awesome thanks coolstar. But I already flashed back to ChromeOS so glad to be home. Chromeos  crouton is all I need. I was doing the SAME thing on Windows  except it gave me problems like low RAM and space. On top of draining my battery faster. There was just no point in using Windows other than to use specific programs Which work in crouton anywaysIm using a custom rom but at least I can use Chrome OS Thanks to your guide not mentioning anything about backing up our rom before flashingId much rather get a Windows laptop or Desktop for gaming needs. EDIT I deleted that public thread on chromeos sorry about that. Ill leave you guys alone. Now I feel bad about that c,chrultrabook,cu7g6lx,1,t5_39je3
+5012306,0,t1_cuq5152,They are years newer than wifey and Is current setups stull an upgrade and we use external mice on our lappys now so biggie there.,chrultrabook,cuq67wl,1,t5_39je3
+5014312,0,t1_cuppnqq,thx. Ill wait. ,chrultrabook,cuqex0y,1,t5_39je3
+5158583,0,t1_cv79p95,You might need to use my bat file instead,chrultrabook,cv7suqa,1,t5_39je3
+5211563,0,t3_3mdhjw,gtAlso clicking at the bottom right no longer right clicks. To right click click or tap with  fingers.Thank god I loved doing that in Chrome OS and missed it on Windows,chrultrabook,cve6phx,1,t5_39je3
+5251869,0,t1_cv7suqa,Finally got around to testing this with your bat file.  Needs a slight modification  your sc create command line above makes the service manual start which doesnt work. You either need to add startauto to the command line or if you have already created the service go into services and change it to auto start.  Then it works ,chrultrabook,cvj1exp,1,t5_39je3
+5374646,0,t1_cvyi1fh,Thanks for the info! Ill probably look into buying a GB as it sounds like it would be best.,chrultrabook,cvyo76c,1,t5_39je3
+5885468,0,t3_3vvria,Can you get to Safe Mode? If you can you can pick the Windows Basic Driver and use that get video back until you can determine what went wrong. That worked for me. Hope this helps! Also which Chromebook do you have?,chrultrabook,cxr49tj,1,t5_39je3
+6191419,0,t1_cytec1i,Alright what can I do to help? Ive got the stuff I need just sitting on my desk now,chrultrabook,cytedms,2,t5_39je3
+6228335,0,t3_40vep2,deleted,chrultrabook,cyxlei3,1,t5_39je3
+6618202,0,t3_46bwi8,Click the search button  the brightnessaudio ones. Galluim Os works just fine for me.,chrultrabook,d03vng8,5,t5_39je3
+6760263,0,t1_d0ijg3c,alright Ive updated the sidebar,chrultrabook,d0ikgbv,2,t5_39je3
+7366464,0,t3_4g7png,This all cant be done just on the chromebook? ,chrultrabook,d2fil9e,2,t5_39je3
+7693384,0,t3_4k3wmt,I have an asus c N GB willing to test it.,chrultrabook,d3gose4,3,t5_39je3
+8199375,0,t1_d52d31p,Im a fan of classicshell personally,chrultrabook,d52h4pf,2,t5_39je3
+8534972,0,t1_d689bs1,Welcome! ,chrultrabook,d68fr8h,1,t5_39je3
+8549437,0,t1_d69tj0d,I will try it when I got time  Thanks for your help will report back when i did it!,chrultrabook,d6a92jj,2,t5_39je3
+9149814,0,t3_55l2hv,Wow! This is awesome news! Im especially excited about that the firmware supports UEFI.,chrultrabook,d8bt00t,2,t5_39je3
+9380327,0,t3_590wp0,The TPM isnt working yet. Its on the todo list tho.,chrultrabook,d950uhe,2,t5_39je3
+10104842,0,t3_5k3w7n,If youre gunning just for macOS you might be better off picking up a used windows laptop. There are a few that are compatible with macOS but I dont remember the name right now. Youd get better specs i ish and more variety. As others said the only version that works well with macOS is the C and i believe it has to be the i variant which will run you ,chrultrabook,dboo86e,2,t5_39je3
+10115242,0,t1_dbpxx2d,It actually does. The touchpad works. There are just some graphics issues that seem to be related to resolution . . .,chrultrabook,dbq0vth,1,t5_39je3
+10561363,0,t1_dd58v3q,Boot a Linux Live USB. You cant do the update from Windows.,chrultrabook,dd59031,1,t5_39je3
+10629414,0,t1_ddcc67j,Some USB drives are too slow to be detected but Ive never had an SD card not work on a device where the SD Card slot runs through USB .. On BYT devices and the C the SD Card slot works differently and higher speed cards simply do not work due to limitations of the firmware driver we have . . .,chrultrabook,ddccd7m,1,t5_39je3
+10836419,0,t3_5ujhc7,deleted,chrultrabook,ddxp7kv,1,t5_39je3
+10906819,0,t1_de4s1a7,Did you enable testsigning?From the admin Command Prompt   bcdedit set testsigning onThen reboot. Then install the touchpad driver.,chrultrabook,de4ylwa,1,t5_39je3
+11015604,0,t1_degkqv5,just a SOIC clip and wires but pretty sure it shouldnt brick,chrultrabook,degl65t,2,t5_39je3
+11254881,0,t1_df7li7y,There is a way to install UEFI Windows onto your external SSD.Its complex tho and having to carry that drive around isnt ideal. Windows will not normally install onto removable media so youd need to VirtualBox to get it installed onto the drive.,chrultrabook,df7q2d6,1,t5_39je3
+11466962,0,t1_dfvmyj0,deleted,chrultrabook,dfvrv1c,1,t5_39je3
+11483946,0,t3_63ok4z,Please check the guide for the drivers you need to install,chrultrabook,dfxpc0m,1,t5_39je3

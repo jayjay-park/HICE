@@ -1,0 +1,15 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+471625,0,t1_cfttrid,Yes. Express zip could not open this archive. It may be corrupted encrypted empty or in an incompatible format. It has worked for all other images.,BAMT,cftvjpy,1,t5_30ibl
+535101,0,t1_cg13fpw,Try both.,BAMT,cg13iyp,1,t5_30ibl
+535599,0,t1_cg14tk2,lol  hour ago. This is nuts.I need to get them to come over here to rbamt and join forces.,BAMT,cg15kbr,5,t5_30ibl
+572222,0,t3_207rdz,Great package!  Awesome with my x Gigabyte  rig.  Each card is hashing away at about  KHs.  How do I set up the date and time to be correct for my location?  Im remoting in to BAMT but dont see any options.Thanks!,BAMT,cg5bels,1,t5_30ibl
+593100,0,t1_cg7ghc9,Doesnt sound like it would,BAMT,cg7otxn,1,t5_30ibl
+622191,0,t1_cg93he3,I will have to look into it. Im unsure off the top of my head.,BAMT,cgazs5v,1,t5_30ibl
+670250,0,t1_cggfria,Change memclock to  and core clock to  or ,BAMT,cgggg53,1,t5_30ibl
+709153,0,t3_22afw2,Config ,BAMT,cgkvtxw,2,t5_30ibl
+734197,0,t1_cggqaai,Its your motherboard.  I havent been able to get it to work on my Gigabyte P core  duo board and neither have a couple of others guys i know that have Gigabyte core  duo boards.Ive used the same BAMT flash drive on  other computers but it just wont boot on the core  duo board.   Same story with my buddies.,BAMT,cgnqd7m,1,t5_30ibl
+797132,0,t3_239nwv,Did you properly modify the bamt.conf file? THe bamt.conf is the file that will get the information to that web interface. Make sure that the gpus are enabled there for tracking. The web interface while nice is not as good as the cgsgminer interface. You will have a better idea of what is going on.use sshat the prompt type su ltthis is to become super usergtthen enter your passwordtype screen rthis will being up the cgsgminer interface.To leave hit ctrl a  d ltthis will detach you from the screengtthen type exit,BAMT,cguvy17,2,t5_30ibl
+894286,0,t1_cgdi8o6,Hey did you manage to fix this? I have the same problem myself. CGminer showing ADL Initialisation Error! Error !,BAMT,ch5xnhf,1,t5_30ibl
+1091916,0,t1_chs9864,deleted,BAMT,chsekgq,1,t5_30ibl
+1317572,0,t1_cihtfbq,THanks.. but i cold reboot it from ssh as well as trying the power button.. Issue doesnt go away until i reflash it.. I have usb .  gb adata usb sticks..  Fustrating,BAMT,cihudwz,1,t5_30ibl
+1329258,0,t1_cij3s1n,Why do you have to change them? Is the common.pl patch off?Thanks BTW,BAMT,cij5qbe,1,t5_30ibl

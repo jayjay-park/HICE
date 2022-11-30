@@ -1,0 +1,5 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+279016,0,t1_ced1jxw,Do you have a fast way to produce that style guide?,Sass,cf9okzr,1,t5_2ruxc
+1497383,0,t1_cj3eyw2,Awesome  cheers. Just reread your article you do have the issue linked  didnt note that yesterday  if so sorry! DYeah that does indeed look like a bug  hope it can be fixed I live on extend in Sass.,Sass,cj3yzoj,1,t5_2ruxc
+3044592,0,t1_codjq2k,Here are few more for material design Getleaf.com. right now in beta but can be looked at,Sass,codkkmk,1,t5_2ruxc
+6476469,0,t3_3ttomq,Nice video.Ive started using sass this week for first time and it excites me.Can I ask why you put the div.tutorial in the mixin? Did you need the div before the .tutorial? Ive been building deeply nested mixins for a project and Ive not had to use that leading div element in the sass.Cheers.,Sass,czp7pes,1,t5_2ruxc

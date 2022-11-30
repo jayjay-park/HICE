@@ -1,0 +1,5 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+5502682,0,t1_cweyb3t,Yes and yes. The app will give you a new address every time the previous address gets used but all past addresses are still valid and anything sent to them will correctly show up in your wallet.,breadwallet,cwf0p4k,1,t5_35lz4
+7021638,0,t3_4btg0u,Erasing all content and settings is the correct way to wipe your private keys off the device. breadwallet still has strong security if you forget to do this though. Anyone with physical access still has to be able to unlock it using your passcode to get access.,breadwallet,d1c95aw,1,t5_35lz4
+7222752,0,t3_4eaq4n,yes. i do have the recovery phrase written down. thank you for mentioning this. it looks like im going to have to restore the phone which means everything thats on it will be lost but ill be able to restore the breadwallet using the phrase. thank you much,breadwallet,d1z67up,1,t5_35lz4
+9081102,0,t1_d82wb4h,,breadwallet,d83eg0s,1,t5_35lz4

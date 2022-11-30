@@ -1,0 +1,22 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+2121482,0,t1_cl91v26,As a side note if you havent rebooted your systems in  days it might be time to upgrade ONTAP.,netapp,cl9hj1h,1,t5_2r5pd
+3084691,0,t1_cohk4er,Did support have you grab a perfstat?  Just wondering how they determined this was a spindle issue.  Of course it probably is just wondering what they based that on.I figure your account team will suggest another shelf.  For futures sake and if your budget allows a DS perhaps half populated.  It will be future proof for a few more years can support a FAS controller if you want GbE and perhaps the next generation after that.  As well as SSDs and larger SAS drives.As far as adding a few SSDs for a FlashPool it will indeed be a considerable boost to performance especially latency. ,netapp,cohq69e,2,t5_2r5pd
+3455039,0,t3_2zt4za,You need to install it on both nodes. KB misses this step ,netapp,cpm3msa,2,t5_2r5pd
+3753807,0,t3_33e7tf,You can use wildcards in cluster mode commands. If the volumes have common names you can do something likevol move start verserver name volume lab destination aggregate aggYou can also whip up a list of individual command lines then simply paste them into the SSH window. The command prompt will buffer and run them sequentially. Id recommend only doing  or so at a time just to make sure you dont miss any. Is there a reason youre trying to balance across four aggregates? Do you have a four node cluster? ,netapp,cqk5t91,2,t5_2r5pd
+4302667,0,t1_cs9y85v,The correct way to do this is set up an initiator group for each server and add the LUNs to just that group. Portsets are not needed until you have so many paths for the linux multipath driver to choose from that you want to trim it down a bit.,netapp,csamvhk,3,t5_2r5pd
+4602451,0,t1_ct5avnq,deleted,netapp,ctaq609,1,t5_2r5pd
+5637208,0,t3_3sau99,Cards on the right side  go  from the right cards on the left side go  since theyre upside down. ,netapp,cwvul5z,6,t5_2r5pd
+6133362,0,t1_cygflhb,also there are some major configuration differences between .. and . that arent covered here. this is an outdated article. ,netapp,cymsrrn,2,t5_2r5pd
+6523113,0,t3_44y8n2,You can run a snapmirror show and itll show you which volumes are protected you can then do a vol show to compare the two lists. If you need more filtering you can hit tab to see lists of subcommands. You can also grab Netapp System Manager which is free to get a GUI representation.,netapp,czu1ibq,2,t5_2r5pd
+6616586,0,t3_46a1ov,deleted,netapp,d03pmi7,1,t5_2r5pd
+6640749,0,t1_d066z81,If you want to collect from vSphere and have one pane of glass vs ASUP and vSphere separately you need OCI or to write a buttton of code to emulate its functionality.,netapp,d067lvt,1,t5_2r5pd
+6759653,0,t3_48b0cd,deleted,netapp,d0ii6gb,1,t5_2r5pd
+7152916,0,t3_4di15k,Have you had a look at AWA? id recommend running it on your system first before you add the SSD.if you split the SSD between both controllers it might not work as well as you expect it. AWA will allow you to model the SSD caches and decide where is the best place to deploy them,netapp,d1r7rdp,1,t5_2r5pd
+8105827,0,t1_d4r1vxb,yes the cmdlet is powershell. but thats all that is ran against the filer. The results of the cmdlet are then sent via email. Is there any log files on the netapp that i can tail to see if its trying to log any entries in a log file as the statsmon user?,netapp,d4r61jb,1,t5_2r5pd
+8921108,0,t1_d7jwpax,Yeah i heard rumors theyre looking at dropping  minor releases a year from now on.,netapp,d7k6q5h,1,t5_2r5pd
+9583422,0,t1_d9ucnsp,CDOT .,netapp,d9ucou2,1,t5_2r5pd
+9665831,0,t1_da3rkkp,Short answer not really,netapp,da4ildk,1,t5_2r5pd
+10209116,0,t1_dc18qpl,MPIOalua are the SAN standard for data traffic now.  Its robust and well tested.,netapp,dc19dlz,3,t5_2r5pd
+10322576,0,t3_5nsr4b,What controller platform ONTAP version Mode or Clustered and disks are you using?,netapp,dce4cyj,1,t5_2r5pd
+10405004,0,t3_5p0eif,Theres a tiny chance this will work it seems abandoned and i suspect its mode only.  Also im not  sure its what you want either. ,netapp,dcnh374,1,t5_2r5pd
+11362122,0,t3_61z5t1,Are you using the html web client of VSC ? I had some issues. Can you try with the flash web client ? Regards ,netapp,dfjvinf,1,t5_2r5pd

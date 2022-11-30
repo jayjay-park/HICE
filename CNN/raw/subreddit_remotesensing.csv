@@ -1,0 +1,5 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+1061126,0,t1_cho7878,Yeah I cant help you there.,remotesensing,chowkjf,1,t5_2rhsu
+3745798,0,t3_33b26z,check this out ,remotesensing,cqj8v8w,3,t5_2rhsu
+9986385,0,t3_5ihdkx,To be intentionally vague I just spent  months testing a multispectral camera with  bands ranging in the VNIR range and a calibrated ambient light sensor flown over varying terrain very similar to Sequoia. I ended up concluding that this technology is not sensitive enough to accurately distinguish variances in plant health. Although the system could pick up variances the results were inconsistent and more of a rough outline of what may be. Im looking into hyperspectral now.,remotesensing,db995n3,3,t5_2rhsu
+11551989,0,t1_dg50bd6,Kind of? Still trying to figure out simple ratios and normalizing i.e. dividing by the difference of two wavelenghts by the sum. Its definitely for smarter people than I but at some point Ill have to explain this during my defense so trying to figure out the process and verbage to use.,remotesensing,dg5f6fn,1,t5_2rhsu

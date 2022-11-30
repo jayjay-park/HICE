@@ -1,0 +1,8 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+3866019,0,t3_337p43,Looks really good. I will give it a try! Thanks for sharing.,jenkinsci,cqwykrr,1,t5_2srwp
+3943252,0,t3_33urk0,no experience with the RPMs plugin unfortunately.  I just wanted to check in and see if you found a solution to share with the community...  Thanks!,jenkinsci,cr5rj0w,1,t5_2srwp
+4987574,0,t3_3iq8hb,Have you consider using Jenkins Job Builder from openstack? ,jenkinsci,cun6rbb,1,t5_2srwp
+7805319,0,t3_4m3i4a,Its still not as easy as it should be even with the latest version of that plugin.  Weve just gotten better about using trycatch and other error handling methods and populating those reactions with something useful exit  is a pretty simple way to fail a task.,jenkinsci,d3tdoad,1,t5_2srwp
+8916691,0,t3_4xu8cg,It looks like the Contributor Summit RSVP list is full!See everybody tomorrow,jenkinsci,d7jnm7l,1,t5_2srwp
+10687723,0,t1_ddak6px,Nah the plugin support is still shit. You can do just about anything you want but the syntax is a pain in the ass and the documentation is worse.,jenkinsci,ddicxn5,1,t5_2srwp
+10957983,0,t1_dea8e20,That could be the issue. You could also check the jenkins config and disable the security realm stuff and see if itll let you in at that point. ,jenkinsci,dea8krv,1,t5_2srwp

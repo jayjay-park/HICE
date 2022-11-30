@@ -1,0 +1,8 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+983072,0,t1_chfffoi,I think I got the errors all straightened out. One other issue I had was the settings for nzb.su inside of sabnzb. I needed to almost enter in all new info so nzb.su could control sabnzb. At first I tried full API but in the end it worked only when I used just the NZB API from nzb.su and not the full API even though it states I can use either one.Thanks again for your help.,sickbeard,chg17l5,1,t5_2vpxu
+1026276,0,t3_25u3wr,Try doing a mass update?,sickbeard,chkxzo3,1,t5_2vpxu
+1436982,0,t1_ciwe8zs,Youre correct thats not really the intention of DuckieTV DuckieTV is more for people that dont use a NAS and stream from the device theyre working on I guess ,sickbeard,ciwehly,3,t5_2vpxu
+2629844,0,t1_cn1s38a,Ah that may be a special Sickbeard then for Synology the SickRage search provider looks just like that. ,sickbeard,cn1usna,2,t5_2vpxu
+3366838,0,t3_2ypy2v,All you have to do is copy sickbeard.db to the new computer overwriting the default one.,sickbeard,cpc1mlj,2,t5_2vpxu
+5942935,0,t3_3wpsqz,I had problems with usenetcrawler certificate errors over the weekend. Are you using them as a search provider. ,sickbeard,cxynd31,2,t5_2vpxu
+7076092,0,t1_d1i3spc,Thanks decided to tough it out with launching two instances with different dbs and running on different ports and so far it seems to work fine. We will see after tonights new stuff comes in. I use Plex and I intend on making a separate library just for New HD TV and delete files that are say three weeks old. ,sickbeard,d1ift6h,1,t5_2vpxu

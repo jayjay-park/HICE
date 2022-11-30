@@ -1,0 +1,7 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+468049,0,t1_cfrp1g5,The big boxes are a bit easier to hit on a touch screen machine.. ,reddit_to_go,cftgvxw,1,t5_2v3ay
+667383,0,t3_21s3pf,Although what Deanonator said is true this is actually a bug in my app. In this case theres a collision for the imgur ID JxsYpv  it can be both this image as well as an album. My albumdetecting code was thrown off by the gallery in the imgur URL and falsely extracted the data for the colliding album.I have corrected this code and will submit an update shortly. Thanks for bringing it to my attention!,reddit_to_go,cgg4pqj,3,t5_2v3ay
+732878,0,t1_cgnkmws,Nice.     I think that there are a few reddit apps for WP already but non of them come close to your implementation.. so if you could carry some of that over the smaller screens it would be great! ,reddit_to_go,cgnkyu6,1,t5_2v3ay
+827321,0,t3_21rxrg,This is just me but you should make it so that you can move between posts with the arrow keys for easier viewing if you have a keyboard.,reddit_to_go,cgybgiw,1,t5_2v3ay
+1955085,0,t1_ckoc3qw,Nope that didnt help. Refresh just sends me back to the top with a slightly different set of posts and then once I get through  posts it just stops scrolling altogether.     Also refresh seems to be taking a long time lately...,reddit_to_go,ckoshgj,2,t5_2v3ay
+3669035,0,t1_cqagz06,ok cool,reddit_to_go,cqahthx,1,t5_2v3ay

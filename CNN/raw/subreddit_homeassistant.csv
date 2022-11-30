@@ -1,0 +1,62 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+7402594,0,t1_d2j9sql,Vera Lite on ui,homeassistant,d2jmjxz,1,t5_3bekp
+7610761,0,t3_4jjngn,Can you also use these outlets with Alexa through your HA setup? Sorry if you answered this in the video. I cant watch this till I get off work. I just set up HA yesterday by following your setup tutorial great videos!,homeassistant,d37ayhj,1,t5_3bekp
+7611815,0,t3_4jjngn,Im sorry to criticize but the title is very misleading. This doesnt make it a smart outlet since it basicly just remote controlling the outlet over rf.Same thing as a Tellstick and Rftrx are doing with further limitations.,homeassistant,d37f9cp,0,t5_3bekp
+7614128,0,t1_d37eokg,Awesome! Thanks. ,homeassistant,d37oqan,1,t5_3bekp
+7872725,0,t3_4mwhxi,Well since I got no response on this I thought I would look at alternative ways of dealing with my Zigbee lights.  Turns out my old Wemo link now supports other bulbs and its supported by Home Assistant.  My old setup on Openhab didnt handle the link so I removed it from my set up.  Adding the bulbs to the Wemo link network was the answer.  Im impressed how fast the lights switch using this method.  I will continue to play with the Zigbee for direct control but this gets me to a functioning setup at least.,homeassistant,d40yt5w,3,t5_3bekp
+7954432,0,t1_d4a3w63,I sort of gave up I figured with the limited free time I have I would work in other more supported areas of my home automation projects.  There seems to be enough interest in zwave door locks that eventually someone will get it working.  If not I will eventually just break down and buy a smart things hub and give this a shot.,homeassistant,d4a5igk,2,t5_3bekp
+7990624,0,t1_d4dpysd,I sure did. Per home assistant instructions I entered my Maker key. ,homeassistant,d4e80i0,1,t5_3bekp
+8094950,0,t1_d2k4wfv,How did you get it to work? Im still having trouble!,homeassistant,d4py1im,1,t5_3bekp
+8482553,0,t1_d61q4lu,Nope. Its back now again. It was down for  mins or so. Weird but anything. I use a dyndns service. ,homeassistant,d61v3vc,1,t5_3bekp
+8650145,0,t3_4yckyr,Speed and responsiveness. Will be the only difference  Wireless and BT is nice if you need them but nothing you cant do with three rpi and a cheap usb adapter.,homeassistant,d6mvq0w,2,t5_3bekp
+8739711,0,t1_d6xyurn,Thanks seemed to have solved it using automations.  It may be clunky but I have one automation for each on entertainment device which turns off both lights then another automation for each off entertainment device which only turns  set of lights on.,homeassistant,d6y44n5,1,t5_3bekp
+8874376,0,t1_d5rvjmv,Can you explain how you find out the names of the topics or device names?,homeassistant,d7ekpel,1,t5_3bekp
+8947417,0,t3_52slb4,All I want is a fully functional dark theme.  If this is for Android only I personally am not interested. ,homeassistant,d7ncilo,1,t5_3bekp
+9002340,0,t1_d7txtcl,Its now missing from the states page. It automatically changed to bedroom.sensortemperature. All three of my motion sensors have done this once Wink started reporting temperature from the sensors. ,homeassistant,d7txwro,1,t5_3bekp
+9012108,0,t1_d7v2rvn,Crap it should have been        switch      platform tplink      host ...      name Toris Switch    switch       platform tplink      host ...      name Chads SwitchI forgot the space after switch in switch ,homeassistant,d7v45bv,2,t5_3bekp
+9151142,0,t3_55mexa,Are you sure you changed http to Your browser may still have http in history so when typing  it shows it already and you are trying that address while you should change http to ,homeassistant,d8bz280,1,t5_3bekp
+9159486,0,t3_55mexa,Thanks all this has been solved. Was an issue with my configuration file. ,homeassistant,d8d169n,1,t5_3bekp
+9317163,0,t3_581rxy,How do you have it set up in your router? Are you able to point multiple domains or subdomains at your pi?,homeassistant,d8x0omn,2,t5_3bekp
+9499377,0,t3_50cz9z,And bumping again as I just saw these bulbs at Home Depot myself and at a reasonable price. Any luck with RGB? Im assuming its working just as a standard white bulb with HA though correct?,homeassistant,d9k00zv,1,t5_3bekp
+9518489,0,t1_d9mc4sc,gt Wheres your suggested solution? Posted hours ago.gt Im the only person who has offered anything.Might want to refresh the thread.,homeassistant,d9mcucu,2,t5_3bekp
+9575638,0,t1_d9t6paf,Does that work in Canada though?,homeassistant,d9te5nj,2,t5_3bekp
+9860887,0,t3_5gj71w,I dont know what this two button latching switch that you speak of is. As a fan of vintage electronics care to provide a photo or video of this project?,homeassistant,daswagj,1,t5_3bekp
+9902948,0,t3_5h8b43,deleted,homeassistant,daydl6x,1,t5_3bekp
+9957543,0,t1_db5aik3,Yes you may be right. It looks like you need the Harmony Elite to assign buttons. Have a look at the first customize topic on this page I dont have this option in My Harmony ,homeassistant,db5hrlh,1,t5_3bekp
+10059852,0,t1_dbiqchb,I was the one who posted that one to the forum and github. Thanks for posting it here though!,homeassistant,dbitn2y,2,t5_3bekp
+10265186,0,t1_dc7krsi,There might be something similar for Google Home or Okay Google.,homeassistant,dc7m540,1,t5_3bekp
+10319565,0,t1_dcdpv6u,Thank you  I have only been looking in the home assistant log file I didnt realize that there were more detailed logs in varlogdaemon.log!,homeassistant,dcds2av,1,t5_3bekp
+10328301,0,t1_dceayoa,Nest is pretty slow at presence sensing unless you happen to have it located where youll definitely walk by it. Mine is pretty damn awful about automatically detecting homeaway based on wifi alone. ,homeassistant,dcerr7z,1,t5_3bekp
+10328596,0,t3_5nwd14,Known issue that has been said will be fixed next release.  It was on the HASS forum ,homeassistant,dcesymh,2,t5_3bekp
+10352839,0,t1_dchi6zu,Thats not what I wanted to see. How is automation.yaml included in configuration.yaml?,homeassistant,dchjzgs,1,t5_3bekp
+10370244,0,t1_dcjgwkv,Cheers. Im an eeijit! Thanks for the tips about groups also.,homeassistant,dcjj25d,2,t5_3bekp
+10391120,0,t1_dcl0ps0,Put this in the bathroom its awesome! Taking a shower? Lights stay on because humidity goes up. Get out of the shower? Lights turn off when humidity drops back to normal. All other cases two minute timer from last motion. Its really perfect.,homeassistant,dclwdmh,1,t5_3bekp
+10402141,0,t1_dcn5ank,Awesome! Happy to help! Ill make a PR to update the docs on the site,homeassistant,dcn5e4g,1,t5_3bekp
+10405364,0,t1_dcni5u3,What happens if you go to your HA instance in a web browser like  ?,homeassistant,dcnik6i,1,t5_3bekp
+10456381,0,t3_5prk7j,Fyi smartthings is cloudbased,homeassistant,dctc35f,0,t5_3bekp
+10505751,0,t1_dcxrn4h,Yeah I missed it at first too then one day I went through opening up every component out of boredom hoping to finds something Id not heard of and ran across this!,homeassistant,dcyxske,1,t5_3bekp
+10549868,0,t1_dd3rgya,Out of curiosity what sort of issues? Ive seen a handful of people on the HA boards using the SmartThings hub as an alternative to the zwave stick. ,homeassistant,dd3y268,1,t5_3bekp
+10561680,0,t1_dd59ch7,Ive been using Linux daily since the late s and even for me it wasnt what I would call simple or straightforward to install amp configure.Its a great project but it needs to mature in its method of install documentation amp code releases.,homeassistant,dd5aany,2,t5_3bekp
+10564201,0,t1_dd5fhnj,Are switch.floorlamp and switch.smalllamp the correct entity IDs?,homeassistant,dd5kl9h,1,t5_3bekp
+10572118,0,t1_dd5ydse,deleted,homeassistant,dd6fj7h,2,t5_3bekp
+10740284,0,t1_ddnn98y,AIO.  Seems OK now so long as I dont activate the mqtt auto discovery.,homeassistant,ddns2au,1,t5_3bekp
+10786295,0,t1_dds6yes,Yes I use maker for integration between IFTTT and HA. I havent had any latency issues that may be due to me not using SSL idk if  slows thinks up. For example when I say to google home hey google turn off tv and it responds turning entertainment system off everything is off by the time google is done talking or nearly immediately after. ,homeassistant,ddsj0ur,2,t5_3bekp
+10876651,0,t3_5vcg64,Is there a way to do the same but with an Echo or a Dot?,homeassistant,de1uktv,1,t5_3bekp
+10889930,0,t1_ddzw9wp,I dont believe the RM Pro can listen for signals which means doorwindowmotion sensors arent going to work with it. Id love to be proved wrong on this though.,homeassistant,de37w0z,2,t5_3bekp
+11005737,0,t1_defdirs,Thanks might look into this. I started working on notifying me on state changes but dont really wanna get that many lol.,homeassistant,defgwgu,1,t5_3bekp
+11062635,0,t3_5xyjoc,I dont think I follow your question. Automations only occur when the transition happens so by definition itll tell you within  minutes. What are you trying to excludestop happening?,homeassistant,delxjpa,2,t5_3bekp
+11138809,0,t1_detbmlm,These look interesting and they are cheap! Can you tell me what the length if the power cable is? Also any chance you could post a sample video?,homeassistant,deukmr7,1,t5_3bekp
+11145197,0,t1_deuyg05,I will look into this.Thanks,homeassistant,devaod2,1,t5_3bekp
+11231209,0,t1_df4mox9,This is incredibly interesting why its not working. Does it work when you manually change the state of the lock?,homeassistant,df51jhv,1,t5_3bekp
+11341801,0,t3_61akow,Ive been looking into this imo all the options are a bit crap. Ive been slowly working on making my own.,homeassistant,dfhknj7,1,t5_3bekp
+11386558,0,t1_dfmn5mn,What are you doing with the laptop that you couldnt do on a pi?,homeassistant,dfmnax6,0,t5_3bekp
+11432820,0,t1_dfrui49,Look up Nmap tracker for Home Assistant.,homeassistant,dfrwcs9,6,t5_3bekp
+11509940,0,t1_dg02dly,deleted,homeassistant,dg0nizg,1,t5_3bekp
+11532433,0,t1_dg2z0y7,I want good local control though. There is a function to subscribe to it over UPNP but I dont know the details.,homeassistant,dg37c0a,1,t5_3bekp
+11590216,0,t1_dg67wo7,Use an altoids tin or whatever. If you have electronics stuff laying around  buy this shit in bulk on Ebay or Ali you can make like a half dozen of these for what one commercial one costs. And most people dont need all of these sensors in all of them or at least i dont. The big thing this adds is PIR that actually works which I previously spent  on for a single ZWave one. Or I can buy a dozen of the sensor he mentions for a couple of bucks...,homeassistant,dg9rbvw,1,t5_3bekp
+11592817,0,t1_dg9up06,All the ESP boards that have at least MB of flash can do all the fun things ESPeasy will let you come up with.  I recommend the Wemos D Mini as i love the tiny form factor and that it has all the picky stuff taken care of to get an ESP to boot  vreg.  NodeMCU boards give you more GPIO but I havent needed more than  at a time making the ESP modules useless for my needs.,homeassistant,dga1yf1,2,t5_3bekp
+11626973,0,t3_65wyow,Can you see the battery history for the lock?,homeassistant,dgdxh83,1,t5_3bekp
+11634094,0,t3_660c5g,An MQTT sensor would do the job just fine. Assuming your Wemos is sending the number  based off the button that was pushed through an MQTT topic.Code in HASS would look something like     sensor       platform         mqtt name button         statetopic wemosbuttonYou would then create automations based on the state changes on the sensor.  One per button.    alias Wemos state changed to        trigger         platform state        entityid sensor.button        to       action        service ltput the service you want to trigger when this button was pressed!gtThat help?,homeassistant,dgeqjr6,2,t5_3bekp
+11684386,0,t3_66pi6v,It should work with multiple accounts my dad and I can both control the lights from our Pixels. Your setup looks just fine as well. Were both phones on wifi when trying to link? Because you need it to be local,homeassistant,dgkfxr1,1,t5_3bekp
+11788410,0,t3_686xso,Nice I was thinking about just this sort of thing for my washerdryer. This is a great resource ,homeassistant,dgw97sa,1,t5_3bekp
+11800843,0,t1_dgxcal7,Did it help?,homeassistant,dgxo03a,1,t5_3bekp

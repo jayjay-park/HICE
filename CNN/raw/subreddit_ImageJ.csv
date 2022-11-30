@@ -1,0 +1,5 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+5575898,0,t3_3mb9u0,Have you had any success? I would suggest perhaps using  colour channels to allow an overlay in the stack. It could be done in a rather simple fashion.,ImageJ,cwo8pxy,1,t5_2vrq1
+8047983,0,t3_4pcxvd,So you want to label each frame of the AVI file using ImageJ?,ImageJ,d4ko37r,1,t5_2vrq1
+9119644,0,t1_d87jr2o,Yes the shape of the box is determined by makeRectanglexywidthheight. The x amp y are the coordinates of the top left corner. Then its just the width xaxis and height yaxis. ,ImageJ,d88175m,1,t5_2vrq1
+9865277,0,t3_5gm5h6,So my first thought here is to use the method that I suggested in this thread Since your image sequence is high speed from one frame to the next the bubbles will move very little. Consequently you can use the centre of a bubbles position and calculate bubbles in the next frame to see if they overlap with the previous position if they do then the positions can be reassigned. Do you have any experience programming or writing macros in ImageJ  FIJI?,ImageJ,datgv8l,1,t5_2vrq1

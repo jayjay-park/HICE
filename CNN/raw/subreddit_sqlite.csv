@@ -1,0 +1,4 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+3288944,0,t3_2xbpox,It would help you if you were able to list the specific code you are using.,sqlite,cp35zgh,1,t5_2ud23
+8566598,0,t3_4uildg,are you sure your using the same version of sqlite on both? I had issues long ago when trying to open sqlite files with  sqlite,sqlite,d6cekcs,1,t5_2ud23
+9900018,0,t3_5h722w,I figured it out Do NOT use the System.Data.CommandBehavior.SequentialAccess flag.,sqlite,daxzudq,1,t5_2ud23

@@ -1,0 +1,16 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+3916731,0,t1_cr2qjj7,deleted,ublock,cr2qrkl,1,t5_36hro
+4900854,0,t1_cuc795a,Ok il try that later.,ublock,cucahok,1,t5_36hro
+5344935,0,t3_3o89jw,Yeah I dont understand people supporting this abandoned fork. For  months chris has created site for donation has done few cosmetic changes has committed some fixes few of them  like typos in readme.md and gone he hasnt visited github for more than a month. Now he does interface addon has been provided by Apple and devs only have access to its API for iOSs adblocker called Purify which costs  and it is the most expensive one  So its clearly that chris is not faithful to the idea of advt free and private web and just tries to earn money which is normal when you are not steal product you sell.,ublock,cvuvivj,7,t5_36hro
+5586402,0,t1_cwpfkom,Ah. I see thank you!,ublock,cwpjn2a,1,t5_36hro
+6027841,0,t3_3xwel8,Bypassing how? What exactly is happening?,ublock,cy9rr2b,2,t5_36hro
+6220780,0,t1_cywl0b9,It might go away if you allow Google Analytics globally on uBlock OR Ghostery and then restart your browser. Not sure if this will disable the special script for it but give it a try...or you could just leave it alone. The error is just a notification that uBlock could not redirect the Google Analytics connection request because Ghostery redirected it already. Completely harmless.,ublock,cywqhh7,1,t5_36hro
+6636804,0,t1_d03dja1,I did make sure I had every addressip in my hosts file that I knew about.gt What Im really wondering about is why you went through all that trouble but never tried a different browser.Because I dont want to use Firefox or Edge?,ublock,d05sw3x,1,t5_36hro
+7015982,0,t3_4bqojg,emm i guess the easy way is to block all the content from the  adress?,ublock,d1blyip,1,t5_36hro
+7373381,0,t1_d2gae21,I forgot its better to add  after domain name  it may not work in AdBlock otherwise Im not sure. Plus you can combine filters like  ||zoho.comdomainmail.google.com|googleusercontent.com  ||zohostatic.comdomainmail.google.com|googleusercontent.com,ublock,d2gaw4a,1,t5_36hro
+7689475,0,t1_d3g8kgt,I checked its definitely chrome only. Happens on mobile too.,ublock,d3g8st5,1,t5_36hro
+8837657,0,t3_516enb,Purge all caches  Update now in the uBlock settings.   What custom filters do you use?,ublock,d7a5trg,1,t5_36hro
+9629537,0,t3_5csmjj,deleted,ublock,da01e34,3,t5_36hro
+9905017,0,t3_5h9vf8,Ditto just got an unskippable ad on a video for the first time in years. Anyone know what the deal is?,ublock,daynavl,1,t5_36hro
+10096924,0,t1_dbnn0m3,My text post only saved the title for some reason. I meant to ask if there was any way to block only the  second ads so I can still support the content creators. I just cant stand waiting  seconds.,ublock,dbnn6q2,1,t5_36hro
+10516380,0,t3_5qhrvi,Maybe what blog is it?,ublock,dd057u7,1,t5_36hro

@@ -1,0 +1,23 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+8043232,0,t1_d4k4fj9,Yeah the range mod is what scares me! It would be nice to add the hubsan module for my X,TinyWhoop,d4k4vmg,1,t5_3enmu
+8801322,0,t3_4uac2b,I bought  of these and they ran great for  weeks. Now  are dead and the other  barely have enough juice for a minute flight and the whoop acts erratically with them. It might be due to using the stock inductrix usb charger?  I just bought the  pack with parralel charger so hopefully that extends the life? I have  and  cell batterys that work fine after years. Are  cells just not very durable? Cant keep dropping cash on batteries every month.,TinyWhoop,d75ss8u,1,t5_3enmu
+9444873,0,t1_d9cp4h5,Heres some pics. I took off camera and its still very weak then I replaced the battery lead with the one I cut from the camera but didnt change performance. Before that I even tried the thicker gauge lead you get from TW but it had a short and melted at the connector... Fortunately beebrain seems fine. ,TinyWhoop,d9d7dld,1,t5_3enmu
+9562047,0,t3_5bqq9y,I have the same issue.. I wish I could offer a solution but unfortunately I havent found one.,TinyWhoop,d9rpvbu,1,t5_3enmu
+9606046,0,t1_d9w6kug,This is how we do it ,TinyWhoop,d9x5434,2,t5_3enmu
+9824961,0,t3_5fz1cd,You might want to look into getting a different FC for the inductrix. You could get one that supports the Flysky protocol like the beecore which will work with the x. The beecore runs betaflight so you can also fly in acro or airmode and it is only a little more expensive than the orangerx module.,TinyWhoop,dao7oin,1,t5_3enmu
+10255321,0,t1_dc6hofv,Thanks!,TinyWhoop,dc6hw58,1,t5_3enmu
+10280676,0,t1_dc9cnv5,Alright i disconnected the camera and nothing has changed... im thinking i maybed the motors got damaged because i installed new props as well that were much tighter and i had to use pliers just to get them back off again. Would pulling on the shaft of the motors too much cause them any damage?,TinyWhoop,dc9dd59,1,t5_3enmu
+10369543,0,t1_dcjfqfo,Regular.But upon some testing the new charger gives connection break on every mode.Same with my fatshark dominator battery. Hmm faulty?,TinyWhoop,dcjg758,1,t5_3enmu
+10540773,0,t3_5qx9st,What kind of flight controller are you using?  It might help assess what your limitations are.  Usually with most tiny whoops that can go Acro it would have an FC like the Beebrain or the Acrowhoop and thus youd have to set up all your switches from within a USB port. ,TinyWhoop,dd2www9,1,t5_3enmu
+10592324,0,t1_dd8hidi,I just got my second Tiny Whoop in the air Stock frame Acrowhoop V FC kv motors triprops AIO VMt cam with same  batteries. Getting about  minutes still.,TinyWhoop,dd8ilnl,1,t5_3enmu
+10665359,0,t3_5sj85x,Thoughts on that bottom support? Worth it?,TinyWhoop,ddg1u1b,1,t5_3enmu
+10781802,0,t1_ddri0cm,Wow! Thats a great bit of info! Thank you!,TinyWhoop,dds2bw5,1,t5_3enmu
+10802450,0,t1_ddsxw02,Excellent! Maybe Ill grab a set or two.  The more I fly the blademod the more it feels slushy in response.,TinyWhoop,ddu72wc,1,t5_3enmu
+10870160,0,t1_de16bvj,Clockwise Counterclockwise as viewed from above. Heres an example of the normal Quad X motor mix.,TinyWhoop,de16h3h,3,t5_3enmu
+10927762,0,t1_de6mefj, Those D ratings are higher than any ive seen but yours seem to have great aero. Did you notice any changes upgrading to ..? ,TinyWhoop,de74ej3,1,t5_3enmu
+10953729,0,t1_de9fyvo,Bought  batteries plus the two that came with the Whoop Im ready!,TinyWhoop,de9ss86,2,t5_3enmu
+11108278,0,t3_5ym029,deleted,TinyWhoop,der43lz,1,t5_3enmu
+11151112,0,t3_5z7wwq,Videos coming soon. Cant wait to open up these kv motors. ,TinyWhoop,devysxl,1,t5_3enmu
+11258763,0,t1_df7v01f,Hey Tony.Great idea I may try that next time.  I just did a half bend and put a bit of hot glue at the base where the solder joint is.  Hopefully it helps if not I may try this method a future replacement lol.,TinyWhoop,df85wu6,2,t5_3enmu
+11291191,0,t1_dfb3vck,The batteries arent that hard to solder compared to a lot of thing we have to do in this hobby but if you need batteries anyway you could get some that already come with the connector like these They even come with the female connector on a pigtail so its easier to solder than the pins like I did in the video.  Mine just arrived in the mail today so Im really curious to see how they compare with the ones I just made.,TinyWhoop,dfbu99m,2,t5_3enmu
+11376405,0,t3_60zirf,Thank you for the detailed explanation! Will probably print something similar in TPU for mine this is really helpful. Might look into depron in the future seems to be a great material. ,TinyWhoop,dflhv3l,1,t5_3enmu

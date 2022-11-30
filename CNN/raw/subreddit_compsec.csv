@@ -1,0 +1,8 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+479707,0,t1_cfmn1l7,Agreed.,compsec,cfusnp2,1,t5_2rsaz
+5190696,0,t3_3m0thr,You need to fully understand how networking and operating systems work before you even get to this level.Security isnt entry level.,compsec,cvbo5qt,2,t5_2rsaz
+5982688,0,t3_3x9p1q,If after the initial grubchained boot process it asked for your pin my thought would be that the other reboots werent full system reboots but windows was staying loaded enough to keep your drive accessible because duh updates. If not that would still be my thought it kept the decrypt stuff handy so as to not interrupt the update process but doing that on the initial reboot is unacceptable IMO since it did a full boot and would have had to store the key.  Also yeah probably not the right sub but an interesting find.,compsec,cy3v18g,1,t5_2rsaz
+6422668,0,t3_43mrxj,Not sure what we have to look here.Only this alert window?Or it also opened cmd shown on taskbar?,compsec,czjn29w,-1,t5_2rsaz
+7214729,0,t3_4e8gtm,Well first SPAM isnt an attack.  Its just unwanted email.  What youre referencing is phish.You can look at something like automated like proofpoint or ironport but those are limited by what is known.  You need to go with defense indepth and Dont overlook user education as well.  Good luck.  Phishing plays on the biggest vulnerability in your network your users.,compsec,d1y9bkz,1,t5_2rsaz
+10556227,0,t1_dd4mtt3,Thats a good question. The browser says it trusts the root though I havent checked the signature. I will do that next time. ,compsec,dd4o1g5,1,t5_2rsaz
+11105960,0,t3_5yktmx,Ethical Hacking and Penetration testing TutorialsGood YouTube Channel  I like It ...,compsec,dequnaj,1,t5_2rsaz

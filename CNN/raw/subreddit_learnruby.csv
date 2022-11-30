@@ -1,0 +1,5 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+634403,0,t1_cgcddlf,You are correct. The shovel operator modifies the original string without making a new copy of it thus saving processing time and memory. More info here,learnruby,cgcdrm8,3,t5_2sdpo
+792202,0,t1_cghzu5b,this is lovely. It breaks out a number of things and progresses nicely. Thank you!,learnruby,cgubse5,1,t5_2sdpo
+1793885,0,t3_2f200v,For Rails read Ruby on Rails Tutorial For Ruby heres a shameless plug for my book Just Enough Ruby to Get By As the name suggest I think my book is great for who dont want to exhaust the effort to learn Ruby thoroughly from the start.,learnruby,ck59ot3,1,t5_2sdpo
+5164796,0,t1_cv44ac7,awesome!,learnruby,cv8js6j,1,t5_2sdpo

@@ -1,0 +1,2 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+1349192,0,t1_cilep6z,It is not necessarily syncing issues as much as a stuck blockchain. Your wallet assumes it is behind since the last block was  hour ago when in reality it is up to date with the last block. Ill try to look into your problem and see if we can solve it.,nautiluscoin,cilevkv,1,t5_31lrv

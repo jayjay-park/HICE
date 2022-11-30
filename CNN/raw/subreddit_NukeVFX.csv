@@ -1,0 +1,6 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+6881393,0,t1_d0vqv3p,You should be able to to Select gt Convert Selection gt To Faces in Maya with your fluid container selected,NukeVFX,d0wbkr9,2,t5_2ycs2
+8027829,0,t3_4p6hi3,Ok it seems that a remove node and then keeping the RGBA fixed the thing for me... but still its an interesting bug. ,NukeVFX,d4ieixp,1,t5_2ycs2
+8240660,0,t1_d3kk0zd,I am waiting.,NukeVFX,d57n002,1,t5_2ycs2
+10551158,0,t3_5r304k,Its impossible to know what youre doingtrying to do without before and after images. Also if you have a plan of where youre headed that can be helpful for providing feedback also. Post a before image so we can help.,NukeVFX,dd43bzt,2,t5_2ycs2
+11241600,0,t3_60dwps,If you want to automate nuke you have to set an external environment using a shell or program launcher. This will allow you to adjust the environment variables for launching programs. Then within nuke you would need to write a series of scripts and tools that internally use that environment to set up your show ep shot values. What you are effectively asking for is if there is a turn key pipeline for nuke. ,NukeVFX,df67w2i,1,t5_2ycs2

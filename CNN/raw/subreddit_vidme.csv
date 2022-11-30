@@ -1,0 +1,30 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+2681871,0,t3_2cpzgq,So I saw a video posted using vid.me and what immediately caught my eye about it is that I could open the video without leaving the page with RES just like I can with images.But when I have uploaded videos I have to link directly to the video in order for this feature to work. Also I cant get the thumbnail to work.Here is my post as you can see there is no thumbnail Here is another post of a video someone else uploaded and as you can the thumbnail works and it doesnt have to be linked directly to the video for it to work with RES.Is this because the second video is shorter? Thanks and I hope this was clear enough.,vidme,cn8n31y,1,t5_322sg
+2825929,0,t3_2sdnqq,You can register your application hereYou can view apps that youve authorized hereThe authorization URL is as follows. The redirect URI must be the one registered with your app. Scope is optional but you wont have access to much without it. Response type is optional and defaults to code. The scopes required to access particular methods are in our API docsToken response type will cause an access token to be returned in the URL hash and is suitable for javascriptonly apps. Code should be used by server apps and can be exchanged for an access token with the oauthtoken methodYou can use the authcreate method but that gives full access to the account so wed prefer you used OAuth. OAuth allows the user to see exactly what your app can do with their account.The videoupload scope grants access to video uploads. The videos scope allows full access to createeditdelete videos.,vidme,cnpax27,3,t5_322sg
+2928741,0,t3_2toi7e,What browser app are you using? What exactly happens when you try to play the video? Would you mind posting a screenshot?,vidme,co10bnx,1,t5_322sg
+4447693,0,t3_3buwtr,Yeah were definitely thinking about building something like that. Anyone else interested in seeing usercreated networks?,vidme,csrbfyi,3,t5_322sg
+4518983,0,t3_3cwdll,Looks like theyre trying to reduce or get rid of porn on their site.Seems a little silly considering thats the only reason many people have used vid.me for.,vidme,ct09eh7,15,t5_322sg
+4545750,0,t3_3d6mgn,Worst shill post Ive ever seen in my life.,vidme,ct3m97m,8,t5_322sg
+9108205,0,t3_55122j,Which is why they need to use IPFS,vidme,d86nr7h,1,t5_322sg
+9267534,0,t3_57a4sy,I uploaded  videos in a  hour time period just yesterday and didnt have any issues.  www.vid.meOnlyLevelOne ,vidme,d8qq54f,3,t5_322sg
+9562978,0,t1_d9r7ki2,definitely i agree. Its hard to get lost in the shuffle at times. So any help for newer creators would be amazing.,vidme,d9rtztu,1,t5_322sg
+9678788,0,t1_d9z7396,Good suggestion. Definitely on our todo list!,vidme,da644m8,1,t5_322sg
+10090115,0,t1_dblz2n3,What about a lyrics video? Also what about the people that upload songs made by their favorite bands on YouTube I bet they never asked for permission. ,vidme,dbmrboc,1,t5_322sg
+10168759,0,t1_dbvs6p2,,vidme,dbwonsc,1,t5_322sg
+10188566,0,t3_5lw09a,The site is still new and do you automatically follow someone the moment you see their channel? My advice is dont watch the follows too hard and just enjoy being a content creator anything worth it takes time. I usually dont followsub until I feel like I know the creator well enough and some people could be lurking until they see a good time to follow,vidme,dbyxi8q,1,t5_322sg
+10211670,0,t3_5ly93i,There should be a Travel category also that tends to be popular.,vidme,dc1jtqh,1,t5_322sg
+10296327,0,t3_5nevo8,Glad to have you here! ,vidme,dcb57pk,2,t5_322sg
+10404930,0,t3_5oumhs,AdSense doesnt generate a lot of ,vidme,dcngsb0,1,t5_322sg
+10505934,0,t1_dcyy7e4,Alright! I hope they would really implement this. D,vidme,dcyyjek,1,t5_322sg
+10556659,0,t3_5r5vcy,Yeah its only for verified accounts but just keep it up with the videos and as long as you meet requirements for verification you should be be fine. Until then I suggest you just keep the hashtags in your description on point,vidme,dd4pt2m,2,t5_322sg
+10584781,0,t1_dd7ng8d,deleted,vidme,dd7qlt7,1,t5_322sg
+10654294,0,t3_5s4meu,x this is in the FAQ.,vidme,ddewpsh,1,t5_322sg
+10689503,0,t1_ddi4tod,The Kylie tutorial changed my life ,vidme,ddijkmt,1,t5_322sg
+10756212,0,t1_ddpf0wb,np it goes a bit deeper than that but I feel like my post was already long enough and if these people are the type to call a company pedophile supporters because they have a vetting process for featured content then its probably not wrong to assume that tomorrow Id wake up and see a video on YouTube called MUKDRAGON  THE NEWEST CHILD RAPER MUST WATCH!,vidme,ddpf82j,1,t5_322sg
+10777482,0,t1_ddrlsod,deleted,vidme,ddrmb7j,0,t5_322sg
+11020734,0,t3_5xc5tg,No idea if this has been mentioned before but is custom themes possible?? or atleast a handfull or so themes to select between would love an all dark theme for my channel.nothing major but the Letterboxd pic added to the site would also be nice since i have a link to my letterboxd site with all my other social media links and only letterboxd is missing its own pic.,vidme,deh64fr,1,t5_322sg
+11416887,0,t1_dfpydwv,I liked yours though cause it broke they formula of how the normal ones were though,vidme,dfq3cbg,2,t5_322sg
+11424987,0,t3_632z57,There is already a vid me discord  ,vidme,dfr0eev,5,t5_322sg
+11493194,0,t3_63a434,Hello Im Bob i make videos. ,vidme,dfyr3mi,1,t5_322sg
+11560254,0,t3_64zry1,This is an issue others have reported as well on the subreddit. Here is an official response ,vidme,dg6cxwc,1,t5_322sg
+11711887,0,t1_dgm2ksj,Id rather filter channels than tags personally because Id like to browse a category and be able to remove people that are particularly prolific uploaders to see the smaller creators.  Im sure there are some gems that I just cant find because theyre obscured by a handful of people that have  videos each in recent.,vidme,dgnkll6,2,t5_322sg

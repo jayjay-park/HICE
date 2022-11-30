@@ -1,0 +1,5 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+4968937,0,t3_3ivda4,This is working much better than I had hoped. Basically its running a couchdb server with a port punched through the firewall. On top of not having it stored in Digital Ocean I now know when my internet goes down at home! What Im digging HTTPS At home no cloud needed Ability to connect into local hardware lighting locks etc  one time  Local network access makes accessing  analyzing the data fasterCouple things i need to work on Finding a free Dyn DNS service  or a script to do it automatically Find a good way to backup encrypted to S or NAS Get nodeblink working to bring the Orb back to life.,nomie,cukve3s,1,t5_361uu
+10338806,0,t3_5o1c84,Nice work Brandon ,nomie,dcfynif,2,t5_361uu
+10343538,0,t1_dcgekyr,Which version was the last one you used for the Nomie backup youre trying to import? ,nomie,dcghyn6,1,t5_361uu
+11100282,0,t3_5xlfky,This is a cool idea and gives me ideas of things I could track with the API.  Too bad I cant use the githook on my work laptop Id like a personal coding vs work coding type of thing.,nomie,deq7h17,1,t5_361uu

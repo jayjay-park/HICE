@@ -1,0 +1,7 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+1601036,0,t3_2cfgcd,I tested this moving a circle shape to my mouse position and it seems to be laggy for me as well. I seems like its sometimes cutting a squire out one of the corners of the circle.Im on arch linux  bit.Where are you using the mouse position for?iaic,sfml,cjgz9y1,2,t5_2sy5e
+1967879,0,t1_ckq6s03,It works! Thank you soo much!,sfml,ckqbwtq,1,t5_2sy5e
+9650561,0,t1_da2mgdq,Wow cant believe I missed that..Thank you so much for all the help!,sfml,da2mqvy,2,t5_2sy5e
+9704437,0,t1_da9a1g4,This is just part of the error message. There should be a few lines before that indicate the actual issue.,sfml,da9a37x,1,t5_2sy5e
+10533972,0,t3_5qrvs3,For question  I found that the answer is yes still any insights on best practices would be nice  I suspect gamedev is a better place for that though,sfml,dd254hx,1,t5_2sy5e
+10985760,0,t1_debqfg9,but that accepts a sfVectorf which may be the cause of the black lines. and I also dont know how to resize a picture made of a sfVertexArray Ive done it that way the first time around but i didnt like that too much.,sfml,ded78vk,1,t5_2sy5e

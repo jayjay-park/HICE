@@ -1,0 +1,21 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+858951,0,t1_ch1wy6c,What would you use it for? I checked ebay apparently people still buy these?,leapmotion,ch1x1ne,1,t5_2u4z3
+2478371,0,t3_2nwd5r,I dont get it where is the leap motion? I only see pedals and an xbox? controller.,leapmotion,cmi272o,1,t5_2u4z3
+2690815,0,t1_cn9qvgr,If youre looking for custom configuration GameWAVE might fit the bill  Im still a bit unclear on where youre wanting to view images from. ,leapmotion,cn9t4wl,1,t5_2u4z3
+3783635,0,t1_cqnhrsj,Since you are a hobbyist have you considered moving onto the actual SDK? Creating your own software for it? ,leapmotion,cqnkaad,1,t5_2u4z3
+6683231,0,t3_46xzyq,Nice! Latency is pretty low for a robot arm.,leapmotion,d0alrwd,1,t5_2u4z3
+6736089,0,t3_47ti61,Remember to calibrate your device.,leapmotion,d0g2j6u,1,t5_2u4z3
+6870617,0,t1_d0uuj24,Im going to send in a support request for mine. Recently when Ive had it plugged in it would get really warm and then a smudge warning would pop up on my computer. Same problems as before continue. Hopefully they can just replace it.,leapmotion,d0v3gmd,1,t5_2u4z3
+7033142,0,t3_4bwgtq,any chance we can download a demo and have a go ?,leapmotion,d1dk8do,2,t5_2u4z3
+7085977,0,t3_4cm2ya,Similarly whats the status on Vive support for the Blocks demo? Its such a great example of what Leap is capable of I wish itd be available on Vive.,leapmotion,d1jk9gr,3,t5_2u4z3
+7194151,0,t3_4dyidz,Are there some demo scenes with these widgets? I feel like I havent seen them. Theyre in core?,leapmotion,d1vwzds,1,t5_2u4z3
+7229962,0,t1_d1zz57g,True although Im using desktop mode right now although ultimately I thought it would be cool to switch it to VR and have a VR Piano to play with.  Im thinking this isnt doable with the leap and only grand gestures are going to be possible with this version.  Its really quite weird that finger bend tracking is SO BAD.  I try to pend my index finger and the nd goes with it and if i try bending my pinky it sometimes doesnt work at all.  Seems the leap can only really do pinching well?,leapmotion,d1zzrec,1,t5_2u4z3
+7485701,0,t1_d2sj8zu,Thanks for that Ive been following the github repo so I know about the new hands module Is your roadmap public?,leapmotion,d2t30fc,1,t5_2u4z3
+7536143,0,t3_4iis5c,I accomplish this by checking the PalmNormal vector and comparing its angle with Vector.up. If it falls within some threshold then my palm is facing up. You can also check the GripStrength of the hand to make sure your hand is open wide enough.,leapmotion,d2ytmly,1,t5_2u4z3
+7891951,0,t1_d434hxb,Yeah done that but like ive said   score despite the fact its visibly losing tracking during the calibration itself. E.g. pointing at the top left corner and painting that corner when all of a sudden the circle snaps to a random spot on the other half of the screen.Tried three different screens one matte one semiglossy one glossy plus an iPad Pro. Havent tried a mirror yet dont have a sufficiently large one that isnt fixed to a wall.,leapmotion,d434n8s,1,t5_2u4z3
+7944571,0,t1_d46t1fo,gt The Leap isnt mounted on the headset in the video for obvious reasons i cant really see the visualizer with the HMD on my face and if i leave it on the forehead i need to lower my head down unnaturally to get it to face front.This is curious you should be able to see the VR Visualizer within the headset? We released a new software build last night would like to know if the issue still occurs. If so can we get a video from the headmounted perspective? Its difficult to assess from this angle because handflipping behaviors like this are actually normal when the controller is on the desktop and the software is set to VR mode.,leapmotion,d491lhm,1,t5_2u4z3
+8010980,0,t1_d4gdhkq, perhaps?,leapmotion,d4gibp0,1,t5_2u4z3
+8088382,0,t1_d4ov3lf,I bought it when it was still very new,leapmotion,d4p7i5k,1,t5_2u4z3
+8685526,0,t3_4yuy3d,The error message is wrong because we put it in place way before our Orion beta software existed. You need the new Orion software from here ,leapmotion,d6rbfe9,1,t5_2u4z3
+10837066,0,t3_5trui7,removed,leapmotion,ddxrlxr,1,t5_2u4z3
+11354899,0,t3_61zxf4,The leap has two cameras very large fob and not a great resolution. ,leapmotion,dfj221j,3,t5_2u4z3

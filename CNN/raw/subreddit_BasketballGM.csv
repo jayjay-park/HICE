@@ -1,0 +1,129 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+109381,0,t1_ceqq20a,with this change how will it effect the defensive player of the year award? Will you place more value on players that do still have a high rate of steals and some less value on rebounds so that guards still make the all defensive teams?,BasketballGM,ceqvvuq,1,t5_2x4dq
+167021,0,t3_1vzx0e,Thanks for your feedback! This is already on the list of things I want to fix when I revamp the trade AI hopefully soon.,BasketballGM,cexgghe,1,t5_2x4dq
+354361,0,t1_cfhdwoe,I could and an all star game would definitely be cool. Its been on my todo list for a while I just havent gotten around to it yet.,BasketballGM,cfhhvpp,1,t5_2x4dq
+375613,0,t1_cfjou5s,wow thanks for making some tweaks so fast. cant wait to try it with the new trading AI and the lowered skill advantages. the game was already addicting and engrossing so im kind of scared to see it improving. excellent work and please keep it up.,BasketballGM,cfjp4dz,2,t5_2x4dq
+396330,0,t1_cfltg78,Mood is based on your team success your citys population your facilities spending and a good amount of randomness.,BasketballGM,cflugcg,2,t5_2x4dq
+528108,0,t1_cg094ey,I just decreased the fudge factor I had added by . Please let me know if this is better.,BasketballGM,cg0awcd,2,t5_2x4dq
+855612,0,t1_ch0t98p,Nice to hearIm also working on adding the first round draftees of . ,BasketballGM,ch1je0l,1,t5_2x4dq
+1099941,0,t1_cht50q2,I think this is doable. Ive got it on my list. If there are no other pressing changes coming up Ill look to try to implement it in the next few updates. Thanks for the feedback.,BasketballGM,chtbh56,3,t5_2x4dq
+1129356,0,t1_chwmuun,gt League Award calculations are calculated once and then stored on the players profile right?Yes.gt If so one solution would be to merge all player IDs in the EWA table before sorting. So if a player that was traded midseason appears on two teams his ID remains the same merge the few traders hand out awards and forgot about it until next season?Yes basically. I would implement it as an option in player.filter so it could be used elsewhere since there are a few other areas that would similarly benefit.,BasketballGM,chwnue7,1,t5_2x4dq
+1256531,0,t3_28firc,deleted,BasketballGM,ciaz3kt,1,t5_2x4dq
+1340528,0,t1_cikcehu,I agree. You should add that feature! Or maybe some day I will reproduce the entire game...,BasketballGM,cikfb1g,3,t5_2x4dq
+1434425,0,t3_2aijfj,Weird its not showing up for me.,BasketballGM,ciw2yja,5,t5_2x4dq
+1434520,0,t1_civz0n6,Im wondering if right when the user starts the league the draft classes are preloaded with  years instead of ? If you can extend that area then Im wondering if you can stretch it all the way to  years. Im not familiar with the code so I dont know how much change would it take on the underlying design is but the only problem I can foresee is that it would tax the users computer resources. Really all I want to do is have a chance to draft Bob Cousey Wilt Chamberlain Michael Jordan Tim Duncan and Lebron James in their draft years. Dgt I just got one article in a basketball blog Thats not any basketball blog. Thats an SIaffliated basketball blog so its pretty popular. I think your site is on the verge of exploding in popularity in these coming months so I hope your servers are ready to handle all that bandwidth. All you need is a mention on ESPN and youre set!One little note. Your subreddit sidebar misspelled Hardwood Paroxysm as Hardwoord Paroxysm. Cheers!,BasketballGM,ciw3dy2,1,t5_2x4dq
+1469407,0,t1_cj03ei5,They never won one in mine. Washington beat them out and then Chicago went beast with Jabari while I poached a couple with GSW after snatching Embiid.,BasketballGM,cj0gruc,2,t5_2x4dq
+1492163,0,t3_2b8g1d,If a slot is still available Oklahoma City Thunder for me. ,BasketballGM,cj3bfny,1,t5_2x4dq
+1501051,0,t1_cj3yf7t,Nope all standard events. This league has some crazy storylines in it this story just wrote itself. I think no graphics and everything empowers your imagination.,BasketballGM,cj4fiee,7,t5_2x4dq
+1522331,0,t3_2bnh5p,Because theyre  and  and improvements are fairly rare after that point. Id just be happy that Exum ended up being a . ,BasketballGM,cj73nup,3,t5_2x4dq
+1565668,0,t3_2c4oe6,gtIf you start a season with a team with over  players you have the traditional error message at the bottom left of your screen while remaining at the league creation page.In my opinion this could be kind of misleading especially for new users Id suggest to send the user to the roster pageYoure right. That is a vestige from when it used to be literally impossible to go over the roster limit at any point in the regular season. Now it just shows that error when you try to play a game since trades can bring you over the roster limit at any time. So there is no need to show the same error when transitioning to the regular season which is what happens when you start a new league itll just show up when you try to play. Therefore I deleted that error message and now it works mostly like you suggested.,BasketballGM,cjcj2ru,2,t5_2x4dq
+1579335,0,t3_2ccw37,Loyalty stat and greed stat to help gauge whether a player is worth trying to keep late in their careers.,BasketballGM,cje8xzv,10,t5_2x4dq
+1708572,0,t3_2dyblo,Who cares you put your time into the game make some profit dude. Really if anyone is upset about it thats some lame shit,BasketballGM,cjuizpv,12,t5_2x4dq
+1749419,0,t1_cjzcfcv,Ill look into that problem ill also consult dumbmatter with this issue. Thanks for the bug report. ,BasketballGM,cjzo931,1,t5_2x4dq
+1887696,0,t1_cke7fey,Thats hilarious,BasketballGM,ckgnqrx,1,t5_2x4dq
+2496409,0,t3_2o6zut,bestofed,BasketballGM,cmkf361,3,t5_2x4dq
+2542093,0,t1_cmq7f90,Somethings of note you should see the point differential on the that team I have run across a few teams that had a really good point differential or defensive rank to the league but their standings didnt show it. Once the playoffs started they would go on to beat better seeded teams that were inferior to them in those aspects.  You only seem to have one defensive back up big. This can hurt if you find yourself with that other big being the lone defensive stopper. It also hurts you offensively if you find yourself with an all guard line up with no Post player.Except for two main rotation players the rest of your main rotation players are old to really old and this can hurt defensively.  The only good defensive players that are old are bigs who rely the least on athleticism but more on height while guards become unreliable.The other possible explanation could be that it was just a bad match up for some of your key players.  I have had the case where my best player gets into foul trouble or that the other team has really good defensive wings and kill my offense since I dont  have strong or fast enough BPassers.,BasketballGM,cmqdzzf,3,t5_2x4dq
+2638367,0,t1_cn2uqn2,If you are gonna tank than your team is probably gonna be bad so some with high endurance stays on the field longer which is important when the players who are gonna replace him are bad. That being said unless its close choose the better player regardless of endurance is my advice,BasketballGM,cn2ytur,1,t5_2x4dq
+2713415,0,t3_2r4erb,Ok,BasketballGM,cnci69s,0,t5_2x4dq
+2889536,0,t3_2t778z,No,BasketballGM,cnwjkvi,1,t5_2x4dq
+3023801,0,t1_cobeig9,LeBron got hurt in the finals.  Kobe took over.,BasketballGM,cobewyy,2,t5_2x4dq
+3090665,0,t3_2vk1mq,Wow what a beast ! When I try to tank and even if I get a top  pick I never get a player like that one ! Thats why I dnnt tank anymore.,BasketballGM,coicgok,1,t5_2x4dq
+3200448,0,t1_cotlg3z,Neeeeeed nhl,BasketballGM,cotq55w,1,t5_2x4dq
+3391410,0,t3_2z0x2t,I didnt even know you could upload logos.,BasketballGM,cpeuioi,3,t5_2x4dq
+3431862,0,t1_cpjg2wi,That error message is irrelevant... however I looked at things a bit closer and I did find that sometimes randomly it would get stuck on preseason. Should be fixed now. Thanks so much for letting me know about this bug!,BasketballGM,cpjgiej,4,t5_2x4dq
+3448502,0,t1_cplcenk,I think the skill points should go like thisif player get X amount of points he gets X amount of skill pointsif player gets X amount of turnovers player get X amount of skill pointsif player gets good milestoneie  assistplayer gets X amount of skill pointsif player get bad milestoneie  turnovers or less then  shooting gets X amount skill points,BasketballGM,cplct5a,2,t5_2x4dq
+3539158,0,t1_cpvhzi7,Im not sure I understand your question p Injury and injury length are  simple parameters you can easily edit in the roster file?,BasketballGM,cpvoq2j,1,t5_2x4dq
+3637000,0,t3_320qm2,You should have played as Philly it would have been so fitting!,BasketballGM,cq6ufym,1,t5_2x4dq
+3759804,0,t3_33h3su,Maybe a combination of overall record and profit. The talent of the team and the amount you spend on coaching health and facilities may have something to do with it as well. But I am hot sure.,BasketballGM,cqkug1q,1,t5_2x4dq
+3784658,0,t1_cqnob3r,sure,BasketballGM,cqnoi4x,1,t5_2x4dq
+3998287,0,t1_crbm7wf,Were waiting for more people to commit and umeatduck to start,BasketballGM,crc1c12,1,t5_2x4dq
+4102283,0,t3_3024sx,the latest fiba world cup,BasketballGM,crnvvyg,1,t5_2x4dq
+4151364,0,t3_388gdu,I agree that we should be able to see who makes the all star game but since we can not play it what is the point of picking team personally I would just pick my whole team so they all become perennial all stars,BasketballGM,crtgwmv,3,t5_2x4dq
+4265949,0,t3_39t0cj,top one upset you didnt it?,BasketballGM,cs6ho8r,2,t5_2x4dq
+4285054,0,t1_cs8n4n8,OOps.,BasketballGM,cs8n9dr,1,t5_2x4dq
+4471832,0,t1_csu9oxa,I may have done the math wrong but a max contract would be like bil. How about  a season? ,BasketballGM,csuciwr,1,t5_2x4dq
+4493665,0,t3_3cmv94,Ikr that is very much needed. I really hope they put that in the game,BasketballGM,csx33ek,2,t5_2x4dq
+4514697,0,t1_csz9c56,care to go in a little more detail? ,BasketballGM,cszq1nm,1,t5_2x4dq
+4536079,0,t1_ct2eji2,Its more like football manager but for Basketball. Youre the GM and make all the roster moves games are all simmed. ,BasketballGM,ct2ekqj,1,t5_2x4dq
+4591855,0,t1_ct9cb9g,put vc with tmac man those cousins if they started together instead of playing backup to each other they would have been great,BasketballGM,ct9ebzd,1,t5_2x4dq
+4598788,0,t1_cta8eso,Nice. I have a few questions about how things work. Karl Towns I saw you already made an offer to keep him. Does that still stand or do I need to make it again? . Free agency Do I have to wait for certain players names to be posted in Free Agency or can I name a guy and make an offer? ,BasketballGM,cta9mjr,1,t5_2x4dq
+4664248,0,t3_3erhoc,I didnt know this game existed. I used to badger sports mogul via email to make a basketball game,BasketballGM,ctihf87,2,t5_2x4dq
+4668753,0,t3_3ew48c,Yeah. D traded all my picks away and turned my mediocre team power ranking pos.  into a champion my first year. Then i just repeated it and flipped my new picks along with some decent players  into some really nice player  and add  key free agent aswell... works nicely so far.,BasketballGM,ctj1sii,2,t5_2x4dq
+4672424,0,t3_3eqglx,As a Blazers fan this makes our offseason a little bit darker...,BasketballGM,ctjidq4,1,t5_2x4dq
+4674774,0,t1_ctjsoyl,I think his PER is too low. His EWA is  higher than other HoFers but PER still lower  ,BasketballGM,ctjt0mz,1,t5_2x4dq
+4679729,0,t1_ctkfdip,no problem im here for this stuff ,BasketballGM,ctkfe91,1,t5_2x4dq
+4690842,0,t3_3f6qrm,trade buy young sell old and all worth while free agents ,BasketballGM,ctltn57,2,t5_2x4dq
+4693037,0,t1_ctm3fq3,I just made it up ,BasketballGM,ctm3kjv,3,t5_2x4dq
+4694472,0,t1_ctm7dxo,Here is a team with all great players but only one shooter.  It goes way better than the original post.  I think it shows that shooting stats might not be as important as you would think.  They even win games when their only shooting player is injured.,BasketballGM,ctma23x,3,t5_2x4dq
+4721042,0,t1_ctpgit8,Can you export it without box scores? I really want to play this but I have slow internet this would take hours to download on my connection.,BasketballGM,ctpmkjz,1,t5_2x4dq
+4763884,0,t1_ctudznu,That is a very good idea,BasketballGM,ctv15sr,1,t5_2x4dq
+4784954,0,t3_3gf9kf,Well,BasketballGM,ctxolzk,1,t5_2x4dq
+5012822,0,t3_3jk7eu,No. I think I can win pretty much constantly on this game but im not so good at statistics like actual difficult mathematics. I also dont give am amazing eye test as I have no experience. Or bother to watch so much. I assume youre the same?,BasketballGM,cuq8gf8,3,t5_2x4dq
+5039662,0,t3_3jyru0,that M payroll whats your spending and your profit?,BasketballGM,cutgxxu,3,t5_2x4dq
+5100819,0,t3_3ku2zc,So in every single season all of your players ovr ratings fall? How many seasons did you play? If its only like  or  it could be just bad luck.,BasketballGM,cv0u7p5,1,t5_2x4dq
+5172106,0,t1_cv8hmpb,Howdy.You can find the random functions in the utils folder hereTLDR random.gauss  returns a random number between  and . Its not perfectly random  it doesnt really have a tail distribution at all.udumbmatter adapted random.gauss from link on the internet that seems to have been used by people all over the freaking place but its close enough Its fast but not perfect. I wrote an updated function a few years ago which is now called random.realgauss here and that one is based on the Marsaglia method.About a month ago dumbmatter reached out to me about putting together a newer better implementation of random.js. If you have any other questions let me know!,BasketballGM,cv9fgd5,2,t5_2x4dq
+5219883,0,t1_cvenhac,Mob execution over gambling debts,BasketballGM,cvf6ruq,11,t5_2x4dq
+5290103,0,t1_cvnv6zv,Sure welcome to the league!,BasketballGM,cvnvfjj,1,t5_2x4dq
+5537442,0,t1_cwjg8h4,Sure.,BasketballGM,cwjggnv,1,t5_2x4dq
+5559042,0,t3_3r6tdl,Your post was lost in the spam filter. Sorry! Its back now.,BasketballGM,cwm5ex1,1,t5_2x4dq
+5648655,0,t1_cwx97b5,Give me some more detail like any error messages Or just post the contents of the file here probably has a typo.,BasketballGM,cwx9qwr,1,t5_2x4dq
+5694614,0,t1_cx1y02r,You wanna be in to rOCBL we have some open spots and season starts next week!,BasketballGM,cx2yzve,1,t5_2x4dq
+5810460,0,t1_cxh6yez, years with no failing classes is academic honors  years with a few failed classes is honors  years with no fails is also honors  there is also one lower but it is for the retards and jail birds ,BasketballGM,cxhcch3,1,t5_2x4dq
+5950907,0,t1_cxzdjbs,Think he meant playable rosters like NBA Legacy.,BasketballGM,cxzozma,1,t5_2x4dq
+6038673,0,t3_3y6w7k,And the nd and th.Theyre all wrong.,BasketballGM,cyb6kix,1,t5_2x4dq
+6178461,0,t3_403m0h,One consistent change Ive seen by messing with PT is better performance from some older players. The coach my choose to still give them big minutes but reducing it one minus tends to juice up their PER.,BasketballGM,cyrxdhd,1,t5_2x4dq
+6267670,0,t3_41eaod,ers should offer you a job,BasketballGM,cz22bwe,4,t5_2x4dq
+6343483,0,t1_czab4x2,Really? Geez Im out of the loop,BasketballGM,czaomim,1,t5_2x4dq
+6355472,0,t3_42n6sw,Haha I do multiplayer leagues too,BasketballGM,czc1pqd,1,t5_2x4dq
+6380885,0,t3_432hgt,Also forgot to mention I would definitely be willing to help work on rosters with some teams although im not exactly a massive Basketball fan and more of a football fan but i think i could create a realistic team of  players from any NBA franchise quite well,BasketballGM,czexsh3,1,t5_2x4dq
+6497856,0,t3_44n6uv,Id say Earl Pinon was the real sleeper pick.,BasketballGM,czrfdkd,5,t5_2x4dq
+6582762,0,t3_45t822,wizards please,BasketballGM,d007mjr,1,t5_2x4dq
+6947860,0,t1_d13txfr,If we can stay ahead of CFB and collegebasketball we would be doing pretty good. We both have offsetting size disadvantages. Of the  in between those two and us half will probably do better even if we dont do poorly. So that gets to you a benchmark of about  as a reasonable target for doing well.Alternatively we can compare ourselves to the other  teams that have  people. So far we are .,BasketballGM,d13vd61,2,t5_2x4dq
+6961966,0,t1_d15bh22,Up to . ,BasketballGM,d15h3gx,3,t5_2x4dq
+6976877,0,t1_d175mcg,Glad you enjoy the game! More swiping would be smart thanks for the feedback.,BasketballGM,d1760pw,1,t5_2x4dq
+7298508,0,t1_d271kex,I think player development should be changed a bit then because otherwise almost every young player is a defensive specialist and old players are offensive specialists. There should be guys like Igoudala that can still play elite defense at old ages and more athletic players in general.,BasketballGM,d27sh7l,2,t5_2x4dq
+7371924,0,t1_d2g4797,Ive played about  seasons. Only got a  once. Think thats about right or on the low end probability wise?,BasketballGM,d2g4xqp,1,t5_2x4dq
+7423222,0,t3_4gytjn,Awesome thank you,BasketballGM,d2lyzws,1,t5_2x4dq
+7486049,0,t1_d2si196,oh shit it worked ,BasketballGM,d2t4fvt,1,t5_2x4dq
+7565499,0,t1_d322k3z,the other was Wilt Chamberlain for those wondering,BasketballGM,d325soa,7,t5_2x4dq
+7605142,0,t1_d3233k0,And if we had zscores we could put ourselves in the game which could be a cool God Mode feature. Like have a converter for how good you are in real life.,BasketballGM,d36nyf1,2,t5_2x4dq
+7796775,0,t3_4lyxhz, teams left! Draft order will be made right after I get all owners down.,BasketballGM,d3sf0gu,1,t5_2x4dq
+7817039,0,t1_d3u9uzx,what is the main page? I just press Play Now and it takes me somewhere else. ,BasketballGM,d3up78d,1,t5_2x4dq
+8055613,0,t1_d4lfm5n,RIP LeBron still a failure,BasketballGM,d4lizba,1,t5_2x4dq
+8158033,0,t3_4r01yi,Surely the th seed Finals berths should be  not ? Correct me if Im wrong... Because there are two Finals teams each year so conceivably over  years there are  possible chances for an th seed to make the Finals,BasketballGM,d4xaw8w,2,t5_2x4dq
+8180112,0,t1_d4z54x8,I disagree with the person above personally I dont think Karl Anthony Towns has a high enough potential. After watching him this year I think he could clearly become one of the best if not the best players in the league. Personally I think his potential should be in the  range. ,BasketballGM,d502aj8,2,t5_2x4dq
+8354649,0,t3_4tvfwz, Minute Quarters with  OVR players,BasketballGM,d5lvu43,1,t5_2x4dq
+8487620,0,t1_d62hyii,Maybe Team Banana boat will do that in  years.,BasketballGM,d62hzby,5,t5_2x4dq
+8544259,0,t1_d69kklw,I went into god mode and set quarter length to  lol,BasketballGM,d69lpb3,1,t5_2x4dq
+8593124,0,t3_4wtebo,I had Chris Webber and Shaq win championships from  until  Didnt won in   and  thoChris Webber racked more MVP awards that Shaq tho. Webber had  MVP awards like Shaq got only .,BasketballGM,d6fqbwi,1,t5_2x4dq
+8666869,0,t3_4ybxii,The population of the US is  larger than it was in . But there are only  more NBA teams now than in . Plus add in better training more international players etc. We need more NBA teams not less!,BasketballGM,d6oz85p,2,t5_2x4dq
+8802758,0,t1_d75y9ah,thx! Idk how to fix that however.... Sorry,BasketballGM,d75yzzj,1,t5_2x4dq
+8825500,0,t1_d78ovao,Thanks!,BasketballGM,d78pbi9,1,t5_2x4dq
+8844679,0,t3_50wf2b,Hey I already mentioned this on the stream but I think the way that this has been done hasnt shown that centers are more powerful. Its confirmed that tags give a significant boost ingame here The center cheese theory revolves around getting multiple players with Po and R but its notable that the PFs who had Po and R were outperformed by the SFs who had  tags instead of  none of which are Po or R. Each center has  tags. This leads me to believe that based on this data centers are not overly powerful in the game.,BasketballGM,d7b06yg,1,t5_2x4dq
+8994848,0,t3_53g28u,Damn hows the owner going to afford all those subs?,BasketballGM,d7t1hyq,1,t5_2x4dq
+9000346,0,t1_d7tkc44,deleted,BasketballGM,d7tpac5,1,t5_2x4dq
+9142609,0,t3_55br8o,I know its not really an answer but you can do all that in God Mode.,BasketballGM,d8aw3gs,3,t5_2x4dq
+9201614,0,t1_d8ias6w,Importing college draft classes still makes it so draft steals are much more rare than they actually are and  year olds remain very stagnant in development because they are already old. ,BasketballGM,d8idesx,1,t5_2x4dq
+9215062,0,t3_56ii0r,Couldnt this be implemented into the main version instead?,BasketballGM,d8k2sxv,2,t5_2x4dq
+9304110,0,t3_57t6gu,Salaries are also set up according to a M salary cap... Why is it a problem for you?,BasketballGM,d8vd37z,1,t5_2x4dq
+9332097,0,t3_585af3,I would do the cycle where you pick up the good young players for your crop of first round picks and then repeat this cycle when you reload your picks. ,BasketballGM,d8ywtk7,2,t5_2x4dq
+9621137,0,t3_5crh1z,Every team that joins Ill send you a autograph  The Goat,BasketballGM,d9z04er,4,t5_2x4dq
+9670997,0,t1_da51db8,All yours ,BasketballGM,da55iv2,1,t5_2x4dq
+10001344,0,t1_dbb5lr1,here,BasketballGM,dbb7ccc,1,t5_2x4dq
+10121002,0,t1_dblr281,I can just imagine a little jersey picture with its numbers trailing off the screen,BasketballGM,dbqrv9h,1,t5_2x4dq
+10295439,0,t3_5n1fvr,You could try deleting some stuff from it. Easiest way would be Tools gt Delete Old Data if you already have it loaded.,BasketballGM,dcb1lcs,1,t5_2x4dq
+10522690,0,t3_5qnk20,Watching it right now! Good stuff as always,BasketballGM,dd0uzo0,3,t5_2x4dq
+10528992,0,t1_dd1kgus,Playing this game once you know how to make a super team it gets easier and easier to win games by over  pts.I havent played in a couple of years really but Im sure I could replicate it again if required.,BasketballGM,dd1kqql,0,t5_2x4dq
+10886405,0,t3_5v1aq2,How does this work?  Im new here.,BasketballGM,de2uslp,1,t5_2x4dq
+10906634,0,t1_de4xwgp,stop,BasketballGM,de4xx6e,2,t5_2x4dq
+10945526,0,t3_5wcb40,LOL the game has that built in where on random a player will just die and leave the justification in red at the bottom corner of the screen. Adjusting playing time wont affect the chance of death of a player it is just on random.Example I was trying to rebuild the Orlando Magic and this occurred. ,BasketballGM,de8ycdu,13,t5_2x4dq
+11021227,0,t3_5xb9v9,TELL US,BasketballGM,deh84zf,3,t5_2x4dq
+11029626,0,t3_5xhii0,Jaylen Browns potential should be increased with his play recently and his shooting.,BasketballGM,dei6lml,3,t5_2x4dq
+11050076,0,t3_5xnr4o,deleted,BasketballGM,deki9g0,2,t5_2x4dq
+11316426,0,t1_dfekla7,One of the reasons for this is that the team is insanely undersized.,BasketballGM,dfep5qg,4,t5_2x4dq
+11473687,0,t1_dfw5c3g,No. Dwight Howard making the gamewinning free throw. ,BasketballGM,dfwjd3k,2,t5_2x4dq
+11474680,0,t1_dfwd92n,How do you get a playbyplay?,BasketballGM,dfwnf8m,2,t5_2x4dq
+11515472,0,t1_dg19fbu,No its perfect. You sneaky devil you. Adding cool features without tellling anyone,BasketballGM,dg1a3m5,12,t5_2x4dq
+11539438,0,t1_dg3ryvt,it means he is so happy like a lil child when piss in his pants,BasketballGM,dg3zx2l,3,t5_2x4dq
+11604503,0,t1_dgatosh,Same. Cleveland Curses. Winningnest team. Most finals appearances wins and losses. Unlike the real Cleveland Cavs. Rarely get an mvp though because I never tank. I have a spurs like system currently. I used to tank  seasons then wreck faces but thats a cheap tactic.,BasketballGM,dgbdot4,3,t5_2x4dq
+11663771,0,t1_dgi0zzk,Probably not,BasketballGM,dgi3qdc,1,t5_2x4dq

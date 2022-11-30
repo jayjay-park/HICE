@@ -1,0 +1,8 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+549284,0,t3_1ym7dj,If youre into vidya try  ,midi,cg2pkd6,1,t5_2rd7p
+1334359,0,t1_cijpg30,I think Logic is sending on the wrong MIDI channel for the organ.Paste the MIDI into a new project exactly as you were doing highlight the track and look in the inspector to the left under Track GM Device whatever. Make sure the Port is set to the USB gt MIDI cable thing youre using.Now open the Library icon top left of the window looks like a drawer. Click GM Device. Now you should see a list of channels . Play the track and click through them. One of them should make a sound!Let me know how you get on!,midi,cijqckh,2,t5_2rd7p
+2271200,0,t1_clm8xha,If you need a free DAW try Reaper. You might have to look up a quick tutorial on MIDI manipulation if its not intuitive.,midi,clsfuav,1,t5_2rd7p
+2301342,0,t1_clnpkzu,Sorry I should have been more clear Follow the link in my post in that thread. There are free and commercial MIDI sequencers that can do what you want.,midi,clw5uxa,1,t5_2rd7p
+3589964,0,t1_cq1gm29,its not very clear but there is no power jack. I got midi out EXP port computer port and a foot pedal port. Does Midi out power it as well as send the key data?,midi,cq1hf3u,1,t5_2rd7p
+7538196,0,t1_d2yw9z5,deleted,midi,d2z217h,1,t5_2rd7p
+11289982,0,t1_dbax8pu,A bit late to the party but thank you. Do you know if the mt sysex is included in the cm midi files or were no patching done in this game?,midi,dfbpboo,1,t5_2rd7p

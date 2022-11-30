@@ -1,0 +1,4 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+2319011,0,t3_2lubj4,Hard to say. Ive extolled the virtues of this board throughout the RPi subreddit but more power more ram faster ethernet and SATA just doesnt seem to grab anyones attention. ,banana_pi,clyce58,1,t5_31gbh
+2915050,0,t1_cnzekrl,It boots!  Thank you thedoginthewok.  Now I know my hardware is good at least and where not to get my images from.  Thanks again.,banana_pi,cnzg61o,2,t5_31gbh
+3030488,0,t3_2uvsb5,Maybe. Please check if that harddisk had an actual sata connector. I have a few WD My Passport gb usb disks floating around and surpisingly those disks are equipped with a native usb. interface on their PCB instead of sata. If your disks has a sata port you should be OK. ,banana_pi,coc3w0z,3,t5_31gbh

@@ -1,0 +1,40 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+3234129,0,t1_cox79dq,Let me know if the problem is still active. Ive made some changes.,SteamVR,cox820j,1,t5_2zr8m
+3237966,0,t1_coxd3xt,Yet more than a billion people are using it so thats not a very strong argument i believe.,SteamVR,coxmel4,4,t5_2zr8m
+3248882,0,t1_coyqoaz,deleted,SteamVR,coyr72b,0,t5_2zr8m
+3248960,0,t1_coydq7t,You can be more then sure that SteamVR will be more expensive the the Oculus but you can also be sure it will be better. Just like there is budget gaming PC Oculus and real gaming PCs Valve will be the expensive gaming rig. I am personally willing to pay whatever quality costs. And I think sadly that will be more then I am hoping but should be worth it.,SteamVR,coyrhj6,1,t5_2zr8m
+3287627,0,t1_cp1pdbk,Well if I spent a number of years working on a new engine I would want to show it off  with the best possible IP I have . What better way than to start it off on a new medium like VR. They would be fools not to as it would secure Valve prestige for the coming VR future. All hale Gabe!,SteamVR,cp30kqg,1,t5_2zr8m
+3294069,0,t3_2xt7rf,deleted,SteamVR,cp3r0sa,1,t5_2zr8m
+3341700,0,t3_2yg36f,You are correct audio comes from the software platform not the HMD hardware. And from all the images released thus far it doesnt look like the Vive comes with headphones.,SteamVR,cp96fs0,0,t5_2zr8m
+3401197,0,t1_cpfx0p3,deleted,SteamVR,cpfyn97,1,t5_2zr8m
+3476730,0,t1_cpok5aj,There are two ways in which a game can be compatible with VR The actual coding of support for the hardware peripheral and Oculus runtime.  Making changes within your game to the UI scaling locomotion etc to make it a good VR experience.If theyve done the work already on  for the Rift that saves them having to do much more for the Vive.They will still have to put in additional coding work  for it to actually work with SteamVR.You could think of it as being much the same as when developers that already supported the Rift DK updated their software to support the DK as well.,SteamVR,cpokmm7,1,t5_2zr8m
+3534370,0,t3_30pl01,form,SteamVR,cpv545e,2,t5_2zr8m
+3680922,0,t1_cqbr45q,Nope still waiting...,SteamVR,cqbukuy,1,t5_2zr8m
+3907318,0,t3_33fc1b,I applied and made up a whole wack of bullshit. Ill post pics when it arrives. ,SteamVR,cr1o35l,1,t5_2zr8m
+4237691,0,t3_39h19v,,SteamVR,cs3ae8u,1,t5_2zr8m
+4547947,0,t1_ct1v4ay,This was my though as well. I was wondering what sort of games wed be seeing if we were confined to small areas the whole time and what would happen if a game was designed for a room that was bigger than a player had available.,SteamVR,ct3w6br,1,t5_2zr8m
+5249250,0,t1_cvipeta,Awesome thanks for the reply! Im really excited about the potential Vive has to offer D,SteamVR,cviq214,1,t5_2zr8m
+5700892,0,t1_cx37232,Yup we have a few. Hes some of our early experiments ,SteamVR,cx3r1l2,1,t5_2zr8m
+5762781,0,t3_3tkx58,I have mild strabismus and the vive worked perfectly for me without glassess.,SteamVR,cxbfd59,1,t5_2zr8m
+6053733,0,t3_3ye24e,gt So I conclude that Valves recommended render buffer of . times the screen resolution for a reported FOV of  degrees is still undersampling the center of the screen by a factor of two  physical pixels per rendered pixel.How do you get to this conclusion? Its not a conclusion I can make with those values. The image needs to be distorted to counteract the effect of the lenses it has nothing to do with pixels per degree.Sure the lenses are probably made so that you dont have a higher pixel density at the edges than in the middle.  But when I look at the distorted image I barely see a magnification in the middle. Its certainly not magnified by factor . probably not even by factor .. ,SteamVR,cyd579d,1,t5_2zr8m
+6695559,0,t3_47bnec,Vive,SteamVR,d0bvnay,0,t5_2zr8m
+6700648,0,t1_d0bsfea,Not lt utilization on  core efficient.,SteamVR,d0celbw,0,t5_2zr8m
+6735579,0,t3_47vkav,Im actually a bit surprised the ti doesnt get a better score at stock clock speeds. Glad it worked out anyway. Consider some sort of burnin test to check that it doesnt crash under extended load with those settings I guess. ,SteamVR,d0g0mxx,4,t5_2zr8m
+6999851,0,t1_d19psi8,Like he says a singelplayer focused ld title is the opposite direction of the franchise.A portal type game would make more sense in VR though portal  might be way too much for most people unless it was vastly different puzzle wise.  For the most part from valves own research fps arent really what shine in VR. ,SteamVR,d19rzdn,1,t5_2zr8m
+7097240,0,t1_d1bueia,It also aint that great however people on  will see an improvement in VR. ,SteamVR,d1kuc8a,2,t5_2zr8m
+7169742,0,t1_d1t4iku, this is what i have so far. Im not sure if anything here is not powerful enough or maybe overkill. The list is almost done but i just need to add a few more parts. Any suggestions you can make would be great,SteamVR,d1t4s31,2,t5_2zr8m
+7225213,0,t3_4ee61b,I cant speak for Unreal but I can tell you how I handle teleportation in Unity.In general terms teleportation is handle by projecting a ray cast directly out from the controller to a specified distance. I check that the collider the ray impacts if it impacts one at all is a valid one. In Unity I have these tagged as Ground. From there I change the position of the entire camera rig very important! The whole rig must be teleported to the point of impact of the ray cast.I can describe how I handle interaction in Unity but Im not sure that the tools I use would translate well. If the above teleportation description made sense I can give it a try as well in equally abstract terms and you can try to implement it.,SteamVR,d1zgbcq,4,t5_2zr8m
+7491967,0,t3_4bsgu9,Vulkan support in game engines be a big thing? Does Unityd or Unreal support it?,SteamVR,d2tso27,2,t5_2zr8m
+7779599,0,t1_d3q5zc8,Is there much activity with UnityScript in the community?,SteamVR,d3qh5dg,1,t5_2zr8m
+7870979,0,t1_d3zkx3g,I agree. If AMD can not disable this globally then that is a stupid design. Even the GTX  could disable the second chip and the system treated it as two different cards.,SteamVR,d40rqut,1,t5_2zr8m
+8257158,0,t1_d59908f,Not yet  still training back in c.Soon hopefully!,SteamVR,d59p9m1,1,t5_2zr8m
+8881762,0,t3_513rh0,Really like the aesthetic looking forward to trying the demo. Wish more vr games had demos.,SteamVR,d7fgni2,1,t5_2zr8m
+8903621,0,t3_527bsp,Senza Peso?,SteamVR,d7i34th,2,t5_2zr8m
+8904739,0,t1_d7i3xul,It only works with DK which is why is isnt talked about much.The developers recently announced they are releasing it again for the Vive and Rift,SteamVR,d7i7yls,1,t5_2zr8m
+10001410,0,t1_dbb0uy8,thank you,SteamVR,dbb7nhr,1,t5_2zr8m
+10467073,0,t1_dcu0pt6,Thats probably what Im going to do,SteamVR,dcujsia,2,t5_2zr8m
+10519943,0,t1_dd0a7p9,I think it looks a little blue too. Its a grayblue color tone.,SteamVR,dd0js7n,2,t5_2zr8m
+10747827,0,t3_5tm2ye,You might want to try with a fresh Windows  installation with the latest drivers and Steam VR beta. I am running   latest drivers with no problems.,SteamVR,ddok1fh,1,t5_2zr8m
+10809357,0,t3_5ul1rs,Dunno but asking on roculus might get you an answer,SteamVR,dduwq8e,1,t5_2zr8m
+11333375,0,t1_dfglvoy,Alright sure if you want to dig yourself into a hole.,SteamVR,dfgm9wk,4,t5_2zr8m
+11575063,0,t3_6559h3,I guess this is an unpopular idea.,SteamVR,dg81fj6,1,t5_2zr8m

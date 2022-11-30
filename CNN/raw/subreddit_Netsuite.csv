@@ -1,0 +1,11 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+4982600,0,t3_3im4a3,There are a few thirdparty tools that allow this type of functionality but it is very hard to find tools like these that are inexpensive or free as these are typically sophisticated enterpriselevel packages handling important business data. You can look into a few tools like Dell Boomi  or Jitterbit  as Ive seen clients implement these for similar scenarios. Since staffing up with SuiteScript developers inhouse is neither a simple task nor a viable solution for most companies you can also try contacting NetSuite directly and inquiring about other Systems Integrator partners Hope that helps!,Netsuite,cuml69i,2,t5_2t7yc
+6214102,0,t3_40p3kd,Here are the results Im getting but it isnt calculating the difference from week to week which is what I am after,Netsuite,cyvz5x0,1,t5_2t7yc
+6602818,0,t1_d01u3k8,Thanks PablanoPato... at the moment they are running statusus for various leads progress ie qualified contacted and then switching to prospect for won lost or invalid. This way once they are changed to a prospect they dont turn up in lead report views.,Netsuite,d02aaw4,2,t5_2t7yc
+8153942,0,t1_d4wknsi,bottow row not above itthe only option I see is to show totals or not,Netsuite,d4wsgpg,2,t5_2t7yc
+8477803,0,t1_d618zrn,Easier yes though then you wouldnt list all SOs SOs without any PO attached would be missing. But if thats not a problem then yes that would be an easier search.,Netsuite,d619neh,2,t5_2t7yc
+8867633,0,t3_51ny90,uslapbassguy is this something you can help with? ,Netsuite,d7drjy7,1,t5_2t7yc
+9837171,0,t1_dapmv7t,Thanks appears to be common to use other established enterprise solutions with NS rather than open source ones.,Netsuite,dapt0z8,1,t5_2t7yc
+10049494,0,t3_5jlnvf,ltp colorbluegtHere is some blue textltpgt.,Netsuite,dbhh3gv,2,t5_2t7yc
+10931035,0,t1_de6w8sf,Ah ok. Havent dealt with a service like that within NS.,Netsuite,de7gjl8,1,t5_2t7yc
+11754723,0,t1_dgsay7a,The issue is that the roles field on the audienceaccess tabs arent exposed to search so you cant return them in a search.  So nope.  Manual.,Netsuite,dgsfeg2,1,t5_2t7yc

@@ -1,0 +1,9 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+7043385,0,t3_4c1q29,This is awesome thanks!,VRplugins,d1eq401,3,t5_3dbyh
+7761446,0,t3_4lkytk,Assuming you are using SteamVR in UnityOther engines might be similar the top levelCamerahead I think local Y pos should be floorgtHMD distance. If they always seem to be stuck on floor level you are probably doing something wrong. Check the example?In order for the HMDController positions to update you need to have the program running and Game mode not Scene mode.Agreed on the documentation but here is a some resources ,VRplugins,d3oezn9,1,t5_3dbyh
+7983509,0,t1_d4d9k6f,More options are great.  As it is Lumberyard isnt a viable option for a majority of projects.,VRplugins,d4df74r,1,t5_3dbyh
+8051744,0,t1_d4l19p2,Ill give it a shot when I get home. Its going to have to be a little more complicated than that though because we want to move the playspace to a position that puts the head in the desired position rather than moving the head. Right?,VRplugins,d4l3b3m,1,t5_3dbyh
+9428279,0,t3_59o275,Thanks!,VRplugins,d9b3ky1,1,t5_3dbyh
+9961109,0,t1_db5y52b,gt InstantiatesnakePrefab snake.tranform  Controller.transformIve tried this  I believe the snake.transform requires another input after the transform  and figured getting it to the parent may help lolInstantiatesnakesnake.transform.parent  Controller.transformSetting the parent of a transform which resides in a prefab is disabled to prevent data corruption.UnityEngine.TransformsetparentTransformSpawnontouchOnTriggerStayCollider at AssetsInventorySpawnontouch.cs,VRplugins,db5yibn,1,t5_3dbyh
+10435861,0,t3_5oipo1,Backed. Way too good to not support.,VRplugins,dcqz3gq,1,t5_3dbyh
+11508897,0,t3_642sfl,Nice thanks! joined. ,VRplugins,dg0j9s6,1,t5_3dbyh

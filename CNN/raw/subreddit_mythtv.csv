@@ -1,0 +1,8 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+1117708,0,t1_chvc71t,thx. I can try that but Im quite sure I had mythbuntu working with all  tuners previously without changing my wmce tuner config.  not sure if it makes a difference but the tuners are not actively being used at the moment no live tv or recording going on.,mythtv,chvcdib,1,t5_2rc3q
+4918898,0,t1_cuekc3p,logdirhomemythtv,mythtv,cuekd92,1,t5_2rc3q
+5686771,0,t1_cx1zm0k,Keep in mind that if youre looking to use something like Plex with a Roku youll need to convert the files even if you want to just watch and delete.  Best of luck to you on your build and setup though.,mythtv,cx1zz4k,1,t5_2rc3q
+7055585,0,t3_4c5l4a,HDMICEC and then use the TV remote.,mythtv,d1g3yqe,2,t5_2rc3q
+8349911,0,t1_d5l7j70,Neat. Ill have to see if Emby has something similar. ,mythtv,d5laiwy,1,t5_2rc3q
+8611530,0,t1_d6hvwdg,Thanks for asking. Its taken me a while but I got everything working. I eventually reworked a script that someone gave me which was an amalgamation of a couple scripts. Reworked pretty much means I rewrote it for my needs.  But it works. Im using handbrakeCLI which isnt the fastest but thats mostly because the computer Im using isnt a beast. And its fine. It takes a bit more than original airtime to transcode it.I agree. The documentation is lacking but Myth isnt for the faint hearted. ,mythtv,d6i1dl7,2,t5_2rc3q
+11064659,0,t3_5y03v3,removed,mythtv,dem630q,1,t5_2rc3q

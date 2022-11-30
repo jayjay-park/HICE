@@ -1,0 +1,2 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+5737676,0,t3_3tnqin,What kind of api?Weve used omniauth in the past and Im using it on a project currently. It supports many different providers and is reasonably well documented.Plus they even have a testing mode built in.,sinatra,cx8bchr,1,t5_2so7h

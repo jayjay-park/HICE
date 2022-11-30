@@ -1,0 +1,2 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+8331308,0,t3_4tobr4,SJMP is relative it adds a bitsigned offset to the currentafterexecution value in the PC and thats how far you can jump. LJMP takes in a bit argument and can jump to anywhere within the s k codespace.If youre trying to minimize codesize look at AJMP. Its a byte instruction which works as long as the instruction and the target are in the same K code page.,8051,d5iyw15,3,t5_2x51p

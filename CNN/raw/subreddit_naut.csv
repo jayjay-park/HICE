@@ -1,0 +1,53 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+51951,0,t3_1uowq2,you can install something like Stylishthan you can creat your own frontpage stylei like it minimalistic so this is one i usepic,naut,cekcfdk,2,t5_2w8j2
+609652,0,t1_cg7vub2,Did you have anything in mind? I can add some colour to the sidebar,naut,cg9kj29,1,t5_2w8j2
+851905,0,t1_cgvgcaf,I need help.,naut,ch14785,1,t5_2w8j2
+1356551,0,t3_29lquj,You havent uploaded headerbypass.png correctly,naut,cimc1ju,1,t5_2w8j2
+2822623,0,t1_cnowtbx,I think you solved everything its working like a charm nowEven the floating bar is working again.,naut,cnoxcc0,1,t5_2w8j2
+3134064,0,t3_2w1u8l,Link for the interestedrSanEntonio This is a bot and wont answer to mails. Mail the Botowner instead. v. | Changelog,naut,comudae,1,t5_2w8j2
+3182905,0,t3_2wla4v,Thats what naut is here for looks good ,naut,corwopz,3,t5_2w8j2
+3218194,0,t1_covk9x5,Aha! Thank you very much!,naut,covkg0e,1,t5_2w8j2
+3287823,0,t3_2ubr7z,Is there a way to use Naut for every sub that is unstyled so basically have a Stylish stylesheet which includes links to all relevant assets? For me Naut is more or less how Reddit should look like nowadays and Id much prefer it over the default look! Good work!,naut,cp31dr0,3,t5_2w8j2
+3463595,0,t1_cpn1umg,Safari.,naut,cpn2p4n,1,t5_2w8j2
+3745455,0,t3_339v9g,Just change it in the spritesheet.png,naut,cqj7gjv,2,t5_2w8j2
+3810988,0,t1_cqqn4ex,Lol good to know its not exclusive to my sub. Maybe uCryptonaut can fix it and have it added in the next version.,naut,cqqolrr,1,t5_2w8j2
+3891391,0,t1_cqztytb,gt So that it takes up less space and to try to dissuade people from editing the core stylesheet.Thats pretty stupid. Ill just stick with . on my subreddits.,naut,cqzupd9,1,t5_2w8j2
+3968581,0,t1_cozanyx,I wouldnt mind have the code for that to be honest haha.,naut,cr8nhbt,1,t5_2w8j2
+4277514,0,t1_cs7scbp,rcsshelp helped me.,naut,cs7sm6h,1,t5_2w8j2
+4322209,0,t3_3ai31n,You cant sticky linkposts only text posts.,naut,cscubgv,3,t5_2w8j2
+4580322,0,t1_ct7y69w,exactly! I just used your CSS from the stylesheet and it worked great. Had to adjust the values to the height of my picture but thank you so much! ,naut,ct7yca6,1,t5_2w8j2
+4744955,0,t1_ctsn0ii,I just noticed you are a Game Grumps fan. ,naut,ctsna3k,1,t5_2w8j2
+5086074,0,t1_cuyptkc,I pasted that in the addon section and it didnt work ,naut,cuz2chg,1,t5_2w8j2
+5310733,0,t1_cvqh311,I will try adding the large header addon. EDIT Ok it shows with the header addon but looks very ugly and messed up. I can try changing some settings and see if I can fix it.,naut,cvqiakp,1,t5_2w8j2
+5799597,0,t3_3uf2gs,The easiest way to change the images is to edit the spritesheet.psd file and upload your custom spritesheet image,naut,cxfzu4c,1,t5_2w8j2
+6028645,0,t1_cy92st7,Its not super difficult. Just requires replicating some classes and prepending them with .resnightmode to get RES to recognize different attributes when RES goes dark.But the custom vote icons arent going to work.,naut,cy9virw,1,t5_2w8j2
+6095320,0,t1_cybgl9b,Wow nice work! Your addons for Naut have helped me quite a few times. Is there any chance of combining this one with the Somewhat Smaller Header addon from the Naut Wiki so it would be possible to have both the removed sidebar picture and the px header as well? The default header in Naut . is px but this is a bit too large for the theme im trying to achieve. I have tried adapting your script myself to support the smaller header but wasnt able to make it work despite spending a good hour on it. Also do you know how to completely remove the bit in the sidebar description where it says Subreddit Info including the user count and flair selection underneath?Cheers!,naut,cyih45y,1,t5_2w8j2
+6187123,0,t1_cyry6yj,Im not sure at this point. I mean I do want to but its definitely additional work. Not sure if I have the time.,naut,cyswt74,1,t5_2w8j2
+6310272,0,t3_41dmbd,We have a Naut  Nightmode Addon coming soon stay tuned.,naut,cz6wo9h,1,t5_2w8j2
+6529281,0,t1_czun4dy,No problem ,naut,czuogs7,1,t5_2w8j2
+6715598,0,t1_d0dvk7i,I have them set to change based on the link flair of the post. Not quite sure how to make them be random.,naut,d0dy8oc,1,t5_2w8j2
+6743534,0,t1_d0gu2o0,worked perfectly thanks alot ,naut,d0gu78a,1,t5_2w8j2
+6759468,0,t1_d0igmdu,i did edit some things,naut,d0ihhnx,1,t5_2w8j2
+6773765,0,t3_48j8o2,Addon,naut,d0k37sl,2,t5_2w8j2
+7191984,0,t3_4dkgw2,Looks good! We talked when you originally launched with .. Im running . right now at rarma and am thinking of upgrading to .. Is it worth it? ,naut,d1vo2qu,1,t5_2w8j2
+7201485,0,t1_d1wr0s4,.resnightmode.listingpage gt .content.resnightmode.commentspage .link.resnightmode .res .commentareagt.usertext.resnightmode .accountactivitybox.resnightmode .side .linkinfo     background !important.resnightmode .sidecontentbox     background .resnightmode .side .linkinfo .score.resnightmode .titleboxbefore.resnightmode .titlebox .md .resnightmode .content textareafocus     color ccc.resnightmode.res inputtypetext.resnightmode .spacer .morelink     background     bordercolor .resnightmode srheaderareaid.resnightmode .spacer .morelinkhover     background     bordercolor .resnightmode header .tabmenu a     background none.arrow.up  backgroundposition  px!important .arrow.upmod .arrow.uphover  backgroundposition px px!important .arrow.down  backgroundposition px px!important .arrow.downmod .arrow.downhover  backgroundposition  px!important Did that. Seems to fix most of the issues.,naut,d1wr1wo,1,t5_2w8j2
+7284853,0,t1_cznv13j,HiIs it possible to create larger headers? I have a flag thats x that I want as footer on rTarragona.Thanks!,naut,d268m4h,1,t5_2w8j2
+7323465,0,t1_d2ami1f,No problem at all.  Any issues let me know ,naut,d2amlul,2,t5_2w8j2
+7471533,0,t1_d2pq46c,Thank you so much! One more question is it possible to see a hovering text? Like they have on rsoccer,naut,d2rgvmf,1,t5_2w8j2
+7675194,0,t1_d3eivil,Looks good. Glad to help. And thanks for the gold,naut,d3emhaf,1,t5_2w8j2
+7729758,0,t1_d3ktdxi,If you change the file name of something from headerimg.png to headerimg.jpg it should work.,naut,d3kthbt,1,t5_2w8j2
+8197486,0,t3_4rldsd,This is the CSS code they use        body.listingpage gt .content body.commentspage gt .content margintop px        .listingpage .side .titlebox .md h .commentspage .side .titlebox .md h     display block    minwidthpx    overflow hidden    textoverflow hidden    position absolute    top px    left px    borderradius px    padding px px    background fff    boxshadow px px  rgba.    right px    fontsize px    height px lineheight px    textdecoration none    animationname fadein    animationduration .s    animationiterationcount     webkitanimationname fadein    webkitanimationduration .s    webkitanimationiterationcount             .md .md h fontweight     .md h border color !important    h fontsize You will then need to add this to the sidebar under subreddit settings    Your Text Here,naut,d528lq4,1,t5_2w8j2
+8397582,0,t3_4unjtn,,naut,d5r8tfj,2,t5_2w8j2
+8698581,0,t1_d6syaef,Yep Ive been paring some of the quotes down.Whenever I upvote or downvote a most only these quotes appear    .thingdatafullnamek .downmodfocusbefore     content Running at Ron she flung them around his neck and     kissed him full on the mouth.and     .thingdatafullnamek .upmodfocusbefore     content Hermione turned to Harry with a radiant expression.  ,naut,d6sydaj,1,t5_2w8j2
+9311617,0,t1_d8wa25x,,naut,d8wbdsg,1,t5_2w8j2
+9679662,0,t3_5dp2cc,Ive noticed that on rhtgawm they have actually removed that box entirely but I dont see where in the stylesheet so if you can show me how thats an option too!,naut,da680cj,2,t5_2w8j2
+9910752,0,t1_daz83jf,deleted,naut,daze71d,1,t5_2w8j2
+10100763,0,t3_5k8y6b,deleted,naut,dbo55g6,1,t5_2w8j2
+10235487,0,t1_d7mvolc,deleted,naut,dc48zxy,1,t5_2w8j2
+10319956,0,t3_5ngits,Alrighty since youve figured out how to turn your post into a make announcement post Ill answer your other three questionsChange Submit Link and Submit Text Colors     Change submit button background colors     div.side div.morelink  background FDDE      Change submit button text colors     div.side div.morelink a  color FFFFFF Move Submit Link and Submit Text button to the original topdown positions     Addon Restore Original Submit Buttons      Restore submit button widths     .submit .morelink  width px      Reposition Submit Text Button     .submittext .morelink   top px     .sidebox.submit.submittext .morelink  marginleft       Reposition Disabled buttons underneath submit buttons     .submittext .morelinkbefore .submitlink .morelinkafter  left       Reposition remaining elements     .side  margintop px      Reposition comments page remaining elements     body.commentspage .side .linkinfo  marginbottom px margintop px     body.commentspage .side  margintop px     body.commentspage.res.loggedin .side  margintop px          Fix for not loggedin users         body.commentspage div.side loginloginmain  margintop px      End Addon As for your final question please give me the sub where this is occurring so I can better troubleshoot this for you. Enjoy! ,naut,dcdtnta,2,t5_2w8j2
+10324678,0,t1_dcecq89,Okay so just check the style sheets and try to fix it up. I didnt use Nauts User flair admin and added the flairs using the commands given on rcsshelp. Ill mod you. pleasedontchangeanythingotherthantheflairtexts,naut,dcecy73,1,t5_2w8j2
+10966565,0,t1_deb460m,Youre welcome. And absolutely you may ask! You should always ALWAYS copy code directly from the Raw button on a source files GitHub page. This ensures that any Unicode characters are properly rendered. What happens when you simply copypaste directly from its repository on GitHub rather than the raw source file is that you wind up with improper character renderings the web browser gets confused.Here is a screenshot of this happening on your sub,naut,deb4gx1,1,t5_2w8j2
+11038564,0,t3_5x8led,removed,naut,dej79ws,1,t5_2w8j2
+11163637,0,t3_5zeapm,To aid mobile users Ill link small subreddits not yet linked in the commentsrManVsWind Mans futile struggle against natures most prevalent Planeteer power.I am a bot | Mail BotOwner | To aid mobile users Ill link small subreddits not yet linked in the comments | Code | Ban  Help,naut,dexdx7q,1,t5_2w8j2
+11396145,0,t3_62mj6s,Same. Really annoying ,naut,dfnqkk5,5,t5_2w8j2
+11652570,0,t3_648xaq,deleted,naut,dggu07u,1,t5_2w8j2

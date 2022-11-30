@@ -1,0 +1,22 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+2725476,0,t1_cndtyk8,Great talking with you and thanks for the summary.,factom,cndvivm,1,t5_33ivn
+3392448,0,t3_2z16k5,deleted,factom,cpeys2i,1,t5_33ivn
+6060508,0,t1_cydx96x,I dont really know.  You can email me privately Paul at Factom  dot org or contact Poloniex.  The latter might be your better option.,factom,cye0zx2,1,t5_33ivn
+6624234,0,t3_46b8bn,How much data  hashes is .k EC? Roughly? ,factom,d04i3um,1,t5_33ivn
+6717997,0,t1_d0dzfpd,thanks ill check it out,factom,d0e76ab,1,t5_33ivn
+6910709,0,t3_49zf1x,When I open the FactoidPapermill app for Windows it force closes after the private key and public address has been created. Im not sure why this happens.Is it due to the bugs antivirus firewall or something else?,factom,d0zne1e,1,t5_33ivn
+7855185,0,t1_d3xk4mb,hmm capitalization really matters.  I just checked on an address and the explorer gave the correct answer.You can also try in the terminal that walletapp is running in balance Fa...  it should show a nonzero balance.To really test the paper wallet I would load up walletapp on an offline computer with networking disabled and no hard drive.  I would boot linux from a CD copy walletapp onto a thumbdrive and copy it to the offline computer.   After removing the thumbdrive I would run walletapp after doing chmod x .walletapp then in the walletapp import the Fs... key.  It should show the same public key as is written on the paper wallet.,factom,d3yzsb7,1,t5_33ivn
+8128202,0,t1_d4tnzla,Sorry my bad didnt realise it was this old ,factom,d4tolzn,1,t5_33ivn
+8522938,0,t3_4wgk0i,This is required reading.,factom,d66xg8u,5,t5_33ivn
+8642937,0,t1_d6kbnws,Any idea when the wallet will be available. Its desperately needed.,factom,d6lz720,1,t5_33ivn
+8787656,0,t1_d744fe4, EC  up to  kb of datawww.factom.comentrycredits,factom,d744prp,3,t5_33ivn
+9013434,0,t1_d7v5728,deleted,factom,d7v9vzs,1,t5_33ivn
+9058430,0,t1_d80mwte,Install a Factom wallet.Import the private key from your paper wallet.Build a factoid transaction.Submit the transaction.,factom,d80of2m,2,t5_33ivn
+9068761,0,t1_d81wegb,No competitors now. Assuming Factom is successful there will be competitors at some point. Its like a free market law or something. But even if there werent competitors what tools are available if the current scheme isnt viable now or becomes nonviable in the future?,factom,d81x2gk,1,t5_33ivn
+9134170,0,t1_d89swef,There is an official block explorer If you mean rich list here is a community run site Its been clear for awhile now the top wallets with K FCT have not seen any movement,factom,d89tlp7,8,t5_33ivn
+9172564,0,t1_d8e5lfc,i think i the meantime youve figured it ou on your own,factom,d8eov75,2,t5_33ivn
+9305882,0,t3_57wdfl,By having a Factom representative reveals that it is an excellent blockchain technology.,factom,d8vl699,8,t5_33ivn
+9795661,0,t1_dakagf2,I live in Austin and have been to the Factom offices and interacted with the team several times. Never posted in rFactom before but have been following it since I moved to the city and learned of the company  months ago. I know plenty about the company.,factom,dakiz7i,-1,t5_33ivn
+10020644,0,t3_5j6bv3,Not if they miss the rocket! ,factom,dbdpulw,1,t5_33ivn
+10033742,0,t3_5jdjat,Congrats to the Factom team for reaching such a major milestone!,factom,dbff8uu,3,t5_33ivn
+10759341,0,t1_ddpewg3,gt Oh wow thanks for the insight! You just talked me out of owning factomI rest my case.,factom,ddpqvz3,3,t5_33ivn

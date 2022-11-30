@@ -1,0 +1,3 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+3276638,0,t3_2xntz3,i think they all inherit variables from top makefile so there should be no problem.you can run make V to see actual build flags.,kernel,cp1rhb6,2,t5_2qtfh
+8329921,0,t1_d5is3gd,Huh. For some reason I was under the impression that one of the differences between kernel and user space was users used virtual memory whereas kernel modules could use physical. So Im reasonably confident that the address Im using is DMA because its a DMA peripheral but in general how do you find out what the ranges are for a given system?,kernel,d5isn9t,1,t5_2qtfh

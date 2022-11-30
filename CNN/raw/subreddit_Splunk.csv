@@ -1,0 +1,14 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+693601,0,t3_223omx,Figured it out. I had the Splunk TA Windows App installed and it was overriding my settings. Deleted it and im good ,Splunk,cgj44t0,3,t5_2qi7p
+1611288,0,t1_cjhiqkl,gt indexapache | top  srcipI think by default it is clientip. Maybe Im wrong.So for indexapache | stats count as ipcount by clientip | sort ipcount,Splunk,cji9qcp,2,t5_2qi7p
+3029919,0,t3_2uv94w,Slunk can automate processes freeing up sys admins for other tasks saving money.,Splunk,coc1rih,2,t5_2qi7p
+5425198,0,t1_cw4hi1k,Were using extrahop and for the most part are very impressed. That said we have a data duplication issue that theyre having problems killing so read into that what you will.,Splunk,cw54itp,1,t5_2qi7p
+5431249,0,t1_cw5skfu,Im going to end up using DANZ modules on some aristo hardware. Ive got  indexers in my multisite cluster and my goal is to use extrahop for internal cluster network analytics,Splunk,cw5wbay,1,t5_2qi7p
+7640883,0,t1_d3ao16g,Thanks!Since the desktop is Windows would I use the universal forwarder on it since it looks like the Nix TA is only for Unix?,Splunk,d3aq5cf,1,t5_2qi7p
+7805021,0,t1_d3qi77b,really? I thought there was more to it ie. built in event correlation threat feed intake incident tracking? if not then I cannot see the value,Splunk,d3tcgr0,1,t5_2qi7p
+8628239,0,t3_4y1bhm,Disneys boardwalk resort is really nice and it isnt far from the swan and dolphin,Splunk,d6k4u75,2,t5_2qi7p
+10649582,0,t1_ddeey68,PMed you my Splunk contact information.,Splunk,ddef7m6,1,t5_2qi7p
+11029048,0,t1_degpeeh,So that one is a bit of a cheat  there are four use cases in there which recommend you leverage the premium Splunk solutions four out of  as of !. Youll find two that have the icon ES Use Case and two that have the icon UBA Use Case. There shouldnt be any other major overlap between either products because theyre all intended to work well together to meet different categories of use case. So yes definitely use it with ES definitely use it with UBA. ,Splunk,dei48qc,1,t5_2qi7p
+11547284,0,t1_dg4vtq8,Could do a rex inside the query if you know regex| rex fieldraw sshddddds?ltbargts,Splunk,dg4vy1j,1,t5_2qi7p
+11564045,0,t3_64z1kp,deleted,Splunk,dg6sfra,1,t5_2qi7p
+11742087,0,t1_dgqs01q,Is that all... I may take this exam just for the cred. ,Splunk,dgqzuhn,2,t5_2qi7p

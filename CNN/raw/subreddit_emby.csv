@@ -1,0 +1,3 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+9044192,0,t3_4z8sbd,Im using an emby server on my NAS and kodi running on a raspberry pi to play the media.  I use an SMB share and direct link to it.  Kodi picks up the metadata and keeps its own database.  It requires that I update the player every time I update the media but i setup a cron job on the kodi machine to autoreboot once a day and then set it to autoscan the media on reboot.  ,emby,d7yytrs,1,t5_37gl3
+10888811,0,t3_5vhjeq,Thanks for the help folks,emby,de33qd1,1,t5_37gl3

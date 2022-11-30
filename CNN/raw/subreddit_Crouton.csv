@@ -1,0 +1,61 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+511872,0,t3_1zzp4m,Did you update graphics drivers? ,Crouton,cfygb4i,1,t5_2yv5a
+682896,0,t1_cfy21kr,deleted,Crouton,cghwa2d,1,t5_2yv5a
+1269222,0,t1_ci53pna,how did you install GNOME? What command do you run when installing crouton?,Crouton,cicek1n,1,t5_2yv5a
+1841682,0,t3_2fo8u9,I have the same issue with my Logitech m trackball in Xubuntu. It registers as a device the buttons work but the cursor wont move. Other mice work fine though. Perhaps its a Logitech unifying receiver thing? I dont have chrome os on there anymore so I canny test it. It could be the kernel  Im using a slightly older kernel that was modified to make that touchpad work on my c. ,Crouton,ckb4axr,2,t5_2yv5a
+2112221,0,t1_cl8avxb,Did you type shell first to open a shell?,Crouton,cl8b3xz,1,t5_2yv5a
+2181233,0,t1_clh33om,Sweet. Im downloading a new chroot right now. Thanks!,Crouton,clh35xc,1,t5_2yv5a
+2200598,0,t3_2kat4n,Also crouton isnt something thats loaded at boottime. You dont boot into it. Rather its run alongside ChromeOS.,Crouton,cljjta9,1,t5_2yv5a
+2203512,0,t3_2kc2a9,After the most recent pushed update to chromeos lxde stopped responding to my keyboard and mouse.  minutes later Ive powerwashed the system and Im up and running in Elementary! Amazing work running great on the C!,Crouton,cljx4v1,3,t5_2yv5a
+2232299,0,t1_clnhoo7,not sure how they work internally maybe they are just symlinks.,Crouton,clnku33,1,t5_2yv5a
+2266833,0,t3_2l4afu,sudo editchroot precise d,Crouton,clrwf7q,1,t5_2yv5a
+2284633,0,t1_clty6i2,deleted,Crouton,clu3iq6,0,t5_2yv5a
+2347346,0,t3_2m7uxt,IDK if this will help but does performing a power wash reset partitions?,Crouton,cm1udbh,1,t5_2yv5a
+2358431,0,t1_cly0cul,Is that the Acer with the i processor or celeron?,Crouton,cm37nv3,1,t5_2yv5a
+2527890,0,t3_2oiojj,You know right top corner does that? Takes some time to get used to but is way better.,Crouton,cmoj5kg,1,t5_2yv5a
+2701202,0,t3_2qvqdn,Not sure if you fixed it or not but this might be helpful for you.,Crouton,cnb473q,1,t5_2yv5a
+2829784,0,t1_cnpn4l3,yeah see I plan on doing light programming and mostly to keep busy beforeafter classes as I commute quite a distance.Im getting used to i on the laptop I have now borrowed with a res of x so I wonder how the change will be..Maybe by the time I go to buy a chromebook they will have more that offer p,Crouton,cnpqpay,2,t5_2yv5a
+2842813,0,t1_cnr6opb,Huh youre not the first person who has said that I dont know where that came from as its not on the crouton README. Ive only had Intel Chromebooks and Ive always had to press shift. There must be some misinformation out there somewhere.Good luck hope it works.,Crouton,cnr854c,1,t5_2yv5a
+3035204,0,t1_cocfepp,Does that sill work even if the chroot is encrypted?,Crouton,cocljr3,1,t5_2yv5a
+3107770,0,t1_cok3hzy,See my other message on this that I was posting probably while you were still typing...  I just tried it again and maybe its unique to the Acer  or something but CTRLALTFORWARD goes to the Developer Console but the same thing with SHIFT added goes back to xfce.  Im just glad I finally got it working. Also your guide is the best! Because it doesnt just stop with getting xfce up and running like almost all the other guides out there but also provides detailed easytofollow instructions for getting all the other stuff that we need! Thanks again!,Crouton,cok4ayq,1,t5_2yv5a
+3157320,0,t3_2w8mab,If you installed the xiwi target and are running crouton in a window on the Chrome OS desktop hardware acceleration is not supported there but may be in the future.,Crouton,cop95ho,1,t5_2yv5a
+3314414,0,t3_2y1p7w,After you tweaked the synaptics config did you log out and restart your session?,Crouton,cp62ko6,1,t5_2yv5a
+3315752,0,t1_cp62ko6,Yes. Reboot,Crouton,cp681z6,1,t5_2yv5a
+3319741,0,t1_cp6n2w9,There is Croagh but if hes asking this question then yes its probably Ubuntu.,Crouton,cp6og8z,1,t5_2yv5a
+3401356,0,t1_cpflmqs,Thanks I wasnt aware of xev. It shows F F and F mapped to the back forward and reload buttons but the rest of those function buttons still perform their chrome os functions without registering an event in xev. ,Crouton,cpfzap4,1,t5_2yv5a
+3516947,0,t1_cpt58x8,Thats the command to update the chroot. It just gives me the error message above.,Crouton,cpt5p8h,1,t5_2yv5a
+3628579,0,t3_31x704,You need to capitalize the D in Downloads. Its case sensitive.,Crouton,cq5vwb6,2,t5_2yv5a
+3692493,0,t1_cq70zm6,Mille grazie!In addition to the answer Ravoz gave your comment was very helpful!,Crouton,cqd62lr,1,t5_2yv5a
+3856419,0,t1_cqvgzv1,Yeah I dont think crouton can just use any random iso file youve got lying around.. would be awesome but I think it has to be specifically made for crouton. ,Crouton,cqvv8h5,1,t5_2yv5a
+3963581,0,t1_cr81088,ah try systemload plugin think that go in panel too. I prefer a visual thing that I can just glance at.,Crouton,cr82y7n,1,t5_2yv5a
+4005005,0,t1_crc2ift,But dont be discouraged until you tried it. I got  FPS with . You might get  which is still playable GTA  works at  in ps and xbox. I would love to know your feedback.,Crouton,crcsuz2,1,t5_2yv5a
+4536248,0,t3_3d77dj,We factory resetted powerwashed it as well and tried again,Crouton,ct2fc8d,1,t5_2yv5a
+4793551,0,t3_3ggpyp,Im fairly certain nobody has done this yet. However you can create a chrome shell alias under .bashrc to shorten the command. For Example    alias sublimesudo enterchroot b xiwi subl wHowever it may be possible to create a custom chrome extension that you could then pin to the task bar thats sole job is to execute a command like the one above.  ,Crouton,ctyrleg,2,t5_2yv5a
+4818704,0,t1_cu1f1y5,Why should I install on a SD? ,Crouton,cu1xqy2,1,t5_2yv5a
+4828088,0,t1_cu337vo,I have a little experience. I just installed crouton on it from github. I have used ubuntu before on an older netbook and I liked it a lot. I just installed Ubuntu LTS with Xfce. on github it says it was the easy way.,Crouton,cu34cbn,1,t5_2yv5a
+4997957,0,t1_cuo27rp,     croutoncycle list    cros  Chrome OS     stretchbut typing    croutontcycle crosgets me to some black screen again ,Crouton,cuofvd1,1,t5_2yv5a
+5320902,0,t3_3nvmza,I use terminator,Crouton,cvrt2xf,2,t5_2yv5a
+5787093,0,t1_cxe3j0b,Thanks! That worked!,Crouton,cxefzi6,3,t5_2yv5a
+5804337,0,t3_3uju9j,I suggest you make a backup first,Crouton,cxgkzj3,1,t5_2yv5a
+5948831,0,t1_cxzetjl,No need to click on the crouton after it is downloaded. Proceed to next step. Also in Step   do the followingsudo sh e Downloadscrouton r trusty t xfce This will install Ubuntu Version . trusty instead of precise which is the older version. ,Crouton,cxzf7cu,6,t5_2yv5a
+6200106,0,t1_cyeb0j5,Exactly.Linux isnt Windows.  It can get a little geeky I guess.  But just because its different doesnt really make it harder to use.  Hell I moved my grandparents over to ElementaryOS from Windows  and its a MUCH better experience for them.  It just works.  Theyre happy because its pretty and runs well.  Im happy because Im not cleaning up malware  formatting on a weekly basis.,Crouton,cyudw70,1,t5_2yv5a
+6360173,0,t1_czcj9jk,No specific purpose I was just interested in what Chromebooks that the people of Reddit had. The results are interesting especially for the first question.,Crouton,czckx08,1,t5_2yv5a
+6542436,0,t3_454863,Those programs dont support ChromeOSs window manager which is what xiwi uses.,Crouton,czw1hcy,2,t5_2yv5a
+6618188,0,t1_d03rz5c,Do you have the crouton extension enabled? Also within the terminal it is Ctrl  Shift  CV,Crouton,d03vlkk,1,t5_2yv5a
+6696111,0,t1_d0bo25f,This is very true. I got lucky two days ago and picked up an X nontablet with Core i IPS display and a cell battery for  shipping. I always have to have at least one Thinkpad in my electronics repertoire. With respect to Chromebooks I only have one and that is the C but it features a modular M. SSD from which I jettisoned the stock gb and replaced with a gb mydigitalssd in Dec . It has been working fine since then ,Crouton,d0bxp6a,1,t5_2yv5a
+6696124,0,t1_d0bxc68,Iike i said elementary os is based on ubuntu. Search for installing java on ubuntu instead. ,Crouton,d0bxqx2,1,t5_2yv5a
+6703671,0,t3_3tvn6m,removed,Crouton,d0cpu9s,1,t5_2yv5a
+6812755,0,t3_48yawa,The issue is that all the stable versions of Ubuntu are based around the . LTS trusty build. The Intel driver package recently relegated . to  unsupported status  so now drivers have to to installed manually. Theres a slew of guides with the repos you should add to get it working. Ive done this process using Unity XFCE and KDE. Unity definitely worked the best out of all three  but it wouldnt let me hot swap between Linux and ChromeOS Id get a black screen issue. ,Crouton,d0oiu3l,3,t5_2yv5a
+6873633,0,t1_cyxkjo2,Dude Thank you!,Crouton,d0vft8n,1,t5_2yv5a
+7353270,0,t3_4g0p18,Did you encrypt your chroot?  Where did you have you chroot installedon a usb stick or SD card?,Crouton,d2e0lvl,1,t5_2yv5a
+7473092,0,t3_4hlt13,. Powerwash OS Verification OFF i.e. developer mode on from Show Advanced Settings. Ignore any sign saying the OS is missing or damaged.. ctrl  alt  t. shell. sudo sh Downloadscrouton t xfce or lxde  not unity for a chromebook. . sudo startxfce. Dash terminal. sudo aptget install software center. Get Terminator Text Editor etc.    OR Delete the chroot see  and start again using sudo deletechroot insert distro name e.g. trusty here and go from step . Recently I used sudo sh Downloadscrouton r trusty t kde. I specified Trusty because a previous installation of lxde chose Precise and I chose kde because gnome was unstable on my chromebook it randomly switched back to chrome os.,Crouton,d2rn9u0,1,t5_2yv5a
+7759441,0,t1_d3o6c0x,Try ,Crouton,d3o6sz3,2,t5_2yv5a
+7767914,0,t1_d3p58y6,I dont do too much development on my chromebook as I instead do more work on my PC however the times i spend with a shell in vim while maybe having some music from the chrome host those times are quick. I havent noticed any lag no.,Crouton,d3p5en7,1,t5_2yv5a
+7954866,0,t3_4ndmt2,I think its an ok idea you will definitely have pretty much all you need the only problem I have had is some of the Windows software needed for my classes thats not to say I couldnt do it  from home then test it on a school computer for that last bit to make sure everything worked. ,Crouton,d4a79pp,1,t5_2yv5a
+8040233,0,t1_d4jgi6x,cool make sure to tell me if it works,Crouton,d4jsq2u,1,t5_2yv5a
+8641536,0,t1_d6lisa0,I no longer need to with the custom biosfirmware.,Crouton,d6lsv7q,1,t5_2yv5a
+8676232,0,t1_d6pvzqz,Running Ubuntu w crouton then starting steam via terminal so I can see whats going on as it boots up. Idk what u mean by VT Linux noob here.,Crouton,d6q5hnx,1,t5_2yv5a
+9140998,0,t3_53zzwv,I found an answer!  This was irrationally driving me nuts as well.  After some deep plumbing of the internet I found an explanation thats kind of above my head here  It comes down to though changing the command you use to run Chrome to force it to use its own password for verification rather than the systems.  I opened the Chrome icon properties and on the third tab under command I pasted the person who replieds entire flag stringgtuserdatadirhomemayur.configgooglechromebeta flagswitchesbegin enabletcpfastopen enablespellingautocorrect flagswitchesend passwordstorebasicDoing that when launching now my Chrome account doesnt require verification anymore!  Warning once every  launches or so Chrome has crashed upon launching but when relaunching its fine.  Let me know if this works for you.,Crouton,d8aor41,1,t5_2yv5a
+9913043,0,t1_dazhskg,Nope. I could probably configure it to do that if I wanted to though.Tapping the POWER button in ubuntu brings up a little menu one of which is Lock Computer. You could lock the computer manually then close the lid if you wanted to.,Crouton,dazoycr,1,t5_2yv5a
+10286176,0,t1_dbp982r,these two warnings come up when I launch using sudo startxfce X xiwiunable to contact settings serverunable to launch failsafe sessionafter that it goes back to chrome. any ideas?,Crouton,dc9ztbj,1,t5_2yv5a
+11015349,0,t1_deg2vzk,Ive got a Toshiba CB which according to the spec sheet has a SDXC card reader. From this SD Association Paper I should expect speeds around  MBsec,Crouton,degk4oe,1,t5_2yv5a

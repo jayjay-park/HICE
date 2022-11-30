@@ -1,0 +1,2 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+10908652,0,t1_de4uqmz,Oh haha I see now. You were using it to edit the file I thought you were piping something into sed and outputting it to test.txt.  The i argument edits files inplace. w,shell,de55eyf,1,t5_2qh9e

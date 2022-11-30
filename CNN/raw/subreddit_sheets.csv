@@ -1,0 +1,6 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+7485873,0,t1_d2t2guc,thanks,sheets,d2t3pw0,1,t5_35vj4
+7486272,0,t3_4h708f,A little more troubleshooting to help sumbgMinussumhh MINUS is not a valid sheets function.HHHHHHHHHHHIN the middle there you have HH  sheets will see that as a word or a reference and not as HH. Typos man they get us all.,sheets,d2t5ctt,2,t5_35vj4
+7587553,0,t3_4j8aq5,Im on mobile so Im afraid I cant test this out and make sure it works but try changing isblankB with isblankBtrue.  Everything else can stay the same.,sheets,d34o1sa,2,t5_35vj4
+9819586,0,t3_5fwds0,removed,sheets,danie0v,1,t5_35vj4
+10168634,0,t1_dbwhl9g,This is a very interesting problem. Essentially the googlefinance functions you are using in the script dont load before the script runs. So the formula automatically defaults to BUY You can see them all set to BUY the second you open the spreadsheet before the function loads. I am trying to see if theres a way to have those functions load before the script runs but havent found anything yet.,sheets,dbwo5ex,1,t5_35vj4

@@ -1,0 +1,22 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+1126542,0,t3_26znw0,well done! this is an excellent write up. I write ember everyday and run into this exact scenario all the time never solved it this way though. cant wait to try it.on another note this is one of those super slick ember features that really makes it stand out IMO. you should xpost to rjavascript and share the ember koolaid.,emberjs,chwcflm,1,t5_2tjb2
+2078561,0,t1_cl2geb1,Following this!,emberjs,cl413w3,1,t5_2tjb2
+2281963,0,t3_2lcw1x,IMO embercli is reason enough to start using Ember over others.,emberjs,cltrnu4,2,t5_2tjb2
+2285401,0,t3_2lemj8,gt Sorry no valid coupon was found,emberjs,clu6xlp,1,t5_2tjb2
+2371543,0,t3_2mjhif,Some maybe even most of the issues seem like problems relating to the author just bring inexperienced with Ember. Take their point about deep linking for example. That is a situation easily explained by the fact that Ember doesnt run the model hook in the route when going to a particular photo from the list but does run it when going directly to a particular photo. Id bet the issue is in their routes model hook. They also make a comparison to not having that problem in Rails... Thats not really a fair comparison to make. Rails isnt loading in the objects through AJAX so its obviously not going to have problems like that. Additional complaints are that its slower to make a Rails app AND an Ember app than just writing a Rails app. Should that really come as a surprise? ,emberjs,cm4txba,9,t5_2tjb2
+3585747,0,t3_31ewmi,Didnt . just come out?,emberjs,cq104ov,1,t5_2tjb2
+3960486,0,t3_35t6r0,Try this book ,emberjs,cr7q8x5,4,t5_2tjb2
+4064386,0,t1_crjkgjp,sort of. thats an implementation detail.  The way you interact with it is  OOP and thats ultimately what matters.,emberjs,crjkhmc,-1,t5_2tjb2
+4318054,0,t1_csbio2v,You can use  to solve this. You return the proxy object and then when your promise resolves update the content property of that proxy object.See  for an example,emberjs,cscdffx,2,t5_2tjb2
+4324649,0,t1_cscmagr,List view is for lazily rendering long lists for performance improvements.  Never used it but from what I gather if the item in the list isnt visible then its not inserted into the dom.  I had forgot about it and was surprised to see it mentioned in the blog post.,emberjs,csd47pk,1,t5_2tjb2
+4423437,0,t1_cso9klf,Thanks for pointing that out! I will make the appropriate changes ,emberjs,cso9nkl,2,t5_2tjb2
+4672071,0,t1_ctj4p6s,,emberjs,ctjgs75,1,t5_2tjb2
+4759879,0,t1_ctuiur5,Good point actually.  I really should have thought about that!  Nevertheless its an amazing demonstration of the power of Ember that you can even do this stuff.,emberjs,ctuj0lk,1,t5_2tjb2
+4980236,0,t3_3j2n1a,Dont really understand the workaroundrenderTemplate     this.renderdeprecated  Doesnt route item automaticly displays a template item ?I have been using that template to call the apropriate components.The only thing was missing was ditching the controller for the attrs passing. Did something changed that i didnt notice ?Great article  emberjs in a nutshell ,emberjs,cumaoec,1,t5_2tjb2
+6140948,0,t1_cyn8q3g,Thank you,emberjs,cynntr1,1,t5_2tjb2
+6762904,0,t3_48cmow,deleted,emberjs,d0iuqo9,1,t5_2tjb2
+7087139,0,t1_d1jmjbg,Thanks a lot man that was the final piece that was missing in my puzzle. Everythings working fine now.,emberjs,d1jp0oj,1,t5_2tjb2
+7831087,0,t1_d3tskia,removed,emberjs,d3wa5a7,1,t5_2tjb2
+8445570,0,t1_d5wonld,Although it will be interesting to do benchmarks I think its best to wait for a later version.This version seems to be all about compability and testing for addon developers,emberjs,d5x8fr7,1,t5_2tjb2
+8874304,0,t3_51riek,Ive been using Rails  mostly because I have an ember and rails skeleton set up which uses Rails . From my experience Rails and Ember get along pretty easily and they follow similar conventions. Tho the Rails  APImode looks really appealing. ,emberjs,d7eke7o,1,t5_2tjb2
+10403256,0,t1_dcmaz08,Thank you for the informative reply! Youve been most helpful I think I need to shift my way of thinking before I get too involved in this ember project. ,emberjs,dcn9y6r,1,t5_2tjb2

@@ -1,0 +1,2 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+7707910,0,t3_4kw5w7,Unfortunately this problem is generally undecidable. There are a few languages out there that supports these types of higher order annotations on types. If youre a Haskell fan Agda and Idris will look familiar. If youre an OCaml fan try Coq. This problem is equivalent to type inference within those higher order languages.,boredprogrammer,d3ic69k,2,t5_3er4v

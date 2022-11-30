@@ -1,0 +1,41 @@
+,controversiality,parent_id,body,subreddit,id,score,subreddit_id
+3354544,0,t3_2ykmhx,Just add    aliasatkattackspeed    aliasatkattack    bindmouseatkthis is assuming you still got the walk toggleEDIT fixed it,CounterStrikeBinds,cpan5ec,1,t5_37ch5
+3358181,0,t1_cpb1n2h,i mean that they suddenly do not work and I need to reenter them into the console. On the specific binds I was using the display damage given and the hold to run with knife press to quickswitch ones.,CounterStrikeBinds,cpb22vc,1,t5_37ch5
+3491280,0,t3_306aw1,deleted,CounterStrikeBinds,cpq8bnq,1,t5_37ch5
+3611950,0,t1_cq3z57v,this kinda works as a proof of conceptrequires you to make separate config files though    bind shift speedexec qswon.cfg    bind w forwardexec qswoff.cfgcontents of qswon.cfg    echo qwsON    alias quickswitch attack    alias quickswitch attackslot    bind mouse quickswitchcontents of qswoff.cfg    echo qwsOFF    bind mouse attackpress shift to enter quickswitch mode press w to exit.,CounterStrikeBinds,cq3zlha,1,t5_37ch5
+3833536,0,t1_cqt64vm,gt Edit its also better than slotslotDid you misread the other post?  then  ensures primary will be pulled out if possible if not then then secondary.,CounterStrikeBinds,cqt98qq,2,t5_37ch5
+3952420,0,t3_35pmna,I can only make a bind that will print out a thing in left upper corner when pressing a button.     developer     confiltertext Grenade    confilterenable     bind  echo GrenadeTypeIm not really sure if there is a way to make a if command in csgo console so game will know which type u have chosen and what grenade to buy after selecting the type.EDIT.    developer     confiltertext Grenade    confilterenable     alias printgrenade print    alias print echo GrenadeFlashbang alias printgrenade print    alias print echo GrenadeSmoke alias printgrenade print     alias print echo GrenadeHE alias printgrenade print    alias print echo GrenadeMolotov alias printgrenade print    bind  printgrenadeIve upgraded it. Now everytime you press a button it will print out on the screen different text. Still i dont know how to make second button buy that type of grenade that youve chosen using first button.,CounterStrikeBinds,cr6t5m1,1,t5_37ch5
+4491516,0,t3_3bw6vk,Check out my guide! www.reddit.comrGlobalOffensivewikiadvancedconfiguration ,CounterStrikeBinds,cswte2m,1,t5_37ch5
+4862584,0,t3_3hhoez,could you post it as formatted code indented with  spaces?Have a look into the reddit wiki for formatting,CounterStrikeBinds,cu7grw4,3,t5_37ch5
+5686837,0,t1_cwoxy1v,thats why I usually ask my teammates first if they want me to do it or not so far  love it  complains and  dont say anything.,CounterStrikeBinds,cx209r5,1,t5_37ch5
+5726362,0,t1_cx6v92p,Thanks a bunch!,CounterStrikeBinds,cx6wt1l,1,t5_37ch5
+6005987,0,t3_3xpq8r,The location for the autoexec file has changed from    DSteamsteamappscommonCounterStrike Global Offensivecsgocfgto    CProgram Files xSteamuserdatasteamidlocalcfgMake sure youre editing the correct one!,CounterStrikeBinds,cy6wz0e,1,t5_37ch5
+6128349,0,t3_3zfrs6,Clutchscript by bananagaming,CounterStrikeBinds,cym8a45,1,t5_37ch5
+6151467,0,t1_cyojq3y,Yeah just put this in your autoexec    alias on bhop bind space off    alias off bhop bind space on    bind space onEDIT Silly mistake in this. Look farther down the comment chain to find the accurate binds,CounterStrikeBinds,cyouw1g,3,t5_37ch5
+6162801,0,t3_3zyoc4,Based on what im reading If you spam scrollwheel it might be activating the crouch multiple times whereas jump can only be activated on the ground.,CounterStrikeBinds,cyq5b94,2,t5_37ch5
+6193819,0,t1_cysu7jc,Cheers ,CounterStrikeBinds,cyto6z8,2,t5_37ch5
+6261962,0,t1_cz1eh3c,did you finish th grape pc class?,CounterStrikeBinds,cz1ez4v,1,t5_37ch5
+6392637,0,t1_cz6hxea,does this actually still work?,CounterStrikeBinds,czg9yoi,1,t5_37ch5
+6546389,0,t3_459voo,wow just make it easierautoexec.cfg    bind alt altp    alias altp exec bindsalt.cfg    alias altp exec bindsnoalt.cfgnow put binds into bindsalt.cfg and bindsnoalt.cfg.....,CounterStrikeBinds,czwg7fl,1,t5_37ch5
+6672326,0,t1_d09c43b,Thanks!,CounterStrikeBinds,d09h5fa,1,t5_37ch5
+6906348,0,t3_4a8xd9,Put it like this in your autoexec    alias jt attack jump     alias jt jump     bind t jt,CounterStrikeBinds,d0z5jxp,1,t5_37ch5
+6988137,0,t3_4a4odf,for some reason it just didnt worked on my local server but i tried it in MM and it worked P,CounterStrikeBinds,d18g32r,1,t5_37ch5
+7107657,0,t3_4cspn7,Unbind all works,CounterStrikeBinds,d1m11js,1,t5_37ch5
+7210895,0,t1_d1xt6u8,Yep! Thats the one! Thanks!,CounterStrikeBinds,d1xtmdv,1,t5_37ch5
+7341558,0,t1_d2clmyj,No problem,CounterStrikeBinds,d2cooa8,1,t5_37ch5
+7690261,0,t1_d3g3c5z,Hey flizz!You know honestly I found simple radar first and it real blew me away how beautiful it was v. default. It is interesting now to see these two battle it out for something free but only be motivated by serving its users with the best possible product.Being an IT student and loving Android Im a man of Material Design not the same as minimalism but still a factor. Ive chosen apps and games over others due to their design and I think that clear radar has great potential to more accurately acquire what Im looking for. PLUS  seeing the creator active in even this little community here is a huge bonus seeing that he cares and wants to hear feedback. Nice talking to you and thanks creator of clear radar! ,CounterStrikeBinds,d3gc0c3,2,t5_37ch5
+7708100,0,t1_d3i5etu,Aight. If you feel that way Ill take this down.,CounterStrikeBinds,d3icy7z,1,t5_37ch5
+7901636,0,t3_4nidbx,Hi there could you please clarify a bit?Are you currently using the left hand for your weapons and would like when you press R to reload the weapon to switch to the right hand is that correct? Or you need something else? ,CounterStrikeBinds,d447vgh,2,t5_37ch5
+8152990,0,t1_d4v5a6u,Do you have any other useful stuff in your autoexec I may be able to use? Could you possible link to it pastebin?,CounterStrikeBinds,d4wo6i4,1,t5_37ch5
+8356224,0,t1_d5m2tn6,Ive tried hudreloadscheme and some other one that I cant remember.  Neither seemed to actually do anything.,CounterStrikeBinds,d5m2wun,1,t5_37ch5
+8403371,0,t1_d5rxys7,First and foremost I managed to slim down the script by removing commands which were used in high redundancy. I than renamed all the aliases to further improve its readabily. Next I created a lot of comments to explain how the script works and how you can make use of it. All in all I have spent some hours on this making sure the code is easy to read well formated and has no unneccesary commands or whatsoever.,CounterStrikeBinds,d5ryu2v,1,t5_37ch5
+8433548,0,t1_d5vqbxo,yeah i was just testing that     alias altmod qnade bhop    alias altmod qnade bhop        bind ALT altmodthis is what was working.thanks so much,CounterStrikeBinds,d5vqeqf,1,t5_37ch5
+8632380,0,t3_4y0mm6,Why use two different files when you can simplify and put that in an alias in the one autoexec?,CounterStrikeBinds,d6knka3,3,t5_37ch5
+8688720,0,t1_d6pv1fj,gt bind  knife ZeusDoes this actually work?,CounterStrikeBinds,d6rpud8,1,t5_37ch5
+9310112,0,t3_57ymvr,You didnt actually bind J it seems.    alias starthop jumpbind space stophop    alias stophop jumpbind space starthop        alias togglehop bind space starthop bind J untogglehop    alias untogglehop jump bind space jump bind J togglehop    bind J togglehopNow J will toggle the two functions on your spacebar.,CounterStrikeBinds,d8w4i9d,5,t5_37ch5
+9418194,0,t3_59k7zw,You have to change it in keyboard options. Make the fkeys do their function when fn is pressed,CounterStrikeBinds,d99tkr9,1,t5_37ch5
+10240541,0,t1_dc4rqpx,what about  SteamuserdataYOURACCOUNTID,CounterStrikeBinds,dc4tmai,2,t5_37ch5
+10477158,0,t1_dcve5uq,Hit me up on steam timvdlinde when il have some time tonight I will take a look into it.,CounterStrikeBinds,dcvp0fv,1,t5_37ch5
+10977647,0,t1_dec5bt9,It does not have something to delimitate one command to another if you use  on the end of each line it will recognize it even if you mess up with something ,CounterStrikeBinds,decakzw,1,t5_37ch5
+11433974,0,t1_dfrp86j,nope clcrosshairsize isnt a keypress event to use ,CounterStrikeBinds,dfs12ka,2,t5_37ch5
+11472530,0,t1_dfwdklk,Hey man thanks for the reply! Ill give it a try!,CounterStrikeBinds,dfwemmz,2,t5_37ch5
