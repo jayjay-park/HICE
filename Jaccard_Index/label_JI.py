@@ -20,7 +20,7 @@ for i, r in prev_label.iterrows():
 prev_label["labels"] = labels
 # print(prev_label)
 # 3. final groundtruth generated -> 494 + ? = 
-prev_label.to_csv("revised_labels.csv", sep="\t")
+prev_label.to_csv("revised_labels.csv")
 # annotate -> label 1 -> kappa score -> if we have decent score
 
 # then, feed forward NN -> to automatically label rest of the dataset
