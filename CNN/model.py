@@ -68,6 +68,6 @@ model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy',
 print("Training")
 model.fit(X_train, y_train, epochs = 10)
 print("Done training")
-model.save("model")
+model.save("model", save_format='h5')
 # model = tf.keras.models.load_model("model")
 print(model.evaluate(X_test, y_test))
