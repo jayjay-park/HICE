@@ -1,4 +1,5 @@
-/CNN/train/*.csv
+CNN/train/*.csv
+Final Classifier Model/train/*.csv
 CNN/train/subreddit__nintendoswitch.csv
 CNN/train/subreddit__homeless.csv
 CNN/train/subreddit____.csv
