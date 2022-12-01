@@ -3,6 +3,15 @@ import numpy as np
 import tensorflow as tf
 from sklearn.model_selection import train_test_split
 
+def get_f1(y_true, y_pred): #taken from old keras source code
+    true_positives = tf.keras.backend.sum(tf.keras.backend.round(tf.keras.backend.clip(y_true * y_pred, 0, 1)))
+    possible_positives = tf.keras.backend.sum(tf.keras.backend.round(tf.keras.backend.clip(y_true, 0, 1)))
+    predicted_positives = tf.keras.backend.sum(tf.keras.backend.round(tf.keras.backend.clip(y_pred, 0, 1)))
+    precision = true_positives / (predicted_positives + tf.keras.backend.epsilon())
+    recall = true_positives / (possible_positives + tf.keras.backend.epsilon())
+    f1_val = 2*(precision*recall)/(precision+recall+tf.keras.backend.epsilon())
+    return f1_val
+
 labels_csv = pd.read_csv("revised_labels.csv")
 labels = list(labels_csv["labels"])
 labels = [[x] for x in labels]
@@ -55,9 +64,10 @@ model.add(tf.keras.layers.Dense(30, activation='relu'))
 model.add(tf.keras.layers.Dense(1, activation='sigmoid'))
 # Compile model
 print("Compiling model")
-model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy', get_f1])
 print("Training")
 model.fit(X_train, y_train, epochs = 10)
 print("Done training")
-model.evaluate(X_test, y_test)
 model.save("model")
+# model = tf.keras.models.load_model("model")
+print(model.evaluate(X_test, y_test))
