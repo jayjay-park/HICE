@@ -64,6 +64,8 @@ for row in labels_csv["subreddit"]:
 
 all_data = np.array(all_data)
 # all_data = np.zeros(493, 21300)
+write = pd.DataFrame(all_data)
+write.to_csv("embeddings.csv")
 print(all_data)
 print(all_data.shape, labels.shape)
 
